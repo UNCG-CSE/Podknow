@@ -7,8 +7,11 @@
 
  # To Do
  ---
+ - [x] Meet with Dr. Aaron Beveridge to discuss details
+    - 9/11/19
  - [ ] Scalability of Data Collection
    - [x] Get list of top trending podcasts
+    - 9/11/19
    - [ ] Grab textual data from transcripts of aforementioned podcasts if available
    - [ ] Grab audio files from podcasts if no transcripts exist
       - At this time, store audio data locally.
