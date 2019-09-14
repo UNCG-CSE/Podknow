@@ -1,0 +1,7 @@
+ERROR: On attempting to download from https://dts.podtrac.com/redirect.mp3/chtbl.com/track/9EE2G/rss.art19.com/episodes/7734c7a1-7751-4196-9125-0ff277379468.mp3, error is as follows
+HTTP Error 404: Not FoundERROR: On attempting to download from https://dts.podtrac.com/redirect.mp3/chtbl.com/track/9EE2G/rss.art19.com/episodes/7734c7a1-7751-4196-9125-0ff277379468.mp3, error is as follows
+HTTP Error 404: Not FoundERROR: On attempting to download from http://feedproxy.google.com/~r/dancarlin/history/~5/LgKAs9EDYK0/dchha63_Supernova_in_the_East_II.mp3, error is as follows
+[Errno 22] Invalid argument: 'http://feedproxy.google.com/~r/dancarlin/history/~5/LgKAs9EDYK0/dchha63_Supernova_in_the_East_II.mp3'ERROR: On attempting to download from https://dts.podtrac.com/redirect.mp3/chtbl.com/track/G4477D/rss.art19.com/episodes/0cc42d67-e0d2-4b53-9a03-f519294e53ed.mp3, error is as follows
+[Errno 22] Invalid argument: 'https://dts.podtrac.com/redirect.mp3/chtbl.com/track/G4477D/rss.art19.com/episodes/0cc42d67-e0d2-4b53-9a03-f519294e53ed.mp3'ERROR: On attempting to download from https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/HSW1134839382.mp3, error is as follows
+[Errno 22] Invalid argument: 'https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/HSW1134839382.mp3'ERROR: On attempting to download from https://rss.art19.com/episodes/66b5c95c-d0ba-461c-9f35-58395cf2cb7b.mp3, error is as follows
+[Errno 22] Invalid argument: 'https://rss.art19.com/episodes/66b5c95c-d0ba-461c-9f35-58395cf2cb7b.mp3'
