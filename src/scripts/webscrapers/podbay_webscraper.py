@@ -7,7 +7,6 @@ import time
 
 baseUrl = "https://podbay.fm/podcast/"
 
-
 def scrubFileOutputString(fileOutput):
     return fileOutput.replace(" ", "").replace(",", "").replace("?","")
 
@@ -24,16 +23,24 @@ def downloadLatestPodcastFromId(id, destPath):
     print("Downloading " + str(id) + " to " +  destPath)
     page_rawhtml = downloadRawHtml(baseUrl+str(id))
 
+    # Parse html with soup.
     page_soup = soup(page_rawhtml, "html.parser")
+
+    # Grab relevant data: podcastname, date, episode title
     podcastName = page_soup.find("div", {"class":"main-meta"}).find("div",{"class":"meta"}).a.h1.text
     episodelist_soup = page_soup.find("div", {"class":"episode-list"})
     latestEpisode = episodelist_soup.div.div
     latestEpisodeMeta = latestEpisode.find("div", {"class":"meta"})
 
-    #Later on, when we get trending episodes, we will want to match trending episodes with this variable.
+    # When we get trending episodes, we will want to match trending episodes with this variable.
     latestEpisodeDate = latestEpisodeMeta.find("div", {"class":"date"}).text
     latestEpisodeTitle = latestEpisodeMeta.find("div",{"class":"title"}).div.a.text
+    
+    # TODO: This url can get junk added to it which needs to be scrubbed. 
+    # Errors out program when it encounters '?=...' b/c it will attempt to make it as a file name.
     latestEpisodeAudioUrl = latestEpisode.find("div", {"class":"download"}).a['href']
+
+    # Prep paths for downloading.
     fileDownloadName = podcastName+"_"+latestEpisodeDate+"_"+latestEpisodeTitle
     fileDownloadName = scrubFileOutputString(fileDownloadName) + getExtension(latestEpisodeAudioUrl)
     fullDownloadPath = destPath+fileDownloadName
@@ -49,6 +56,7 @@ def downloadLatestPodcastFromId(id, destPath):
 def interface():
     print("\n\tPodbay Webscraper\n\n")
 
+    # TODO: Scrub & error check all input.
     csvPath = input("Enter trending csv path: ")
     csvFileDF = pd.read_csv(csvPath)
     name = input("Enter your name: ")
@@ -61,3 +69,5 @@ def interface():
         time.sleep(3)
 
 interface()
+
+# TODO: Allow to be called with args.
