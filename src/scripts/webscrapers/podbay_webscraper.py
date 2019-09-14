@@ -35,13 +35,13 @@ def downloadLatestPodcastFromId(id, destPath):
     # When we get trending episodes, we will want to match trending episodes with this variable.
     latestEpisodeDate = latestEpisodeMeta.find("div", {"class":"date"}).text
     latestEpisodeTitle = latestEpisodeMeta.find("div",{"class":"title"}).div.a.text
-    
+
     # TODO: This url can get junk added to it which needs to be scrubbed. 
     # Errors out program when it encounters '?=...' b/c it will attempt to make it as a file name.
     latestEpisodeAudioUrl = latestEpisode.find("div", {"class":"download"}).a['href']
 
     # Prep paths for downloading.
-    fileDownloadName = podcastName+"_"+latestEpisodeDate+"_"+latestEpisodeTitle
+    fileDownloadName = str(id)+"_"+podcastName+"_"+latestEpisodeDate+"_"+latestEpisodeTitle
     fileDownloadName = scrubFileOutputString(fileDownloadName) + getExtension(latestEpisodeAudioUrl)
     fullDownloadPath = destPath+fileDownloadName
 
