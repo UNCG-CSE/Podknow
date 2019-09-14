@@ -14,13 +14,11 @@ def scrubFileOutputString(fileOutput):
 def getExtension(url):
     return url[url.rindex('.'):len(url)]
 
-
 def downloadRawHtml(url):
     webClient = uRequest(url)
     page_rawhtml = webClient.read()
     webClient.close()
     return page_rawhtml
-
 
 def downloadLatestPodcastFromId(id, destPath):
     print("Downloading " + str(id) + " to " +  destPath)
@@ -48,45 +46,18 @@ def downloadLatestPodcastFromId(id, destPath):
     print(fileDownloadName)
     print(latestEpisodeAudioUrl)
 
-
 def interface():
-    print("\tPodbay Webscraper\n\n")
-    #Set Trending csv path.
+    print("\n\tPodbay Webscraper\n\n")
+
     csvPath = input("Enter trending csv path: ")
     csvFileDF = pd.read_csv(csvPath)
-
-    #Set name.
     name = input("Enter your name: ")
-    #Set download path.
     destPath = input("Enter download destination path: ")
-
 
     userRows = csvFileDF[csvFileDF['user'].str.match(name)]
     idsToDownload = userRows['id'].tolist()
     for id in idsToDownload:
         downloadLatestPodcastFromId(id, destPath)
         time.sleep(3)
-    #Get all podcast IDs associated with name from csv.
-    #Download each from each podcast ID.
-    #Exit
 
 interface()
-#
-#itunesID = "1458568923"
-#Please give the of your Podknow repository. The path should have the src, util, and data folders as direct children.
-#destPathPodknowRepo = "C:\\Users\\jwthrs\\Projects\\cs405\\podknow\\Podknow\\"
-#Audio will be stored in data\audio\
-#destPathDataAudio = "data\\audio\\"
-#fullDestPath = destPathPodknowRepo + destPathDataAudio
-
-#downloadLatestPodcastFromId(itunesID, fullDestPath)
-
-#Create folder for podcast if it doesnt exist.
-#Download file to that path.
-
-
-#Need class that has "episode-list" in its name.
-#Get the div inside of it.
-#Get the first div inside of above div.
-#Get class that has "download" in its name
-#Get the .mp3 href.
