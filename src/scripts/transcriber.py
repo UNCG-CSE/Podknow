@@ -4,6 +4,7 @@ import os
 import glob
 import threading
 from pydub.utils import mediainfo
+import time
 #http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/
 
 # TODO: Clean this mess up!
@@ -15,7 +16,7 @@ client = speech_v1.SpeechClient()
 
 podcastNames = glob.glob("../../data/audio/*.flac")
 
-podcastTranscriptOutputPath = "../../data/transcripts/"
+podcastTranscriptOutputPath = "../../data/transcripts/gcsst/raw/"
 
 podcastCloudStorage = 'gs://podknowjwtranscriber/audiofiles/'
 
@@ -32,14 +33,18 @@ def audioFileNameToTextOutPath(audioFileName):
     return podcastTranscriptOutputPath + scrubPathFromAudioFilePath(audioFileName[0:audioFileName.rindex('.')+1] + "txt")
 
 def transcribeFileInBucket(audioUriObject, textOutput, sampleRate):
+
     config = {
     "sample_rate_hertz": sampleRate,
     "language_code": language_code,
     "encoding": encoding,
     }
+
+    startTime = time.time()
     operation = client.long_running_recognize(config, audioUriObject)
-    print(u"Waiting for operation to complete...")
+    print(u"Transcribing... " + audioUriObject['uri'])
     response = operation.result()
+
     for result in response.results:
         # First alternative is the most probable result
         alternative = result.alternatives[0]
@@ -47,6 +52,10 @@ def transcribeFileInBucket(audioUriObject, textOutput, sampleRate):
         f = open(textOutput, "a+")
         f.write((u"{}".format(alternative.transcript)))
         f.close()
+    
+    endTime = time.time()
+    duration = endTime - startTime
+    print("Finished in: " + duration)
 
 for audiofile in podcastNames:
     sampleRate = int(mediainfo(audiofile)['sample_rate'])
