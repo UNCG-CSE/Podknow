@@ -50,7 +50,7 @@ def transcribeFileInBucket(audioUriObject, textOutput, sampleRate):
         f.close()
 
 for audiofile in podcastNames:
-    sampleRate = mediainfo(audiofile)['sample_rate']
+    sampleRate = int(mediainfo(audiofile)['sample_rate'])
     print("File SR: " + str(sampleRate) + ", " + scrubPathFromAudioFilePath(audiofile))
     audio = {"uri": podcastCloudStorage+scrubPathFromAudioFilePath(audiofile)}
     textOutput = audioFileNameToTextOutPath(audiofile)
