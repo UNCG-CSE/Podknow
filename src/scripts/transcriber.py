@@ -6,6 +6,9 @@ import threading
 from pydub.utils import mediainfo
 #http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/
 
+# TODO: Clean this mess up!
+
+# TODO: Read settings from a user settings ini.
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\Users\jwthrs\Projects\cs405\podknow\My First Project-fe29e90d443b.json"
 
 client = speech_v1.SpeechClient()
@@ -14,13 +17,9 @@ podcastNames = glob.glob("../../data/audio/*.flac")
 
 podcastTranscriptOutputPath = "../../data/transcripts/"
 
-
-#podcastDest = "../../data/transcriptions/"
 podcastCloudStorage = 'gs://podknowjwtranscriber/audiofiles/'
 
 print(podcastNames)
-
-sample_rate_hertz = 44100
 
 language_code = "en-US"
 

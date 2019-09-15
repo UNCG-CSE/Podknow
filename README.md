@@ -1,9 +1,13 @@
 # Podknow
+
+
+
 ---
-
  ## Purpose
- ---
 
+
+
+ ---
  ## People
  **The Team** [Harini Booravalli](), [Jamie Weathers](https://github.com/jwthrs), [Kun Yang](https://github.com), [Christopher Edgecombe](https://github.com), [Jeremy Hudson]()
  **Mentor** [Dr. Aaron Beveridge](https://github.com/)
@@ -16,10 +20,12 @@
  ---
  ## Requirements
 **Required modules:**
-  - Pandas
+  - pandas
+  - pydub
 
 **Required libraries:**
   - FFmpeg
+     - This library is needed for the operation of pydub, which is used to get the sampling rate of an audio file to be wrapped in a config file sent to Google Speech To Text API.
      - Windows Setup guide: http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/
 
  ## To Do
