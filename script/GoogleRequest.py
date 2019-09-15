@@ -8,19 +8,19 @@ client = speech_v1.SpeechClient()
 
 podcastName = 'sword and scale'
 
-storage_uri = 'gs://audio_files47/Podcast mp3s/' + podcastName + '.flac'
+storageUri = 'gs://audio_files47/Podcast mp3s/' + podcastName + '.flac'
 
-sample_rate_hertz = 44100
+sampleRateHertz = 44100
 
-language_code = "en-US"
+languageCode = "en-US"
 
 encoding = enums.RecognitionConfig.AudioEncoding.FLAC
 config = {
-    "sample_rate_hertz": sample_rate_hertz,
-    "language_code": language_code,
+    "sample_rate_hertz": sampleRateHertz,
+    "language_code": languageCode,
     "encoding": encoding,
 }
-audio = {"uri": storage_uri}
+audio = {"uri": storageUri}
 
 operation = client.long_running_recognize(config, audio)
 
