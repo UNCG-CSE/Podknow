@@ -1,0 +1,5 @@
+# Ignore all mps files
+*.mp3
+*.flac
+*.ogg
+*.wav
