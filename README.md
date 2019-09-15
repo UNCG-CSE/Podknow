@@ -6,6 +6,13 @@
 
  ## Data
  ---
+ ## Requirements
+#### Required modules:
+  - Pandas
+
+#### Required libraries:
+  - FFmpeg
+     - Windows Setup guide: http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/
 
  ## To Do
  ---
