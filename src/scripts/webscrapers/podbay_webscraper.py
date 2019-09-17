@@ -12,8 +12,8 @@ baseUrl = "https://podbay.fm/podcast/"
 
 def scrubFileOutputString(fileOutput):
     # Source: https://stackoverflow.com/questions/295135/turn-a-string-into-a-valid-filename
-    fileOutput = sub('[^\w\s-]', '', fileOutput)
-    return sub('[-\s]+', '',fileOutput)
+    fileOutput = sub(r'[^\w\s-]', '', fileOutput)
+    return sub(r'[-\s]+', '',fileOutput)
 
 def getExtension(url):
     if ".mp3" in url:
