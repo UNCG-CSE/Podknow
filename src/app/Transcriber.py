@@ -1,1 +1,1 @@
-# TODO: Transcriber object makes Google Speech To Text API call as .flac files come in.
+# TODO: Transcriber is responsible for selecting an API or module to acquire the transcriptions of audio files.
