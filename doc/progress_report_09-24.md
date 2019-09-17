@@ -14,14 +14,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once Jeremy figured out how to use the Google Cloud Speech to Text API, I used his program as a base for the **transcriber tool** which scans the users audio folder for .flac files to transcribe all at one time. I couldn't find a way to upload the .flac files to the user's Google Cloud Bucket, so I required users to upload their .flac files manually to their Bucket with the assumption they didn't change file names.
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Later, Vincent found a way to programmatically convert audio files to .flac and upload those files to Google Cloud Bucket.
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During data collection, I helped organize the repo. I advised that we all store our transcriptions by order of the method that they were acquired, since some transcripts were acquired through other means while the tools were being programmed. These methods span from collecting transcripts of podcasts from **YouTube**, official podcast websites, and directly feeding audio to **Google Documents** speech to text overnight with stereo mix enabled. In the data folder these methods are separated accordingly:
- - ``data/yt/`` - Acquired by downloading the podcast transcript from YouTube
- - ``data/gdocs/`` - Acquired by feeding audio through speech to text in Google docs.
- - ``data/official/`` - Acquired from the podcasts official site.
- - ``data/gcsst/`` - Acquired by sending the audio files to Google Cloud Speech to Text API.
 
- There are two folders in each of these directories called ``/raw`` and ``/scrubbed``. The ``/raw`` folder contains original transcripts as it was acquired by its method. The ``/scrubbed`` folder contains transcripts with stopping words removed.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During data collection, I helped organize the repo. I advised that we all store our transcriptions by order of the method that they were acquired, since some transcripts were acquired through other means while the tools were being programmed. These methods span from collecting transcripts of podcasts from **YouTube**, official podcast websites, and directly feeding audio to **Google Documents** speech to text overnight with stereo mix enabled. 
 
 **Harini Booravalli**
 
