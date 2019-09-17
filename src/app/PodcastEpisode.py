@@ -9,10 +9,12 @@ class PodcastEpisode:
         self.episodeDate = date
         self.episodeTitle = episodeTitle
         self.audioUrl = audioUrl
-        self.InitExt()
-        self.InitFileName()
+        self.initScrubMeta()
+        self.initExt()
+        self.initFileName()
     
     def downloadAudio(self, path):
+        # TODO: Check if path ends with '\'
         fullDownloadPath = path+self.OutputFilename
 
         if path.exists(fullDownloadPath):
@@ -27,6 +29,7 @@ class PodcastEpisode:
                     wasRedirect = True
                 downloadFromUrl(response.url, fullDownloadPath)
                 print("Download of " + self.OutputFilename + " was Successful!")
+                self.filePath = fullDownloadPath
                 return True
 
             except Exception as error:
@@ -35,9 +38,10 @@ class PodcastEpisode:
                 errorStr = failMsg + "\nERROR: On attempting to download, error is as follows: " + str(error) + "\nWasRedirect: "  + wasRedirect + "\n"
                 errorTxtFile = open(path+"DownloadErrorsLog.txt", "a+")
                 errorTxtFile.write(errorStr)
+                self.filePath = None
                 return False
 
-    def InitExt(self):
+    def initExt(self):
         self.audioExt = ""
         if ".mp3" in self.audioUrl:
             self.audioExt = ".mp3"
@@ -46,8 +50,12 @@ class PodcastEpisode:
         elif ".ogg" in self.audioUrl:
             self.audioExt = ".ogg"
     
-    def InitFileName(self):
-        self.OutputFilename = str(self.id)+"_"+self.podcastName+"_"+self.episodeDate+"_"+self.episodeTitle
+    def initScrubMeta(self):
+        # TODO: Scrub meta of all illegal filename characters.
+        return None
+    
+    def initFileName(self):
+        self.OutputFilename = str(self.id)+"_"+self.podcastName+"_"+self.episodeDate+"_"+self.episodeTitle+self.audioExt
 
         
         
