@@ -10,7 +10,7 @@ import time
 # TODO: Clean this mess up!
 
 # TODO: Read settings from a user settings ini.
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\Users\jwthrs\Projects\cs405\podknow\My First Project-fe29e90d443b.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\\Users\\vince\\Desktop\\MyGoogleCloudService\\linear-equator-253121-2b458fe691e7.json"
 
 client = speech_v1.SpeechClient()
 
@@ -18,7 +18,7 @@ podcastNames = glob.glob("../../data/audio/*.flac")
 
 podcastTranscriptOutputPath = "../../data/transcripts/gcsst/raw/"
 
-podcastCloudStorage = 'gs://podknowjwtranscriber/audiofiles/'
+podcastCloudStorage = 'gs://vincentcloud/audio'
 
 print(podcastNames)
 
