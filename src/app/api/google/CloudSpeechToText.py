@@ -1,0 +1,1 @@
+# TODO: SpeechToText.py will host a given audio file to Google cloud and then transcribe them to a provided path. It acquires Google Cloud Credentials from a local cloud json file.
