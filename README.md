@@ -15,9 +15,9 @@
 ### Initial Prototype
  **Data Collection, 9/11 to 9/17**
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We acquired the **names** and **ids** of the top 200 trending podcasts from the **iTunes RSS API** into a csv file. To make processing easier on the group, each member assumed partial responsibility for acquiring the transcriptions of the 200 podcasts. Luckily, each **iTunes ID** for the podcast is associated accordingly with their **ids** on podbay.fm. Upon this discovery, a **webscraper tool** was made that automatically downloads the latest episode from podbay.fm into each team members local machines. 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We acquired the **names** and **ids** of the top 200 trending podcasts from the **iTunes RSS API** into a csv file on 9/11/19. To make processing easier on the group, each member assumed partial responsibility for acquiring the transcriptions of the 200 podcasts. Luckily, each **iTunes ID** for the podcast is associated accordingly with their **ids** on podbay.fm. Upon this discovery, a **webscraper tool** was made that automatically downloads the latest episode from podbay.fm into each team members local machines. 
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the weekend, we figured out how to use **Google Cloud Speech to Text API** and the process to set it up and made a **transcriber tool**. Each team member used **Audacity** to convert each audio file into a **mono-track** ``*.flac`` format. This step is required because **Google Cloud Speech To Text API** can operate on larger files that are only hosted on their buckets, and **SST** requires them to be in a mono-track ``*.flac`` format. Close to 66% of data collection completion, an **audio conversion tool** was made to convert audio files to mono-track and ``*.flac`` format to bypass the cumbersome use of mass importing and mass processing and exporting in Audacity. After audio files were converted by team members, the transcriber tool was ran on the audio files and output was stored in ``/data/transcripts/``.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the weekend, we figured out how to use **Google Cloud Speech to Text API** and the process to set it up and made a **transcriber tool**. Each team member used **Audacity** to convert each audio file into a **mono-track** ``*.flac`` format. This step is required because **Google Cloud Speech To Text API** can operate on larger files that are only hosted on their buckets, and **SST** requires them to be in a mono-track ``*.flac`` format. Close to 66% of data collection completion, an **audio conversion tool** was made to convert audio files to mono-track and ``*.flac`` format to bypass the cumbersome use of mass importing and mass processing and exporting in Audacity. After audio files were converted by team members, the audio files were processed by the transcriber tool and output was stored in ``/data/transcripts/``.
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some transcripts were acquired through other means while the tools were being programmed. These methods span from collecting transcripts of podcasts from **YouTube**, official podcast websites, and directly feeding audio to **Google Documents** speech to text overnight with stereo mix enabled. In the data folder these methods are separated accordingly:
 
@@ -45,6 +45,9 @@ TBA
      - This library is an audio encoder/decoder that's needed for the operation of the pydub module.
      - Windows Setup guide: http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/
 
+ ## Terminology and Jargon
+ TBD
+
  ## To Do
  - [x] Meet with Dr. Aaron Beveridge to discuss details
     - 9/11/19
@@ -62,5 +65,7 @@ TBA
    - [ ] Run NLP on text to find top mentioned terms
    - [ ] From all scraped data, generate csv files.
  - [ ] Cleanup this readme and make it look more presentable.
- - [ ] Use a different platform or some other Github tool (Project tab?) for to do lists!
+ - [x] Use a different platform or some other Github tool (Project tab?) for to do lists!
+   - 9/15/19 Done, check projects tab.
  - [ ] Unit testing?
+ - [ ] Delete this todolist and fully transition to Github projects!
