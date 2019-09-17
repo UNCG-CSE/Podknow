@@ -1,0 +1,1 @@
+# TODO: Transcriber object makes Google Speech To Text API call as .flac files come in.

@@ -31,7 +31,6 @@ class PodcastEpisode:
                 print("Download of " + self.OutputFilename + " was Successful!")
                 self.filePath = fullDownloadPath
                 return True
-
             except Exception as error:
                 failMsg = "Download of " + self.OutputFilename + " failed!"
                 print(failMsg)
