@@ -2,4 +2,4 @@
 from api.google import CloudSpeechToText as cstt
 from api.apple import iTunesPodcastRSS as itp
 
-print (cstt.CloudSpeechToText.fetchCloudSettings())
+print (cstt.fetchCloudSettings())
