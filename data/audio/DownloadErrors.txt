@@ -1,8 +1,0 @@
-ERROR: On attempting to download 201671138 from https://podcast.thisamericanlife.org/podcast/477.mp3, error is as follows
-[Errno 28] No space left on device
-Was Redirect? : True
-
-ERROR: On attempting to download 1450277129 from https://podcasts.cnn.net/epvs/v2/88/159/28562/root-of-evil-.f58956bd55ab20fb.1-1.mp3?mtp=a&dvc=f, error is as follows
-[Errno 28] No space left on device
-Was Redirect? : True
-

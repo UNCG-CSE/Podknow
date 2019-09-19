@@ -3,3 +3,5 @@
 *.flac
 *.ogg
 *.wav
+#ignore environment setting
+.vscode
