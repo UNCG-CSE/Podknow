@@ -5,3 +5,4 @@
 *.wav
 #ignore environment setting
 .vscode
+credentials/settings.gcsettings
