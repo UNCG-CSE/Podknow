@@ -1,0 +1,1 @@
+# TODO: Transcriber is responsible for selecting an API or module to acquire the transcriptions of audio files.
