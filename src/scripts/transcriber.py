@@ -55,7 +55,7 @@ def transcribeFileInBucket(audioUriObject, textOutput, sampleRate):
     
     endTime = time.time()
     duration = endTime - startTime
-    print("Finished in: " + duration)
+    print("Finished in: " + str(duration))
 
 for audiofile in podcastNames:
     sampleRate = int(mediainfo(audiofile)['sample_rate'])
