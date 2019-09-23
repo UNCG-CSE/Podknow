@@ -23,21 +23,10 @@ Tasks: Scrubbing Transcriptions
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current implementation of the NLTK program pulls the raw data from a local directory and runs it through a simple stop word removal. The main goal of this implementation is to get a framework for how the data will be moved throughout the system. The output file for the current program is a "pickle" file. This file type was selected so it could help streamline our process of reading text data in the future.
 
-<<<<<<< HEAD
-**Christopher Edgecombe**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using the Natural Language Toolkit (NLTK) the goal is to analyze the raw text files and output a file that can be used in "pandas".
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current implementation of the NLTK program pulls the raw data from a local directory and runs it through a simple stop word removal. The main goal of this implementation is to get a framework for how the data will be moved throughout the system. The output file for the current program is a "pickle" file. This file type was selected so it could help streamline our process of reading text data in the future.
-
-=======
->>>>>>> feb9fe400ee47e6c76da770ba399145a3abd2c6f
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the future, we will potentially be pulling the raw data from Google Cloud Platforms, and running more advanced text analysis on the text files. We will be working in conjunction with Dr. Beveridge to explore future implementations of text analysis.
 
  **Next steps**
 
-<<<<<<< HEAD
 TBA
 =======
 We're going to start textmining the scrubbed transcriptions, and work on a data collection console application that will make future data collection tasks much faster and easier.
->>>>>>> feb9fe400ee47e6c76da770ba399145a3abd2c6f
