@@ -29,6 +29,7 @@ class PodcastEpisode:
             self.audioExt = ".wav"
         elif ".ogg" in self.audioUrl:
             self.audioExt = ".ogg"
+    
     def initFileName(self):
         self.outputFilename = str(self.id)+"_"+self.podcastName+"_"+self.episodeDate+"_"+self.episodeTitle+self.audioExt
 

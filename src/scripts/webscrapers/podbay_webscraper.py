@@ -22,6 +22,8 @@ def getExtension(url):
         return ".wav"
     elif ".ogg" in url:
         return ".ogg"
+    elif ".m4a" in url:
+        return ".m4a"
 
 def downloadRawHtml(url):
     webClient = uRequest(url)
@@ -84,16 +86,21 @@ def downloadLatestPodcastFromId(id, destPath):
     else:
         print("To be named: " + fileDownloadName)
         print("From: " + latestEpisodeAudioUrl)
-        response = requests.get(latestEpisodeAudioUrl)
-        wasRedirect = False
         try:
-            if response.history:
-                wasRedirect = True
-            downloadFromUrl(str(response.url), fullDownloadPath)
-            print("Successful!")
-        except Exception as error:
-            print("Failed! See error log.")
-            errorStr = "ERROR: On attempting to download " + str(id) + " from " + response.url + ", error is as follows\n" + str(error) + "\nWas Redirect? : " + str(wasRedirect) + "\n\n"
+            response = requests.get(latestEpisodeAudioUrl)
+            wasRedirect = False
+            try:
+                if response.history:
+                    wasRedirect = True
+                downloadFromUrl(str(response.url), fullDownloadPath)
+                print("Successful!")
+            except Exception as error:
+                print("Failed! See error log.")
+                errorStr = "ERROR: On attempting to download " + str(id) + " from " + response.url + ", error is as follows\n" + str(error) + "\nWas Redirect? : " + str(wasRedirect) + "\n\n"
+                writeDownloadErrorText(errorStr)
+        except Exception as err1:
+            errorStr = "Could not reach url " + latestEpisodeAudioUrl
+            print(errorStr)
             writeDownloadErrorText(errorStr)
 
 def interface():
