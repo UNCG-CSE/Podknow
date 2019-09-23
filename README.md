@@ -17,6 +17,10 @@
      - Used to get the sampling rate of an audio file to be wrapped in a config file sent to Google Speech To Text API.
      - Transcription will not occur without inclusion.
      - Dependent upon FFmpeg library.
+  - ``pip install nltk``
+     - Used to provide text analysis.
+     - All NLTK data will also need to be imported.
+     - Data Install guide: https://www.nltk.org/data.html
 
 **Required libraries:**
   - FFmpeg
