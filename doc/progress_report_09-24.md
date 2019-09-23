@@ -19,6 +19,7 @@ Tasks: Web Scraping, Optimization, initial Github organization and management
 
 **Christopher Edgecombe**
 Tasks: Scrubbing Transcriptions
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using the Natural Language Toolkit (NLTK) the goal is to analyze the raw text files and output a file that can be used in "pandas".
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current implementation of the NLTK program pulls the raw data from a local directory and runs it through a simple stop word removal. The main goal of this implementation is to get a framework for how the data will be moved throughout the system. The output file for the current program is a "pickle" file. This file type was selected so it could help streamline our process of reading text data in the future.
