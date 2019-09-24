@@ -17,8 +17,6 @@ Tasks: Web Scraping, Optimization, initial Github organization and management
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I used Jeremy's transcription program as a base for the [transcriber tool](https://github.com/UNCG-CSE/Podknow/blob/master/src/scripts/transcriber.py) which scans the users audio folder for .flac files to transcribe all at one time. Users were required to upload their .flac files manually to their Google Cloud Bucket. Vincent later was able to solve this problem programmatically.
 
-**Harini Booravalli**
-
 **Christopher Edgecombe**
 Tasks: Scrubbing Transcriptions
 
@@ -28,8 +26,17 @@ Tasks: Scrubbing Transcriptions
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the future, we will potentially be pulling the raw data from Google Cloud Platforms, and running more advanced text analysis on the text files. We will be working in conjunction with Dr. Beveridge to explore future implementations of text analysis.
 
+**Harini Booravalli**
+Tasks: Conversion of scrubbed file into excel sheet
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently i have implemented this code which reads every line of the text files and removes the punctionations, alpha numerics and stops words and forms an excel sheet which can be uploaded into Google cloud Platform. 
+This code needs to be slightly altered to integrate with Christopher's code  which gives the output as a pickle file and not a text file. Hence the input for my program  will be pcikle file.
+Apart from the above task  each of us  were given a task to  get transcripts for 33 podcasts. For  the implementation of this task i have utilized the scripts created by team mates to acquire the podcasts, convert it to .flac format and set up google bucket and transcription program to convert the .flac file into transcripts. 
+
+
  **Next steps**
 
 TBA
 =======
-We're going to start textmining the scrubbed transcriptions, and work on a data collection console application that will make future data collection tasks much faster and easier.
+We're going to start text mining the scrubbed transcriptions, and work on a data collection console application that will make future data collection tasks much faster and easier.
+
