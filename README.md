@@ -28,6 +28,6 @@
      - Windows Setup guide: http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/
 
  ## Terminology and Jargon
- ``.flac`` : Common audio extension used in Google Cloud speech to text
- **SST** : Speech to text
- **iTunes ID** : An ID associated to many podcast authorsfrom iTunes API
+  - ``.flac`` : Common audio extension used in Google Cloud speech to text
+  - **SST** : Speech to text
+  - **iTunes ID** : An ID associated to many podcast authorsfrom iTunes API
