@@ -30,4 +30,4 @@
  ## Terminology and Jargon
   - ``.flac`` : Common audio extension used in Google Cloud speech to text
   - **SST** : Speech to text
-  - **iTunes ID** : An ID associated to many podcast authorsfrom iTunes API
+  - **iTunes ID** : An ID associated to many podcast authors from iTunes API
