@@ -13,13 +13,8 @@ class PodcastEpisode:
         self.episodeDate = date
         self.episodeTitle = episodeTitle
         self.audioUrl = audioUrl
-        self.initScrubMeta()
         self.initExt()
         self.initFileName()
-    
-    def initScrubMeta(self):
-        # TODO: Scrub meta of illegal filename characters.
-        return None
 
     def initExt(self):
         self.audioExt = ""
