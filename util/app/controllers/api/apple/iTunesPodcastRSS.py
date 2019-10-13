@@ -42,8 +42,8 @@ class iTunesPodcastRSS:
                     row.append(value)
             finalList.append(row)
         import sys
-        reload(sys)
-        sys.setdefaultendcoding('utf8')
+        #reload(sys)
+        #sys.setdefaultendcoding('utf8')
         dataFrame = pd.DataFrame(finalList)
         dataFrame.columns = self.headerList
         dataFrame.to_csv("top200Podcast.csv")
