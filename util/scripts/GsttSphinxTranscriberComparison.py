@@ -12,7 +12,7 @@ import speech_recognition as sr
 
 
 # Loading google credentials.
-credentialsFile = open(r"C:\Users\jwthrs\Projects\cs405\podknow\Podknow\credentials\jamie\settings.gcsettings")
+credentialsFile = open(r"C:\Users\jwthrs\Projects\cs405\podknow\Podknow\credentials\jamie\setting.gcsettings")
 credentials_ds = json.load(credentialsFile)
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_ds["CREDENTIALS_PATH"]
 podcastCloudStorage = credentials_ds["CLOUD_STORAGE_URI"]
@@ -20,33 +20,39 @@ podcastCloudStorage = credentials_ds["CLOUD_STORAGE_URI"]
 
 client = speech_v1.SpeechClient()
 
-# Assuming this tool is launched from inside /src/util/scripts
-podcastNames = glob.glob("../../../data/audio/*.flac")
-podcastTranscriptOutputPath = "../../../data/transcripts/gcsst/raw/"
+# Assuming this tool is launched from inside /util/scripts
+podcastNames = glob.glob("../../data/audio/*.flac")
+podcastTranscriptOutputPath_gstt = "../../data/transcripts/gcsst/raw/"
+podcastTranscriptOutputPath_sphinx = "../../data/transcripts/sphinx/raw/"
 
-
-
+print("hello am i working")
+for podcast in podcastNames:
+    print(podcast)
 
 language_code = "en-US"
 
 encoding = enums.RecognitionConfig.AudioEncoding.FLAC
 
 def scrubPathFromAudioFilePath(audiofile):
-    return audiofile[audiofile.rindex('\\')+1:len(audiofile)]
+    
+    return audiofile[audiofile.rindex('/')+1:len(audiofile)]
 
-def audioFileNameToTextOutPath(audioFileName):
-    return podcastTranscriptOutputPath + scrubPathFromAudioFilePath(audioFileName[0:min(12, audioFileName.rindex('.')+1)] + "txt")
+def audioFileNameToTextOutPath(audioFileName, transcriptPath):
+    return transcriptPath + scrubPathFromAudioFilePath(audioFileName[0:min(12, audioFileName.rindex('.')+1)] + "txt")
 
 # Sphinx transcription
 def sphinxTranscribe(textOutput, podcastAudio):
+    print("Sphinx transcribe called... for " + podcastAudio)
     rcgnr = sr.Recognizer()
     with sr.AudioFile(podcastAudio) as tsource:
         audio = rcgnr.record(tsource)
     try:
+        print("Sphinx trying to transcribe...")
         transcription = rcgnr.recognize_sphinx(audio)
         f = open(textOutput, "a+")
         f.write(transcription)
         f.close()
+        print("Sphinx finished transcribing!")
     except sr.UnknownValueError:
         print("Sphinx couldn't interpret the audio")
     except sr.RequestError as e:
@@ -83,11 +89,12 @@ for audiofile in podcastNames:
     sampleRate = int(mediainfo(audiofile)['sample_rate'])
     print("File SR: " + str(sampleRate) + ", " + scrubPathFromAudioFilePath(audiofile))
     audio = {"uri": podcastCloudStorage+scrubPathFromAudioFilePath(audiofile)}
-    textOutput = audioFileNameToTextOutPath(audiofile)
-    googleTranscribeThread = threading.Thread(target=transcribeFileInBucket, args=(audio, textOutput, sampleRate))
-    googleTranscribeThread.start()
+    #textOutputGstt = audioFileNameToTextOutPath(audiofile, podcastTranscriptOutputPath_gstt)
+    #googleTranscribeThread = threading.Thread(target=transcribeFileInBucket, args=(audio, textOutput, sampleRate))
+    #googleTranscribeThread.start()
 
-    sphinxTranscribeThread = threading.Thread(target=sphinxTranscribe, args=(textOutput, audiofile))
+    textOutputSphinx = audioFileNameToTextOutPath(audiofile, podcastTranscriptOutputPath_sphinx)
+    sphinxTranscribeThread = threading.Thread(target=sphinxTranscribe, args=(textOutputSphinx, audiofile))
     sphinxTranscribeThread.start()
 
 
