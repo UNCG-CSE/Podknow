@@ -1,4 +1,4 @@
-from api.google import CloudSpeechToText as cstt
+from api.apitype import CloudSpeechToText as cstt
 
 transcriptionMethodList = ["google_cloud", "sphinx"]
 
@@ -24,7 +24,6 @@ def transcribeSphinx(targetAudioPath, resultPath):
 
 def transcribeGoogleCloud(targetAudioPath, resultPath):
     print("Not implemented")
-
 
 def report(content):
     print("not implemented")
