@@ -7,6 +7,11 @@ import json
 from pydub.utils import mediainfo
 import time
 import speech_recognition as sr
+from pathlib import Path
+import math
+import librosa
+import soundfile as sf
+import wave
 
 #http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/
 
@@ -20,10 +25,11 @@ podcastCloudStorage = credentials_ds["CLOUD_STORAGE_URI"]
 
 client = speech_v1.SpeechClient()
 
+podknowPath = str(Path().absolute().parent.parent)
 # Assuming this tool is launched from inside /util/scripts
-podcastNames = glob.glob("../../data/audio/*.flac")
-podcastTranscriptOutputPath_gstt = "../../data/transcripts/gcsst/raw/"
-podcastTranscriptOutputPath_sphinx = "../../data/transcripts/sphinx/raw/"
+podcastNames = glob.glob(podknowPath + "/data/audio/*.flac")
+podcastTranscriptOutputPath_gstt = podknowPath + "/data/transcripts/gcsst/raw/"
+podcastTranscriptOutputPath_sphinx = podknowPath + "/data/transcripts/sphinx/raw/"
 
 print("hello am i working")
 for podcast in podcastNames:
@@ -34,30 +40,48 @@ language_code = "en-US"
 encoding = enums.RecognitionConfig.AudioEncoding.FLAC
 
 def scrubPathFromAudioFilePath(audiofile):
-    
-    return audiofile[audiofile.rindex('/')+1:len(audiofile)]
+    return audiofile[audiofile.rindex('\\')+1:len(audiofile)]
 
 def audioFileNameToTextOutPath(audioFileName, transcriptPath):
-    return transcriptPath + scrubPathFromAudioFilePath(audioFileName[0:min(12, audioFileName.rindex('.')+1)] + "txt")
+    return transcriptPath + scrubPathFromAudioFilePath(audioFileName[0:min(12, audioFileName.rindex('.'))])
 
 # Sphinx transcription
-def sphinxTranscribe(textOutput, podcastAudio):
-    print("Sphinx transcribe called... for " + podcastAudio)
+def sphinxTranscribe(textOutput, podcastAudioPath):
+    print("Sphinx transcribe called... for " + podcastAudioPath)
     rcgnr = sr.Recognizer()
-    with sr.AudioFile(podcastAudio) as tsource:
-        audio = rcgnr.record(tsource)
-    try:
-        print("Sphinx trying to transcribe...")
-        transcription = rcgnr.recognize_sphinx(audio)
-        f = open(textOutput, "a+")
-        f.write(transcription)
-        f.close()
-        print("Sphinx finished transcribing!")
-    except sr.UnknownValueError:
-        print("Sphinx couldn't interpret the audio")
-    except sr.RequestError as e:
-        print("ERROR: Sphinx: {0}".format(e))
 
+    audioSource = sr.AudioFile(podcastAudioPath)
+
+    audioDuration = int(math.floor(float(mediainfo(podcastAudioPath)['duration'])))
+    audioStepTime = 60000 # 1 minutes.
+    podSteps =  int(math.floor(audioDuration / audioStepTime))
+    startTime = time.time()
+    sampleRate = int(mediainfo(podcastAudioPath)['sample_rate'])
+
+    with sr.AudioFile(audioSource) as tsource:
+        for podStep in range(0, podSteps):
+            audio = rcgnr.record(tsource, duration=audioStepTime)
+            print("Iteration: " + str(podStep))
+            try:
+                print("Sphinx trying to transcribe...")
+                transcription = rcgnr.recognize_sphinx(audio)
+                f = open(textOutput, "a+")
+                f.write(transcription)
+                f.close()
+            except sr.UnknownValueError:
+                print("Sphinx couldn't interpret the audio")
+            except sr.RequestError as e:
+                print("ERROR: Sphinx: {0}".format(e))
+    
+    endTime = time.time()
+    duration = endTime - startTime
+
+    fstats = open(textOutput+"_stats.txt", "w")
+    fstats.write("Transcription Time: " + str(duration))
+    fstats.write("\nTranscription Method: Google Cloud Speech To Text")
+    fstats.close()
+
+    print("Sphinx finished transcribing!")
 
 #Gcstt transcription
 def transcribeFileInBucket(audioUriObject, textOutput, sampleRate):
@@ -77,12 +101,17 @@ def transcribeFileInBucket(audioUriObject, textOutput, sampleRate):
         # First alternative is the most probable result
         alternative = result.alternatives[0]
         print(u"{}".format(alternative.transcript))
-        f = open(textOutput, "a+")
+        f = open(textOutput+".txt", "a+")
         f.write((u"{}".format(alternative.transcript)))
         f.close()
     
     endTime = time.time()
     duration = endTime - startTime
+
+    fstats = open(textOutput+"_stats.txt", "a+")
+    fstats.write("Transcription Time: " + str(duration))
+    fstats.write("Transcription Method: Google Cloud Speech To Text")
+
     print("Finished in: " + str(duration))
 
 for audiofile in podcastNames:
@@ -94,8 +123,7 @@ for audiofile in podcastNames:
     #googleTranscribeThread.start()
 
     textOutputSphinx = audioFileNameToTextOutPath(audiofile, podcastTranscriptOutputPath_sphinx)
-    sphinxTranscribeThread = threading.Thread(target=sphinxTranscribe, args=(textOutputSphinx, audiofile))
-    sphinxTranscribeThread.start()
+    sphinxTranscribe(textOutputSphinx, audiofile)
 
 
 
