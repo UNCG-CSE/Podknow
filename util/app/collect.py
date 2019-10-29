@@ -25,7 +25,6 @@ def areArgsValid(args):
     return args[1].lower() in typeList and args[2].lower() in trendingSourceList and args[3].lower() in transcribeList
 
 def validateArguments():
-
     expectedArgCount = 4
     args = sys.argv
     argsCount = len(args)
@@ -37,7 +36,6 @@ def validateArguments():
     else:
         print("Error: Requires the expected arguments\n" + expectedArgsTemplate)
         return False
-
 
 def helpCmd():
     print("Expected arguments:\n" + expectedArgsExample + "Example Useage:\n" + expectedArgsExample)

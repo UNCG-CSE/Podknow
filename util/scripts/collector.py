@@ -1,13 +1,35 @@
-from os import path
+import os
 import pandas as pd
 import time
 from re import sub
 import sys
 import requests
+from pathlib import Path
+import threading
+import json
+from google.cloud import speech_v1
+from google.cloud.speech_v1 import enums
 
 # Streamlined version of the full app as it was overdesigned.
 
+# Audio path
+rootPath = podknowPath = str(Path().absolute().parent.parent)
+audioPath = rootPath + "\\data\\audio\\"
+sphinxTranscriptPath = rootPath + "\\data\\transcripts\\sphinx\\raw\\"
+gcTranscriptPath = rootPath + "\\data\\transcripts\\gcstt\\raw\\"
 
+credentialsFile = open(r"C:\Users\jwthrs\Projects\cs405\podknow\Podknow\credentials\jamie\setting.gcsettings")
+credentials_ds = json.load(credentialsFile)
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_ds["CREDENTIALS_PATH"]
+podcastCloudStorage = credentials_ds["CLOUD_STORAGE_URI"]
+
+
+client = speech_v1.SpeechClient()
+
+podknowPath = str(Path().absolute().parent.parent)
+# Assuming this tool is launched from inside /util/scripts
+podcastTranscriptOutputPath_gstt = podknowPath + "/data/transcripts/gcsst/raw/"
+podcastTranscriptOutputPath_sphinx = podknowPath + "/data/transcripts/sphinx/raw/"
 
 # Split audio files to mono if not mono
 from glob import glob
@@ -28,8 +50,7 @@ def scrubFileOutputString(fileOutput):
     # Source: https://stackoverflow.com/questions/295135/turn-a-string-into-a-valid-filename
     fileOutput = sub(r'[^\w\s-]', '', fileOutput)
     fileOutput = sub(r'[-\s]+', '',fileOutput)
-    # Cut off after 12 characters.
-    fileOutput = fileOutput[0:min(12, len(fileOutput))]
+
     return fileOutput
 
 def getExtension(url):
@@ -78,10 +99,13 @@ def downloadLatestPodcastFromId(id, destPath):
 
     # Prep paths for downloading.
     fileDownloadName = str(id)+"_"+podcastName+"_"+latestEpisodeDate+"_"+latestEpisodeTitle
+    fileDownloadName = fileDownloadName[0:min(12, len(fileDownloadName))]
     fileDownloadName = scrubFileOutputString(fileDownloadName) + getExtension(latestEpisodeAudioUrl)
-    fullDownloadPath = destPath+fileDownloadName
+    fullDownloadPath = destPath+fileDownloadName + getExtension(latestEpisodeAudioUrl)
 
-    if path.exists(fullDownloadPath):
+    # Cut off after 12 characters.
+
+    if Path.exists(fullDownloadPath):
         print("The latest podcast is already downloaded!")
     else:
         print("To be named: " + fileDownloadName)
@@ -102,27 +126,33 @@ def downloadLatestPodcastFromId(id, destPath):
             errorStr = "Could not reach url " + latestEpisodeAudioUrl
             print(errorStr)
             writeDownloadErrorText(errorStr)
+    return fileDownloadName
 
 # Transcription methods
 
 # Output
 
 def transcriptionOutput(date, name, stats, transcript):
-    outputName = str(date) + "/" + str(name)
+    outputName = str(name)
 
-    fstats = open(outputName+"_stats.txt", "a+")
+    fstats = open(sphinxTranscriptPath+outputName+"_stats.txt", "a+")
     fstats.write(stats)
     fstats.close()
 
-    ftrans = open(outputName+"_transcript.txt", "a+")
+    ftrans = open(sphinxTranscriptPath+outputName+"_transcript.txt", "a+")
     ftrans.write(transcript)
     ftrans.close()
 
     print("Not implemented.")
 
 # Statistics
-def transcriptionStats():
-    print("Not implemented.")
+def transcriptionStats(statsInput):
+    statsDict = {
+        "TranscriptionMethod":statsInput[0],
+        "TranscriptionTime":statsInput[1],
+        "OverallConfidence":statsInput[2]
+    }
+    return statsDict
 
 def getCurrTime():
     return time.time()
@@ -131,22 +161,51 @@ def getTimeElapsed(startTime):
     endTime = getCurrTime()
     return str(endTime - startTime)
 
+import pocketsphinx as ps
 from pocketsphinx import AudioFile
 from pocketsphinx import Pocketsphinx, get_model_path, get_data_path
 
-def psphinxTranscribeFile(audioPath):
-    audio = AudioFile()
+def psphinxTranscribeFile(podcastFileName):
     model_path = get_model_path()
     
-    config = {
-        'verbose': False,
+    hmm = os.path.join(model_path, 'en-us')
+    lm = os.path.join(model_path, 'en-us.lm.bin')
+    psdict = os.path.join(model_path, 'cmudict-en-us.dict')
+    audioFile = audioPath + podcastFileName
 
+    config = {
+        'hmm': os.path.join(model_path, 'en-us'),
+        'lm': os.path.join(model_path, 'en-us.lm.bin'),
+        'dict': os.path.join(model_path, 'cmudict-en-us.dict')
     }
 
-    # May be a bit much to open a bunch of audio files ourselves to transcribe. 5 max?
-    print("Not implemented.")
+    startTime = getCurrTime()
+    print("Transcribing... " + audioPath+podcastFileName)
 
-def psphinxProcessor():
+    speechRec = Pocketsphinx(**config)
+
+    speechRec.decode(
+        audio_file=audioFile,
+        buffer_size=2048,
+        no_search=False,
+        full_utt=False
+    )
+
+    transcriptionStr = speechRec.hypothesis()
+
+    timeElapsed = getTimeElapsed(startTime)
+
+    confScore = speechRec.confidence()
+
+    statsInput = ["Sphinx",timeElapsed, confScore]
+
+    statsDict = str(transcriptionStats(statsInput))
+
+    transcriptionOutput("", podcastFileName, statsDict, transcriptionStr)
+
+    # May be a bit much to open a bunch of audio files ourselves to transcribe. 5 max?
+def psphinxProcess():
+    # Converts file to RAW
     print("Not implemented.")
 
 # Upload flac files to google cloud, then transcribe when ready.
@@ -159,10 +218,34 @@ def googleCloudUploadFile():
 def googleCloudTranscribeFile():
     print("Not implemented.")
 
-def googleCloudProcessor():
-    # Uploads up to 3 at a time
+def googleCloudProcess(podcastName):
+    # Converts the file to FLAC
+    # Uploads 1 at a time
     # Start transcribing as soon as finished uploading.
     print("Not implemented.")
+
+def collectProcess(transcriptMethod):
+
+    csvPath = "../../data/top200Podcast.csv"
+    csvFileDF = pd.read_csv(csvPath)
+
+
+    idsToDownload = csvFileDF['id'].tolist()
+
+    if transcriptMethod == "gc":
+        for id in idsToDownload:
+            # Download
+            podcastName = downloadLatestPodcastFromId(id, audioPath)
+            transcribeThread = threading.Thread(target=googleCloudProcess, args=(id))
+            googleCloudProcess(podcastName)
+    elif transcriptMethod == "sphinx":
+        for id in idsToDownload:
+            podcastName = downloadLatestPodcastFromId(id, audioPath)
+
+    else:
+        print("You dun goofed son.")
+        exit()
+            
 
 # Check if cli args valid
 def validateArguments(argsv):
@@ -170,7 +253,7 @@ def validateArguments(argsv):
 
 # Collector main
 def collect():
-    print(get_data_path())
-    print("Not implemented.")
+    print(audioPath)
+    psphinxTranscribeFile("welcometoresistance_sphinxVsgstt.flac")
 
 collect()
