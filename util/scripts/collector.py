@@ -167,11 +167,8 @@ from pocketsphinx import Pocketsphinx, get_model_path, get_data_path
 
 def psphinxTranscribeFile(podcastFileName):
     model_path = get_model_path()
+    podcastAudioFile = audioPath + podcastFileName
     
-    hmm = os.path.join(model_path, 'en-us')
-    lm = os.path.join(model_path, 'en-us.lm.bin')
-    psdict = os.path.join(model_path, 'cmudict-en-us.dict')
-    audioFile = audioPath + podcastFileName
 
     config = {
         'hmm': os.path.join(model_path, 'en-us'),
@@ -185,11 +182,10 @@ def psphinxTranscribeFile(podcastFileName):
     speechRec = Pocketsphinx(**config)
 
     speechRec.decode(
-        audio_file=audioFile,
+        audio_file=podcastAudioFile,
         buffer_size=2048,
         no_search=False,
-        full_utt=False
-    )
+        full_utt=False)
 
     transcriptionStr = speechRec.hypothesis()
 
@@ -254,6 +250,6 @@ def validateArguments(argsv):
 # Collector main
 def collect():
     print(audioPath)
-    psphinxTranscribeFile("welcometoresistance_sphinxVsgstt.flac")
+    psphinxTranscribeFile("welcometoresistance_sphinxVsgstt.mp3")
 
 collect()
