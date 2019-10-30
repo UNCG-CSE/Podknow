@@ -58,30 +58,21 @@ def splitToMonoFlac(targetName, srcFile):
     targetPathStereo = audioPath+targetName.split('.')[0]+"_notmono.flac"
     targetPathMono = audioPath+targetName.split('.')[0]+".flac"
 
-    length = float(mediainfo(srcFile)['duration'])
-    subprocess.call(['ffmpeg', '-i', srcFile, targetPathStereo])
-    subprocess.call(['ffmpeg', '-i', targetPathStereo, '-map_channel', '0.0.0', targetPathMono])
-    newFileSize = os.path.getsize(targetPathMono.split('.')[0]+".flac")
-    sampleRate = int(mediainfo(targetPathMono.split('.')[0]+".flac")['sample_rate'])
-    os.remove(targetPathStereo)
-    convDuration = getTimeElapsed(startTime)
-    print("Duration: " + convDuration)
+    if not os.path.exists(targetPathMono):
+        length = float(mediainfo(srcFile)['duration'])
+        subprocess.call(['ffmpeg', '-i', srcFile, targetPathStereo])
+        subprocess.call(['ffmpeg', '-i', targetPathStereo, '-map_channel', '0.0.0', targetPathMono])
+        newFileSize = os.path.getsize(targetPathMono.split('.')[0]+".flac")
+        sampleRate = int(mediainfo(targetPathMono.split('.')[0]+".flac")['sample_rate'])
+        os.remove(targetPathStereo)
+        convDuration = getTimeElapsed(startTime)
+        print("Duration: " + convDuration)
+    else:
+        length = float(mediainfo(srcFile)['duration'])
+        sampleRate = int(mediainfo(targetPathMono.split('.')[0]+".flac")['sample_rate'])
+        newFileSize = os.path.getsize(targetPathMono.split('.')[0]+".flac")
+        convDuration = getTimeElapsed(startTime)
 
-    # Get audio length.
-
-    '''
-    podcastAudio = AudioSegment.from_file(srcFile)
-    ptracks = podcastAudio.split_to_mono()
-    newpAudio = ptracks[0].set_channels(1)
-    newpAudio.export(targetPath, format="flac")
-    print(sampleRate)
-    print("Wrote new flac file to " + targetPath)
-    
-    import gc
-    del podcastAudio
-    gc.collect()
-
-    '''
     return [targetName.split('.')[0]+".flac", convDuration, sampleRate, length, newFileSize]
 
 # Podbay download
@@ -279,6 +270,7 @@ def googleCloudUploadFile(uploadFromFilePath, targetName):
         blob = bucket.blob("audiofiles/"+targetName)
         print("uploading " + uploadFromFilePath + " to audiofiles/"+targetName)
 
+        # How to upload in chunks?
         with open(uploadFromFilePath, 'rb') as pf:
             blob.upload_from_file(pf)
             pf.flush()
