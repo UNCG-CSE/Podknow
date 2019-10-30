@@ -10,6 +10,7 @@ import json
 from google.cloud import speech_v1
 from google.cloud.speech_v1 import enums
 from google.cloud import storage
+from google.cloud import speech
 from pydub.utils import mediainfo
 from datetime import date
 
@@ -27,6 +28,8 @@ credentials_ds = json.load(credentialsFile)
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_ds["CREDENTIALS_PATH"]
 podcastCloudStorage = credentials_ds["CLOUD_STORAGE_URI"]
 bucketName = credentials_ds["CLOUD_STORAGE_NAME"]
+print(os.environ["GOOGLE_APPLICATION_CREDENTIALS"])
+print(credentials_ds)
 
 
 client = speech_v1.SpeechClient()
@@ -46,21 +49,40 @@ def getTimeElapsed(startTime):
 # Split audio files to mono if not mono
 from glob import glob
 from pydub import AudioSegment
+import subprocess
 
 def splitToMonoFlac(targetName, srcFile):
+
     startTime = getCurrTime()
+
+    targetPathStereo = audioPath+targetName.split('.')[0]+"_notmono.flac"
+    targetPathMono = audioPath+targetName.split('.')[0]+".flac"
+
+    length = float(mediainfo(srcFile)['duration'])
+    subprocess.call(['ffmpeg', '-i', srcFile, targetPathStereo])
+    subprocess.call(['ffmpeg', '-i', targetPathStereo, '-map_channel', '0.0.0', targetPathMono])
+    newFileSize = os.path.getsize(targetPathMono.split('.')[0]+".flac")
+    sampleRate = int(mediainfo(targetPathMono.split('.')[0]+".flac")['sample_rate'])
+    os.remove(targetPathStereo)
+    convDuration = getTimeElapsed(startTime)
+    print("Duration: " + convDuration)
+
+    # Get audio length.
+
+    '''
     podcastAudio = AudioSegment.from_file(srcFile)
     ptracks = podcastAudio.split_to_mono()
     newpAudio = ptracks[0].set_channels(1)
-    newpAudio.export(audioPath+targetName.split('.')[0]+".flac", format="flac")
-    print("Wrote new flac file to " + audioPath+targetName)
-    duration = getTimeElapsed(startTime)
+    newpAudio.export(targetPath, format="flac")
+    print(sampleRate)
+    print("Wrote new flac file to " + targetPath)
     
     import gc
     del podcastAudio
     gc.collect()
 
-    return [targetName.split('.')[0]+".flac", duration]
+    '''
+    return [targetName.split('.')[0]+".flac", convDuration, sampleRate, length, newFileSize]
 
 # Podbay download
 from urllib.request import urlopen as uRequest
@@ -123,7 +145,8 @@ def downloadLatestPodcastFromId(id, destPath):
     fullDownloadPath = destPath+fileDownloadName
     
     downloadSuccessful = 1
-    ptinfo = [fileDownloadName, podcastName, latestEpisodeDate, latestEpisodeTitle, latestEpisodeAudioUrl, downloadSuccessful]
+    # filename, 1/0 for success, download duration in seconds, filesize
+    ptinfo = [fileDownloadName, downloadSuccessful, 0, 0]
 
     if os.path.exists(fullDownloadPath):
         print("The latest podcast is already downloaded!")
@@ -131,18 +154,22 @@ def downloadLatestPodcastFromId(id, destPath):
         print("To be named: " + fileDownloadName)
         print("From: " + latestEpisodeAudioUrl)
         try:
+            startTime = getCurrTime()
             response = requests.get(latestEpisodeAudioUrl)
             wasRedirect = False
             try:
                 if response.history:
                     wasRedirect = True
                 downloadFromUrl(str(response.url), fullDownloadPath)
+                duration = getTimeElapsed(startTime)
+                ptinfo[2] = duration
+                ptinfo[3] = os.path.getsize(fullDownloadPath)
                 print("Successful!")
             except Exception as error:
                 print("Failed! See error log.")
                 errorStr = "ERROR: On attempting to download " + str(id) + " from " + response.url + ", error is as follows\n" + str(error) + "\nWas Redirect? : " + str(wasRedirect) + "\n\n"
                 downloadSuccessful = 0
-                ptinfo[5] = downloadSuccessful
+                ptinfo[1] = downloadSuccessful
                 writeDownloadErrorText(errorStr)
         except Exception as err1:
             errorStr = "Could not reach url " + latestEpisodeAudioUrl
@@ -153,24 +180,46 @@ def downloadLatestPodcastFromId(id, destPath):
 # Transcription methods
 
 # Output
-
 def transcriptionOutput(date, name, stats):
     outputName = str(name)
 
     print("Stats: " + str(stats))
-    ftrans = open(gcTranscriptPath + date + "\\" + outputName + "_output.txt", "a+")
-    ftrans.write(stats)
+    pathToOutput = gcTranscriptPath + date + '\\'
+    if not os.path.exists(pathToOutput):
+        os.makedirs(gcTranscriptPath + date + '\\')
+    ftrans = open(pathToOutput + outputName + "_output.txt", "w+")
+    ftrans.write(str(stats))
+    ftrans.flush()
     ftrans.close()
+
+
+def transcriptResult(pStats, pTranscripts):
+    return { 'Stats' : pStats, 'Transcripts' : pTranscripts}
 
 # Statistics
 def transcriptionStats(statsInput):
+    '''
+    0 => PodcastID
+    1 => DownloadTime
+    2 => AudioLength
+    3 => OriginalFileSize
+    4 => FlacFileSize
+    5 => TranscriptionMethod
+    6 => TranscriptionTime
+    7 => DownloadSuccessful
+    '''
+
     statsDict = {
-        "DownloadTime":statsInput[0],
-        "TranscriptionMethod":statsInput[1],
-        "TranscriptionTime":statsInput[2],
-        "OverallConfidence":statsInput[3],
-        "Transcript": statsInput[4]
+        "PodcastID":statsInput[0],
+        "DownloadTime":statsInput[1],
+        "AudioLength":statsInput[2],
+        "OriginalFileSize":statsInput[3],
+        "FlacFileSize":statsInput[4],
+        "TranscriptionMethod":statsInput[5],
+        "TranscriptionTime":statsInput[6],
+        "DownloadSuccessful":statsInput[7]
     }
+
     return statsDict
 
 
@@ -228,9 +277,11 @@ def googleCloudUploadFile(uploadFromFilePath, targetName):
         bucket = storageClient.get_bucket(bucketName)
         startTime = getCurrTime()
         blob = bucket.blob("audiofiles/"+targetName)
+        print("uploading " + uploadFromFilePath + " to audiofiles/"+targetName)
 
         with open(uploadFromFilePath, 'rb') as pf:
             blob.upload_from_file(pf)
+            pf.flush()
             pf.close()
         
         duration = getTimeElapsed(startTime)
@@ -238,35 +289,54 @@ def googleCloudUploadFile(uploadFromFilePath, targetName):
     except Exception as e:
         print("Ran into error when attempting to establish the google cloud bucket client.")
         print(e)
-    
-def googleCloudTranscribeFile(name, duration):
+        input("Upload this file manually then enter something to continue. ")
+        input("Are you sure this file is uploaded?")
+        input("Alrighty one more time then")
+
+def googleCloudTranscribeFile(name, rawSampleRate, pStats):
 
     print("TRANSCRIBE FILE: " + audioPath+name)
-    sampleRate = int(mediainfo(audioPath+name)['sample_rate'])
+    localAudioPath = audioPath+name
+    print("Local audio path: " + localAudioPath)
     gcUploadUri = {"uri" : podcastCloudStorage + name}
+
+    encoding = enums.RecognitionConfig.AudioEncoding.FLAC
+
     config = {
-        "sample_rate_hertz" : sampleRate,
+        "sample_rate_hertz" : rawSampleRate,
         "language_code" : "en-US",
-        "encoding": enums.RecognitionConfig.AudioEncoding.FLAC
+        "encoding": encoding,
     }
 
     startTime = time.time()
     print(u"Transcribing... " + gcUploadUri['uri'])
+
+    print(config)
+    print(gcUploadUri)
+
     operation = client.long_running_recognize(config, gcUploadUri)
+
+    print("Done transcribing, printing result:")
+
     response = operation.result()
+    pTranscripts = []
 
     for result in response.results:
         firstAlternative = result.alternatives[0]
-        transcript = firstAlternative.transcript
+        transcript = u"{}".format(firstAlternative.transcript)
         confScore = firstAlternative.confidence
-        stats = [transcript, confScore, duration]
-        today = str(date.today())
-        transcriptionOutput(today, name, stats)
-    
+        pTranscript = [confScore, transcript]
+        pTranscripts.append(pTranscript)
+
     endTime = time.time()
     duration = endTime - startTime
+    pStats['TranscriptionTime'] = duration
 
-    print("Transcription for " + name + " has finished and took " + duration)
+    results = transcriptResult(pStats, pTranscripts)
+    today = str(date.today())
+    transcriptionOutput(today, name, results)
+
+    print("Transcription for " + name + " has finished and took " + str(duration))
 
 def googleCloudProcess(podcastName):
     # Converts the file to FLAC
@@ -274,8 +344,11 @@ def googleCloudProcess(podcastName):
 
     pinfo = splitToMonoFlac(podcastName, flacDestPath)
 
-    googleCloudUploadFile(flacDestPath, pinfo[0])
+    flacResPath = audioPath + pinfo[0]
+
+    googleCloudUploadFile(flacResPath, pinfo[0])
     return pinfo
+
 
 def collectProcess(transcribeMethod):
 
@@ -286,18 +359,33 @@ def collectProcess(transcribeMethod):
 
     if transcribeMethod == "googlecloud":
         for id in idsToDownload:
+
+            today = str(date.today())
+            transcriptionPath = gcTranscriptPath + today + '\\' + str(id)+".flac_output.txt"
+            if os.path.exists(transcriptionPath):
+                print("The transcription exists, skipping...")
+                continue
             # Download
             print("Downloading " + str(id))
             ptinfo = downloadLatestPodcastFromId(id, audioPath)
+
+            '''
+            if ptinfo[1] == 0:
+                # TODO: Write out file
+                continue
+            '''
             # Convert the podcast to a .flac, then upload the podcast to the gc bucket.
             print("Processing, converting to flac and uploading...")
             pinfo = googleCloudProcess(ptinfo[0])
 
+            pStatsList = [ptinfo[0], ptinfo[1], pinfo[3], ptinfo[3], pinfo[4], "googlecloud", 0, ptinfo[2]]
+            pStatsDict = transcriptionStats(pStatsList)
+
             # Tell google to start speech recog on a thread to allow more downloads
             print("Transcribing...")
-            transcribeThread = threading.Thread(target=googleCloudTranscribeFile, args=(pinfo[0], pinfo[1]))
+            #googleCloudTranscribeFile(pinfo[0], pinfo[2], pStatsDict)
+            transcribeThread = threading.Thread(target=googleCloudTranscribeFile, args=(pinfo[0], pinfo[2], pStatsDict))
             transcribeThread.start()
-
     elif transcribeMethod == "sphinx":
         for id in idsToDownload:
             podcastName = downloadLatestPodcastFromId(id, audioPath)
