@@ -264,15 +264,16 @@ def psphinxProcess():
 def googleCloudUploadFile(uploadFromFilePath, targetName):
     
     storageClient = storage.Client()
+
+
     try:
         bucket = storageClient.get_bucket(bucketName)
         startTime = getCurrTime()
         blob = bucket.blob("audiofiles/"+targetName)
         print("uploading " + uploadFromFilePath + " to audiofiles/"+targetName)
 
-        # How to upload in chunks?
         with open(uploadFromFilePath, 'rb') as pf:
-            blob.upload_from_file(pf)
+            blob.upload_from_file(pf, num_retries=300)
             pf.flush()
             pf.close()
         
