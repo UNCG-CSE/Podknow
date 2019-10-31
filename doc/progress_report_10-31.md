@@ -29,6 +29,7 @@ My second task included the gathering of the top 10 occurrences of certain bigra
 **Jamie Weathers**
 Tasks: 
 Transcript Collector Application
+https://github.com/UNCG-CSE/Podknow/blob/master/util/scripts/collector.py
 Approx 20 hours
 -The Collector app is vital for outputting valuable data points for the project.
 -Many hours spent debugging and figuring out how to overcome limitations, ie. Among many issues, using pydub to convert an audio file results in memory overflow, so calling an external application such as ffmpeg to handle it received no errors
@@ -36,6 +37,7 @@ Approx 20 hours
 -These points are important because from a business perspective it would allow us to project and predict how much time and money is being spent on certain tasks.
 
 Confidence Score Analysis
+https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/PodcastConfidenceScores.ipynb
 Approx 6 hours
 -An attempt was made to find an explanation for why confidence scores were higher than others.
 -First clue was that I noticed many shorter phrases had a lower confidence score in the data output.
