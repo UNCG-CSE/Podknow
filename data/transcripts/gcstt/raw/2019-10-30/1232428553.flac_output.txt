@@ -1,0 +1,530 @@
+{
+  "Stats": {
+    "PodcastID": "1232428553.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 5399.066089,
+    "OriginalFileSize": 64867785,
+    "FlacFileSize": 424369905,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1820.6039559841156,
+    "DownloadSuccessful": "34.574350118637085"
+  },
+  "Transcripts": [
+    [
+      0.9444276094436646,
+      "with the general insurance no coverage means no problem and look I get it because I miss payments and for driving records many drivers can't afford auto insurance from most traditional auto insurance providers and they don't feel welcome either that's why I did General says Hey will cover you when others won't accepting most cars and drivers to call today and get a hassle free quote at 800 general or visit the general.com some restrictions apply"
+    ],
+    [
+      0.9029179811477661,
+      "day and everybody's business but in a good way"
+    ],
+    [
+      0.8865440487861633,
+      " wrong way"
+    ],
+    [
+      0.970468282699585,
+      " hey good morning fam good morning Jess what day it is guess what day it is Wednesday hump day call Dave now as I was walking into the building this morning I think was it earlier this week maybe Monday Charlamagne got a apple pie somebody set up an apple pie in the mail and he threw it away and threw it away was tripping all over the place blows guys would like a apple pies don't trip so they drove from Atlanta and downstairs for like nine pies city of that deliver 9 apple pie that was like yeah but I can't take that I'm late I'm got to get that so you know how send somebody down to get to get some pies so they deliver some pasta thank you to a young man for delivery no ties all right what today is it tomorrow is Halloween Just I haven't got my outfit as of yet"
+    ],
+    [
+      0.9770359992980957,
+      " cuz I've been parents of course with the wife and I had all the HBCU tours we have power house but what I usually do is I go to a place that does costumes for movie sets so I just go there I usually rent a costume from them I usually do something that my kids will love so I don't know if I'm going to Paw Patrol my kids love Paw Patrol that like cars on the money my daughter likes Cinderella by Mac them to that one so we'll figure out what we're going to be sitting around no I did not say I was going to be Cinderella I said my daughter like Cinderella I usually pick things that my kids love so I'm probably going to do Paw Patrol that's what I think I'ma do this yet but we'll see I'll be in Atlanta I'm actually going to Atlanta today for lip service live asking to be with Tokyo jetz yfn Lucci trouble Johnny Blaze so we'll be out in Atlanta and Imma Stay there one more day until they have a lot of things happened are you going to follow me what are you doing this couple of different parties happening in Atlanta so I might go out I got my hair braided yesterday"
+    ],
+    [
+      0.9317675232887268,
+      " outfit that you never know that I know it wasn't for that but you know I'm leaving so I wanted to make sure that my hair didn't require much effort don't go to show crack in that this morning Byron Allen will be joining us this morning network network she started off as a comedian from Detroit didn't really have much he worked around in his way up and now he owns about as a billionaire billionaire set it up this morning with the rest in peace to John Witherspoon really really"
+    ],
+    [
+      0.9716193079948425,
+      " yes and he had a whole album at remember that all right well we'll discuss that and give our rest in peace to town with a spoon first this morning yeah yeah everybody is DJ Envy Angela Yee Charlamagne Tha God We Are The Breakfast Club now let's get some Front Page News World Series tonight is game 7 of the World Series and will be played in Houston now as I was listening driving and they said this is the first time ever that a home team has lost every day and any Series in baseball and football and basketball it's the first time that the home team has lost in their home when they played out so we'll see what happens tonight so I should be a great game good luck Houston to talk my easy only 77 years old when he passed away in his home in Sherman Oaks and really said it is with deep sadness we have to tweet this better husband and Father John Witherspoon has passed away he was a legend in the entertainment in"
+    ],
+    [
+      0.9614447355270386,
+      " and a father figure to all who got some over the years we love you Pops always and forever we also know him as Willie Jones in the Friday movies for also playing Grandad and The Boondocks they also had recently put in a 2 Season order for the animated series of The Boondocks on HBO Max as we told you before you see them on the Tracy Morgan show on the Wayans brothers all kinds of things and he also was recently got Chance the Rapper is the big day album to the way at least a dozen times it just always full of energy always great never had an attitude he was funny as hell when he did his comedy stand-up great, rest in peace I love you spoon rest in paradise on ice cubes that I'm devastated over the passing of time with a spoon life won't be as funny without him Mike Epps that are Amanda's to heartbreaker I remember the first day on the set of next Friday and you tell me to calm down and let the dogs come natural I was so"
+    ],
+    [
+      0.970598578453064,
+      " wanted to have work with you all right now let's see apple has some new gender-neutral emojis if you download the new everything new One update all your apps and all of that is a bunch of new emojis that have arrived with it updated about almost 400 new emojis and some of those are gender-neutral and then there is some new objects and animals as well so there's like the apple juice bad to have a sick about an hour falafel in oyster and all of the devil yawning smiley emoji texts are people will enjoy yes NCAA has voted to allow student-athletes to get paid by paying them know we're not paying the athletes but they can get an agent to get endorsements from other people outside of the NCAA softball right yeah so they said we must Embrace change I'm so glad so many people have been discussing this and LeBron tweet it out it's a beautiful day for all college athletes going forward from this day on thank you guys for allowing me to bring more lights"
+    ],
+    [
+      0.9628663659095764,
+      " I'm so proud of the team at uninterrupted bringing Focus to this and to everyone who has been fighting this fight not a victory but a starts so yes that is great news. People always act like they can't be changed by we buy it but yes you have to keep on making sure you fight that fight so now you can as an athlete wrap it from names images and likenesses is Front Page News get it off your chest 800-585-1051 if you need to vent it is up right now it's The Breakfast Club good morning when I was growing up this is all the protection we need to win some and lose some"
+    ],
+    [
+      0.9846981167793274,
+      " Liam"
+    ],
+    [
+      0.9599902033805847,
+      " live to fight another day The Breakfast Club"
+    ],
+    [
+      0.9729872345924377,
+      " support for this show has brought you buy the new audible original the baddest bitch in the room by Sophia Chang in a ground bacon audio Memoir this unsung legend of the music industry chairs or Phyllis Journey as the first Asian woman in Hip Hop marriage icons from the Wu-Tang Clan A Tribe Called Quest and more jumping from Korea to Career becoming a superhero single mother and Diving back into the dating pool at 43 and then I 50 she finally decided to tell her story Raphael Saadiq Redman and more Sophia Chang said she was raised by the Wu-Tang and her Memoir she definitely bring the Ruckus listen free with a 30-day trial just go to audible.com slash the baddest"
+    ],
+    [
+      0.8743692636489868,
+      " play did your time to get it off your chest whether you mad or blessed you want to hear from you"
+    ],
+    [
+      0.9012682437896729,
+      " Locum hey get it off your chest mama"
+    ],
+    [
+      0.9381289482116699,
+      " connected back on the line is that normal what what what happened when did that happen to you yesterday and maybe like two other time did you want to call about well I wanted to again thank and believe you know you know just looking out for me when it came down to the music okay you do music that's right you remember yes I remember"
+    ],
+    [
+      0.8918308615684509,
+      " and then let me tell you when people ask you did check out the song I can't forward I was tired from overnight so you want to try you want to give it another that you want to give it another try"
+    ],
+    [
+      0.6486591100692749,
+      " John Diamond let's go"
+    ],
+    [
+      0.9727476835250854,
+      " I know I got what it takes"
+    ],
+    [
+      0.7112533450126648,
+      " I want to I want to 3 boo"
+    ],
+    [
+      0.8958011269569397,
+      " you tried it was you didn't you really did last time we tried hello who's this this is Moses from Queens"
+    ],
+    [
+      0.9162301421165466,
+      " yeah I'm just calling to find out if y'all just find out what's going on lately with the president winning ways going to be impeached"
+    ],
+    [
+      0.8584806323051453,
+      " all right I mean that's all I wanted to ask you how you Boo Boo the little YouTube page number you looking at you looking real hair from"
+    ],
+    [
+      0.9275819063186646,
+      " do you know that's right. To make a sexy guy on a show but you took over now and a half earlier in the year the Cowboys play the Giants and the you have a little bit and I won and when you double the nothing it and we're coming up again on Monday we did not get no damn $2,000 pay that man is that in bro no I don't know what you're talkin about"
+    ],
+    [
+      0.8975606560707092,
+      " General get a chance 800-585-1051 if you need to vent it is up now with the Breakfast Club good morning"
+    ],
+    [
+      0.9589245915412903,
+      " what's happening ladies Charlamagne Tha God hear you thinking about buying hair but just two things you got to consider the cost of the hair and the cost to install it don't sacrifice the quality of your hair so you can afford to put it in get the best and the game at the price you can afford with Maven right now would you buy mayvenn hair stylist put it in free that's right when you buy mayvenn hair stylist will put it in and do your hair for free text breakfast to 34649 the book your appointment with a maven hair expert Maven is backed in one by Serena Williams and then a top online Hair Company may even offer the highest-quality virgin hair with bundles starting at $59 fast free shipping. Not certified stylist that actually install your mayvenn hair just touch breakfast 23464 950 stylist hair stylist will install it for free text breakfast 34649 and book your appointment today"
+    ],
+    [
+      0.9310449361801147,
+      " wake up wake up"
+    ],
+    [
+      0.9439667463302612,
+      " matter black we want to hear from you on The Breakfast Club under 30 with 5 kids I got to work everyday and bust my back to provide for my family and my wallet was in your back and you made him a different major family you were getting it at 5:30 right you already know it but congratulations my brother is watching your back keep doing what you're doing your family appreciates you go home get their love and just keep doing what you doing you don't want Santa to kids any other guys in their lives and Joker give you what you doing about family"
+    ],
+    [
+      0.8519514799118042,
+      " DJ every what's up"
+    ],
+    [
+      0.9372683763504028,
+      " I love you so I'm riding through it I'm just coming from the gym so I'm loving all of that y'all had me on hold for like a week straight I listen to the whole show of how you work out on hold if it's us that get it off your chest and I don't listen to the old breakfast so you need you need you need to do more with your life book the last time I got to I got so many orders from New York do you know what that means to me a shout out your company now"
+    ],
+    [
+      0.8342313766479492,
+      " Yoni tighten right okay and how did they reach you"
+    ],
+    [
+      0.8910154104232788,
+      " and you only the only means program in what language are the only balls"
+    ],
+    [
+      0.954142689704895,
+      " coyote hello who's this good morning how are you this morning I was calling cuz I wanted to get it off my chest I see Charlamagne still hasn't got there are so Alameda my TV's on Commercial so I can't see if you are so I just want to call because you owe me a cat you said you were going to get me in Warren Michigan where the where the mayor said we look like chimpanzees but I got an issue going on with discrimination my son I have a special needs child and a 37 District Court out here last year and it was"
+    ],
+    [
+      0.9628351926803589,
+      " tattoos about the playground with two other kids that was a mixed culture and he might even though you know that he was the black kid playing on the playground and the only one that was taken into custody with him over the half white looking kid and he's special today to tell me everything about it you know they just took him into custody and now I'm trying to fight it through Court they try to say that it wasn't discrimination with in case it was because the officer got my fan and light and I just been trying to get advice on what do you know maybe you can you know find a good black lawyer in that City and file some type of discrimination suit it sound like to me"
+    ],
+    [
+      0.9675204753875732,
+      " Believe It or Not Charlemagne I did reach out to the n-double-acp and they end up sending me over to the Silver Rights which I put my case with them and they just actually got all the evidence for me I didn't even interview with the officers at 37 District out here and they found that the evidence that they told me was insufficient I have been trying to find my own attorney but unfortunately I'm on a fixed income so it's kind of hard to try to retain a lawyer I did you know talked to several lawyers who did say that it is discrimination but pretty much because I guess they're white cops in in the White City no one wants to touch it and I'm glad you got it off your chest with this is you give out your contact information and maybe somebody out there listening can help you more than we can you know what I mean there's anything that they can do to help out and maybe somebody was to cover this I'll pay my email is just like the bubblegum juicy F100. CH at gmail.com"
+    ],
+    [
+      0.9575943350791931,
+      " 100. CH at gmail.com somebody to reach out to you I'm sure I'm sure somebody like you guys alright Queen have a good one 800-585-1051 never being criticized for a joke that they made on Saturday Night Live was it a job do they deserve his criticism was this hurtful let's hear what you think we'll get into that next keep a lot sister breakfast locomotive"
+    ],
+    [
+      0.8992496132850647,
+      " is your time to get it off your chest what are you made of Breakfast Club"
+    ],
+    [
+      0.5634123086929321,
+      " it's a box"
+    ],
+    [
+      0.9192535877227783,
+      " this is the rumor report Angela Yee on The Breakfast Club"
+    ],
+    [
+      0.947929322719574,
+      " upset about Michael Che doing a joke that they proceeded to be transphobic about Caitlyn Jenner on Saturday Night Live number play it for you and see if you guys think that there's an issue he was basically doing the Weekend Update segment and talking about Kanye West and criticizing him listen to this yay"
+    ],
+    [
+      0.9318024516105652,
+      " Kanye West losing his mind and now I feel like he's fine he's just turning into an old white lady"
+    ],
+    [
+      0.9274653196334839,
+      " black news on earth now showing up to events and sweat pants and Orthopedic sneakers listening to Kenny G and try to get black people to like trunks like how long before the guy change his name to Kathy"
+    ],
+    [
+      0.917009711265564,
+      " now you might think that I'm crazy but about five years ago there was a fella named Bruce Jenner"
+    ],
+    [
+      0.9404854774475098,
+      " what's the problem I don't see the problem he's simply saying that, you could potentially be transitioning five years ago Caitlin did identify as a man named Bruce what's the problem send it as a punchline there wasn't even a joke and it was a dead naming is when you use a person's Foreman named prior to his or her transition so that's just a new home or god-like it off so here's a tissue they said Michael Che I'm disappointed in your comparison of Kanye West's assist man to Caitlyn Jenner trans women your comparison to Plaza trans women are just men who change their names you also Miss gendered and dad named her so okay so we'll start CNBC from now on instead of before Christ before Caitlin so it wouldn't be referring to Bruce to Caitlyn BC I don't know who that guy about that for"
+    ],
+    [
+      0.9687092304229736,
+      " I really object when he was Bruce I don't know Jesus Christ radiator retirement I read about Trump got to be outraged about something okay James he actually sent some taco trucks to the LA firefighter First Responders which was a nice thing to do it was Taco for taco Tuesday I guess wait what day is today. Dangerously close to his home but he wanted to thank all the firefighters who out there putting their lives on the line and working really hard to try to make sure that things are contained even though it looks crazy when you see all the Flames have you seen the videos of people having to drive past those wildfires alright R Kelly has been ordered to use his royalties from his music catalog to pay his ex-wife JS child support so he's been ordered"
+    ],
+    [
+      0.9686243534088135,
+      " payback that over $20,000 he owes her every single month he's gotten pretty much behind on that at one point one point remember he went to jail because he was so far behind in child support payments and now that's what he's got to do something like that but I don't know why yeah I mean listen I was in the car the other day and I'm not going to say what it was on but definitely some are Kelly can't help it if it's not if not his ranking person with Raggedy wrote and produced Mega Max which is one of the events to talk about what you can expect from HBO Max because there was one of the figure out what's happening so what we did find out about HBO Max is that it will be launching in May 2020 is going to cost you forty"
+    ],
+    [
+      0.966347336769104,
+      " 99 a month FYI was is more than Netflix standard plan and it's more than that Disney plus and Apple tv plus those Quest 699 and 499 per month so just giving you some insight that says going to have 10,000 hours of content when it launches and there will be only a handful of new projects those projects do include the Sesame Street spin-off Elmo's not too late show and Ridley Scott sci-fi series Raised by Wolves so they also played those Sizzle reels during that launched and that's what we know so far it's pretty crowded streaming market for a lot of these platforms that are large having a Apple TV Plex isn't that launched on Friday or November 1st and a brand new season written by Aaron McGruder don't know what they're going to do now that John Witherspoon has passed away I don't know who's going to play the voice of granddaddy but Jesus early next month"
+    ],
+    [
+      0.9698464274406433,
+      " that's what I think has the most excitement for people they did a Hold Steady to see which which is resonating the most Marvel movies Disney plus is mine 90 million subscribers worldwide by 2025 that's what the plan is he doesn't know what you had everybody Disney plus the whole Star Wars catalog they got all the Marvel all the new Marvel TV shows Disney plus going to beat up everybody what is BMX will be the exclusive on my friends also which is one of the most popular sitcoms and TV network and Sesame Street and I have a new original series called Max original this series called Max Originals will there have other shows too and they'll have the West Wing Pretty Little Liars The Fresh Prince of Bel-Air"
+    ],
+    [
+      0.9029931426048279,
+      " things like that South Park will be exclusive to HBO Maxwell 23 seasons and yes I can show she hog out my mom was going to kill but I can't wait to see film"
+    ],
+    [
+      0.9205344915390015,
+      " is that Matt is just alright with that is yours front page news last year was Iron Man you before that I was Black Panther everyone again this year probably when you say you needed it well you know I'm saying and you kept looking at my post and it was making me uncomfortable scratch you tomorrow at work"
+    ],
+    [
+      0.8800519108772278,
+      " shut down phone number between and I'm not one of these Liars okay my penis is 7 inches to warm up right about 2 to 3 inches to grab my basement so tell me for me or for yourself. You should know everybody T-shirt shop all right now if you want $10,000 but tell you where you can move to actually get paid $10,000"
+    ],
+    [
+      0.85002601146698,
+      " Charlamagne Tha God We Are The Breakfast Club is getting some Front Page News"
+    ],
+    [
+      0.9763606190681458,
+      " game 7 of the World Series will be played in Houston so we'll see what happens good luck Houston what else you got to talk about you if you want to get paid $10,000 you can move to Tulsa Oklahoma there is a foundation Tulsa remote it's a program funded by the George Kaiser Family Foundation the offering 250 people that paternity you can make that $10,000 just by moving to Oklahoma that you get that money in the form of a grant and it's distributed to you over the course of a year so they did Lestat program back in 2018 and more than 10,000 applications came in from more than a hundred and fifty different countries right now please and Nebraska are looking for a man who tried to open an account at a bank he had a fake 1 million dollar bills and a bacon plays told him that it wasn't any actually ended up having to leave with it but he didn't end up getting his new account they didn't report the encounter to the police are trying to find him after reviewing the Security fraud"
+    ],
+    [
+      0.962557852268219,
+      " going to get him to see if he has a mental problem or if he got scammed and he really thinks that million-dollar bill is real services in a billion dollar bill and by the way if I don't think people realize like a franchise with your mind is that I can't really my thought you really want to find out the rest of it looking to see if he needs help or if he got scammed us a call back in the day and I used to go to these cities and show people breaking into cars and it would be too low blood Chicago and he saw his bag in the back seat maybe a billion dollars again I know they don't even make 1 million dollar bills made us a thousand dollar bill you have went out there and then just know that it's not real but they they said it last forever printed for puppy circulation is a $10,000 bill"
+    ],
+    [
+      0.9579237699508667,
+      " all right now multiple people was shot at a house in Long Beach California yesterday they have not yet identified a suspect they said that the Long Beach Fire Department responded to a shooting at 10:44 p.m. last night and that incident took place during a party at that house three people were confirmed dead and 9 were taken to area hospitals all of the victims were adults who have never won a $10,000 bill front page news all right thank you busy now when we come back Byron Allen will be joining us just like a man that keeps his word style right definitely pulling up and I think you will learn a lot"
+    ],
+    [
+      0.8515225052833557,
+      " okay I will talk to you when we come back he blocked at The Breakfast Club good morning so Breakfast Club"
+    ],
+    [
+      0.9714472889900208,
+      " DJ Envy Angela Yee Charlamagne Tha God We Are The Breakfast Club you got a special guest in the building if indeed Allen good morning good morning good morning first of all thank you for having me I really appreciate no no no I'm big fan I'm a big fan you do amazing work and I really appreciate you so much so it's it's an honor to be here who is Byron Allen for people who may not be familiar who is Byron has a great question I'm trying to figure that out myself you know what I'm really blessed in so many ways you know what that those blessings when you know I think about how great America is what I think about just my simple story my mother got pregnant with me when she was 16 years old and she had me 17 days after her 17th birthday so my mother and I decided to go to La and visit some family and that ended up staying and slept on"
+    ],
+    [
+      0.9702417254447937,
+      " my sofas and my mother my mother ended up getting into UCLA and got her master's degree in cinema TV production so because my mother was at UCLA and getting her master's degree in cinema TV production and my mom ended up being an intern at NBC and then later to a guy and because she was a tour guide and we couldn't afford childcare I would go out to NBC with her and I would sit and wait for you to get off work and I would just watch Johnny Carson do The Tonight Show and I watch Red Fox do Sanford and Son and Flip Wilson do the Flip Wilson show and Richard Pryor do his specials and Freddie Prinze do cheek on the man and then I would go and watch an unknown sportscaster do the local news Bryant Gumbel unknown weatherman do the weather Pat Sajak before the Today Show on before Wheel of Fortune and I just went from Studio to Studio to studio and I thought what a wonderful way to go through life making people laugh make until"
+    ],
+    [
+      0.9663301706314087,
+      " and entertaining the world this is what I'm going to do with my life and all of that is because of education so I started doing stand-up comedy when I was about 13 14 years old and a terrific guy named Wayne Klein he saw me and he said he said I know somebody might be interested in writing with you I said I gave my phone number and I got a call like a week or two later JJ walk their clients because you want to come right some jokes with us I go I let me ask my mom so I start writing jokes with Jimmy JJ Walker went to his apartment I was 14 years old and I go into his apartment sitting there is David Letterman and Jay Leno who was sleeping in his car and they were getting two hundred bucks a week and I was gay I got $25 a joke and I was really fortunate I ended up being the youngest comedian on The Tonight Show with Johnny"
+    ],
+    [
+      0.9597548842430115,
+      " and that went really well and I remember standing behind the curtain and I said alright the next 5 minutes here after he introduces me will change my life forever and it went well and I got a number of offers and one of them was real people which ended up being the the granddaddy of reality shows so that's how I got into the business but before that it was tough I mean was you know what a single mother and there was talk about her not being able to afford me so I started making money and I don't remember how I was 10 years old I went to the supermarket Ralph's La Brea and 3rd and I went to the supermarket and I said hey can I get a job and you say how old are you in 10 years old they said you have to be at least sixteen to work here to bag groceries at what how old is that guy right there back in grocery they say 16 years old I said well I'm 10 years old and I know not to put eggs at the bottom of the bag so they said no that's not going to work"
+    ],
+    [
+      0.9770228862762451,
+      " so I was walking out of store and I saw this lady bringing a grocery basket back into the store and I said and I watch to take the basket and push it into this machine and the Machine gave her a stamp and I said hey lady what is that she goes where every time you you put up grocery Basket in this machine you take it out of the parking lot cuz they don't want grocery baskets in the parking lot you get a stamp if you get a hundred stamps you get a dollars worth of food so I just worked that parking lot and I'm coming home with food for my mother and I'm saying okay you have to worry about feeding us trying to get on Yamaha to get the money okay my money is easy my money is easy you know like I said I had to learn how to make money from the day"
+    ],
+    [
+      0.972920835018158,
+      " I started saying look at my help my mother imma make sure I'm not a burden right that's the easy part making money is easy you can figure it out especially today with the internet to buy the weather channel 300 by the way 300 million. A lot of money I think I lost my I started my company for my dining room table and I did a television special while if you eat a bunch of funny friends. I remember that and I started I sat on my dining room table and I called all 1,300 television stations and ask him to carry the show for free and on average they all told me know about 50 times and after a year of doing that I was able to squeeze out about 150 yeses I got a station a TV station and every Market from New York to Waterloo Iowa right now Tribune it said to me Byron if you get 75% of the country we will sell"
+    ],
+    [
+      0.973473310470581,
+      " your commercial time because I said to the TV station there's 14 minutes of commercial time I'll keep 7 minutes you keep 7 minutes I'll sell my 7 minutes to National advertisers you local TV station you sell your 7 minutes to local advertise on sat there for one year and just work the phones so now the problem was after I did that good old tributes that we changed our mind we're not going to give you an advance of $400,000 so you can go into production and produce this TV show so I didn't have two nickels to rub together and I decided I'm going forward and it was tough my home went in and out of foreclosure / 14 times over by the for 5 year. We're from bankruptcy the billionaire from bankruptcy the billionaire that's exactly right and finally I turn the corner and I signed up all the movie studios 2"
+    ],
+    [
+      0.9053329825401306,
+      " I advertising before that I was selling 1-800 spray-on hair and after I got the movie studios"
+    ],
+    [
+      0.6689006686210632,
+      " this plug-in is bugging"
+    ],
+    [
+      0.9624344706535339,
+      " everybody right so we kept sell it and I went and I got movie studios and I got I said imma go to soft drinks I got soft drinks and I went too fast food and I went to packaged goods and went to Pharmaceuticals and I went to automotive and I went industry by industry by industry and I went to board of directors and what the CEOs and she bars with you this is me sister that's what that mean, day and night I'm on the plane every night I'm 5:06 meeting today whatever it is and file and put another showing up so you know I know all these television station I know all these advertisements and put another show on another show next thing you know I am 43 shows on the air and then nobody came to me a guy who satellite at my networks and he came to me and he said he said I used to be the Chief Operating Officer of The Weather Channel and he said you should buy The Weather Channel because I know you don't think about the Weather Channel in LA because it's always 80° and sunny but it's a great business and it generates hundreds of millions of dollars and the other people who"
+    ],
+    [
+      0.9838182926177979,
+      " just don't want to own it anymore because they're in a partnership three-way partnership and they want to get out of the deal I said okay let me get into it we got into it I sent you know what I'm going to buy the Weather Channel and I called the guy up and I said you know we have an opportunity to buy The Weather Channel and I said it generates quite a bit of capital and I need 310 million dollars I'll see you when you join I borrowed so the guy I called him on a Friday morning he sent his top executive to see me the next business day Monday at 2 set my conference room for 4 hours he said this is one of the most amazing business stories I've ever heard I'm going to give you a commitment letter please close on the Weather Channel we did when we come back don't move its Breakfast Club good morning CJ Envy Angela Yee Charlamagne the guy we are The Breakfast Club is still kicking it with Byron Allen"
+    ],
+    [
+      0.9751076102256775,
+      " will you purchase the 11 small-market networks in USA 2018 on the first things I purchase I purchased a movie Distribution Company freestyle releasing because I want to go straight to the movie theaters cuz we as African-Americans we've never had that where we control our distribution right to the movie theaters and I bought the Grio and the Grio is an amazing African American publishing and I felt it was important in buying the Grio to own our our voice to really control our narrative try to get channel to Comedy. TV pets. TV has more pets in America cars my destination by destination travel we put out movies we put out there on 47 m down and you know this Friday November one we have our two dogs are first animated movie I told my wife when I met her almost 20 years ago she said what are you doing it's in a building the world's biggest media company the world's biggest can you do that"
+    ],
+    [
+      0.9542210102081299,
+      " black currant you know what we are definitely well when the first movies we put out when I bought a freestyle was Meet the blacks okay with Deon Taylor who I look like a princess meet the blacks are always young kids you know what I don't want to play in The Negro Leagues I'm going to play in the global weeks so one of the first things I did after buying The Weather Channel's I now if they were doing something has never been done before we're doing The Weather Channel in Espanola the first 24 hours spanish-language Weather Channel we're going to sexy sexy weatherman"
+    ],
+    [
+      0.9709042906761169,
+      " you have to make sure your position to win and I learned this from a guy God bless his soul Rodger Kane Rodger came to me once he said that I live in LA he said when you come to New York and Pitch me and I said sure Rodger King had died company called King world and he distributed Wheel of Fortune Jeopardy Oprah write all these amazing shows and I pitched and he said you really are a great salesman that meant a lot to me cuz Rodgers the most successful that point I didn't realize how bad it was out there and how much racism there was out there until I went and saw it started selling Oprah one of my first pictures when I went and Pitch the TV station to put Oprah on there a guy looked at me and said I'll never put that in on my television station and then I took the show across the street and I sold it to his competitor and I ran that guy out of town it's just listen up I know you've been calling all these television stations from your dining room table because I play golf with a lot of these guys and they're laughing and joking"
+    ],
+    [
+      0.9748613238334656,
+      " how much you call them and how they're not going to call you back and you're not good luck and he said they're not going to do business with you because you're black he said so listen up I'm having my birthday party at my beach house in New Jersey and he says everybody who owns and operates a TV stations going to be out there it goes please be at my beach house this weekend and I go here to Byron Allen see Rodger can go oh yeah the boss has been looking for you keeps coming on going where are you so I go in and he goes by Rance Allen. Let's party can get started and comes up to me that bear hug he goes he says to me he says he is not returning your phone calls and I said everybody goes watch this is Bob you want to renew Wheel of Fortune Jeopardy and Oprah in the guys just kind of nervous Lee laugh of course because if he didn't his job was over because do me a favor because call Byron back I got some business with him and then we'll talk about"
+    ],
+    [
+      0.9680969715118408,
+      " what I'm going to charge you for Wheel of Fortune Jeopardy in it and he did that for the whole and he got up on the stage we got the Four Tops and we got Elton John and we about hardest working man in Hollywood here in my backyard Byron Allen this is the kind of guy you want to do business with and I never had any game changer and I've never realized that persistent I'll tell you something that's his story that we're going through and I he taught me that because you got to position yourself to succeed and that's what he was doing so the Obama Administration came to me because these big corporations were trying to get bigger and so the Obama Administration came to me and said Comcast wants to buy this and Charter wants to buy that Bubba blah are they good corporate citizen I said the answer is not know its hell no they're not good corporate citizens they said how do you figure I said when the industry spends $70 billion-a-year licensing cable networks and"
+    ],
+    [
+      0.9685705304145813,
+      " African American owned media gets zero and I say we hear that a lot but what are you willing to do so I file these lawsuits then ended up being historic I filed a 20 billion dollar lawsuit against Comcast in a 10 billion dollar lawsuit against Charter why weren't you afraid to do that of the TV guy got to burn the knee pads and I knew we were position to fail we wouldn't have true economic inclusion so I said we got to do this the right way so we took him to court one of the judges ruled in Comcast is favored twice and the other judge rule on the Comcast lawsuit and the other judge ruled in our favor on the charger case Charter didn't like it they said let's go to the 9th circuit I said what if you going to take me to the 9th Circuit Court of Appeals I'll take Comcast to the 9th Circuit Court of Appeals so we went to the 9th Circuit Court of Appeals and then something historic app the 9th Circuit Court of Appeals ruled in our favor not once but twice on both Comcast and Charter Comcast was very upset about"
+    ],
+    [
+      0.9625666737556458,
+      " say what else we got to take this to the Supreme Court and now that's going on now that we're going to be in the Supreme Court November 13th you said you felt like that was an insult to the black community it is a big insult to the black community because the truth of the matter is what I need the black community to truly understand what happened was the Supreme Court said we're not going to look at the Byron Allen case with Comcast and Charter we pretty much agree with the 9th circuit that's a dispute between you guys but we are going to look at the Civil Rights Act of 1866 section 1981 what what is that exactly the Civil Rights Act of 1866 was put on the books and basically it says we will have bear Contracting economic inclusion in Government Contracting and in commercial Contracting because they knew that the newly freed slaves African Americans were not going to be treated freely and Commercial Contracting and Government Contracting and it was essential"
+    ],
+    [
+      0.9724113345146179,
+      " us to be integrated into the financial fiber of America it gave birth to civil rights and it is the Civil Rights statute that allows us to have economic inclusion and stop economic genocide so Comcast said in order for you or Byron anybody in me any minority to use this law you must prove that the reason we discriminate against you is 100% because you are black they're making it impossible for you to use it that is what Comcast and Charter that's what they're pushing for they're pushing for this this civil rights statute to go away now with the 9th circuit said in favor of black folks and all minorities Hispanics Asians everybody that it's not the sole reason it's the motivating factor if any part of the reason if they discriminated against you"
+    ],
+    [
+      0.9652221202850342,
+      " part of the reason now you can use it so bad is why were there in the in the Supreme Court now here's what's gonna happen Comcast went and got what's known as Amicus brief a Friend of the Court got Donald Trump's Department of Justice to write them an amicus brief saying yes let's roll minority's back to 1865 so I thought I would actually put it on the books there Donald Trump's dlj Road in Amicus brief in favor of, and yes in favor of Comcast is position against us and not only that Comcast said we'll listen we have 30 minutes in front of the Supreme Court and Byron has 30 minutes in front of the Supreme Court but you know what we're going to do we're going to give him our 30 minutes in front of Donald Trump's Supreme Court to Donald Trump's. Jack"
+    ],
+    [
+      0.9665712714195251,
+      " so now on November 13th we're standing in the Supreme Court and a Donald Trump era where we got Donald Trump's dlj arguing against us to take the original the first civil rights statute and eviscerate We Are The Breakfast Club we are Byron Allen billionaire in the building show me the federal courts aren't you concerned that this new case can undo civil rights for a whole generation it could take us back to 1865 almond Ortiz petition to bring it to the Supreme Court they did and then what they did is they made when I called institutionalized racism they treat us like we are a bunch of monkeys so here's what they say hey Byron"
+    ],
+    [
+      0.9697920083999634,
+      " drop the case to make you do drop the case and we might meet with you know that's right that's a racist offered want to kind of drop the key to just going to set us back to the whole generation Batman come to her house now cuz I didn't bring one in the in the ninth circuit twice and I didn't bring it to the Supreme Court they brought it to the Supreme Court now if you don't come to us in a racist way then you do it the same way you do it with all white people defend but see they never met with me see I asked them to meet with me but why won't you drop it and then me with any maybe needs a white person to do that mean you never asked anybody white to do that so here when we asked him to sit with us my government relations person went to the government relations person of Charter and she said he said you should sit with Byron to resolve this and she said to him we don't negotiate with terrorists"
+    ],
+    [
+      0.9674896597862244,
+      " how's the feedback man from existing civil rights organization Michael Lawson is amazing you know he said he sent the letter to Brian Roberts and David Cohen of Comcast and said this is wrong and you should sit down and we can't don't challenge our civil rights I have a meeting I'm good I'm good I'm good I'm such a special case in in your opinion why should we be so informed about it it's a very special case because it's it's the original Civil Rights Act in America it's about protecting our economic inclusion if we don't have economic inclusion then you're done you have to have access to a proper education you have to have access to economics they can really get you to be a part of the American Financial Clyburn and so this law"
+    ],
+    [
+      0.9745874404907227,
+      " was designed to give us a pathway to that this is now being taken away what can we do how can we help you can kind of ruckus can we make you know what's great question go to hear representative ask call 47 of them go to the grill if you go to the grill we will post who signed it and then you'll see who didn't go to the 47 members of the Congressional Black Caucus and ask them why didn't you sign this and what are you going to do to say to Comcast and Charter how dare you challenge our civil rights if we do drop the case then but which we want then at the end of the day they'll say within the Civil Rights Act is not at stake anymore but they're the ones who brought it and what they've done is they've upset a lot of folks in DC now you got folks in DC who are now talking about quietly working and aggressively working to break up Comcast that's not my agenda I just want them to just have the respect to sit down with"
+    ],
+    [
+      0.9682888388633728,
+      " so we can work things out but they've upset a lot of folks the n-double-acp has weighed in aggressively and there are a lot of other folks color change a toss a lot of people are weighing in and they're really now they're going to hold their representatives accountable in a lot of politicians accountable and I think you know Comcast is living in a bubble and I get it you know David Cohen gets paid over 40 million a year and has a budget over a hundred and twenty-five million to make sure that he donates money to black civil rights organizations and politicians to make sure that there are not any issues but he's got a bridge too far because people are truly upset because what's at stake are civil rights they can literally take us back to 1865 I didn't take this to the Supreme Court they're the ones who need to drop it and we're the ones that are in the right time you spent fighting this"
+    ],
+    [
+      0.964687168598175,
+      " Millions I'll even keep track of helping you besides yourself anybody saying I've spent Millions you know the real reason why I went after the Comcast and Charter have anything to do with my cable networks what happened was a gentleman wanted to do the black college sports network in partnership with the HBCU and Comcast did not accept it and that would have made a lot of money for these black colleges and it would have helped the black college sports network this is what he wanted to do that with an educated a lot of black kids and when they didn't do that that's when I came off the bench and sit okay I'm a light you up like a Christmas tree okay that was the real reason why I got into it was when I saw what happened with the black college sports network which I don't know I just knew that I just knew I may I just knew that these black like that they're all right I knew that these black"
+    ],
+    [
+      0.9645882844924927,
+      " colleges were going to benefit and he's black kids were going to get the education that they deserved and not have to pay and that's what I said and I remember I said to Tom Rutledge Charter Tom Rutledge said when you know you sued me and Bubba blah because I was trying to get my merchandise at Tom he really want to know the truth why suit you it's what I saw you in the newspaper with Al Sharpton and you said and this is no disrespect the app we have an mou a memorandum of understanding with black people and I said app who is the white guy who speaks for all black people and why do you think there's a black guy that speaks for all black people and why do you think he speaks for me and so if that white guy doesn't exist for you and that black guy doesn't exist for me and the Very idea that you can go to a black person to speak for all black people is a racist idea"
+    ],
+    [
+      0.9673707485198975,
+      " but I think what they do is they go to people like the Urban League in the n-double-acp and folks like that and they make donations and because they make donations maybe they don't speak up quite the way they should in my humble opinion what would that says shouldn't a guy like you had doing the dollars you should be given to these black organizations like the n-double-acp in early so basically you got them in your pocket and I like the way you think book the Urban League gave me the Whitney M young Jr Ward April 18th my dad's birthday of this year and I gave him a quarter of a million dollars and I told them I will give you more but we have to work together I know Comcast gives the Urban League a million bucks a year and I know it's tough for them to wean themselves off of that crack and I said guys I'm here to help I'm happy to help replace that money if not all of it but sit with me and make sure you're doing the right thing my final question this is it if what the internet says is true yes sir and Bill Cosby got room for trying to buy NBC"
+    ],
+    [
+      0.9741880893707275,
+      " free within me try to delete now I'm and like I said you know you have to burn your knee pads you can't live in fear because fear is another form of slavery I rather die on my feet than my knees and don't live in fear God got me God loves me God put me here to do great things and I will not let God down when I finally go to heaven and God says to me why did you help feed my hungry people why didn't you help educate my people that were not getting education why didn't you help heal my sick children because I must be real soon. You're my father and I want you to be proud of me and as long as I know you are my life no one can hurt me and I am Unstoppable by for me. I just so you know 50 Cent's mad at Brian Roberts as well he posted him on his social media to"
+    ],
+    [
+      0.9536875486373901,
+      " how much David Gilmour more fundamental and addictive to a male then the burger listen up gone to a lot of faces when it comes to Burgers I used to eat red meat I used to like my burgers with soy sauce then I stopped then I said it in Turkey Burgers then I thought that now eat plant-based burgers do you ever wonder what goes into making an iconic burger if you're looking for answers go watch the burger show presented by Simple Mobile TuneIn Tuesdays at 11 a.m. on youtube.com first we Feast to learn about the best and most delicious burgers in the US from Regional Classics in your hometown too long time fast-food Legends getting all this stuff your favorite celebs like Seth Rogen Ty Burrell and Tony Hawk don't forget to head to youtube.com first we Feast to catch all the episodes"
+    ],
+    [
+      0.8540936708450317,
+      " is the rumor report on The Breakfast Club"
+    ],
+    [
+      0.9282302260398865,
+      " what Kanye West has gotten some responses for interview that he's been doing lately and one of those things that he talked about was Plan B an abortion of the democratic party and how African Americans are brainwashed into killing babies here's what he said he brainwashed out here taking a plan B Lauren off boats making us aboard our children God should not kill"
+    ],
+    [
+      0.9735338687896729,
+      " alright so plan B the representative representative for foundation consumer Healthcare that's a company that makes Plan B says that they're pill is in no way connected to the process of abortion so they want to make sure that people know that when you put those two together when he was talking about abortion they said Plan B emergency contraception is a safe and effective backup option when used as directed after unprotected sex on birth control failure it prevents pregnancy before it starts by delaying ovulation so hold a interest in Democrats usually have plans and they usually have plans that benefit the black and brown community so that's why black and brown people vote Democrat most of the time I talked about his tax returns and how now that he has given himself to God he's getting money back"
+    ],
+    [
+      0.9768840670585632,
+      " this year I looked up and I just got 68 million dollars return to me on my tax returns and people say I don't talk about these numbers know people need to hear someone that have been put into debt by the system talk about these kind of numbers not at their service to Christ so you think your Awakening your spiritual awakening is cause of My Success absolutely I don't see nothing wrong with you just say glory to God all the time for financial blessings I have people give glory to God for Success all the time help if I was 30 + millions of dollars in that last year and this year on my tax return back I'll be screaming look at God to have you watched Deon Cole stand up comedy he talks a lot about how people how we thank God for certain things like I don't know if that was God that did that"
+    ],
+    [
+      0.9656690955162048,
+      " look up God tell me if you was 30 + million dollars in debt one year and then it's me happy every year I had to pay this year to you too but I ain't for the truck was on the bamboo room podcast and he was talking about his own music again he was talking about his guilty pleasures to when it comes to music that he listens to what does way listen to besides himself all the time because I don't listen to no other hip hop with my dams outlier of course she got Anita Baker you got Keith Sweat you got Marvin Gaye you got to buy money you got text 9 if you want to call that hip-hop then"
+    ],
+    [
+      0.9529815316200256,
+      " you got to check my you got Judas Priest you got Lamb of God Nirvana Blink 182 in the Drake and listen to Nicki talk about being a host and you listen to Jay-Z like you really been waiting over to the NOAA weather app with him he said he only said he wants to know whether I'm going to self all the time because I don't listen to wait is a very unique individual he's a he's a one-of-a-kind you don't got to try that hard to be that different"
+    ],
+    [
+      0.9443485736846924,
+      " okay well that's your rumor report about the play Redeemer. Download get to know man full after the hour we really need to discuss a patient's you know sometimes I think I have too much of it when I hear stories like this but we'll talk about it for after that I'll try and escape a locked at The Breakfast Club come on"
+    ],
+    [
+      0.9846507906913757,
+      " Donkey of the Day"
+    ],
+    [
+      0.8721867203712463,
+      " I'm a Democrat so being Donkey of the Day is a little bit of a"
+    ],
+    [
+      0.9751827716827393,
+      " club pictures I've been called a lot of my 23 years that donkey of the day is a new one that's right don't get additional turn herself in with everyone who listens to us in Kentucky or on in Lexington 1039 the real and 93 1 in Louisville respectively drop one of Clues bombs for Kentucky baby all right hopefully this woman can hear the sound of my voice but you know sometimes I I hear these stories and ask myself that's what patients there really people out there who have very short fuses you never know what people are going through that's why you have to be kind to everyone because in America 2019 you just don't know what makes a person off now I don't know this woman's name and reason I don't know her name is because as of right now she has not been caught but we have to catch this woman because clearly she needs help and clearly this woman has some type of anger management issues she is fragile and is in need of some healing because it's always tell you on this radio drama is real and when you don't deal with your trauma when you don't deal with that hurt that exists within you"
+    ],
+    [
+      0.9572764039039612,
+      " you'll find healing for that paint it just end up redistribution that pain the other people and trust me young lady if you can hear me I feel your pain all right in your paid I guarantee that has nothing to do with why police are currently looking for you there is something deeper going on with you that called you to do what you did and that's why I even though you must pay for your crime you clearly need some type of psychological emotional help what did this young lady do let's go to WLKY CBS 32 for the report to find out Shelby County dispatch confirm to Shelbyville police"
+    ],
+    [
+      0.8309564590454102,
+      " call to the KFC for"
+    ],
+    [
+      0.9639233350753784,
+      " troubleshooting but so far the department hasn't released any details a message was taped to the door Monday evening saying the restaurant was closed but offered no explanation when it says Tell WLKY of female customer fired a shot through the window after she didn't receive on napkin and Fork the restaurant has several cameras in the Drive-Thru and Witnesses tell us police have a clear picture of the vehicle but so far those images have not been released the first I've never heard somebody shooting up a place over a napkin and fork okay plus I didn't know if he was still worship know I thought Popeyes Chicken in Niger cookies with the Undisputed king of getting people to commit random acts of violence and aggression over chicken all right now I look at the last time I had a chance he was in 2017 on family vacation in Grenada and it was all right before that I haven't had it in years but my wife would like to get the free food and that's what I ordered as well and I love"
+    ],
+    [
+      0.9668752551078796,
+      " but that's the key word night okay you can't fight no paper towels and no fault babe I mean you can but I wasn't invited and I have heard of people turning violent because you know what fast food restaurants are at their order wrong but I've never heard of someone getting violent over a fork and some of that some napkins now what the hell do you need a phone when you're driving and you pull up to a fast food restaurant you order anything you need a fart for if you driving you do Steve what potatoes go to drive these potatoes, maybe I could use a few driving you pull up the KFC to order a pot pie or mashed potatoes unless you headed home if you can be in the car for a while you order things you can eat while you driving your the crispy Colonel sandwich you always wanted a $5 fill ups and instead of mashed potatoes"
+    ],
+    [
+      0.9705530405044556,
+      " get to watches OK better Anita's and drivers do not order things you need a fork or spoon for it but none of that at the point young lady turn yourself in and get the help you need because either you got anger issues are you lack patience maybe a combination of the tooth okay but I need to know who hurt you all right who aren't you that would make you want to hurt the colonel in this proof over condiments all right you looking shots when you should be licking your fingers and I want you to turn yourself in and get the help you need please if you're in Kentucky and you know this young lady encourage her to turn herself in before the next fast food restaurant she shoots up may be employed by you please give this unidentified woman at KFC the sweet sounds of the hamiltones"
+    ],
+    [
+      0.6417943835258484,
+      " how old is she"
+    ],
+    [
+      0.9713297486305237,
+      " don't you hate when you get a soda or a juice or lemonade and they don't give you your straw hat right now, be honest with you I could understand the song the Lord by Jonathan disrespectful disrespectful I mean don't get me wrong sometimes fast food workers forget but when you order a drink and you don't give me a straw you trying to play me bro but now I might have to open it up while I'm driving I'm trying to take a sip and I'm spilled stuff all over my shirt going somewhere I need to be clean right you know you trying to play me but I could eat mashed potatoes while you driving till body does that Steven the white Demon Knight Rises Christ the day now when we come back ask 800-585-1051 if you need relationship advice to any type of advice call you now it's The Breakfast Club come on"
+    ],
+    [
+      0.8943459987640381,
+      " relationship advice need personal advice just need real advice all up now for asking"
+    ],
+    [
+      0.920127809047699,
+      " see all the Breakfast Club it's time for asking hello who's this"
+    ],
+    [
+      0.9580546021461487,
+      " is Ashley hey Ashley what's your question for you she drinks a lot and really hard on him cuz he's in between the both of us a lot of arguing and not talking to each other and she has a lot to do with that are in a relationship and a man I had to date a guy when time whose mother asks you to drink a lot and then she would always call him and then they start arguing and so I had a similar situation she never got disrespectful with me though that when you say she's the cost for a lot of arguments in your relationship what is that what are the arguments that y'all are having"
+    ],
+    [
+      0.9690364599227905,
+      " but it's like you know I'm just not used to that shows a one thing and forget that she cited and then you know what I mean like it's just it's almost like a different person everyday have to deal with that he lives with her now we were living together but we just have arguing over him just like always going over there to see her and said I like hanging out with me being around her but I just don't like being around her so you know about energy that she gives off in that Vibe I know she talks about me to him and how she doesn't want me to be with him and rather him be at his child mother and things like that it's just those things cause I didn't said to him and him are you know just things that are just like really out of pocket so here's a couple of things here never won a sickness it's a disease right and and so"
+    ],
+    [
+      0.9619356393814087,
+      " do feel like she saying those things but you have to look at it from the fact that she's not well so instead of taking that because I know that's a hurtful thing for someone is saying you're thinking that she really feels that way she saying those things to you because she's not well with herself and so I think when she's lashing out at you like that that's more of a reflection on her not feeling well about what she's going through so I want you to understand that secondly your man has to figure out what he's going to do to deal with this issue obviously you know an ideal situation you got to get along but y'all don't right now is he trying to get her some help I don't know I feel like it was kind of in denial about her and it's so hard to tell her things about herself it's just like tired of being the dead Boris at this point you know she doesn't believe"
+    ],
+    [
+      0.9770419597625732,
+      " yeah she's an adult we can only force her to do anything if you talk to her she is very defensive so you know it's it's kind of just a part I get a car for him to deal with as well but it's like you know I take a side but it now and yeah you can't say pick a side either I think it is important for you to be supportive of your man and when I say being supportive of your man understand that I'm sure it's difficult for him to have to deal with this to be in this situation and instead of you guys coming from a place where it's me against you over her you have to be like I'm supporting you because I know this is difficult for you and it is difficult for me so can we support each other to make sure that this doesn't tear us apart and how can we try to make sure that we get her some type of help because she really does need it and I do care and I do want to be with you and I do feel like I do love him and I die you know I definitely keep him in mind whenever I'm trying to deal with"
+    ],
+    [
+      0.9699190258979797,
+      " you know I'll never be able to be around your mom we're in a relationship so and actually talk to somebody and then when he's comfortable with that he should encourage his mother to come with him as well. Best of luck to you and don't give up on your man and listen is hard sometimes outside forces affect our relationship and they shouldn't everything else can be great it could be that one thing and sometimes it's just your approach but all right good luck asking me 800-585-1051 if you need relationship advice hit you now is The Breakfast Club good morning"
+    ],
+    [
+      0.8699474334716797,
+      " relationship advice need personal advice just really fights call up now for asking"
+    ],
+    [
+      0.96248859167099,
+      " what is DJ Envy Angela Yee Charlamagne Tha God We Are The Breakfast Club with in the middle of a skinny hello who's this what's going on I got a question this is kind of personal but I figured you was the first person that I've been with my girlfriend now for about 13 years and I never made her orgasm and I'm just wondering would that make a woman want to cheat on a man or how she's already cheated on the man that had better game than me but yeah I don't know that that's who now can she orgasm has she ever had one know she has not by herself"
+    ],
+    [
+      0.9595320224761963,
+      " out of the thirteen years as always performing oral on her she did reach it might find you know there's some women who really can orgasm that way much easier and so I think for me personally as long as I get when I don't care if it's my moral or from when we have intercourse I'm fine either way okay so I guess my question is over a 13 years fan if your word man was only able to make you orgasm two times and never found his Johnson only from his only found his tongue with that make up a Woman Wonder or are we know this issue the me everyday and that's good cuz you care I'm going to tell you this you know we can have raised such as women without necessarily having an orgasm and still feel fulfilled and I having an orgasm is great but I think it's different"
+    ],
+    [
+      0.9515234231948853,
+      " I will always feel like when a man when a man has an orgasm we're done before a woman sometimes it doesn't happen and it still can be a great experience now why don't you do oral more and make her orgasm that way more Abdul do oral a lot I ask these white doing oral the problem is she doesn't finish every time I do or try to do it this that same way you know keep everything the same and it just doesn't seem to be enjoying it but never get to spend did you ask her if you always say that she doesn't know she always say most women don't and I just I just find it hard to believe that definitely women who have never had this women who have never had and I understand that you feel like frustrated about it that she masturbate that might be helpful if she knows what make"
+    ],
+    [
+      0.9563140869140625,
+      " I have an orgasim she can help you figure that out for you maybe she'll get into it you guys can get a little freaky about to show you oh yeah yeah you guys got to have fun with your birth of us sometimes I think we also has women you know when we're having sex we can be self-conscious about things we could be thinking too hard there might be things that we're holding back and we don't feel completely comfortable as she comfortable with her body I think she's comfortable with her body but as far as doing certain things like being flamboyant showing her body off where promiscuous type closing now she's not that type of thing about in the house when you guys are having sex and she very comfortable with her body"
+    ],
+    [
+      0.9761672616004944,
+      " I would think they okay yeah I would think that you guys should figure out just Explore her body let her Explore her body herself I think that could be really fun for you both for her to figure out what she needs that might help her teach you what it is that she needs and it might make her more relaxed I think it's safe to say that she doesn't masterbate it all without me knowing it had that conversation cuz I think that could be really helpful feel like I've had great sex sometimes and not had an orgasm from it so that's okay now what I like to orgasm every time yeah it doesn't always happen that doesn't mean it's bad if it doesn't okay but has a sweet offer that you called. Good luck good luck brother 800-585-1051 if you need advice from you you can get at any time"
+    ],
+    [
+      0.8517768979072571,
+      " giving us an update and talking about how he views life differently after his accident"
+    ],
+    [
+      0.8777160048484802,
+      " is DJ Envy Angela Yee Charlamagne Tha God We Are The Breakfast Club looking to the room is let's talk Kevin Hart"
+    ],
+    [
+      0.9294213056564331,
+      " Angelina media and he talks about his whole recovery process how is life is changed since that accident that he had September 1st in Malibu Hills"
+    ],
+    [
+      0.9677969813346863,
+      " no matter how much you think you can control you're not in control Maggie end of the day it can all be over man you know when God talks you got to listen in this case I honestly feel like God basically told me to sit down when we moving too fast you doing too much sometimes you can't see the things that you're meant to say but after my accident I see things differently I see Life from a whole new perspective to my appreciation for life is through the roof I write the person that was driving the car is Jared Black he's not going to be suing him and he was the person at the wheel his fiance jerabek fiance Rebecca broxterman was also in the car seat the personal trainer of Kevin Hart's wife Eniko I didn't ever want to show 22nd and that's probably very true"
+    ],
+    [
+      0.9691064357757568,
+      " alright Tamron Hall she is talking on her talk show with Dan pipe and bring who co-wrote Prince's new Memoir the beautiful ones and she talks about her relationship with Prince she doesn't normally give up too much information but she did reveal that they would talk about their outfits every single morning and she actually ended up on the cover of one of his songs if I could get your attention his single from 2015 after she sent him a selfie with into this selfie one day and he been stole my selfie and used it as a cover that's right for the internet you're on the cover of Prince's song If I could get your attention so we have been very close many years by now and he wrote me an email in relationship I caught myself doing and I never supposed to be I never share my emails with friends I have hundreds of them is not a thousand cuz I don't like you want to feel like I'm exploiting this via email address"
+    ],
+    [
+      0.9484362006187439,
+      " because it's touching your body and I'm not use that one either. Now he knows my wife wearing right now I'll talk to you but doesn't want to share too much but this book a beautiful ones that came out yesterday so it's about Prince and his journey to start them and so she's just speaking with one of the riders in that book show by the way but I really do enjoy the show. For me now let's talk about van Lathan while he was on Jemele Hill show unbothered and he talks about leaving TMZ after that whole controversial situation where did it look like he should have been let go for that but here's what he said personally am not mad at anyone this was a situation with me to wear"
+    ],
+    [
+      0.9647026658058167,
+      " I was planning more things and my future like at the end of the year I was probably that wasn't probably I was going to leave anyway the relationships in the stuff that I have with with the people that are there were all very genuine like this past weekend my son my co-workers threw me a going-away party Mike was there so it's a weird situation from from that's at the front for not standing you really was leaving anyway to his contract is up in January so I mean I don't think so whether you want to make a change or not the universe is going to force you to make one it seems to me like everybody wants to work with Van Lathan ass I'm sure he'll be perfectly fine realtor sky's the limit on Chamblee 5 more than 5 years old now I always think that Gabrielle Union looks amazing and she said her secret is"
+    ],
+    [
+      0.9696438312530518,
+      " what are tequila boundaries and an extra helping of accountability so yes I agree with that in a besides all of that she went on Instagram and she said this is 47 some nuggets I've learned to embrace As Long As I Got A plateful or not I'm going to try to make sure everybody eats if the teacher offer me at your whack a stable means I can't sleep at night that's a hard pass for me I'll go to my grave creating the world's biggest most inclusive table censoring the voices lies and best inches of our most marginalized people then she said evolution is a beautiful thing just cuz you are dumb ass doesn't mean you have to stay a dumbass and grow and evolve I heard there's a guard established everybody say this is my not cuz this is my this is sixty-something no not for everybody"
+    ],
+    [
+      0.95977783203125,
+      " congratulations and happy birthday again like I said to Gabrielle Union all right I'm Angela Yee and that is your room a report to alright Revolt will see you tomorrow everybody else to People's Choice mix is up next is The Breakfast Club good morning TJ NV Angela Yee Charlamagne Tha God We Are The Breakfast Club good morning shout to Byron Allen for doing this morning and I'll agree conversation very long conversation the full conversation is up on Breakfast Club YouTube video coming in just going to give us some of the game of how you got to where he is a great information I think I should go check it out absolutely the rapper what about the black people doing things in different spaces that's what I think Byron Allen represents okay you got to show you got to show kids that it's other career options out there cuz I know where the black people are very visible people"
+    ],
+    [
+      0.9643581509590149,
+      " people that we've seen on TV who are usually successful are usually an entertainment or Athletics I mean by now and isn't entertainment thing that you kept stressing the most education business all right cuz it's one thing to start off of the talents another become a Byron Allen has that's right it's right that Shelter by Rhode Island that man is is what he's created in an investment he's made a round of applause and I want to salute old saying Almighty Manilow saying on Mighty send me that drippy ass apple pie early this week and they they came all the way from East Atlanta after they heard me shout them out and it was outside of the radio station with 20 fresh apple pie that was something they got music I'm a list I actually am going to listen to their music cuz I am very I'm just intrigued now okay cuz I'm like apple pies different I've never had somebody bring me an apple pie"
+    ],
+    [
+      0.9649441838264465,
+      " I'm not worried but Imma give him by way of somebody who deserves it or needs it like a veteran homeless veteran is nothing but I'm going to listen to music is The Breakfast Club come on everybody is DJ Envy Angela Yee Charlamagne Tha God We Are The Breakfast Club that you you heading out to Atlanta right ahead theater and we are doing Lyft service Last of Me Stephanie's easy Lori I will be there alongside yfn Lucci trouble Tokyo jetz Johnny Blaze other surprises as well so make sure you guys come and join us what it what about you are you doing nothing I'm going to stop and go home and get some sleep so I got one thing to do today but the beauty of this week is that I don't have to fly know where I don't have to go nowhere I'm right here local I get to pick my daughter up from cheerleading and go to my other daughter preschool like this is life is amazing you hear me well the only bad thing is is tomorrow is Halloween"
+    ],
+    [
+      0.9388113617897034,
+      " supposed to be raining and nasty I still got to take the kids out how some about all the chance and we going to be a good time to notice simply this man is from Ralph Waldo Emerson actually what lies behind you and what lies in front of you pales in comparison to what's inside you to hear from the new bear and a banjo podcast available now on the iHeartRadio app or wherever you get Podcast here is a sneak peek on the road back to Angola prison the four Travelers came up on a wagon pulled by two old work horses with a large figure wrapped in a prison blanket holding the reins as they pulled closer they saw it was a man called bear"
+    ],
+    [
+      0.89127117395401,
+      " support for bear in a banjo comes from one medical with same-day appointments convenient locations in 24/7 virtual Care One medical makes it easy to talk to her provider about anything is it one medical. Com to learn more"
+    ]
+  ]
+}

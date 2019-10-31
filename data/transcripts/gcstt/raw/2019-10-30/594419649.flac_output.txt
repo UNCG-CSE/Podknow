@@ -1,0 +1,410 @@
+{
+  "Stats": {
+    "PodcastID": "594419649.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 4503.431438,
+    "OriginalFileSize": 72603085,
+    "FlacFileSize": 381117961,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1540.5615348815918,
+    "DownloadSuccessful": "85.164302110672"
+  },
+  "Transcripts": [
+    [
+      0.9720775485038757,
+      "this is the BiggerPockets podcast show 353 I took the five grand bought the property in the path of growth and exchanged it into the very easy all I get is 12 paychecks we paid your taxes we paid your insurance and a 1099 per year from them you're listening to BiggerPockets radio simplifying real estate for investors large and small right place stay tuned NBC sure to join them millions of others who have benefited from biggerpockets.com your home for real estate investing online post to the BiggerPockets podcast here with my co-host mr. at David Green David Green welcome to the show again buddy what's up what's up I had a really good weekend I actually I was"
+    ],
+    [
+      0.968137800693512,
+      "a speaker at a real estate conference in San Ramon and then I went to my brother-in-law's wedding and I have two flips that we put under contract today with my partner so those should both be pretty good in the Bay Area you're on a roll that's awesome dude contract last week but I'll tell you more about that later in the story and how that's going to give me a Tesla kind of cool I tell that story on today's interview with our guest Tim Rhodes Road it was on the show back on episode I don't remember but it was one that we did like a will see if Kevin can't find the message comes our producer he's awesome what we do that group interview with like Josh and David Osborne Tim and you and me on stage with your life so I could get the kids in the wood guy get the goods in the woods guy if you remember back to Amber tinted animazing story of your mentors early on is David tells a story to them to show as well but how he got you in the real estate so"
+    ],
+    [
+      0.9587967395782471,
+      "so a real fit an amazing real estate agent a real estate investor and was able to retire from his real thin at 40 because of how awesome you did it and then continue to do some more real estate investing and he does a ton of great service today especially my favorite thing is when he tells the story of how to go how we went from five thousand bucks in cash to making $5,000 a month in cash flow that story was fantastic and we cover a lot of likes intricate part of that but I'm perfectly apply to everybody listening today if you're into Financial Freedom going to love it so without further I do with the more I do get to today's"
+    ],
+    [
+      0.9453892707824707,
+      "that's so funny that Bigger Pockets and it's really expensive it is a I mean I guess you could call it like a goal tracker action taking tracker whatever help you reach your goal track your progress and hold yourself accountable to help you reach your big goals of your 90-day goals of using the 90 days and intention journal or the intention Journal help you set up daily have it so you can track your habits are you doing regularly Dragon Age free you going to love it just go to biggerpockets.com login to your account and it's right there on your dashboard of you. Go to your dashboard on BiggerPockets you're going to find it under the section says my goals to check it out again Kwik Trip is the fire starter at 3:53 in case of any questions will put a little bit more information"
+    ],
+    [
+      0.8831144571304321,
+      "well let's see no more days that I do today show sponsor"
+    ],
+    [
+      0.9800019264221191,
+      " our sponsor this week is roofstock a company that a lot of you know about as the number one Marketplace for buying cash flowing single-family rental homes but did you know that roofstock also enabled investors to self the rental properties with the tenant in place that means No Vacancy repair cost for loft rental income unlike traditional Brokers that charge 6% to sell a property the roof. Commission is only two and a half percent and you don't need to have the tenant vacate the property meaning you continue receiving rent while the property is being marketed World stock markets are property to a vast network of global Real Estate Investors who buy sight unseen and a majority the property sold on the roadside market place to do so within 15 days plus Rose. To take care of all the busy work for you like Gathering the property information and creating an attractive listing dates are free property valuation and learn more about the benefits of selling your rental property through roof. Visit roofstock.com cell that's roofstock roofstock. Com"
+    ],
+    [
+      0.7707359790802002,
+      " cell"
+    ],
+    [
+      0.9727088809013367,
+      " hey if you're listening to the show you probably heard of self-directed Ira and how they can provide a huge source of capital for your deals but how do you apply this concept to your own investing please wait to learn from someone who's experienced success and thanks to Equity Trust have an easy way for you to learn from an investor who's averaged 40% returns and just 16 months just go to info. Trust.com BiggerPockets for a free webinar with a real estate investor named Mark the marks and explained how he overcame his hesitation and used a self-directed IRA to make a $100,000 profit does this is the link for on-demand access to the interview and we'll put this in the show nose to you'll learn how Mark managed to invest through his Ira how you build a team to scale his strategy and what he would do differently with his retirement vesting if you had the chance though the interview was free again just visit info info. Trust btc.com BiggerPockets today here's a link again info. Trust ATC."
+    ],
+    [
+      0.7388913035392761,
+      " come BiggerPockets"
+    ],
+    [
+      0.8287114500999451,
+      " all right and now it's time for his interview with him really wants you to it"
+    ],
+    [
+      0.9693961143493652,
+      " broadcast band good to have you here and thanks for having me oh my gosh I am so looking forward to this to good friends talking real estate what can be better I can be better well last night on the show I was part of a group it was wack when we did the new episodes recorded live and you are one a panel of different individuals along with David Osborne. Ivan and Josh dorkin was there me and David and I'm probably forgetting somebody else but it was awesome but people want to know more about you you are the only one of the group that had not yet been on the show and you're like a legit real estate guy and so I know I'm excited to take you to your story little bit cuz I don't want to bother you know you're skiing your goods in the woods and your and your charity work but I don't know more about your real syphilis at the very beginning how did you even get into this world of real estate investing well I said started because I got shoes when I was a kid I love Monopoly I loved just you know how some of us are born with that entrepreneurial spirit and just kind of see the whole world"
+    ],
+    [
+      0.9746735095977783,
+      " so I guess it started at a very young age but I got off to a rough start barely graduated high school never went to college net 25 on my part-time grocery clerk pay addresses on people's curves to buy diapers for my two small kids then I started listing and selling real estate and was investing cash I guess I started investing back when I was a grocery clerk before I started listen silent so at 8 at a tender young age I was buying properties so why real estate I like a young age what got you into that like is your family into it or anything like that my mom's listed and sold and she took me to a Wayne Dyer event and a Tom Hopkins Advanced laser old again Isaac Ziegler and Sia this is back in the 70s so yeah I started going to events like that and learn in just just"
+    ],
+    [
+      0.9770373106002808,
+      " the things that you could do to a Good Lovin and invest wisely to get somewhere with your life so I think I really like that if it is to be it's up to me concept of of how to do things after being a union grocery clerk very first person they got me introduce the real estate like I literally would not be on this podcast I would not have investment properties I would not be an agent if it wasn't for Tim Road who reached out to me while I was working in a restaurant and said hey I heard that you're really good and you got some Talent do you want to come Prospect for me and I said yes because I knew that Tim Road was the guy from all the commercials that played like you used to have this commercial as a real estate agent which is what he got into after being a grocery clerk that they would sing at coliseum Road and start packing and so I didn't know what a prospect or was I just know like when Tim Rhodes says do you want to do this you better say"
+    ],
+    [
+      0.9751390218734741,
+      " and that is literally how I got my first experience with cold calling with understanding real estate Tim would have me running around and looking at pre foreclosures and talking to people knocking on doors having difficult conversations with someone who's been accounted by creditors and trying to buy their house so we can flip it before the bank took it it was my first exposure before BiggerPockets before anything and it did really stayed in touch with me over the years I just encouraged me to keep by rentals I really was nobody else that I had to keep me in this game and Tim was the guy that that basically had me in and then he got me into gobundance and you know things kind of took off from there so Tim's one of the people that I look at like like my my first and my biggest Mentor that I ever had the most influential person and I'm really curious if you can share how you went from a high-energy grocery clerk that was just like blowing through a very low paying job in to thicken I save energy in applying and it's a real estate sales where you made all the money that you didn't invested yeah that's a really good question David because"
+    ],
+    [
+      0.96961909532547,
+      " you know what is a lot of us find ourselves we know the fit doesn't fit where we are at it's like we haven't put the key in and turn that lock and so here I am a grocery clerk and a very first Sanibel person who cares about people who likes people who likes coming through and it just didn't the job didn't fit so so I get into real estate in the first weekend I'm in real estate I hold an open house I sell it and those people need a list of like oh my goodness it is I found since you know so so I'm trying to just calm down cuz I just made more that weekend in the last six months is a grocery so then my mind just starts the wheels are turning and in high school I never paid attention cuz I couldn't understand the periodic tables I didn't understand algebra"
+    ],
+    [
+      0.9666678309440613,
+      " but I but I learn basic English basic math the things that are just the basics of everything I guess and then and then looked at what the grocery business to be delivered Sunshine service that was their motto so when I sold real estate I was going to work harder than everybody else I was going to learn everything I could do about the business and so I just concentrated on coming through for people and then very early on back before anybody had teams I got an assistant I paid Diane McClanahan 48 thousand a year and 4 weeks paid vacation my second year in the business to manage my escrows and basically manage the team so I could go out and do what I just talked to a lot of people and analyst homes right and my income went from"
+    ],
+    [
+      0.912964403629303,
+      " the next year and I never look back and just always had people around me doing all the things I suck at so I could get out and meet with people come through and then also go out and look for properties for myself"
+    ],
+    [
+      0.9775939583778381,
+      " that's cool yeah you know that that concept of always trying to find other people to do the things you suck at is one of those like it seems so obvious to people who are successful like you know cuz I feel like that's not obvious like you don't know that like I was like growing up like work on your weaknesses like if you're not good at batting bat more like just an hour to put at The Dugout got in a river out of the phrase eventually when I look at successful people are not out there going no well I'm not very good at this so I better get better at it but it will take a class on accounting so I can become a better accounting for myself and send them how do I add I just if I'd heard it once I interview with a billionaire in the billionaire had mentioned why I guess I heard somebody who told me the story of a billionaire who said that their number one skill in life is being a quitter everything they do in life is to try to quit because I said I want somebody else to do with who's better than I can so I'll build something and I want to quit that position as soon as possible so somebody else can come and do a better then I can move on to the next thing"
+    ],
+    [
+      0.9664410352706909,
+      " we're looking at that concept scale pox about you master something and then you find somebody under you and hopefully it's rare that somebody over you is supervising that in your on to the next business last David Osborne 101 by the way you're making good money is an agent and is logical in the shower right now that are making good money as an agent or the dentist or the doctor or that you know dock worker whatever they make a decent income how did you translate that income into real estate investing in rentals RI flipping houses what were you doing in the beginning risk tolerance level and it's good to know you're around my 36 year old son has a very low risk tolerance level and I begged him and got him into a few Investments of Andrew Cushman switch worked out really good for me is very happy"
+    ],
+    [
+      0.9601526856422424,
+      " I had an extremely high risk tolerance level fine properties I have no money to buy and write long-ass grows and then just tell myself all right you got to make an extra twenty-five Grand in the next four months and then just just busted and sell a few extra homes and make an extra $18,446 on a credit card Annie mac and cheese and peanut butter and jelly sandwiches for three months out on the roof style and and then go do it again and I just never had any savings or any you know I was just for for a 15-year. Just always betting on my ability to earn in our ability to tighten our belts if we needed to but just kind of have to hammer down you know and I never knew why just fell"
+    ],
+    [
+      0.9417455792427063,
+      " is this a fun game just mention to him was what you call playing defense that you you live beneath your means can you share a little bit about what your mindset was once the money started rolling in from Real Estate Sales I mean I kind of skipped over that but you were just the man in Manteca I mean to this day people talk about you like Babe Ruth Kimbrough the how many houses you salt I'm pretty sure you are selling houses and you didn't even know is your listing you were just like fanatical about that like if somebody had said hey were thinking about selling be called Bobby like stop right there I'm coming over right now and I've got stories just have you sign the contract yet to be right over there to please start rolling from that how did you manage to stay beneath your means when motivated"
+    ],
+    [
+      0.9618474245071411,
+      " huge point in all of this you know this is The Wealthy Barber The Millionaire Next Door you know defense wins championships and what I did that few others did the one life ABCs my mind my income went up drastically from grocery clerk to successful agent a very successful agent I played Ironclad defense I drove the same car for 10 years for like three decades in a row I never I've never worn bling or cared about what anybody thought and just never I never bought Weston's I never spent a ton of money on marketing I shouldn't say that I just didn't want anyone else 3262 170th at 3:25 to 400 never made a ton of money my expenses went from 20 to 25 to 30 to 35."
+    ],
+    [
+      0.9614351391792297,
+      " 42 maybe 60 so so which we have a huge gap in left to invest and I just invested wisely and what I knew best local real estate from 1985 to 2005 when I sold into our Cali craze and cashed out of her that's awesome so hot you are buying single-family houses are rental I mean multi-family where we started off with single families and first thing I bought was a triple wide mobile homes while while I was at a grocery clerk and and that it was a bank repo it was worth 2010 Grand down I-25 I borrowed 5 from Merv King the math the grocery manager and I and I kept that for a rental when I bought my first single family still is"
+    ],
+    [
+      0.9657345414161682,
+      " grocery clerk come to think of that and then right when I got into real estate we moved two blocks away and I kept that one for a rental so then I started buying anything I could get my hands on single-family duplexes I did really well with a few properties with land in the path of gross and one one story like to tell is how I turned $5,000 into 5000 a month over to real estate deals to tell that I'm a real estate broker which is it which is a really good gig to B&N you know that I say Realtors find the best deals while you're right you're in the trenches and you have your eyes wide open so I had a really good name for myself and people would call me up and I had a very good trust in the community and and so I've come to their house and I'd say I can wear two hats I could either list your home and get you top dollar or I could just buy it and"
+    ],
+    [
+      0.9671189188957214,
+      " and make it a very easy deal but once I'd list your home I can never buy it cuz I have a fiduciary duty at that point so I have this couple say we just want to we can go buy this new home and I we just take over our pay our home subject to so I did I pay him five grand I took over there home I put a tenant in there I kept it for a year this is right in and they dated wonderful was right at a time when our Marco is starting to take off and I bought a new home that went up drastically form so it's great for them so I bought it and a year later I exchanged it into a piece of land in the path of growth that have been on the market for probably eight years on busy street called Louise Avenue right near I-5 my trance from Mexico to Canada and there was a Hampton Inn coming in right next to it and strip center"
+    ],
+    [
+      0.9679746031761169,
+      " then on the other side of it and I knew this from following what's going on in my city and knowing the real estate and stuff so it's time was right and I went and bought it from the owner I pay them the hundred and twenty thousand down that that property had appreciated over the last year-and-a-half believe it or not because we are kind of how can I put a just hitting hot market and land in the path of growth wasn't worth it wasn't worth it wasn't worth it Hampton Inns coming in strip centers coming in boom it's worth way way more so I take that hundred and twenty I buy that piece of land I sold the piece of land 3 years later that had a whole piece of crap house on it that I had attended in it that covered the payment and then I sold it three years later for a million 80 and I bought it for 360 so yeah"
+    ],
+    [
+      0.9658800363540649,
+      " so this was between like I like like 2001 to 2004 just think of that I'm in Manteca 15 years ago as a little bit more than it is now so actually that piece and they never did anything with that piece of land is still sitting there as fast as they want a long-ass cry said fine just just go hard with $100,000 non-refundable deposit after 30 days and I'll give you whatever they want to cuz I want to do their due diligence and in doing their Dojo I think they found out a couple more restaurant"
+    ],
+    [
+      0.9528748989105225,
+      " we're going to lose their hundred grand and went through with the deal on them so glad I said large deposit non-refundable anyway I exchanged through a building lease to AutoZone in Knoxville Tennessee that counting my payment mortgage pay down every month is $5,000 a month"
+    ],
+    [
+      0.9589265584945679,
+      " and and so I took the five grand bought the property in the path of growth and exchanged it into the very easy all I get is 12 paychecks we paid your taxes we paid your insurance and a 1099 per year from them great country or what"
+    ],
+    [
+      0.9768393039703369,
+      " I love that story for a couple of no one else in a few points in here for people who may be didn't did a contest $5,000 down subject to the existing mortgage can you explain what that means that means I basically just started writing checks and took over their loan and just got their address of where we just got their payment stickers of where they're making their checks and it started coming from TNT Enterprises instead of Joe and Betty Martin a sudden she was a popular you see a lot more popular than I feel like it is today I don't know why that is but it seems of kind of like not if I hear people still doing today there are some risks of course we'll make sure you look those up like the bank might freak out not like that but you know there's ways around that there's ways things you can do those reasons that people still do it today but then I subject to investing very cool and then"
+    ],
+    [
+      0.9598142504692078,
+      " no land of the cash flow I mean you're renting in trouble and so you bought that almost as a speculation right like we was at was that worrisome to you or you just do like this is going to sell for a lot more later I get a great deal really great concept Brandon that was one of two deals like this I did David Greene I don't know if you remember a piece of property owned on out on airport with dick Prada it was three and a half acres out near the hospital out there where the golf course in a like west of town and that was another deal like this where I bought that in the 90s just waited for the path of growth to come my way and I bought it for $115,000 and sold it"
+    ],
+    [
+      0.9765840768814087,
+      " 12 years later for 1.2 and guys there's times in the cycle on you know there's times when know when to Hold'em know when to fold them and and I'd really like to talk about Cycles because that's such a huge part in in my career was you know here I am a very successful person but if there were talking and it's a marathon not a Sprint you know you say is you are continuing to to generate income working you didn't say I got some investment property I'm just going to quit and I'm going to go relax on the beach you kept grinding you kept mastering your craft youth you excelled in selling homes you build a team you had an assistant and then rather than putting pressure on yourself to just invest all that money in anything you strategically pick the stuff"
+    ],
+    [
+      0.9583422541618347,
+      " you felt where your home runs and you held them until it made sense to sell it and then you were always trading at that's another Prince while taking out of this is you you took your money and you put into another good deal you didn't have to do 20 30 deals a year you could do one deal a year maybe and then 8 9 years later it's going up in value so you sell it trade in something and you just started with the snowball with every single move just got bigger and bigger and bigger until you had a really big snowball if I'm if that's pretty accurate to how it happened tell me what your mindset was when it came to knowing when to Hold'em know when to fold them"
+    ],
+    [
+      0.9642889499664307,
+      " there was a lot of different things going on because it cut into all of this were down in Manteca in the valley and Tina and I had a dream since we met each other in 1990 that someday we'd I'm looking out at you guys it snowed last night in the trees are changing as just as magnificent View and someday I knew I'd be sitting here having this conversation and I'm down there in Manteca just working my game and sharpening my saw just like ours is so important because I was sharpen time I saw you guys know who Tom Ferry is I was in a mastermind latam back when his his goal was to get his first credit back in the late 80s and 90s way back when same kind of thing learning from people outside of my area best practices for what I'm doing best practices for a light for low"
+    ],
+    [
+      0.951931893825531,
+      " all lights best practices for taking the money on making and make it work for me so I freaking gets you know so so just my mindset was just constantly learning and honing and then a very important piece of all this is what I call a triangle where your passions meet your talents where there's opportunity and let's talk David Greene as a cop and Tim Road in the grocery business or not"
+    ],
+    [
+      0.963036835193634,
+      " brother James selling Cutco knives he's a musician motivator and I've been driving in these different incarnations one after another the last 20 years because I've had the luxury of becoming financially free so so my point is if you're not in that funk Thelma triangle are your passions meet your talents where there's opportunity in the marketplace if you're not currently in that do with David Green to do what I did when I was a grocery clerk FM fix you know find a way to fix the Fulfillment triangle passion with Talent me the opportunity can you just wait a little bit like I mean there's if there's Passion Pit allowed to go out there saying well yeah you know I'm not really sure what I'm passionate but I might as well a lot of things I find that passion and"
+    ],
+    [
+      0.9548439383506775,
+      " actually get good at it I guess I wanted to kind of time in the style of this I do the Fulfillment triangle so how does may find that passion you you go inside and you do the Top Fin or work to figure out who in the heck am I at my core what do I like and what don't I like David's more of an introvert I'm more of an extrovert David's numbers and details and stuff like that I delegate all of that knowing who you are and what you like and then and then where will I fit what should I wake up every single day thinking and they pay me to do this by the way there's also patients there was a time when I still was listing and selling real estate and I want to be up here and getting the goods in the woods and start the next phase of my life and I had to remain where I was cuz my daughter was a junior in high school letter to my family so there's times when is still holding them not told"
+    ],
+    [
+      0.9792770147323608,
+      " time to sell the wine yet and you need to just knuckle down and and fight through a tough. But while you're doing that you're juggling the next Incarnation and making and that's the hard part is the working extra yeah that's enough in real estate of the not very sexy term is that's patients at the fact that I mean you've been doing this for a long time and you have an amazing life today and you have an amazing life charity that you would do you work with and you have Decades of hard work you mentioned the $5,000 to a to 5,000 a month like that wasn't overnight and it probably wouldn't sell a book if you called it $5,000 to $5,000 a month over the course of two decades like that wouldn't be a sexy but that's the truth of what real estate often times is we buy stuff we hold it we exchanged the bigger properties and then we hold those for a little while"
+    ],
+    [
+      0.9548423290252686,
+      " think like everything else there's a I have this concept of there was that when we were kids there were these balsa wood propellers balsa wood airplanes I have these rubber band propellers do you know what I'm talking about Brandon okay so you put it together in a few times it goes right in front of the falls at your feet if you wind it goes across the room 1015 ft if you keep winding it and Wine Deana and winding it and give it one more wine and its source beautifully and the challenges is this is like everything a lot of things in life people want things handed to them and they think it's going to be easy and they just win their propeller a few times and get frustrated cuz they don't get results are they wind it pretty good and get decent results and and if you just dig a little deeper and wind at whatever it is for you if you more time you're going to find amazing"
+    ],
+    [
+      0.9766939878463745,
+      " chili good I'll take a quick break from this episode will continue in just a moment but first let's hear word from our sponsors hey David you talk about this in your long-distance real estate investing book of the internet has totally changed the game when it comes to buying and selling houses right I know it's a big part of that book our sponsor today is actually a perfect example of this fundrise is the future of real estate investing really like their software cuts out costley middle men and Old Market is inefficiency but you the individual investor share in long-term appreciation and cash flow fundrise unlocks access to high-quality high-potential private deals from high-rises and multi-family Apartments each deal is carefully vetted and actively managed by fund Rises team of Real Estate Pros this is the type of investing that used to be limited to Giant institutions but now you can jump in right from your laptop you probably thinking how can I keep an eye on my property as well as has you covered their real-time reporting let you know exactly how your project"
+    ],
+    [
+      0.9276005625724792,
+      " what does limited time offer visit fundrise.com BiggerPockets and get the first three months of fees waived that's a no fees that's a great deal again but a fun ride fundrise.com BiggerPockets to get started now"
+    ],
+    [
+      0.9749270677566528,
+      " use $20,000 for a down payment on your neck through your first investment property retention finding buying leasing in managing the property and a series what's a sign me up for this is exactly what mind property management is offering any new contest for BiggerPockets listeners a party with red vest property management and Home Union provide a full-service end and investor platform have a total of Sixteen Market serve 8,000 units under management cutting-edge technology local teams in a variety of guarantees mind has the infrastructure and experience to help you any stage of your investment Journey now I'm back to the down payment assistance look if you're interested in how could you not be go to mine too. Co 20k that's mine with a y s o n y a n d. Co / 20 K20 que no that's volume to enter the contest and read the full rules and conditions and if your"
+    ],
+    [
+      0.9274008870124817,
+      " need a Property Management Services head over just to mind. Go that mynd. Co and check out the regions they cover and some of the great Peace of Mind guarantees they offer with their service"
+    ],
+    [
+      0.9678772687911987,
+      " so to mention one more thing I want to do before I move on do you turn in that 5,000 to 5000. You said that you were exchanged it exchanged that how that works scrap steel for a 1031 exchange so well I did twice where I would have paid taxes on from the difference between the 5000 and 125000 less sales cost on the first deal and I would have paid the difference between the 360 purchase price and the million 80 on the second deal and those would have been hundreds of thousands and taxes I would have paid and I've I've delayed those taxes until this year I'm finally going to sell that that property 15 years later and I'll make around $800,000 net after all is said and done and I may just pay the tax I'm a exchanges"
+    ],
+    [
+      0.973089337348938,
+      " there's things called opportunity zones I'll look at that opportunity when it comes to me later this year or early next year but but I 1031 exchanges you know a good third level move to make one shirt go from small deals to Big deals a an apartment complex for primitive no money down back when I was 24 years old died in a lease option for the first 6 months with the sellers so that I don't have any money down and I saved the money turn the 6 months that I was making enough property to use the down payment so we like. Pepper have no money down then I sold that property for a and I used a partner and I D I brought to my parents as partners and I said hey if I can use your line of credit I'll give you a half Sunday so I use their money to rehab it anyway so that later on for I think a profit of $250,000 took that money gave my parents their half took my half"
+    ],
+    [
+      0.9739949107170105,
+      " 1031 that into two different properties and mobile home park at today I make a few thousand dollars a month off of and then a property in Ohio I just saw the property Ohio just like 2 weeks ago or 3 weeks ago and now I'm buying a Triplex here in Hawaii have some cash for like $1,400 a month that property is going to pay for my Tesla at a time by essentially like I can I make thousands off this mobile home park and I make enough for a Tesla payment on this in the local thing it all came from one deal to trades ago in at 10:31 so I just feel like that's how real estate works that is a lot of different games you can play with it and that's what makes it such a fun thing to invest and there's just so it's like a kid in the candy store winding a propeller is so powerful because most people say should I buy a house or a Tesla a Brandon Turner says I will buy a house exchange it into a bigger house turn that into a hotel and then that might Hotel pay for"
+    ],
+    [
+      0.9495927095413208,
+      " Tesla and my next Tesla after that and then my Ferrari and I everything else right like that's the wise investor who continues to grow equity and manage their funds well will have everything that that the person you can't delay gratification will have but they will be out that well will never run dry able to keep going to it to it to pay and fun the life that they want to live"
+    ],
+    [
+      0.9612725973129272,
+      " yeah yeah yeah I read that in like I did was Rich Dad Poor Dad it maybe it was Castle quadrant one of the early Kiyosaki books where he mentions his wife wanted some fancy on a Maserati or something I was cool back then and she bought a rental property in a paid for it ever at the moment like that. Just triggered in my head like you can do that I guess I buy an asset that pays for liability since I came out but I refuse to buy one until I could tell the story that I bought at using rental income because I have to do it like just because of Kiyosaki so anyway vs. predator that sounds like blasphemy the origin of every good idea in the world and then either one of those copies you that's what I usually have to build credit when you cook"
+    ],
+    [
+      0.9657106995582581,
+      " exactly when I knew you when I was working for you you were buying rentals and you were flipping houses in a lot of investors get stuck in should I flip or should I buy rentals tell me what your thought process was with doing both and how you made the decision on an individual property of what you're going to do with it every property was different we just we just look at the opportunity what made the most sense for you know where we were at the moment because there was a time when we were listing Ryan Reynolds flip and then we we quit listing and selling so our income was predominantly what was already coming in as residual income and the flippers so there was somewhere in retrospect I probably wish I would have kept that I flipped you know 2000 to 2004 and then sold when I sold everything into the krays"
+    ],
+    [
+      0.9668984413146973,
+      " 2005 to 2007 but you still use the profits from flips to find the rentals that you ended up keeping what you then exchanged into bigger property they all sort of played a role in this really big cool thing that you did and I don't know if we mentioned it but you were tired at 40 years old and when I retired I was I was flipping a home a month so if that's working you know and and have rentals that I was managing I retired from the listing and selling it for tea and then so if you look at it in the Financial Freedom I was probably at level three level four because I was still actively finding properties and stuff like that now I'm at level 5 and I haven't actively purchased a real estate property in 20 years"
+    ],
+    [
+      0.9715118408203125,
+      " I've no clue what they're doing everybody around them is clueless so is just starting to figure this out are aware of people doing it maybe maybe on their own level 3 is I have a rental and place rental or two of my retirement I'm doing the things that I know I need to do to be setting up a trust than insurances and stuff like that level four is well on your way to Financial Freedom you probably could turn your game board over by you. That lower your lifestyle of it maybe and level five is I've been here for some time I'm getting the goods in the woods I choose what I do daily and that's One Life to Live and go balance of my family and you know just fun stuff so and then level 6 I've been thinking about is when you hire some"
+    ],
+    [
+      0.9600934386253357,
+      " manage all that for you and your no longer even move the money that's cool what is one life and what do you teach you in one life so I talked about the one life fully lived triangle One Life fully lived is at non-profit you can learn more about us at Onelife Ali live. Org and it's where we teach people the inner core teachings of how to live your most fulfilling life possible and I talked before about the one life of Thelma triangle once again that's figuring out where is your passions meet your talents where there's opportunities for what you do in life but it goes deeper in that and we have like core40 teachings of a road map which is Vision planning where am I going with all this relationships with myself who's my Posse who's my mentors"
+    ],
+    [
+      0.9620065093040466,
+      " finances how can I master those ABC's I talked about and wellness how can I be healthy in my mind body and spirit to pull off this amazing life I've been blessed to live so when life just helps people at all levels of Mastery dream plan and live there very best life possible and who are you who is your primary who you targeting primary you because I know you in schools is that right or is that younger people is a older challenge our business model is we helped people like the BiggerPockets people people who are on their way well on their way and that a Mastery level we help you stretch your life in those four areas of vision planning relationships finance and wellness so your wealthier healthier happier and get the"
+    ],
+    [
+      0.9643246531486511,
+      " great feeling of getting out of you and giving to help us lift those that never get this message and that's our primary mission is helping those on the bottom end of the totem poles my good friend Christopher lochhead said of the recent gobundance event in Austin Texas when you get to the top of the mountain road down the Rope what a great way to put it is worth throwing down the road of teaching wet but should be taught in school or should be taught by parents but fortunately most turn on level 1 or level 2 Financial skills knowledge levels that's cool that's cool yeah it's it's it's admirable because like so many people spend I don't know so much time thinking about how they can improve their own life and how they can prove their own financing or Wellness"
+    ],
+    [
+      0.9728963971138,
+      " how do you say is great like I like when you get to that level 5 or level level level four maybe it may be a little bit earlier but like when you're no longer consumed by how do I pay my bills you can start thinking bigger in terms of how do I help other people figure out how to pay their bills but most people are too consumed with their own problems in life and looking down on rich people to ever realize it maybe maybe getting wealthier that's the answer to helping more people virtuous circle of the better I do in an enriched my own life and and left my one life fully lived and then I spent this vibe to my family my community and I bring others along with me and then when I'm becoming and I am successful I feel we have a moral obligation to to get out of ourselves and I call it the gift that my life's been"
+    ],
+    [
+      0.9423133730888367,
+      " sewing ants by that you know all the good work we're doing with one life I got to say I'm personally I think I've had the biggest journey of anyone I've ever met from the most selfish person you'll ever meet in their teens to the most selfless person you've ever met and I say that humble and anise such a for filling gift to get to this place and then learn how to give in your own way there's no better gift so get financially free everyone I love it all right well I want to move on to the next section of the show to go a little bit deeper into some real estate and that is specifically through our deal or no deal"
+    ],
+    [
+      0.9553111791610718,
+      " his brain and wanting a quick break from this week's podcast to invite you to this week's webinar which is how to buy your first second or third rental property investing in real estate is like a movie write a big locomotive the most difficult part is getting it started at the energy once you get going kind of hard to stop right that's why it is free online class going to be walking you through exactly had to get that train moving how to buy your first second or third or and third rental properties you can get that going Ally Financial Independence so what are we meme covering things like how to get funding for your first cash three steps for finding great deal 3 action strategies for finding deals that are hiding in plain sight any very simple step-by-step process that you need to be focusing on right now to get more deals now this is going to be awesome but it's also limited so go to biggerpockets.com 123 webinar biggerpockets.com A123 webinar to sign up and get your spot see you there"
+    ],
+    [
+      0.949286699295044,
+      " all right at the party shall we dive deep into one particular deal that you've done and going to get to know about how you did it so we can pick a part with a bunch of questions for 50 East Sonoma I send it to your producer Stockton. I thought I was this property that what kind of property was it"
+    ],
+    [
+      0.9614450335502625,
+      " how did you find it I was out doing a comp sci somebody wanted me to buy a portfolio their properties this is like in the early 2000s and I was out doing clumps and seeing if that was a good good deal or not and I see somebody with her back to me in it look like a sombrero on their head working in front of their house and I said Senior English and he said I'm black not Mexican sex in your homie said I'm selling it"
+    ],
+    [
+      0.971415638923645,
+      " NN do you guys want to keep asking me questions or who has is this the fire he said I do I said have you sign a contract he said I have not I said how much you selling it for he said 55000 holy crap I said you haven't signed a contract he said no and I said I have a contract in the car if I were to give you five thousand more would you sign a contract because I was kind of flaky and my wife really didn't like him will you pay cash I said I will and I put them in the car drove him over to his wife's and sign the deal right there classic Discounters have contracts with you you just went for it in that moment"
+    ],
+    [
+      0.9598208665847778,
+      " just be over think things so I was just like I was happy with it. It's just a lot of good I love that story about looking at other deals I see an opportunity and I asked and I totally butchered read which is a great part of it if you and then I I rebound and bond with a guy and gets a contract signed a contract with me to the house I have his wife sign it right then there's just no get the deal. He died but I think it's important for people to hear when we're training is police officers for out-of-control combative subjects we learn is if you can manage the distance you can manage the damage so the distance"
+    ],
+    [
+      0.9785805344581604,
+      " from me the more he can ride up to punch me or throw an elbow if you keep that person really tight and close to you there's only so much that they can really do to hurt you it's it's not much it's like grabbing or maybe biting or something and the same is true when sales are in real estate and you talk to someone and they want to sell you their house in like yeah let's do it and you say okay I'll be back tomorrow to sign the minute you leave what they start thinking is outer space is can I call somebody else and see if they would pay more should I talk to my buddy and see if this is a good idea should I call my mom and her my dad and see what they do and by the time you come over tomorrow they like 14 other pieces of input in their head that you got to start all the way over and to me you're describing is probably what made you so good at a lot of what you did as you did not give them the space to do that you said you want to get this done let's do it and they're in a good mood and the contract is signed and everything is good if you give people space you can get hurt another thing is is you interrupt the flow"
+    ],
+    [
+      0.91599041223526,
+      " and by the way the reason I could go off my instincts was once again Decades of hard work and winding my propeller and read I couldn't have done this my first year there's no way I did but I didn't know those comps that long"
+    ],
+    [
+      0.9738861322402954,
+      " this is another good reason we talked a lot about specializing in depression the beginning so you know a lot of different as a real staple your the beginning like you get really really good at one specific thing so that way when those opportunities come up you can make those flip second decisions because you know exactly is your only flipping houses in this market you know what the buy-in for you at the sound for that. Much to learn you can learn in a few months then when those opportunities come up you can make those split-second decisions I better try to learn everything in the world and never really get good at anything you just have a general at everything then you can't make those decisions then you really got to think about him cuz you just not good enough you don't have the talent there as part of that fulfillment triangle so just one more I guess thing to pull out of that so how did you find this deal and get you some 60,000 cash you just pay them your own personal cash for it by then I had you no credit lines and an N relations built off with you know right around that time when with the land in the"
+    ],
+    [
+      0.9620574712753296,
+      " half a gross gone way up I saw the guys Ranch and he netted 800 Grand and gave me like me so just built up relationships and stuff like that but you know just what we're talking about here maybe you're really good at talking to people but you don't have money maybe you're not going to either of those but you're good at behind-the-scene details and I really like finding like-minded people were on the same course maybe it's three of you in an investment Club don't know what it is but just finding people who are going to hold up there and and they're talented and can help you do what you do better and I love that concept and I also had a concept for that concept of what I look at when when those things come down and I hope I'm not taking up too much time because"
+    ],
+    [
+      0.9564976096153259,
+      " so so the three things I look for anything whether I'm getting into business with her I'm investing with somebody whatever it is they call so-so number one or they complement number to do I really like him and trust him because you think about it we're getting into bed we're getting into a marriage I better like you because I'm going to be talking to you a lot number three are you honest and trustworthy and if you don't fit any of those three I don't want to do business with you"
+    ],
+    [
+      0.9668041467666626,
+      " if you do fat those three and you have amazing talents that that's fit what don't fit with me let's find a way to play you know that's cool okay real quickly back to this property and I started what did you end up doing with the did you flip it would you keep it as a rental I have my team fix it up we had some concerns that isn't terrible Farm smells we weren't we weren't aware that we fix it and already you're not everything's that with the railroad was pretty closer Justin just close your things that I made sure T $2,000 after paying all the expenses I sent that deal and to your team"
+    ],
+    [
+      0.9627068638801575,
+      " that's awesome that's like a hundred percent I mean that it's more than hundred percent profit well I guess if you paid cash at what lesson did you learn from the steel making things happen being out in the trenches and shaken trees you know and am I an end just being in a flow State and and going on with what roles and just take a nap and then driving away can you imagine driving back to my house an hour and a half later talking to my team with a signed contract freaking it is there's this thing I see a new investors all the time that I don't see in you Tim and that is a lot of new investors are just so timid and I didn't do enough just a message in the first decade or so afraid to make a decision or to make an offer to go after something"
+    ],
+    [
+      0.9786907434463501,
+      " how that conversation on phone keyboard so afraid of the new shooting their shot like to go out there and get it get it you know it like why why are you not like that huh cuz I may become more like you you know this is a good point I have a very high risk tolerance but I went 98 + 2 like I bought a hunter properties and made money on 98th and and so I had really good instincts on window by and I bet I had something in that contract if I found something within 5 days I could back out. I mean yeah yeah so so big cojones with an out clause BiggerPockets and I'll be teaching and I'll say you know that they can offer every single week every week I make at least one offered if I stick to that usually they do you know one of the very few end up getting accepted it as long as I stick to the lead measure right"
+    ],
+    [
+      0.9254823327064514,
+      " what happens if you make an offer and then the next we can make another one and both of them get accepted Ono like in such a tragic thing and I'm like forget first of all we have about classes and second of all"
+    ],
+    [
+      0.8552739024162292,
+      " and you would have Ferrari and Lamborghini so you can only pick one what are you going to do"
+    ],
+    [
+      0.9556555151939392,
+      " decide I really like that quote too far but like I did like it's more important that you just make decisions in life and be bold and go after it then to just be you scared and Tim it all the time and never take action at all I just decided and there were things like and she was alcoholic Barbara on a whim thanks to both parents you know but but I think that like like that measure twice cut once you know it's like I'm in I'm in I'm in and I'm just Scouting For why am I out and I back out of stuff you know"
+    ],
+    [
+      0.83519047498703,
+      " yeah, I did well let's get out of there like a nose really good deep dive but now it's time for the"
+    ],
+    [
+      0.9475268721580505,
+      " it's time for the fire round"
+    ],
+    [
+      0.9405836462974548,
+      " I this is the fire on the southside of the show where we pull questions direct from the BiggerPockets Forum then we fire the Mat-Su Chan to see if you can give some advice to Summit Realty investors on her for him so number one Charles from Bridgeport Connecticut said I'm a young investor getting started should I try to buy my own home or should I just stick with renting and then I heard a lot about renting where you live and only where you rent like what would what factors would you look at making that decision"
+    ],
+    [
+      0.9709009528160095,
+      " I wish there's a lot of different fact you know it's hard to say I don't know his employment don't know much about him but but something that might work for you is is like a group home had a lot of young friends that do this where they buy a home and have like two of their friends as their tenants and that's a good way to start where you're in charge and then yeah there's something you could do off that have somebody else come manage that home you buy the next home with two more friends taking care of itself that is exactly what Tim told me like 18 years ago that I should do with the first house that I was going to buy yeah somewhere we called it house acting it was Tim Rhodes group home"
+    ],
+    [
+      0.9672601819038391,
+      " how can I find out loud and thanks for asking so we have lunch to book a Bigger Pockets actually called the house hacking strategy on this very topic inspired by this this whole idea of buying eat whether it's a house or a duplex Triplex fourplex Annie Waits by Craig curl up and get it biggerpockets.com such house hacking or wherever books are sold I think at least I know it's going to be eventually at Amazon and Barnes & Noble in but right now I know for sure it's at biggerpockets.com house action or biggerpockets.com store with that question number 2 from Benjamin Benjamin says I am a college student looking to buy a Triplex for a rental I saved about 30 grand which is enough to buy the property and cash but it needs an additional 5260 can renovation since I'm a student I don't have regular income how would you go about financing this rehab"
+    ],
+    [
+      0.9750856757164001,
+      " if I would probably look for somebody in my world like like I think Brandon you talk about your parents going in with you and that might be a good way for enough for them to at all so if I was that person take a really good look at the deal and make sure the whole thing makes sense because a lot of times what you think is a great deal is a good deal and good deals turn into bad deals really quick so personal and great to me and was like I knew I had a relationship with and said hey I got 30 grand I want to put down on this property would you want to partner with me I'll do all the work I'll do everything I just need some more money for rehab and I'm putting in 30 grand I got skin in the game I would have a very good serious conversation with a person because I'm an experienced investor I'd be able to look at the deal and say yeah you shouldn't do this deal and if it was good I'd be able to say"
+    ],
+    [
+      0.9289804697036743,
+      " did he find out if you do any work I could put in some money and I make a good yeah yeah go to somebody who has more experience I love that advice and got some cash I was going to say you could always just sell a kidney or something do the rehab with the money and then if you make enough you can just buy another kidney"
+    ],
+    [
+      0.9218053221702576,
+      " it's just a really long closing on it I just I care and I'm going to find a way to come up with that 50 or 60"
+    ],
+    [
+      0.8024984002113342,
+      " hey girl you try to 10:30"
+    ],
+    [
+      0.932712197303772,
+      " question number three I'm moving I want to figure out what I should sell or rent my house the property's been appreciating like crazy but when I see the numbers I would have negative cash flow every month if I held onto it so would you ever hang on to a property with negative cash flow just hoping to gain in equity"
+    ],
+    [
+      0.9478638768196106,
+      " it depends on how much the negative it is but if you can if it's appreciating at a faster clip than what the negative is why I always tell people as well as much the matching a long if you can hold it do it that's my own thoughts many would say just sell it move on don't have any negative but I hate how old you know I helped some properties with negative cash flows in a way of appreciating market for a long time and it turned out again"
+    ],
+    [
+      0.9656675457954407,
+      " that's a very good transition to question number for so I know Tim that you kind of got out of the market in that little. Between 05 and 07 so the question is did you see any warning signs coming what effect did that down turn have on your Investment Portfolio how did you know it was time to get out I'm so glad we got this question because I track Trends because I listened sold real estate night of the multiple listing service access from 1990 till 2007 and I knew every time when it went up when I went down how many homes are on the market how many new listings how many web pending how many sold how many expired we do the 10th cuz I was doing how much do work am I doing versus the rest of bored so in so from 9297 I didn't buy much from 97 to 2007 I bought a ton"
+    ],
+    [
+      0.9674786925315857,
+      " text and from 2005 to 2007 I sold 17 properties with 52 tenants right into our peak and yes I saw it because it was I was in the trenches and it was like that a blow off top in the stock market and the last two flips I had done I didn't make a profit on and I could just see the market sputtering and and you know you you might want to get out a little earlier I kind of slid into Home Plate very nicely and is really lucky actually that's cool. Where do you think we are in the cycle right now I think we have some legs to go believe it or not I keep hearing there's some people in my world that think it's it's run its course and by the end of the year it's going to hit the fans I think we're a good two to four years away that's just mine"
+    ],
+    [
+      0.8194879293441772,
+      " I did it where do you think we are"
+    ],
+    [
+      0.9745270609855652,
+      " I think the same as to him I think like you mentioned earlier Brandon at you don't know why people don't see more subject to financing I think it's cuz interest rate just keep getting pushed down you don't you don't need to take over somebody else's payments cuz you can get 2% lower the interest rate if you go do your own thing and I think that's fueling I don't want to say a bubble but it's giving you strong winds that you're back so if you think about like right now as interest rates go down it makes the house you live in worth more because someone else can pay more took to buy it have the same payment is interest rates are low it also means that once you sell it you can get a really low interest rate on your next house the minute that changes if rates go from 4% to like six or seven now no one can pay as much for your house so it's worth less when you sell it and when you go buy a new house you lose your 3 and 1/2 or 4% rate and you had to go and it's 6 6 and 1/2 or whatever so no one's going to want to move and I think if that happens that's when we're going to see the market really slow down in the only people that are going to be buying and selling your people that kind of have to remove they need a bigger house cuz they're having another kid traditional reasons not just these"
+    ],
+    [
+      0.9569019675254822,
+      " moves that we make right now because they make sense so as long as interest rates a low I don't see anything changing but that's one of the markers that I'm looking for it when I see rate start inching up that's what I mean expect the market to start to slow down, right we could answer before we get out of here that at the end of the fire Ellicott City world famous"
+    ],
+    [
+      0.9735203981399536,
+      " all right this is the last second of the show where we ask our guests answer the same for questions that we ask every guest answer but before we get to that let's hear from a J Scott about what's going on this week over on the BiggerPockets business podcast BiggerPockets podcast host of the BiggerPockets business podcast this week on the we interview Brendan Kane the author of the book 1 million followers how I built a massive social following in 30 days and he tells us just that how he built his social media following of over a million strong in 30 days or less and he tells you how you can do the same with your business and your brand so tune in this week on the BiggerPockets business podcast now back to your famous for our thanks Jay and now on to be a famous for question number one Tim other than your own which I'll ask you out in a moment but other than your own would you have a favorite real estate-related books"
+    ],
+    [
+      0.9301390051841736,
+      " simulated for Real Estate Investors by Jada Cima guys ever hear that yesterday I read a couple books of hair the other good Basics how to Business book I like to eat enough because one life fully lived as the e-myth for life I like you know that inner core working so I love the you think it's amazing book"
+    ],
+    [
+      0.9548618197441101,
+      " okay I know you're going to love this question what are some of your hobbies just anything outdoors and and you know we talked about whether you're alone or with others it's just there's there's no sound in life as rare and beautiful as the sound of the adult Giggle and when they are out getting the goods in the woods or whatever it is for you just enjoying you know that to me is the Selmon what life's all about so"
+    ],
+    [
+      0.9015942811965942,
+      " that's great number for what do you think that's a part of successful Real Estate Investors from all those who give up a fail or they just never get started"
+    ],
+    [
+      0.9517412185668945,
+      " I think I should just Zurn between a guy said it before you can't have a good deal because it could quickly turn into a bad deal so so you got to find only the Great Deals and the good deals and end the discernment you know in that is so important and that's the reason to hit your numbers in to do a lot of prospecting and when the heck out of your propeller"
+    ],
+    [
+      0.9650652408599854,
+      " that's awesome all right Tim this is been an amazing time can you tell us where can people find out more about you and your nonprofit please please first millionaire as you can see it off to the side here that's our new book from my buddies that go balance please check out one life fully lived. Org is my baby it's my life's work and and if you want to support us join the One Life Community on Facebook is the number one One Life Community on Facebook and also please come to one of our six events in 2020 we're going to have one life Thrive events all over the country and please consider joining our contributor club which is also on our website under support and that way we can get U coaches in real estate in our poor areas at teaching on Vision planning relationships finance and wellness and help you crush your life so you can"
+    ],
+    [
+      0.9652109742164612,
+      " how fast throw down the Rope thank you thank you Tim this is been fantastic today really really enjoyed having you learn more about your story and I just hearing about how you're going to get them back and helping people who may be haven't even thought about Financial Freedom or about you know living their best life that you could only have one life so let's live it right I love it you're teaching that so thank you for joining us spent my sincere pleasure and is it especially fine to be on with Greenie Oscar. Snowing in a think about this half his life as I appreciate you having me on and dream of plan live it checks out at One Life to Live. Org thank you thank you Tim thanks to him"
+    ],
+    [
+      0.9679468870162964,
+      " all right now is energy with Mr timn road that was awesome I I see why he misses a big impact on you at an early age David like that was that was really cool I guess that Financial Independence IA Financial Freedom as somebody who's not just like on the front end of it we was gone to the entire journey and see any can see it from a forty thousand foot level now which is super cool to have those guys in the show completely dominated and he just said at 40 years old okay I'm done I'm just knock it out he did it on his terms I love love love and kisses he puts on defense like if you asked him he'll tell you I could have made all the money in the world wouldn't matter that it only matters that I saved money so that I can invest it you know the only measured that really matters is what you have left over to invest after you make all your money"
+    ],
+    [
+      0.9698668718338013,
+      " one more little segment of the show Heroes I think we did once before but we try to make it a more regular thing and that is the Highlight some of our Bigger Pockets of pro members out there doing deals with a story about April shoulders or child I'm hoping that she'll drive from McEwen Tennessee recently did her first the deal I new construction deal she bought a 2-acre lot split it into two and then build a single-family home in one of the lots of the second light off purchase price to purchase price $65,000 cash invested 97,000 sale price 243,000 sold in 4 days listed herself could decide to become a real estate agent so very cool story graduations April on your first deal and this is a reminder everybody get out there and get active on the forums everyday BiggerPockets Pro members like April are writing about the deals that they're doing on the BiggerPockets success story for him so if you are not on the forums you should definitely be so and also if you want to be featured on this segment of the show"
+    ],
+    [
+      0.9631479382514954,
+      " give me a favor write down this ready right down that you know I just podcast at biggerpockets.com if you are a Bigger Pockets remember shoot us an email at podcast at biggerpockets.com with a subject line pro deal p r o d e a l and give us the details and we are going to feature one every week a story about one of our members doing an awesome real estate deal so again emails podcast to biggerpockets.com I put pro deal into the subject line and that's all I got so that was great this is David Tim taking the time out of timid Road and Brandon Tesla Turner signing off your listening to a BiggerPockets radio simplifying real estate for investors large and small if you're here looking to learn about real estate investing without all the height you're in the right place be sure to join them millions of others who have benefited from biggerpockets.com"
+    ],
+    [
+      0.9199318885803223,
+      " your home for real estate investing online"
+    ]
+  ]
+}

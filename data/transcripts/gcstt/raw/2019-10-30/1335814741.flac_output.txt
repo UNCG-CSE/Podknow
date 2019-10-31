@@ -1,0 +1,342 @@
+{
+  "Stats": {
+    "PodcastID": "1335814741.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 1763.134567,
+    "OriginalFileSize": 28978916,
+    "FlacFileSize": 154394017,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 574.0824980735779,
+    "DownloadSuccessful": "19.79238533973694"
+  },
+  "Transcripts": [
+    [
+      0.8135530948638916,
+      "wondering"
+    ],
+    [
+      0.9285299181938171,
+      " it's summer 1923 and Forrest Mars is lying on the floor staring at the ceiling of a Chicago jail cell the cops arrested the nineteen-year-old cigarette salesman last night his crime Plastering posters for Camel cigarettes on every downtown Walden Street sign you could find without permission"
+    ],
+    [
+      0.9862834215164185,
+      " he sits up when he hears footsteps approaching"
+    ],
+    [
+      0.9474473595619202,
+      " guard pulls out a set of keys and pushes open the door of his cell"
+    ],
+    [
+      0.9287773370742798,
+      " your dad posted bail for your kid get up and get out"
+    ],
+    [
+      0.9471020102500916,
+      " for a spot since father the moment he leaves the cell he hasn't seen his father in years but the resemblance is uncanny they're both stocky guys with prominent Roman noses thin lips dark piercing eyes hello son want something to eat"
+    ],
+    [
+      0.939343273639679,
+      " they had for a nearby Diner and sit in awkward silence"
+    ],
+    [
+      0.84682697057724,
+      " Forrest stares at his father warily while sucking chocolate malt through a straw"
+    ],
+    [
+      0.8864583969116211,
+      " Forrest mom divorced Frank when he was six but he's heard plenty about his dad like how he's a good-for-nothing failure who abandoned his family and how he roams from City to City leaving unpaid debts and bankrupt candy companies behind him"
+    ],
+    [
+      0.9378721714019775,
+      " I'm sure how to break the ice Frank starts talking about his latest Venture I've got a business in Minneapolis-Saint Paul now it's called Morrow bar sells candy around the Twin Cities as it's doing pretty good to the butter creams are pocketer"
+    ],
+    [
+      0.8923924565315247,
+      " I got a big house now to you know you should come visit meet your half-sister Patricia"
+    ],
+    [
+      0.9517203569412231,
+      " forested surprised and intrigued you see the forest reckons he's a born businessman he's got nothing but he go to base that on but that doesn't stop him from offering his dad some advice you should think bigger you should make a candy bar that can be sold everywhere just like Camel cigarettes all right son what do you suggest I make"
+    ],
+    [
+      0.923228919506073,
+      " tourist not sure he hasn't thought that far ahead he stares into his malt why don't you"
+    ],
+    [
+      0.7961182594299316,
+      " Franklin's back in the seat"
+    ],
+    [
+      0.9876290559768677,
+      " interesting"
+    ],
+    [
+      0.9448989033699036,
+      " you don't son that might just work"
+    ],
+    [
+      0.956479549407959,
+      " Frank runs with Forest idea he makes a chocolate malt flavored bar of nougat spread too thin layer of caramel on top and then coach in a creamy milk chocolate eat names this milkshake flavored candy bar Milky Way and with their new creation Frank and forest or charting a course that'll take them right to the top of the candy business"
+    ],
+    [
+      0.9617208242416382,
+      " support for business Wars comes from Capital One with a spark cash card from Capital One you earn unlimited 2% cash back on all of your business purchases think about it unlimited 2% cash back on everything you buy for your business and a cash back can add up to thousands of dollars which you can reinvest back into your business so you can keep growing imagine what unlimited 2% cash back could do for your business learn more at capitalone.com what's in your wallet"
+    ],
+    [
+      0.7882265448570251,
+      " Brown laundry on David Brown and this is business Wars"
+    ],
+    [
+      0.9638944864273071,
+      " on the last episode Milton Hershey introduced milk chocolate to America built the town of Hershey and donated his riches to a school for Orphans but now it's the 1920s and a new Candy Empire is about to reach for the stars this is episode 2 blast off"
+    ],
+    [
+      0.9561173319816589,
+      " it's 1928 and Frank Morris is at the headquarters of America's top chocolate maker Hershey he's come to Pennsylvania to make a deal ideal his company's future depends on Frank's been doing well since creating Milky Way sales are growing and he's changed the company name from morrow bar to Mars but now this 40-something candy mans betting the house on Milky Way he spending half a million dollars building an ultra-modern Factory in Chicago he hopes the investment will send Milky Way sale Sky High but for the planned work he needs help from Hershey's general manager William Murray"
+    ],
+    [
+      0.9232916235923767,
+      " Murray's a tall broad-shouldered executive with Snow White hair and he's the business Braun to Milton Hershey's business brain while her she delivers the vision Murray manages the day-to-day operations that turn ideas into profit"
+    ],
+    [
+      0.9751102924346924,
+      " Marie welcomes Frank with a hearty slap on the back before sitting down behind a huge desk so Frank tells me about his new plant why do Factor will increase production five maybe six fold and that means I need chocolate and plenty of it Marie grants her she already sells chocolate coating to confectioner's who lack the know-how or money to do it themselves her she only regards companies that make solid chocolate bars as Rivals everyone else is a potential customer"
+    ],
+    [
+      0.9416483044624329,
+      " okay did you have in mind a month Marie almost falls off his chair hits enough to double the size of Hershey's chocolate supply business but Frank's not finished but I need the chocolate on credit all my money is tied up in building the new plant"
+    ],
+    [
+      0.9388716816902161,
+      " Marie Spaceballs Frank's gone bust so many times every supplier in the business demands he pay cash up-front what is it you're making again Frank opens his briefcase in Hansberry a Milky Way"
+    ],
+    [
+      0.9566441774368286,
+      " Paris pulls back the beige paper wrapper it takes a bite the sweet hit of fluffy nougat sticky caramel and milk chocolate explodes on his tongue wow that's a fine candy bar Mister Mars and I reckon it will sell"
+    ],
+    [
+      0.9198257327079773,
+      " yeah you got your credit but to smile and Shake Hands they're both looking forward to a long and profitable Alliance"
+    ],
+    [
+      0.9606600403785706,
+      " it's 1929 and the Chicago suburb of Oak Park the new Mars Factory is up and running from the outside this Spanish Colonial building with its stained glass windows and manicured lawn looks like a country club but inside its state-of-the-art industry the interior is light Airy and temperature control the production lines are equipped with the latest technology that Smothers nougat and chocolate and automated machines that can rap more than 2,000 milky ways an hour and thanks to Frank's obsession with cleanliness the place is spotless every surface shines"
+    ],
+    [
+      0.9090161919593811,
+      " but there's one feature the factory workers could do without Frank's son Forrest Mars"
+    ],
+    [
+      0.9268621802330017,
+      " officially Forest job is to buy eggs sugar and other supplies but he swaggers about as if Mars is his company"
+    ],
+    [
+      0.9500903487205505,
+      " today he's prowling around the caramel machines cuz bars have nougat on their way to becoming milky Way's rattle past he scans the conveyor belt like a hawk searching for the slightest imperfection suddenly he snatches a misshapen bar from the belt and flings it at the worker charged with catching defects the sticky Barb nougat Splats against the back of the workers head the worker turns to see Forest marching towards him face red eyes narrowed"
+    ],
+    [
+      0.9676887392997742,
+      " shortly after Frank summons his son to his office Forest I need you to control your temper you see a problem tell me you stick with what I hired you to do first response by changing the subject you know I've been thinking we need to get into Canada before the British companies like Cadbury and Roundtree get embedded there that's not the topic but listen I've only just built this plan okay Canada can wait no you need to keep pushing keep building that's how you win"
+    ],
+    [
+      0.9160599112510681,
+      " Frank size his son's attitude grates on him what can he do you can't fire him he already feels guilty enough about abandoning Forest as a kid"
+    ],
+    [
+      0.9064908027648926,
+      " why Mars is using its new plan to join the majors Milton Hershey's thinking even bigger"
+    ],
+    [
+      0.9250237345695496,
+      " it's a hot summer night in 1929 and the 71 year old chocolate magnet is sitting on the porch of his Hilltop mansion in Hershey Pennsylvania with him is Wall Street Bankers Stanley Russell nursing and Scotch & Soda"
+    ],
+    [
+      0.9555843472480774,
+      " is the pair of stairs at the stars Russell gets the business he wants her she to join what he believes will be the greatest achievement of his career a mega merger of Hershey Kraft Heinz and Colgate-Palmolive Hershey the Hershey Chocolate Company would be the very heart of the conglomerate I want to create and with your support I believe the other companies will sign up"
+    ],
+    [
+      0.9473353028297424,
+      " Hershey's chips is drink he's been weighing Russell's proposal for months it'll cost is chocolate Empire its independence but well but the rewards could be huge Hershey will become the basis of one of America's biggest companies he also believes the money he's giving his school for Orphans will be safer in a business that makes more than just chocolate Okay mr. Russell I'm game what's next"
+    ],
+    [
+      0.9620710611343384,
+      " Russell Smiles his Banker going to make tens of millions from this deal well sir I pay you for a six-month option to execute the deal that should give me time to get the other companies on board in the months that follow Russell races to sign up companies to join the conglomerate but just weeks away from sealing the deal disaster strikes on October 24th 1929 the stock market crashes the economy goes into meltdown Banks start going bust thousands of companies go under Millions buying themselves out of work and Russell's bid to absorb her she into a multimillion-dollar conglomerate toast"
+    ],
+    [
+      0.9770371317863464,
+      " but her she isn't bothered he's more worried about what the Great Depression will do to his chocolate town is the economic Fallout worsens he decides he has to do something to defend it"
+    ],
+    [
+      0.9446555376052856,
+      " t-bars the company from laying off workers cutting wages or Court ailing production to stoke the economy of the town of Hershey he orders a massive construction program to build a sports arena a luxury hotel and a state-of-the-art office block even as his company's revenues plunge the chocolate Tycoon who holds the line Shilling is town from the worst ravages of the Great Depression"
+    ],
+    [
+      0.9289790391921997,
+      " but Milton Hershey's not alone and weathering the economic storm Frank Mars is also bucking the trend"
+    ],
+    [
+      0.9529550075531006,
+      " Frank's discovering the Milky Way is a depression proof product it's chunky size makes people think each $0.05 bar is better value than thin bar chocolate even though it's mainly cheat nougat Frank's company Mars is also scoring big with two new products in 1930 Frank creates a nougat bar top with caramel and peanuts he calls it Snickers after one of his horses and when he starts coating it with chocolate in 1932 sales Skyrocket that same year he launched his Three Musketeers and after some tinkering turns it into a caramel free version of the Milky Way"
+    ],
+    [
+      0.9508591890335083,
+      " Brazilian sales new products and plenty of advertising turns Mars into America's number to candy bar maker after her she not that her she feels threatened after all Mars is a valued customer it buys all of its candy bars chocolate coating from Hershey Mars's success his Hershey success to and with the big bucks rolling in Frank gets to Splash is Cash on horses ranches airplanes and luxury cars"
+    ],
+    [
+      0.9308628439903259,
+      " it all be great if it wasn't for one persistent problem his 28 year old son Forest"
+    ],
+    [
+      0.9570823311805725,
+      " it's fall 1932 and forests just barge into his father's office in Chicago he doesn't ask if it's a good time he just sits down and makes a demand I want a third of the company sorry I want a third of the business I deserve it given all I've done here Frank snaps he's put up with Forest arrogance and outbursts for long and that's not happening in fact this company isn't big enough for both of us hell I'm not even sure this country is big enough I want you gone Forest Fields rage boiling up within him the way he sees it his dad is casting aside yet again fine you can take your damn company and stick it up your ass"
+    ],
+    [
+      0.9333716630935669,
+      " Frank ignores the insult Forest here's my offer I'll give you $50,000 and the rights to Mars products in Europe all right go there start your business stay out of my way deal"
+    ],
+    [
+      0.9537567496299744,
+      " it's a week later and Forrest Mars stands on the deck of a steamer heading to Europe"
+    ],
+    [
+      0.9726928472518921,
+      " has the Statue of Liberty disappears Over the Horizon he starts thinking about his new business about how he's going to build an Empire that dwarfs Mars and how once he's done it"
+    ],
+    [
+      0.9120290875434875,
+      " he's going to come back and rub it in everyone's face"
+    ],
+    [
+      0.9709495902061462,
+      " business Wars is sponsored by Monday. Com a team management platform to not only helps you manage working meet deadlines but also builds a culture of transparency so your team can work better together what are your team up to or thousands collaborating across the globe with money.com you can manage all your core business activities in one place from high-level road maps to specific day-to-day tasks and it's easy to use and fully customizable you can build a board from scratch or choose from a selection of templates and tailor it to your team's workflow if you're wondering how monday.com could work for you and your team check out the use cases tab on their website it lays out examples of different ways they can help you manage your workflow in ways that work best for your company I'm telling you this is the tool you've been waiting for to make nachos Monday but every work day a whole lot more enjoyable to start your 14-day free trial by going to monday.com BW that's monday.com VW"
+    ],
+    [
+      0.9425057768821716,
+      " then use the promo code DW to get 10% off a paid account"
+    ],
+    [
+      0.978541374206543,
+      " hey if you're running your own business stop and think about all the hours you spend moving information from one program to another all because the software doesn't easily work together well now they do automatically thanks to zapier zapier is the easiest way to automate your work it connects all your business software so you can focus on the things that matter most that means no more wasting your time on tasks that you know could be automated because well that's exactly what zapier was built to do just go to zapier.com VW connect the apps that you use most and let zapier take it from there is a. Let you instantly engage with leads send them to a CRM or spreadsheet then notify your team so they can act fast on every opportunity join more than four and a half million people who were saving an average of 40 hours per month by using zapier and right now through the end of the month you can try zapier for free but only when you go to zapier."
+    ],
+    [
+      0.8771583437919617,
+      " I'm / BW that's zapier. Com BW for your free 14-day trial zapier.com BW"
+    ],
+    [
+      0.9635960459709167,
+      " it's a clear spring day in 1933 in the morning shift is underway at Nestle's chocolate Works in vevey Switzerland and that means the plant supervisor can get on with today's big task hiring new workers he's gazing out his office window at the snow cap mountains lining Lake Geneva when the next candidate enters the supervisor turns to Young stocky guy with prematurely receding hair"
+    ],
+    [
+      0.9313072562217712,
+      " Wilshire Como. Label the candidate looks confused Gemma Pell Forrest Mars supervisor raises an eyebrow English American why are you in Switzerland why do you want to work here Forest Rd got a story ready I want to live in the Alps and I thought working in a chocolate factory would be fun to have you work in the Chocolate Factory before now but I learn fast I mop the floors if I bust"
+    ],
+    [
+      0.9497619271278381,
+      " Forest gets the job he spent the next few weeks learning everything he can about Nestle's operations and how it makes milk chocolate then after gleaning all the insights he can he quits he's going to start his own candy Empire in Britain"
+    ],
+    [
+      0.9513403177261353,
+      " it's August 1933 and in a one-room Factory in the industrial town of Slough just west of London Forest is preparing for war"
+    ],
+    [
+      0.9695287346839905,
+      " compared to Britain's chocolate Kings Cadbury and Roundtree Forest Adventure is puny it's called food manufacturers it's got just for employees and it depends on Cadbury for a chocolate but forests convinced his new candy bar will prove a winner he calls it the Mars bar and it's a slightly sweeter version of his dad's Milky Way Forest pushes the Mars Bar hard from the moment it goes into production he runs eye-catching newspaper at Badger's stores until they stock is candy bars and ensures that stores never run out of them the Relentless sales and marketing push pays off fast food manufacturer sells 2 million Mars Bars in its first year soon after Forest launches his own version of Milky Way and just like his dad's Three Musketeers Bar it's chocolate flavored nougat wrapped in milk chocolate"
+    ],
+    [
+      0.9731577634811401,
+      " as his business grows Forest Forge has a unique management style one that's far removed from the Cozy paternalism of Hershey he stamps out traditional hierarchies by giving all workers the title of Associates he encourages transparency with open plan offices to motivate his associates he pays them three times the going rate he also creates a generous and transparent bonus scheme that insurance workers know exactly what their team must do to land a sweet end-of-year lump sum to encourage long-term thing he sets targets for the return on total assets that means managers can't just look at revenues they have to factor in how well they're deploying the company's resources the target encourages managers to maximize efficiency rather than Chase short-term profits and to ensure they follow his Commandments to the letter"
+    ],
+    [
+      0.9616129994392395,
+      " Forest uses his volcanic temper to keep his people on edge especially when it comes to what he sees as the Bedrock of good business"
+    ],
+    [
+      0.9917526841163635,
+      " product quality"
+    ],
+    [
+      0.9042226076126099,
+      " it's 1935 and Forrest Mars is on the warpath in the snowy offices of food manufacturers he's just spotted a pretty wrap Mars Bar in a local candy store bring the latest boxes of Mars Bars to the meeting room now"
+    ],
+    [
+      0.9501746296882629,
+      " as managers carry the cardboard boxes in the glass-walled room the rest of the office watch nervously from their desks porestrips open one of the boxes and starts rummaging through it suddenly he stops and slowly raises a Mars bar into the air the rapper is slightly misaligned the managers go"
+    ],
+    [
+      0.9364715814590454,
+      " this"
+    ],
+    [
+      0.9130052924156189,
+      " this is unacceptable without warning Forest pearls that affected bar across the room if Wizards password of the managers heads and thumps in the glass wall the associates outside the room jump in their seats"
+    ],
+    [
+      0.9448084831237793,
+      " Taurus Dives back in the box or incorrectly wrapped Mars Bars and hurls them at the room managers duck and dive to avoid the chocolate coated missiles finally Forest tips the entire contents of the box right there onto the floor this ship has ruined destroyed a lot and if it happens again you're fired"
+    ],
+    [
+      0.8908663392066956,
+      " after the Outburst the managers return to work determined to make things right the gun used to Forest explosive temper and they're also on board with his perfectionist a man's not least because it's a winning formula"
+    ],
+    [
+      0.9590877890586853,
+      " 2 years ago food manufacturers didn't exist now it's Britain's third biggest candy bar maker and as food manufacturers thrives they do to thanks to Forest generous bonuses the UK's number to Roundtree response to the threat by launching a spade of new and novel products in 1935 it scores big with KitKat for wafer fingers covered in milk chocolate 2 years later it comes up with Smarties the cardboard tube filled with small chocolate discs in colorful sugar shells Smarties is another hit and it solves one of the biggest problems in the chocolate business the summer drop off with air conditioned storage still rare sales of chocolate plunge during the summer heat is candy bars melt on the shelves but with their crispy candy shells Smarties can withstand The Soaring temperatures"
+    ],
+    [
+      0.9524189829826355,
+      " and that convinces Roundtree that Smarties could be the candy that finally helps it break into the u.s."
+    ],
+    [
+      0.8985385298728943,
+      " but before the company can bring Smarties to America a shadow Falls over Europe"
+    ],
+    [
+      0.946168839931488,
+      " Nazi Germany invades Poland plunging Europe into war and forcing Roundtree to put its us plans on Ice the war also changes Forest strategy after reading that the British government is about to impose extra taxes on foreign residents he decides to head home"
+    ],
+    [
+      0.9687590003013611,
+      " but he's not returning empty-handed he's coming back with a big idea he's going to make his own version of Smarties and use them to the American chocolate business"
+    ],
+    [
+      0.8801557421684265,
+      " on the next episode Forrest Mars laser trap War breaks out in the Mars board room and opportunity knocks for Hershey"
+    ],
+    [
+      0.9753198027610779,
+      " from wondery this is business Wars hey if you like this episode please subscribe on Apple podcast Spotify Google podcast Stitcher iHeartRadio wherever you get your podcast you find the link on the episode notes if you tap or swipe over the cover art you'll see some offers from our sponsors please support our show by supporting them and if you like what you heard it would be awesome if you give us a 5-star rating and tell your friends how to subscribe to there's another way that you can support us and that's my answering a short survey add Wondra. Com survey and while you're there don't forget to tell us what business were stories you'd like to hear quit note about the conversations in this episode we can't know exactly what was said but this dialogue is based on our best research I'm your host David Brown Tristan Donovan wrote this story Karen Lowe is our senior producer an editor Emily Frost edited this story our editor and producer is Jenny Lauer Beckman sound design by Kyle Randall Bay Area sound how are executive producer is Mars"
+    ],
+    [
+      0.8389177918434143,
+      " created by Hernan Lopez for wondering"
+    ],
+    [
+      0.6277625560760498,
+      " Ontario"
+    ],
+    [
+      0.9395323395729065,
+      " when John call Sharon's mom called him with some bad news it look like through the skin got blisters to the skin came off and they went to a clinic where she got stem cells"
+    ],
+    [
+      0.9616122245788574,
+      " and just like that her hand started to get better it even cured her arthritis is Mom the treatment worked across the country in Texas Elaine Dilly try to help her mother with stem cells just like John had done my husband and I would do anything to help her she would not be so lucky that we would you afraid that you were going to lose her I knew I was going to lose her to patients to mothers who place their hopes in the promise of a miracle cure and these two are connected but not in the way you might expect once you find out the truth of the whole story"
+    ],
+    [
+      0.9612109661102295,
+      " you just really can't believe anybody anymore"
+    ],
+    [
+      0.9272314310073853,
+      " from wondery the network behind dr. death and Over My Dead Body comes a new story bad batch about people who went searching for a miracle. It was just a matter of time before they were going to get caught, I knew they were selling snake oil"
+    ],
+    [
+      0.9650862812995911,
+      " I'm going to say that wherever there's opportunity there's greed and wherever there's money there's greed and when greed gets involved bad things happen bad batch premieres October 23rd on Apple podcasts or wherever you're listening right now that I looked at him and said are you sorry John"
+    ],
+    [
+      0.9451299905776978,
+      " are you even sorry"
+    ]
+  ]
+}

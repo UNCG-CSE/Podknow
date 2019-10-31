@@ -1,0 +1,602 @@
+{
+  "Stats": {
+    "PodcastID": "1455668750.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 3337.194938,
+    "OriginalFileSize": 53925358,
+    "FlacFileSize": 276983156,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1152.4841532707214,
+    "DownloadSuccessful": "52.27191877365112"
+  },
+  "Transcripts": [
+    [
+      0.9662639498710632,
+      "this is exactly right"
+    ],
+    [
+      0.9297934174537659,
+      " celebrate spooky season with parcast presents Halloween does new podcast series on Spotify brings you three blood-curdling episodes each week in October from urban legends 2 haunted places podcast presents Halloween takes you on historical tour of Terror are the stories of escaped killer on the prowl a gruesome Discovery by four young friends the legendary killings assailants were switches and more search for parcast presents Halloween in the Spotify app and start listening for free"
+    ],
+    [
+      0.9226683378219604,
+      " are the murder Squad we discuss details of crimes that some may find disturbing listener discretion is advised"
+    ],
+    [
+      0.962745726108551,
+      " I'm Paul holes and I'm Billy Jensen welcome to the murder Squad"
+    ],
+    [
+      0.9451336860656738,
+      " this is an episode incredibly close to my dark Blackheart Halloween candy and costumes ghosts and goblins and haunted houses Halloween is now a 10 billion dollar industry under a 2000 haunted houses across the country the 13th floor House in Denver the four stories of Rivas in Pontiac Michigan Bennett's curse in Baltimore Universal Horror Nights Knotts Scary Farm Six Flags Fright Fest"
+    ],
+    [
+      0.9117803573608398,
+      " with everything so popular they will be a Darkseid and haunted houses are no different in May of 1984 a fire ripped through the haunted castle attraction in Six Flags Great Adventure in New Jersey"
+    ],
+    [
+      0.9568753242492676,
+      " 8 teenagers were killed a grand jury and died at the park for aggravated manslaughter saying they continuously and recklessly ignored warnings to put in safety precautions Sprinklers and smoke alarm they were eventually found not guilty a young boy step forward to say another boy he had met was inside the house using a lighter to see in the dark and accidentally set fire to some rubber phone starting to blaze that boy was never found in March 2005 Joseph young Lord Robert McKelvey to the Chrysler Mansion haunted house Staten Island Forest Ave and drowned him before dismembering him"
+    ],
+    [
+      0.9701343178749084,
+      " it was a mob hit the 2014 story of a man walking into a haunted house in Los Angeles with a real chainsaw and killing seven people who thought it was part of the show or that was a fake story it didn't happen the last year A man was stabbed with a real knife at the Nashville Nightmare Haunted Mansion in Tennessee he required 9 stitches and recovered even with all these true crime stories we tell you about we continue to want to get scared to death come October but there is one attraction that haunts every day of the year"
+    ],
+    [
+      0.9584789872169495,
+      " it is the greatest haunted house of them all the Haunted Mansion in Disneyland a dark ride in which you board dune buggies and travel through a New Orleans Mansion inhabited by 999 Grim Grinning Ghosts Haunted Mansion open on August 9th 1969 which is also one of the most infamous days and criminal history is that was the day of the Sharon Tate murders The Haunted Mansion has been repurposed and modified and houses in Orlando Tokyo"
+    ],
+    [
+      0.885786771774292,
+      " and with similar experiences in Paris with a Phantom Manor in Hong Kong's Mystic Manor"
+    ],
+    [
+      0.9213143587112427,
+      " but the one in Anaheim at Disneyland is the classic it can handle 2500 gas per hour it's been open since 1969 do the math it's been written hundreds of millions of times"
+    ],
+    [
+      0.9160118103027344,
+      " and outside the house there are tunes of ghosts"
+    ],
+    [
+      0.9383372068405151,
+      " they were once people who haunt the attraction"
+    ],
+    [
+      0.9478002190589905,
+      " they have quippy little sayings on them but they actually pay honor to the imagineers who worked on the attraction"
+    ],
+    [
+      0.8959187865257263,
+      " good friend Gordon now you crossed the river Jordan that one is an honor of Gordon Williams who is the guy behind all these spooky sound effects"
+    ],
+    [
+      0.9143341779708862,
+      " another red at peaceful rest lies brother Claude planted here beneath the sod rest for Claude coats who designed most of the interior for the mansion"
+    ],
+    [
+      0.9078571796417236,
+      " but perhaps the most famous and most quoted is this master Gracey laid to rest no morning please at his request farewell that one is for Yale Gracie and it was Gracie using many of the sketches from his counterpart rolly Crump who made the attractions so memorable"
+    ],
+    [
+      0.916682243347168,
+      " because Gracie deliver the magical special effects the dancers at the dinner party"
+    ],
+    [
+      0.9321237802505493,
+      " the hitchhiking ghosts to follow you home the dueling portraits"
+    ],
+    [
+      0.9452023506164551,
+      " you're the little lightning bugs in the beginning of Pirates of the Caribbean which you can also see at the Blue Bayou Restaurant and the Flames effects while the city is burning at the climax of pirates he did that"
+    ],
+    [
+      0.8273365497589111,
+      " Yale Gracey was the pixie dust of Disneyland"
+    ],
+    [
+      0.9663516879081726,
+      " and the Gracie grave outside the Mansion is very prominent and also the dirt around his grave is fresh which leads visitors to believe that he was just buried"
+    ],
+    [
+      0.9526493549346924,
+      " The Unofficial story is that Gracie is the host of The Haunted Mansion the ghost host the former owner who took his own life in the stretching room who welcomes you into the house"
+    ],
+    [
+      0.9595373272895813,
+      " and an early concept of the ghost hose as the former owner of the house and he was a man living under assumed name but his real name was Captain Gore The Story Goes that Gore was wed to a woman was going to be wet to a woman actually named Priscilla right before the wedding Priscilla goes up into the attic and finds a box and the box has evidence that reveals that Gore was a internist pirate"
+    ],
+    [
+      0.9228110909461975,
+      " and knowing that his cover was blown Gore than through Priscilla out the window murdering her"
+    ],
+    [
+      0.9566363096237183,
+      " her spirit then haunted him in the house which caused him to take his own life when he hung himself in the stretching room and now they both live there he is your host she's the one waves goodbye at the end of the ride and visit soon and to bring your death certificate and they even used to hand out death certificates at the end of the ride and they were signed Master Gracey"
+    ],
+    [
+      0.9468463659286499,
+      " never tell me otherwise Disney his dark as fuck but the story is the imagineers built around the Haunted Mansion don't compare with the real life horror that awaited one of their own"
+    ],
+    [
+      0.9245660901069641,
+      " Yale Gracie's life and adjust historically as his fictional counterpart our job solve the murder of The Man Behind The Haunted pixie dust we need Justice for master Gracie this is the murder Squad"
+    ],
+    [
+      0.901472270488739,
+      " what are you doing now Billy"
+    ],
+    [
+      0.6697223782539368,
+      " well Paul"
+    ],
+    [
+      0.8992363214492798,
+      " we discussed Star Wars back in May on May the fourth member and you said you were more of a Star Trek guy and since it's Halloween I got us some costumes"
+    ],
+    [
+      0.9604941606521606,
+      " this is the classic Captain Kirk gold for you"
+    ],
+    [
+      0.8582596182823181,
+      " oh my gosh for me"
+    ],
+    [
+      0.8209870457649231,
+      " playing the both are potty types yes"
+    ],
+    [
+      0.932084858417511,
+      " Jesus are you saying I'm highly logical well I'm actually a little scared I learned my lesson with the Buzz Lightyear costume which is probably our most liked photo ever on outer Instagram never never underestimate the dandelion age"
+    ],
+    [
+      0.9598904848098755,
+      " hard enough of that let's head to New Orleans Square Gracie has been memorialized at the Haunted Mansion his career with Disney started thirty years before the Haunted Mansion with ever open he began in the animation Department signing layouts for Pinocchio Gracie had attended the Art Institute of Chicago and the schooling to good use at Disney working with Jack Hanna on many of the Donald Duck short animated films herself noticed his first assignment using these gadgets and inventions was update some of the Fantasyland attractions like the Mad Hatter's pot always having Steam and 1961 Yale history began the next phase of his career at Disney as a special effects and lighting artist at Disneyland"
+    ],
+    [
+      0.909845769405365,
+      " at the time Disney hadn't created the term imagineer yet he was known as an illusion are for most of Grace his career he wasn't assigned to specific projects He created magic Illusions and Hots he was given free Reign Over what interested him to create"
+    ],
+    [
+      0.947597086429596,
+      " even after he retired in October of 1975 Disney would still ask him to consult on special effects and lighting for things like the world of motion ride at Epcot Center but September 83 the legend of Yao Gracie took on a new story"
+    ],
+    [
+      0.9217813611030579,
+      " yelling his wife Beverly were staying at the Bel-Air Bay Club on the Pacific Coast Highway in the Pacific Palisades"
+    ],
+    [
+      0.8565839529037476,
+      " a coastal neighborhood in West Los Angeles"
+    ],
+    [
+      0.9254310131072998,
+      " the club is positioned on 1/4 Mile of beachfront property is beautiful"
+    ],
+    [
+      0.9293006062507629,
+      " and the designer constructed it in such a way that that is the PCH the Pacific Coast Highway was invisible while you were at the club so is like a paradise and the Gracie stayed there almost every weekend"
+    ],
+    [
+      0.9388841986656189,
+      " secluded in the beachfront Cabana Yale and Beverly were asleep when an unknown assailant broke in around 2:50 a.m. he was carrying a small handgun and he started shooting"
+    ],
+    [
+      0.9311894178390503,
+      " another club ever heard the shots and called the police the offender had shot both the Allen his wife Yale was killed Beverly survived the killer flat on the beach and was never found"
+    ],
+    [
+      0.9078690409660339,
+      " the police came the main theories that the killer was a transient looking for drugs or money"
+    ],
+    [
+      0.9746274352073669,
+      " but being that the killer was never found the motivation has never been confirmed the case is still cold and has no suspects"
+    ],
+    [
+      0.7989569306373596,
+      " you know Paul the location"
+    ],
+    [
+      0.9669864177703857,
+      " Pacific Palisades it spits Paradise you know this is some of the most expensive real-estate and what you do you still have and you see this you have people that that just hang out on the beach and what they were trying to say is that this was a man who was looking for drugs this is 1983 he's looking for drugs walked into a cabana but he doesn't really even say anything and he just goes and starts shooting with a low caliber handgun you know that doesn't make sense to me and I'll typically you when you've got what you've got these these addicts that are searching for drugs the last thing they want is to be confronted by somebody they will avoid that they they they basically are burgers that will go into an unoccupied dwelling and try to steal something versus charging into a cabana at shooting right away"
+    ],
+    [
+      0.9514554142951965,
+      " that doesn't make sense that his primary intent was there for drugs and money there's something else going on here in the fact that maybe he got spooked maybe he"
+    ],
+    [
+      0.9649161100387573,
+      " it's so hard to solve you know who this is one of the reasons why this case has not been solved is that you know when you think about it and the reason why this case resonates with me so much is that the Haunted Mansion is possibly you know along with Tire it's what she also worked on is one of the two most favorite places in the world for me and this guy created so much of that and you know right alongside Walt Disney and it's an unsolved murder of an imagineer and when I first heard about this case I was blown away that there is imagineer that has been murdered and nobody knows who did it and"
+    ],
+    [
+      0.9611336588859558,
+      " Aikido the whip when I looked at it and I said well is this solvable it's going to be incredibly tough but we got to try because not much has really been done with that snow the police and a description of the man to the Lifeguard stations and the gas stations and all the stores around town and the Man actually he was in his late 50s and he had a small caliber handgun that's not much to go on but it's all we have"
+    ],
+    [
+      0.9551931619644165,
+      " but maybe somebody knows someone I used to hang out along the Palisades at back in the early 80s maybe they might remember some little detail sister something that's all we're looking for Gracie was quoted in famous monsters of filmland which is a great magazine after the Haunted Mansion opened and he said people enjoy being frightened engines that were used in the Haunted Mansion with sent chills through anyone I know"
+    ],
+    [
+      0.961758553981781,
+      " you know it's that desire to be frightened that most people like to tap into this time of year but man you know the idea that this guy had had created something that people literally millions of people are experiencing and experiencing still you know when you talk about are he created something that people are paying a lot of money to go see right now in the same way that they would pay money to go see DaVinci or Picasso I put him in that class the sky was that good and to know that he had been"
+    ],
+    [
+      0.9585925936698914,
+      " murdered and it was a guy that was in his late 50s that had a dog and a small-caliber handgun it sounds like so little to go on but we have to try that's what I say no question but I do know I have so many questions you know right now that you're dealing with a transient is guy that's responsible so there's an assumption right there I start keying in on that our victim team we stayed at this location"
+    ],
+    [
+      0.9592206478118896,
+      " what is a possibility that you are dealing with a premeditated crime this offender came in with a handgun and started shooting right away in this location to gunshots in the middle of the night at 2:50 a.m. in the morning even the most drugged-out addict is going to understand that he is going to be alerting the other occupants in this location that is high risk to the offender so now I start to think you know what is it possible that our victim was targeted and then if so"
+    ],
+    [
+      0.9653566479682922,
+      " why now why is he being targeted what is in his path I would cause somebody to come and kill him so on one hand of it's a transient that's going to be extraordinary case to solve under the circumstances you do not have the intimate contact between the offender in the victim in which you're going to have an exchange of evidence you've basically got the firearm at the bullet sand or cartridge cases that are left behind and we don't know what kind of got it is right it's a small caliber because you know I would be Bobby wanting to know okay what is the make and model of this gun based on the rifling characteristics the ejection and extract which case could they determine that is this an expensive gun or is it a run-of-the-mill Jeep Street special They also there's so much things I start asking"
+    ],
+    [
+      0.957362174987793,
+      " y'all so I look at this I'm going well I'm not entirely convinced this is a random transient I want to know more about the victimology and I want to know more about the case to scippix to see whether or not is it possible this is premeditated somebody targeted your hero and the you know that the Survivor his wife innocence past we did reach out to the family and the Sun and respectfully declined to talk about it but you know it's one of those cases it as soon as I heard about it it was one that I was just like"
+    ],
+    [
+      0.9494125843048096,
+      " it has it has to come on and thank you at actually it was from the person that alerted me to it was Ginger from the Walt Disney Family Museum in San Francisco which is a fantastic Museum if you ever in San Francisco you should go check it out and you know she was talking about hey wait wait but we're big fans like we're all big fans here and I was like well you know. You know I always want to do something you know that's my other part of my brain is it is the theme park in Disney and she said well you know what this happened was like oh my God and then I just wanted to this deep dive into started doing all this research on it and found it there's no question that Halloween is great for families you know but this time of year also marks tragedy for some unsolved cases that need answers on Halloween of 1980"
+    ],
+    [
+      0.9277483820915222,
+      " to Marvin and Ethel Brandon Wright home handing out candy when a slightly older trick-or-treater came to the door"
+    ],
+    [
+      0.9876291155815125,
+      " the Dodge"
+    ],
+    [
+      0.926662802696228,
+      " the Fort Dodge Iowa couple open the door to see a person wearing a pillowcase with eye holes cut into it this is no ordinary trick-or-treater the offender said trick or treat give me your money or I'll shoot"
+    ],
+    [
+      0.911033034324646,
+      " both Marvin and Ethel assumed it was a joke"
+    ],
+    [
+      0.9013159871101379,
+      " I thought even try to lift the pillowcase mask then the man pulled a gun in the directed them to a place in their home that very few people know about"
+    ],
+    [
+      0.9574642181396484,
+      " he wanted them to open their safe in the basement"
+    ],
+    [
+      0.941461980342865,
+      " according to the Brad lens only people in the family knew about the safe once the offender and the couple made it to the kitchen Marvin refuse to play along anymore he reached for the gun the masked man shot him in the throat he then took off the pillowcase and ran for the door"
+    ],
+    [
+      0.8560765385627747,
+      " so this isn't you know using Halloween as as a cover as a cover to"
+    ],
+    [
+      0.9076059460639954,
+      " Robin Schulz deliberate you know when one of the most famous true crime stories is In Cold Blood where you've got these two"
+    ],
+    [
+      0.9658541679382324,
+      " villains who go to a family they think there's a safe there they try to get them to open the safe the end up killing the whole family this one they figured all right you know what when do people open the door they open the door on Halloween you know and it's true we open the door and Halloween and I don't want that to stop I don't want to be anything because yours things that we have that we literally dress up as something else we go around to every other house every other house opens the door and then gives the person candy I think it's one of them one of the most amazing things that we have in the world and this person just so easy to exploit in a sentence"
+    ],
+    [
+      0.8027623891830444,
+      " that's hard to slow down falling asleep in her family room sofa"
+    ],
+    [
+      0.9665979743003845,
+      " she wakes up to the doorbell ringing she gets up and just thinking it's another trick or treater opens the door"
+    ],
+    [
+      0.9324601888656616,
+      " and I'm standing on the other side of the door is a man wearing one of those skull masks and as soon as she opens the door he barges in horses are down in the floor handcuffs her closes a door and after searching the house precedes to take her upstairs"
+    ],
+    [
+      0.9258913397789001,
+      " and rapes her over the course of almost 8 hours"
+    ],
+    [
+      0.9541090130805969,
+      " so is NorCal rapist he exploited that innocence people will just open the door to anybody wearing a disguise all right so as far as the evidence that might"
+    ],
+    [
+      0.9599949717521667,
+      " be left at the scene would there be evidence on that pillow case that he had taken off and then when he ran for the door by absolutely no of course he's he's wearing it victims are seeing him wearing it so as he's wearing this his mouth is coming in contact inside that pillow case he's talking he's giving them orders you have to spit saliva being a positive that has a lot of DNA but you also have to consider have been something that was out of his own home maybe he slept on that pillow cases multiple times before he decided to use it as a disguise and how many people he'll wake up after they've been sleeping and they write that pillow cases huge from a physical standpoint early morning hours of Halloween"
+    ],
+    [
+      0.9670570492744446,
+      " able to offer a decent description of the offender she told me about 5 feet between the ages of 16 to 20 years old with blondish hair and blue eyes that'll died a few months after the attack not knowing who killed her husband but there was an acquaintance of the family who matched at those description and more than that some family members claim this person bragged about killing Marvin law enforcement without naming the acquaintance said this person was the Prime Suspect but they needed more evidence the pillow case came back into play at this point in 2010 it was sent to the state lab to be process where DNA in hopes that the heartbroken family with finally have an answer but when the lab finished processing the result was another disappointment there wasn't enough DNA how much DNA would you need a lot and it's like"
+    ],
+    [
+      0.9655921459197998,
+      " always there DNA I just met with a woman on another transaction that I'm doing that I'm actually going to talk about my distraction but she's talking about like DNA and yeah it's like you can't do anything because you know you shed skin cells or whatever you know how much DNA would they have needed for this and how is there not enough DNA because if it's a pillowcase and like you said you know somebody's breathing somebody's what's going on we're talking about in 2010 now that seems like that was just yesterday but in the DNA world that was a decade ago DNA has changed dramatically in terms of its sensitivity to be able to get results from smaller and smaller samples in that past decade so this is a case where I would say you have to revisit that pillowcase but you also"
+    ],
+    [
+      0.9752632975578308,
+      " how to understand a pillowcase has a large item and now if we're talking about looking for DNA from saliva under the stress of the situation and so is nose is wiping on the inside of that pillowcase a lot of that that type of staining is not readily visible so you have to kind of guess where it's at based on Walters eye holes in the pillowcase so they're going to kind of Target where they think there will be DNA deposits many Labs have moved away from what we call a malaise testing amylase is an enzyme found in high concentrations in saliva and we used to be able to use a malaise to focus in on areas where there could be high concentrations of saliva if it's a freshen-up sample of any labs 2010 at stop doing that are doing is taking cuttings and guessing"
+    ],
+    [
+      0.9368569254875183,
+      " a lot of this depends on the skill of the analysts so I would say this pillowcase absolutely needs to be Revisited not only because it's been a decade since it's been tested but let's get a different and list with a higher skill set to take a look at it take more samples and I can almost guarantee the offenders DNA is on this pillow case huh"
+    ],
+    [
+      0.9285595417022705,
+      " you know after all that summer barbecuing eating out on vacation"
+    ],
+    [
+      0.9409562945365906,
+      " and of course all that Halloween candy get back into the habit of eating what's good for me"
+    ],
+    [
+      0.9608772397041321,
+      " I'll tell you what finally time to look for recipes and go to the grocery store meal prep it's pretty overwhelming that's what's great about Daily Harvest Harvest makes it easier than ever to get back into the habit of eating more fruits and veggies thoughtfully sourced chef-crafted food that will be prepared in less than 5 minutes he has 65 different options like ready to eat smoothies hearty soup Savory Bowl each Daily Harvest cup takes one step to prepare with room for customization"
+    ],
+    [
+      0.9631071090698242,
+      " and what do I like about Daily Harvest I've said it before and I'll say it again the bench and cacao cup ordered a lot of sense and I drink a lot of them I'm pretty sure I drink one every day and then I just love it but the the meals are fantastic to and it actually makes me feel like I'm a chef which I really am not because mainly I I can cook cereal that's all I do back with Daily Harvest I feel like a chef but I'm making stuff so go to Daily Harvest. Calm and enter promo code Squad to get $25 off your first box that's promo code squad for $25 off your first box at Daily Harvest. Com that's Daily Harvest. Com"
+    ],
+    [
+      0.9770410656929016,
+      " getting in shape isn't just about losing weight it's about feeling better about yourself whether that means having more energy to keep up with your busy life or fitting into those goal jeans being more in tune with your body's needs or practicing better self-care do miss have a change in solution that helps users develop a new relationship with food through personalized courses with new no food is good bad or off-limits instead teaches moderation by helping you track meal habits visualize portion sizes and see calorie density at a glance it can even be used in conjunction with many pre-existing popular diets for me losing weight isn't an issue it's always been more trying to gain weight in a lot of it is just making sure I get the right ratio of macros where I tend to emphasize protein over the other macros that's helped me with the weightlifting and noon is something that is giving me a better insight as to the food choices that I am making"
+    ],
+    [
+      0.9573628306388855,
+      " with whom you don't have to change it all in one day small steps make big progress to sign up for your trial today at noon Noom. Com Squad what do you have to lose visit new.com Squad start your trial today that's noon.com Squad the last weight loss program you'll need"
+    ],
+    [
+      0.9824067950248718,
+      " best fiends"
+    ],
+    [
+      0.9161473512649536,
+      " you know what I'm telling these crime stories can often get a little bit overwhelming I wanted this scrape my my mental palate clean I go to best fiends it's a casual game with challenging puzzles anyone can play"
+    ],
+    [
+      0.9634535312652588,
+      " I'm currently on level 21 and let me tell you something there's no more satisfaction that you'll get with your I found then when you can link up"
+    ],
+    [
+      0.9315429925918579,
+      " MLB 17 or 18 of the of the different colors and shapes and then have them all shoot at the snail if you don't know what I'm talking about"
+    ],
+    [
+      0.9755721688270569,
+      " you should so download best fiends"
+    ],
+    [
+      0.9479536414146423,
+      " best fiends is unlike any other problem came out there and they update the game monthly the new levels in advance but never gets old engage your brain with fun puzzles and collect tons of cute characters to Five star rated mobile puzzle game with over 100 million downloads globally download free on the Apple App Store or Google Play That's friends without the r best fiends"
+    ],
+    [
+      0.9652382731437683,
+      " so the case is still unsolved today which is also like our next Halloween case The Disappearance of Penn State student Cindy Song"
+    ],
+    [
+      0.969496488571167,
+      " Cindy song was 21 years old and she dressed up for Halloween party in 2001 she put on a pink sleeveless shirt with a rabbit design on the front a white tennis skirt and brown suede leather knee-high boots and she finish top is rabbit costume with bunny ears and a fluffy white ball pinned to her skirt and no Halloween costume is complete without some makeup Cindy added some false eyelashes as well so she grabbed her red knee high and have fun at the Players nightclub on College Avenue"
+    ],
+    [
+      0.931590735912323,
+      " she said the club until the early morning hours of November 1st"
+    ],
+    [
+      0.9720666408538818,
+      " around 2 a.m. Cindy stop by a friend's house for a couple of hours then approximately 4 a.m. another friend drove her to her apartment at Penn State's State College Park Apartments on Clinton Avenue and that was the last time that Cindy was seen after several days of not seeing or hearing from Cindy her friends reported her missing on November 4th on entering her apartment most of her belongings were inside her backpack phone and even the false lashes at Cindy was wearing the night she disappeared but her purse and keys were missing there are no signs of Foul Play or struggle inside her apartment shortly after the first search of our apartment Cindy's family came in from South Korea they packed up the apartment potentially destroy a removing any possible evidence"
+    ],
+    [
+      0.9228946566581726,
+      " Sonic her her lashes are inside the apartment that looks like she's made it back or eyelashes these false lashes that she was wearing"
+    ],
+    [
+      0.963919997215271,
+      " are in the apartment so her friend dropped her off she makes it back to the apartment but then our person keys are missing so does she"
+    ],
+    [
+      0.9515345692634583,
+      " leave voluntarily leave and then goes missing or somebody"
+    ],
+    [
+      0.9499433636665344,
+      " interacting with her in the apartment and it ends up abducting her the sometimes I do see this where law enforcement fails to walk down a crime see or recognize they have a crime scene until after the family has been allowed in and then the family is up cleaning up and yes that is a problem it does Destroyer however"
+    ],
+    [
+      0.9441500902175903,
+      " depending on the circumstances it is possible that there could still be evidence present within that apartment it's still in, tap on the investigating agency to proceed with was processing you don't know what happened maybe Cindy was killed inside that apartment do you have any blood that might be hidden in that apartment it's a matter of really stripping down the layers and see what you can find before concluding that there's nothing there that is useful"
+    ],
+    [
+      0.9112409353256226,
+      " yes it was already began to look into Cindy and according to friends and family friend just a month before the party"
+    ],
+    [
+      0.9703775644302368,
+      " and The Break-Up left some to speculate that she had just left or possibly even committed suicide but there was no evidence to support any of this and a 2003 Fort Smith. They had some of the pain of lead it was a bank-robber his name was Hugo Marcus selenski and they arrested them and a search of his property uncovered a graveyard in his backyard had the remains of up to 12 people while testing was being conducted to identify the remains selenski told everyone a chilling story he said that she and Michael Jason Krukowski Junior mistaken Cindy for a sex worker and they kidnapped her"
+    ],
+    [
+      0.9269832968711853,
+      " and Selinsky claimed that they kept her imprisoned and a walk-in safe inside his home until she died"
+    ],
+    [
+      0.9147434234619141,
+      " law enforcement had hoped to talk to her Koski to confirm saline solinsky story but they never got the chance"
+    ],
+    [
+      0.9087714552879333,
+      " her house key was one of their remains insolence Keys backyard grave so who according to lenski he killed Krakowski because he kept Cindy's bunny ears as a souvenir"
+    ],
+    [
+      0.9400659203529358,
+      " Tourette's guy still consider selenski a suspect in Cindy's case but without her remains or someone to confirm his account he hasn't been charged"
+    ],
+    [
+      0.9655748605728149,
+      " and this case has remained unsolved so we have a confession from a guy with a self-made graveyard why not charge him"
+    ],
+    [
+      0.9540830254554749,
+      " well yeah I will first I want to know did they identify all 12 people that were found in this self-made graveyard you know is there any unidentified remains closed and why have they have been unable to identify how many times do individuals confess to a crime just because they want more notoriety they're aware of this solensky may have been aware of Cindy's case because it was in the newspaper he's reading about it and so now he's saying yeah I killed her"
+    ],
+    [
+      0.9627482295036316,
+      " obviously this guy has killed other people it's not out of the question for this type of individual to make claims of having been involved in other cases that they didn't have any bottom line if you're so awful that you've killed people don't add to that off on this and claim that you killed other people because it just leads everybody down a freaking rabbit all and you're just screwing everything up but these types of people don't care at all in fact they will get off on the fact that it's going to cost frustrations to everybody involved as they basically send law enforcement and the law enforcement agency the investigating agency did not get enough details in that confession where they were confident that only the Killer"
+    ],
+    [
+      0.9715054631233215,
+      " missing person and we don't know the details of how she went missing they don't have facts to be able to corroborate or refute any statement that selenski is making so now it's a matter of proving that selenski was involved in this case if Cindy's remains were in his backyard that would be one thing but as of right now I'm assuming they've determined that she was not in the backyard our last case revolved around Billy staver Holiday also takes place after a Halloween party Karen and David Swift had an up-and-down marriage even getting divorced once already according to many friends and family they were headed that way again both had ventured outside the marriage multiple times but no one mentioned even a whisper of domestic violence carrying a gun out to all the wing party with friends in October 29th 2011 at The Farms Country Club in Dyersburg Tennessee Witnesses claimed that Karen had an argument with an unnamed married woman on the patio at the party"
+    ],
+    [
+      0.9653686881065369,
+      " getting home and tucking their daughter to bed then she left the house again the next morning at around 5 a.m. it Hunter spotted carens 2004 Nissan Murano it had a flat tire on the side of the road less than a quarter-mile from her own home it was a road where the fitness instructor often jog with her children but Karen was nowhere to be found"
+    ],
+    [
+      0.8726933598518372,
+      " and the community begin to search for the missing mother of four"
+    ],
+    [
+      0.8776484131813049,
+      " but there's no sign of Karen"
+    ],
+    [
+      0.9376105070114136,
+      " 10 days after she disappeared the country club that hosts of the Halloween party is burglarized"
+    ],
+    [
+      0.9249914288520813,
+      " and the only thing that stolen"
+    ],
+    [
+      0.9630186557769775,
+      " the surveillance tapes from that night that's interesting yes that was having an affair with a married man perhaps the man married to the unnamed woman that had the fight with Karen that night and maybe the fight was on those tapes on December 11th to men went out to the Dyer County Cemetery to look into overturn tombstones and they're inspecting the Tombstones and they noticed what seemed to be body parts sticking out of the Kudzu Vines and then he knows there doesn't know what Kudzu Vines do you want explain Kudzu Vines are not Ivy and they grow constantly in anywhere they possibly can with the lightest planting Scott everywhere this kind of reminds me of one of the scenes in Harry Potter"
+    ],
+    [
+      0.947433352470398,
+      " maybe from the Far East and they planted it and they thought it was going to kill stop but then it just went wild and it's all over Tennessee and Carolina and everything are the particulate Tennessee we're sticking out of these Kudzu Vines and they were in a shallow grave just outside the cemetery but the man who found the body said it actually was in plain sight"
+    ],
+    [
+      0.9528006911277771,
+      " and the men didn't get too close to the body before they call the sheriff's office which is what you should do in and the autopsy report that was acquired by the Tennessee Valley River news the only clothing on Karen's body was their black underwear and they were pulled down to her upper thigh the cause of death was listed as blunt force trauma to the Head"
+    ],
+    [
+      0.9558146595954895,
+      " The Remains were too badly decomposed to discern whether she was sexually assaulted or not but you know how they found the clothing you know you're thinking there was something going on there the autopsy also noted that some items were recovered from each hand one less thing of note"
+    ],
+    [
+      0.9754858016967773,
+      " from the reporting is that the body was found in an unusual position"
+    ],
+    [
+      0.7790915369987488,
+      " are Paul disposing a body"
+    ],
+    [
+      0.9639779925346375,
+      " at or near a graveyard you see that sometimes what's that about I haven't had a case in which I've had a body"
+    ],
+    [
+      0.9378264546394348,
+      " disposed of in a graveyard I've had cases in which there were tips that came in saying that a missing person had been buried in a cemetery as I read this case"
+    ],
+    [
+      0.9342972636222839,
+      " Karen's remains being near the cemetery is definitely interested in some way if her remains recovered there would be a thought that this was just you know a burial that very bad sometimes"
+    ],
+    [
+      0.9159488677978516,
+      " graveyard due to floods or some other type of event that causes some bodies to become exposed"
+    ],
+    [
+      0.9262149333953857,
+      " I'm wondering if these Kudzu Vines were such a good hiding place that that was what really attracted the offender are fenders to dispose of Karen's remains there knowing that they would be rapidly covered up and hidden from plain sight as opposed to the fact that it was near a cemetery what was in our hands they should have been revealed that is"
+    ],
+    [
+      0.8983445763587952,
+      " you know"
+    ],
+    [
+      0.9544402956962585,
+      " Yahoo no see how there could be so much going on now are they talking about evidence such as DNA evidence of hair oftentimes victims will still be grasping hairs from the person that attacked them so it it really is wide open at this point speculation has run rampant in the area by police searching Karen's husband he has not been charged with her murder but a private investigator in the area Heather Cowan thinks a local authorities possibly have blinders on she is looking into the case on her own without a client in hopes of finding Justice for Karen know of course they're looking at Karen's husband David you have to where was he what was he doing at the time she went missing does he have I'm obviously this is a marriage that is troubled"
+    ],
+    [
+      0.947020411491394,
+      " you're at the time does he have the opportunity to be able to commit this homicide based on the circumstances is there a solid solid Alibi for him that can be backed up with with a physical a physical placement of where he was at at the time she goes missing potential"
+    ],
+    [
+      0.9486863017082214,
+      " looking outside her marriage and potentially having an affair what are those into the possibility of people that she was intimate with I know anytime I'm investigating a case or digging into a case when the first question is who is she having sex with it maybe the person she's having sex with could be the killer or person she's having sex with is the reason somebody wanted to kill her kids version of trick-or-treating and we're looking for information on all of these cases"
+    ],
+    [
+      0.9700233936309814,
+      " imaginary L Gracie from September 1983 in the Pacific Palisades searching for the identity of the man in his 50s with a dog who lived on the beach you know what we said it's a tough one but maybe someone knows someone who used to hang out on that beach the Palisades back in 1983 maybe it might be something more personal maybe somebody remembers some little detail finding Cindy Song and State College Pennsylvania who was last seen around 4 a.m. on November 1st 2001 and October of 1982 in Fort Dodge Iowa"
+    ],
+    [
+      0.8998833298683167,
+      " that you don't put that with the one that we had the most hope Solvang that seems like we have the most evidence or at least the most"
+    ],
+    [
+      0.9278330206871033,
+      " is strings to follow out of the maze is the murder of Karen Swift from Dyersburg Tennessee and October 2011 don't name names in public be nice to each other don't expect credit pretty much don't dox dox yes to the weekly distraction"
+    ],
+    [
+      0.9566680788993835,
+      " and yes it to keep it on the Haunted Mansion you know this is one of the few times when my distraction actually merges with the episode and when my to take a look at my my study and buy house there are two sets of bookshelves and on one side are all of my books about true crime and murder and Unsolved Mysteries and my files and everything and on the other side is my Disney and Star Wars and Harry Potter stuff so I keep them separate but this is the time when it emerged in the comics go into the Hall of dark rides you know what takes my head"
+    ],
+    [
+      0.9486621022224426,
+      " out of itself for a few minutes and it's immersive art and I love anything that's immersive and I went on a tear this Halloween and I started ordering stuff from at Sienna murderino crafting community and I just want to give a shout out to there is a Memento Mori Goods LED piestraks Kelly Paper Company creepy Co retro a go-go which which are you know bigger companies called apparel glad racquet foolish mortal Supply and they're just such"
+    ],
+    [
+      0.9286332130432129,
+      " they're just"
+    ],
+    [
+      0.9539229869842529,
+      " they live Halloween 24/7 and some people think that that's strange or odd but I'm kind of all about it and I really do I really do dig it so and then there's also you know my Halloween everyday friends I was just on a podcast called crying at Disney about basically Disney golf type stuff and there's so many people that are into that sort of darker side of Disney and as Disney you know you don't want to see a darker side of Disney as being something that is is sad but it's just a little"
+    ],
+    [
+      0.874215304851532,
+      " you don't you know it's not all rainbows"
+    ],
+    [
+      0.9672838449478149,
+      " it's not all it's a small world which by the way is a scary ride"
+    ],
+    [
+      0.9440131187438965,
+      " you know I'm a 6-foot for man"
+    ],
+    [
+      0.964957594871521,
+      " my son who is taller than May 6th Avid you know he trick or treated up until when he was like 13 when he was like six 5 and I had to tell him you can't do it anymore I'll buy you all the candy that you want it's creepy but now I do not still circuitry but I do I think it's one of the great social transactions that we still have and ends the idea that a stranger comes to your house dressed in a mask if you're supposed to ask them trick or treat to the homeowner and then her mother says okay I don't want to treat that I don't want to trick I'm going to give you some candy I just think it's fantastic"
+    ],
+    [
+      0.9350535869598389,
+      " they have adult referring to she gets candy and we get boobs do is start and where it needs to be more codified so I think that we need to get you a small little bottles that you get on the airplane maybe that's what we need to start start like if a parent is there hey you know it give them all right Paul what's going around to getting shots of drinks from strangers"
+    ],
+    [
+      0.945306122303009,
+      " God Predators Paradise break this is my world right now I'm thinking about though there is liquid ingestion occurring as Polly's going around her neighborhood and there is no monitoring as to what's going on"
+    ],
+    [
+      0.958427369594574,
+      " this is what he's got a right all right all right with a group of like 7 going on as they wander around the neighborhood or should I say stumble around the neighborhood traction well piano and then this is just I think it's what I have to deal with now at my age she and I'm recovering from surgery he had spend it's been a long haul and hopefully things go well this this whole thing with my elbow has been somewhat has has been somewhat that I've been dealing with now for a while but then"
+    ],
+    [
+      0.9767112731933594,
+      " last 6 months really kind of kind of spiraled out of control so I had to get it taken care of so you know hopefully everything goes well and over the next course the next 6-12 months I'll get full function back in my hand 6 to 12 months cuz I have to wait to see if the nerve is going to heal itself like I suggested requested that. I'm sorry I just did not come up to the Steve Austin level he was an astronaut and they made him bigger stronger faster you're a Cold Case detective why do that not happen when we talked about the American health-care system this is one of the things that I'm on top of everything else that's alright so"
+    ],
+    [
+      0.9669874310493469,
+      " subscribe to us leave us a review if you would like to we would love that five stars are wonderful for stars we would love you a little bit less but that's okay social Paul by the way is on Instagram and believe it's Paul. Holes and then at Jensen and holes and you can buy our merch we got great merch and our merch store I know that Halloween is coming up at right after Halloween you got a little bit of Thanksgiving which is the sort of like the bastard child of of Halloween and Christmas and then we go straight in the Christmas of him a great gift so until then I would like to say to you keep digging and don't be an irony keep taking off"
+    ],
+    [
+      0.7098118662834167,
+      " ozone holes to Mom's blogs reviews for exactly right media convention clearing Productions Horse music producers Karen kilgariff Georgia hardstark"
+    ],
+    [
+      0.7704347372055054,
+      " and happy color"
+    ]
+  ]
+}

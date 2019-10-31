@@ -7,7 +7,11 @@
     "FlacFileSize": 271699046,
     "TranscriptionMethod": "googlecloud",
     "TranscriptionTime": 1021.9445066452026,
+<<<<<<< HEAD
     "DownloadSuccessful": 84.27553081512451
+=======
+    "DownloadSuccessful": "84.27553081512451"
+>>>>>>> 9e53d429caa9e8931a3b3076d7c0702d28b6f157
   },
   "Transcripts": [
     [

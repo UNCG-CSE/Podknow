@@ -1,0 +1,742 @@
+{
+  "Stats": {
+    "PodcastID": "503482646.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 6321.64025,
+    "OriginalFileSize": 0,
+    "FlacFileSize": 520070123,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 2181.195645570755,
+    "DownloadSuccessful": 0
+  },
+  "Transcripts": [
+    [
+      0.7964827418327332,
+      "this magic is my crazy Bobby and Trish homosexual person in question online"
+    ],
+    [
+      0.5822831988334656,
+      "Booster Juice"
+    ],
+    [
+      0.9188599586486816,
+      " turn bedroom Road I've been getting these checks Johnny's big words I don't want to tell him put some respeck on my name I'm trying to put for tkam I know I'm trying to take you up into a jet and houses go we can just read it even if they Heard it Through the Grapevine I'mma tell him that's my king"
+    ],
+    [
+      0.800102710723877,
+      " is Mercury a homosexual"
+    ],
+    [
+      0.6936469078063965,
+      " I Am Thai national day"
+    ],
+    [
+      0.8149754405021667,
+      " this emoji"
+    ],
+    [
+      0.801608681678772,
+      " that's my G does my G Series"
+    ],
+    [
+      0.8336677551269531,
+      " did you know"
+    ],
+    [
+      0.5851645469665527,
+      " cheapest storage unit"
+    ],
+    [
+      0.9969072341918945,
+      " oh my gosh"
+    ],
+    [
+      0.9647589325904846,
+      " who was that that was debris music Dupri music look from on Instagram and SoundCloud and all that it was an amazing thank you so much I don't even know it made me very sad because my right my Gene is in Europa right now he was in Budapest he did Berlin and as we speak he's an Amsterdam and I miss him so much but thankfully we have here sitting on the couch Ryan sickler I can't even believe it posted the Honeydew set in California are on fire again to find don't even play"
+    ],
+    [
+      0.958952009677887,
+      " I love that album Chaka Khan and Nicki Glaser will be coming in shortly but that's a lie we were attacking this on it's a lot guys we have a lot going on brought to you by stamps.com who in the world so goes to the post office and why stamps.com brings the post office to you for me to interrupt your work day or your day off or do any of that stuff to fight traffic get to the post office specially now during the holidays when the post office is crazy busy with people sending holiday Cards & Gifts that's why you need"
+    ],
+    [
+      0.9663287997245789,
+      " sams.com anything you do the post office you can do a stamps.com stamps.com saves you money with discount you can't even get at the post office, brings all the services of the US Postal Service right to your computer whether you were small office sending invoices are online seller shipping out products or even a warehouse sending thousands of packages add a damp. Com can handle it all with ease with stamps.com you get $0.05 off every first class stampin Up to 40% off Priority Mail not to mention it's a fraction of the cost of those expensive postage meters stamps.com is a no-brainer saving you time and money it's no wonder over 700,000 small business is already use stamps.com don't spend a minute of your holiday season at the post office this year sign up for stamps.com instead there's no risk or promo code mom you get a special offer that include"
+    ],
+    [
+      0.9343442916870117,
+      " a 4 week trial plus free postage and a digital scale no long-term commitments or contracts just go to stamps.com click on the microphone at the top of the homepage and type in my stamps.com enter the code words mom stamps.com never go to the post office again"
+    ],
+    [
+      0.9710374474525452,
+      " Jean I think there's something all of us can agree on nurses doctors dentist and people who work in medicine and Healthcare are pretty awesome and all of us can think of a time when a medical professional helped us or a family member these amazing people dedicate their lives to caring for and serving others shouldn't these amazing people wear scrubs that make them feel good figs is an amazing company that is making scrubs stylish and functional for the people who deserve it most four years nurses doctors dentist and other awesome medical professionals were forced to wear scratchy ill-fitting scrubs not only were they ugly and uncomfortable but they weren't designed with Innovative technical properties to protect and hold life-saving tools figs creates the highest quality medical apparel to that medical professionals look their best feel their best and perform at their best everyday every set of figs is antimicrobial that's a bit"
+    ],
+    [
+      0.9692004919052124,
+      " Edward big podcast for like me protect them from germs and bacteria it's ridiculously soft moisture wicking and features 4-way stretch figs are made with yoga waistband come in a variety of styles from classic straight legs to joggers and skinny dial now this sounds nutty but fix sent me a sample and eye scrubs I think it's scrubs I got a zip-up sweater and I had jeans embroidered on them you can have that we can customize and I thought I loved it so soft and it's It just fits so lovely sorts of things other than scrubs there that's right that's right so whether you're one of the awesome humans that works in healthcare or someone that wants to say thanks to these deserving folks figs is going to make that easy by providing you with 15% off your first purchase by using my code and Mom get ready to love your scrubs head to wear figs at w e a r f i g"
+    ],
+    [
+      0.9434738159179688,
+      " starcom and enter our code mom at checkout but let's so let's give you guys a little update you may have noticed this shirt is no longer up in our store well here's a little video from Europe to let us know why that is bro airport I'm at the lounge. To commercial know he's homeless people and anyways I wanted to give you about this"
+    ],
+    [
+      0.9395074248313904,
+      " shirts we took them down will you refunded everybody who purchase them one of the big reasons was that I got a lot of calls from a lot of people including LAPD gang unit"
+    ],
+    [
+      0.6999706625938416,
+      " cereal"
+    ],
+    [
+      0.6533955931663513,
+      " well, California"
+    ],
+    [
+      0.8802628517150879,
+      " Tom Segura"
+    ],
+    [
+      0.7186567783355713,
+      " Aaron"
+    ],
+    [
+      0.9576793313026428,
+      " yeah so we have a great legacy at your mom's house of doing it our way let's say it that way creative out there we've been blacklisted by major corporations McDonald's for not sjw is here and yeah I'll let my husband explain exactly what happened. I'm at the lounge"
+    ],
+    [
+      0.7817816734313965,
+      " 52 Commercial noise homeless people and anyways quick out the way I wanted to give you about this"
+    ],
+    [
+      0.9519181847572327,
+      " shirts we took him down where you refunded everybody who purchase them one of the big reasons was that I got a lot of calls from a lot of people including LAPD gang unit and they did not order me to take them down they can they made that clear but they also said that it was potentially dangerous for those of you who were to wear them in certain neighborhoods think they were thinking more about West Coast neighborhood and am I don't want you guys to die or anything so I took the shirts down but we'll always have Subaru in our hearts"
+    ],
+    [
+      0.939283549785614,
+      " yeah so there you go we got a call from that he said LAPD gang unit apparently the guy listens to our show me of a lot of fans in law enforcement and yeah we just decided to take their advice on this one are you familiar with the Battle Cry of the death rattle I know I know exactly what it is he was coming out to it as is This Walter momentum of its own I mean much like our at Classics like hey Hitler"
+    ],
+    [
+      0.6882392764091492,
+      " your favorite of our body"
+    ],
+    [
+      0.9576892852783203,
+      " common four strokes all these things really catch fire with our crowd so I'm just thankful it's I think we're going to take it down put the fire out you know but I can we take risks on the show we do things people don't hundred percent but there's no reason to put these other people out there that like your risks at risk here for the people guys swing for the fences sometimes we miss yeah we have an update on the last week we play the clip about the white Soo woo girl and her gang of Tata their friends"
+    ],
+    [
+      0.9306744933128357,
+      " and did you happen to see this going to die Ryan a boy"
+    ],
+    [
+      0.9152799844741821,
+      " Chris whatever whatever whatever it is we need we need"
+    ],
+    [
+      0.9859740734100342,
+      " what's going on"
+    ],
+    [
+      0.8565670251846313,
+      " then she said that's it no no I mean we have more but you know the plywood I keep it going I mean I I I just feel like we just got started on this street"
+    ],
+    [
+      0.9418545365333557,
+      " we need everybody to help us because I got something last night I told them to take me back to my husband right here they didn't do it they just brought me back around in the fucking morning mouth is the Tic Tac tongue ring taking them out I would hope so do you have one never knows those guys that had him I get the girls that have them but the guys that have clicking it and shit all-time flicking on with your fucking thing out of here yeah it's so gross is the greatest pussy liquor"
+    ],
+    [
+      0.9182021617889404,
+      " isn't that what that meant like I never thought of it like that I think it was I love to eat pussy that's where that's what the the word was a most women Battle Cry of the tongue is what you're saying I had no idea"
+    ],
+    [
+      0.6354431509971619,
+      " spider verse that appears like the suit God"
+    ],
+    [
+      0.6833891868591309,
+      " where is pizza from"
+    ],
+    [
+      0.8389692902565002,
+      " I got a motherfuking fuck with it stand for shit"
+    ],
+    [
+      0.9074650406837463,
+      " he's got something coming for him and he's got something waiting for him it's interesting girl you better get a look at that still sorry Josh Josh when people assume that you know who they are"
+    ],
+    [
+      0.9257304668426514,
+      " this is Josh like is Josh famous West Coast Bloods Josh like he's anybody of any significance in the world it's so it's just bizarre okay"
+    ],
+    [
+      0.8817754983901978,
+      " have anybody out there that one"
+    ],
+    [
+      0.9359847903251648,
+      " play some guns bring some nice all of the shit play me and my man ain't no blood between is blood in the people we were afraid of offending with a pretty sure there's a warehouse full of dirt you can send this group of people are here you should just donate them freely for the fucking block that's what you should do is get back on the team"
+    ],
+    [
+      0.9625422954559326,
+      " seventh Woods drive me nuts I can't tell if he's wearing one of those thin Cowboy vest or if he's got a backpack on and driving me nuts"
+    ],
+    [
+      0.8679695725440979,
+      " do you know what I'm talking about that same Cowboys Cowboys judging by his sense of utility but it's a pack and I don't very handy husband"
+    ],
+    [
+      0.9683517813682556,
+      " Laura J all night long because you know what I was supposed to end he was jumped and bitched to get the fuck write my brain is hurting so you had Clips are footage of explaining what getting fucked in means because we were really perplexed by This this term of getting fucked right now I like I grew up around a lot of cholas and the San Fernando Valley the first girl ever smoke cigarettes with with a chihuahua named Sheila and Sheila Trista and the Chula listen to oldies and she's like Lego leasing like now I like Morrissey and the Cure and anyway she would tell me about getting jumped in and how her friends have been jumped in so that's when a group did they beat you up basically and you and I are so getting fucked in this is from somebody who writes in it means it means"
+    ],
+    [
+      0.9620699286460876,
+      " that wasn't me stuttering that was me reading the text verbatim I'm going to read it again"
+    ],
+    [
+      0.969897449016571,
+      " it means it means that usually after all the homies run a train on the girl she is considered part of the gang unfortunately she's Christ unfortunately that title or a membership only go so far majority of the time it is an opportunity for everybody to get a chance to have sex with a girl and often the promise of being a member of the gang without having to take the usual Beatdown is appealing to most Hoodrats okay they never are respected at the same level as the other male members and they do not enjoy the same benefits in fact women that shoot choose to join in this manner are usually used and abused even more afterwards and lose respect rather than gain respect when a woman is willing to offer of everything there is not much left that appeals to the man at the girl is willing to give it up to all the homies and she's basically worthless because she's nothing left to offer a belly I mean look"
+    ],
+    [
+      0.9407227039337158,
+      " is this like a truth Society like I feel like this is what a hoe is it just a bit you why from this is the bit you know what I'm saying a surprisingly positive messages the ad starting off was like I was like oh my God but at the end I was like I see what you're saying"
+    ],
+    [
+      0.9572755694389343,
+      " right it's like I don't know if you've seen the Joker Lolita by Nabokov like it was some point you phooey you understand the mind of a psychopath or the mind of a pedophile and then eventually rooting for them to do evil things like it's kind of like that like I get that alright body then you're worthless to us until you know until the next one comes in and your and then you're just you know I throw around because this girl who didn't have sex with anybody else out there beating up people shooting people whatever they're asking her to do they have more respect for her than you that's ever been in a gang"
+    ],
+    [
+      0.9654247760772705,
+      " no I mean you know growing up I felt like I was beaten the one but other than that I was jumped into my brother's mom my mom my brother's yeah everybody my God my brother have a secret because I have a twin we are the exact same age obviously 4 minutes apart but I had built-in you know I could test myself with someone my age my size until he started getting taller and but we would go at it I mean there were nights where we were just go at it yet normal like do parrots are they supposed to break that up there around 7 so ever been punched in the face as by my brother saying that's saying a good thing about him cuz I've been in a lot of fights but the hardest but he just didn't give a shit I was a cop"
+    ],
+    [
+      0.9052808284759521,
+      " dirty shit to I got fish hooked on me not official until he'd like that I mean I had that shit out you you could put a fist in there"
+    ],
+    [
+      0.9351573586463928,
+      " so different I'm really learning this really like in the last week alone I've been puked on pissed on drop-kicked I just this is a playing like evil they're just boys they've drawn everything they're just Savages our house is just destroyed it's funny cuz you have these pictures of shit your toilet and crayons on the wall my daughter is never done any of that"
+    ],
+    [
+      0.9663239121437073,
+      " none of that always remembered watching kids in a restaurant and it was always the boys climbing over the boots and running up and down in the girls would sit there and call her or do whatever the little activity was on the table and just be mild-mannered and boys are just your right Savages crazy people there's slime on everything so just know that but you saying that they're going to be there going to be the shit out of each other eventually my to release two and a half years apart"
+    ],
+    [
+      0.960995078086853,
+      " turn on a joke about this stuff this stuff anymore it's so brutal I member when I mean I remember when we lived in MS-13 we live in between MS-13 and 18th Street looking at the back of the rampart and I'm at the time I was driving a Volkswagen Jetta a blue one and I had murdered out the windows thinking that that would keep me safe and and I'm talking murdered out like limousine black and then this little blonde girl and I go rolling through our neighborhood and I would see the vatos like coming down on the stoop like what's up homie like I literally they will come down like what do you want little girl"
+    ],
+    [
+      0.9237642884254456,
+      " and I would roll down the window just to be like it's just me like I'm just a little white girl wrote like I live in Austin"
+    ],
+    [
+      0.9499654769897461,
+      " Siri is the sign of aggression that's what I want to say I remember coming over that one time you had John Goodman in the bathroom as you do before two nights before about some gunshot you heard like right out back and stuff for gunshot every night and for some reason there was a lot of roosters to a neighborhood to Roosters on Friends of Eagle Rock in a lot of people had the roosters over there too and I don't know what that is either it is bizarre that what's the internet Forum on girls joining that was that was what you just wrote I mean"
+    ],
+    [
+      0.9608999490737915,
+      " promise that like oh yeah you'll be a member of the gang once we all fuck you and then it's like yeah that's if you want to be in a male-dominated anyting know that is the exact opposite actually you cannot look in comedy you cannot chucklefuck not chocolate you know White Sox won one and done I never even fucking I never even held hands with another male, cuz I knew that's what happens if I pass you around and then all the guys they don't take you seriously got to start I'm pregnant you got to start your own girl saying to do your own fucking thing away from the boys she's pregnant to that bitching that clip did you know that know how did you know that your Intuition or saw something she got pregnant she's pregnant too"
+    ],
+    [
+      0.9543728828430176,
+      " anyways we have some ymh Halloween costume that's right Halle jeans is coming up this week we were submitted one girl sent us a picture of her as as time and I was really sweet what you got a cube has beard hilarious all these my guy promoting shows on this morning radio things I mean morning them talk shows who's there just so horrible and phony and so outdated Nalley who is watching that being like these are my people who have fun in this era of real it's like Anyway the fantastic thank you for submitting"
+    ],
+    [
+      0.9428834319114685,
+      " are you a are you a Halloween person I love I don't dress up cuz I want the fucking time but I do on my house has been decorated for Halloween since September I just post a video today on the ground if you want to see it of my credenza and I'd put up a Halloween display do it for all the holidays I'll have my Christmas lights up at the the end of November to discuss this on the address of is calming Christian"
+    ],
+    [
+      0.9591536521911621,
+      " could we have a different let's think of a different saying right now to Rally people around him coming to touch by their Tik Tok another one guys can we make him something now Jam Jam. No no. Everybody chant that various X refer to myself in third person such a douchebag and I would say it's a narcissist and her mom and I was Bob Ross"
+    ],
+    [
+      0.9652544856071472,
+      " and I took a paintbrush and I didn't talk to anybody I painted everything up for like an hour and a half I just would touch people's faces and stuff and they're like you know you can't buy a Bob Ross painting by the way I didn't know that time I said that and I was like you can't tonight thought of everything that's brilliant what a great idea Bob Ross episode of your mom's house is brought to you by welcome to sober October powered by woop woop combines a wearable device with state-of-the-art software to help athletes high performance operators and even middle-aged o e bella comedians improve recovery training asleep and make better lifestyle choices with real-time feedback on your body this month myself me and the whole crew I'm wearing 24/7 the whooped understand the impact sobriety has on my body I am so obsessed with this thing I check on you as soon as I exercise I might go right in I log in and"
+    ],
+    [
+      0.9788637161254883,
+      " I open the app and I see at the strain they call it strain the activity level the recovery of the variable heart I love Dad I love seeing what I did translated into numbers and an explanation and the great thing about whoop isn't it then like condenses it into this you know formula you had this much strength today need to make sure you get this much recovered as much sleep and the sleep thing at to me has been the most interesting I'm now super dialed into how much sleep I had how it affected me the kind of sleep I need. But I've noticed that I'm actually taking better care of myself in that regard I'm looking at the clock going on I need to get to bed because I need to get this much sleep whoop is actually help me think that way you can join the team with me get the whoop strap 3.0 free when you join go to woot.com use the code sober October to get 15% off your order whoop works with the best in the NFL and Navy Seals but the insides apply to all of us see how your body responds to stress has"
+    ],
+    [
+      0.9475637674331665,
+      " good and bad and then adjust to live better get a whoop check out our team at wolf.com go sober and Watch What Happens"
+    ],
+    [
+      0.9711658954620361,
+      " alright this episode is also brought to you in part by quit we are huge fans of the quip toothbrush we have them in our home I like to keep mine in the shower where do you keep your such a butt right above the sink right where I stand at such a beautiful brush vibrations with a built-in timer guide gentle brushing for the dentist recommended 2 minutes with 30 second pulses ensuring and even clean up automatically delivers brush heads to you every 3 months for Queen do Brussels right on schedule I have to say that is one of my favorite Parts about quit is that you get this these new brush heads every 3 months when you think about it so now I got to make a special trip done for you which you know every time you get a cold and everything you should be switching out your toothbrush anyways got a Sleek intuitive design it simple to use and comes with a travel cap that dub"
+    ],
+    [
+      0.9767513871192932,
+      " as a mirror Mount these thoughtful features make brushing something you actually want to do twice every day good habits matter to live a healthier life so help Forum fresh oral habits with quip quip starts at just $25 and you'll get your first refill free at getquip.com Mom this is a simple way to support our show and start brushing better but you have to go to get quip cam mom to get your first refill free right now go to get quip. Cam mom"
+    ],
+    [
+      0.9773241281509399,
+      " it is officially the holidays people are already shopping for gifts before you freak out about what to get your boyfriend you want me dating for 4 months what to get your mailman that even a thing or the fact that you have to go to the mall listen up meundies is anything but ordinary they have a gift for literally everyone everyone even your weird Ant and the best part is they deliver it straight to your door with free shipping at the Holiday Miracle right there I love the fact that it's not Bland and boring to have different cuts different styles it's the best I like the boy shorts on you and I like a lot of fun when you leave the house the unease makes the perfect hibernation undies and loungewear whether you're looking to match undies with your boo is this offseason or just wanting to cuddle up your favorite furry friend in a onesie meundies has you covered their fabric is 3 times softer than cotton and offered in"
+    ],
+    [
+      0.9794079661369324,
+      " size extra small 4XL 3XL softer than cotton is like being three times softer than those cute little marshmallows at the bottom of your hot cocoa and then nice me I need to knows it's freaking cold out there which is why they coming out with even more cuddly products is holiday season cozy up and their new robes for men and women treat your feet in their new soft slippers and of course match the whole fan with their soft new baby bodysuit brand new holiday Prince & Cozy new product meundies has your gift for literally everyone has a great offer for our listeners for any first-time purchase or you get 15% off and free shipping no brainer cuz they have a hundred percent satisfaction guaranteed to get your 15% off your first pair free shipping and 100% satisfaction guarantee go to meet undies.com mom's house that's meundies.com mom's house m o m s"
+    ],
+    [
+      0.9560030698776245,
+      " house"
+    ],
+    [
+      0.9735226631164551,
+      " Gene it's tough enough to get a good night's rest on a normal night but with Halloween and daylight saving coming back to back in the next week it's going to be even harder but don't worry about it cbdmd has you covered with a natural alternative to other sleep formulas that can get you the quality rest you deserve no matter what's going on CBD CPM I love CBD p.m. as you know I'm a huge fan of this product I keep it on my nightstand just a little bit poop and I'm drops lights out CBD p.m. blind 500 mg of high-quality CBD with melatonin valerian root chamomile and other sleep promoting ingredients to create a powerful and effective sleep aid whether you're dealing with an endless stream of trick-or-treaters or you just can't cope with a time change don't let it affect your rest and to make it even easier to drop how to dry"
+    ],
+    [
+      0.9778664708137512,
+      " how to make it even easier to try CBD p.m. or any of cbdmd Premium CBD oil products they're offering our listeners 20% off your next order when you use the promo code your mom at checkout once again that's cbdmd.com promo code your mom that's why i o u r m o m 1 word for 20% off your purchase of high-quality CBD oil products from cbdmd I'm going to unplug some dates let's do a Flappers in the YooHoo room every Thursday I'm doing a residency there through December if you want to come see me there and then Seattle Portland almost completely sold out November twenty-second and twenty-third I'm not adding second shows and then 20/20 announcing dates I'm doing a Houston Improv January 30th through February 1st March 13th through 14th Miami Improv March 26th route"
+    ],
+    [
+      0.971268355846405,
+      " the Addison Improv in Dallas April 3rd through 4th June or titties Caroline's comedy club April 24th and 25th Des Moines Iowa Des Moines at the Funny Bone and then June 12th and 13th in Phoenix Arizona at stand up live ticket Lakeside Christina P online let's do Tommy buns has if we met and then do you have any dates to plug as he's pulling this up actually I'll be at Comedy Works Denver south at the Landmark November 21st through the 23rd so come on out there and I love I love, just as soon as you know my jeans right now by the 30th he'll be in Perry gave Harry at the Apollo Halloween night Apollo Hammersmith and then 11 to Alfred UK 11 free Dublin"
+    ],
+    [
+      0.9524529576301575,
+      " Ireland and then 11-6 Kingston New York. Kingston Jamaica at the Ulster Performing Arts Center 11 7-Eleven 7-Eleven in Bensalem Bensalem 11/9 Buffalo then Syracuse sharklet Pensacola Florida Lake Charles where is that Louisiana Austin 1116 Austin Austin Melbourne 2911 30th Miami 12 V Erie Pennsylvania the Warner Theater 12 6 Columbus Ohio"
+    ],
+    [
+      0.9701575636863708,
+      " what and that's it I mean Jesus cried like I can't believe my husband's working so much I love you Tommy salami thank you for giving me children and me a great wife appreciate every time I read his dates I have like a profound sense of how much how much I think I'm so thankful that he's sold out so anyway I love you Tommy salami or the best Denver dates and when we come back thank you so much for sitting I never came under great duress and I were so happy to have you as a member of Studio jeans your honeydew podcast if you haven't listened to Ryan you got to check this show out what I love about your show is that you guys get so real and honest on how do you say it highlighting the low lights highlighting the lowlights I just love it you doing such a fantastic job for should I love being here this is great this is been awesome thank you guys and when we come back Nikki Glaser is going to be"
+    ],
+    [
+      0.9611510038375854,
+      " and she's going to give us the lowdown on the I think I'm the roast and all kinds of great stuff she also has a special out on Netflix oh okay thank you Jean's see you next time by Mommy's beautiful woman funnier a sense of humor is there anything better on television and in special then she's got multiple specials coming up and she's on the new roast of Alec Baldwin so he's got a million things going on it's always great to have you back Nikki Glaser thank you very much for coming here it's well I love your house and he reminds me of what I aspire to achieve one day you got a lot going on there yeah that's the life you have the life I want I want to be married to a comedian really kind of I think it's great you switch your language yes dude yes"
+    ],
+    [
+      0.9299750924110413,
+      " it's nice it's very convenient yeah I would love that I'm into it"
+    ],
+    [
+      0.8375856280326843,
+      " that's true who was it that you was the most disappointing"
+    ],
+    [
+      0.9596983194351196,
+      " every single dude I'm like really I just met there really disappointing and all of them that I get excited about oh my God I have an I wait to get excited you know I I don't I try not to I've just gotten my hopes up so many times before that I don't get them up unless I really feel like it's going to happen. What's for what's happened with boyfriends like they they freaked out and they stop talking to me they freaked out and they flow ghost and is that what do you think is going on my theory is that they they like me too much and it scares them and they think they'll have to marry me date me like it might snow in the 30s right in there getting age of like settling down"
+    ],
+    [
+      0.9781246185302734,
+      " these men are scared of intimacy as Mi so I choose men that are incapable of it because I really am scared of it too so I can leave it on them and said myself this is great yeah it's it's a great system that I have going but I subconsciously do it cuz I'll be like I'm ready for something and I choose people that are very unavailable and and I also get to a place with men wear I feel like I change them for the better I like teach them about themselves cuz I do so much work on with the wedding shoes really do none like you get them their kind of fucked up you want to fix some don't I want them to fix themselves that I try to like help them find those tools because I don't think I can fix anyone I accept them for who they are but I want people to be happy to usually end up being like how you need to go see some wine or of thinking about that like I'll ask them questions I could be a therapist I truly believe that I get things out of people that I just that they don't even plan"
+    ],
+    [
+      0.971143901348114,
+      " telling me a lot of times can I got to stop that with man I got to stop psychoanalyzing then I have to just let them be and let them find help their own way but I think that I I get men to open up emotionally they'll cry to me about something to share something that I've never told anyone and then the next morning I think they kind of think about it and I like oh no she knows that thing I have to like it was the reason was that he revealed too much I seen a vulnerable side of him that he was like she can never I don't want anyone to ever see that end and so that's why I ghosted her mean it seems legit it's believable at I can see it being truth that's also if you want to like really analyze the ultimately kind of immature of the guy right because if you're with somebody who you were really going to connect to be intimate with you show that vulnerability and then it like actually brings you closer"
+    ],
+    [
+      0.9706394076347351,
+      " Potter can't come with another person he's only ever had it twice and we've deduced now that it is it's an emotional issue it's not a physical it's intimacy he doesn't truly want to be vulnerable thankfully he has cancer but he also emotionally is doing his one-night stands with no like very attract women he's attracted to but then he'd my checks out and then you know he's not connected well I have this thing with a guy a similar thing Josh where he would never wanted to come like he just we would be having sex we've been doing stuff I would take a couple and give them and I like for me to come with someone like it's going to look weirder than the one that I'm faking it's going to hurt I might fart or shirts yet or so I don't know what's going to happen if I really let myself go oh no"
+    ],
+    [
+      0.9646528959274292,
+      " flights it's really hard for me to get to do that with someone and so I relate to that guy that just never wanted to come ever and it would be really frustrating for me and he would be a movie about to come and then and just feel like completely stopped please please stop it for later later later and then later would never happen and then I talked to my therapist at the time about it and she said that men of this thing were with they come for a woman they feel like they've n o that may need to stick around and it's like now we're locked into this thing and then and that was always like okay maybe that's a thing but then I am reading this book right now called Cupid's poisoned arrow that a bunch of pictures of recommended haven't changed their life what's it about as humans when we orgasm"
+    ],
+    [
+      0.9656755924224854,
+      " it is done down here don't even need to do anything else with this person when rats when they eat they were giving example of rats when rats they inject all the female rats with the hormone that makes them down to fuck and then they put them in a cage with the mail and then men will come in them and then and then get tired and pass out the corner and the women are still like come on let's do it thank you put in a new female rat right after the mail rent said no thank you to the one you just fucked he's down so it's all about novelty it is not about actual Drive its novel novel novel and so what does book I think is getting at is that most sex should not end in orgasm if you want to prolong intimate relationship where you don't feel like you want to hit the road"
+    ],
+    [
+      0.8715434670448303,
+      " I'm going to read that part of his"
+    ],
+    [
+      0.9703146815299988,
+      " no time for tantric anything with the guy the guy biologically he was not doing it in order to prolong the experience with you that night but like in the longer-term once before and then this time again and both times same kind of thing that was happening where he was like didn't want to and then finally he did and right after he did holding literally and I didn't sleep with this guy until he was my boyfriend both times cuz I knew I was like you're going to bang me and not want to be around me anymore I just can sense it so you got to be my boyfriend before we have sex and do everything else but like sex I'm not letting your penis in my vagina until you're my boyfriend and everything else there's no orgasm from him right we had sex with my boyfriend"
+    ],
+    [
+      0.9725685119628906,
+      " finally like I like it was a I gave up a lot to go be his girlfriend and I was like this is my new wife and I don't blame him cuz he can't help how he feels but right after he came he's holding me and I'm like how are you feeling cuz we're like you know it already been through this for years before where he just lost all interest in me after he had sex with me I didn't know is what the orgasm at the time and I ain't even at this time he's holding mean he's just like I'm freaking out and I feel like I owe you and I feel like I need to and I know you don't owe me anything mean while I'm like yeah you're my boyfriend now you kind of owe me something like that's a deal and so and then it went to just not calling me as much and like after that I was the last first and last time we had both times we were together we had sex like one or two times and then and how long are you from your dating for a while before you for a while yeah for like weeks of like in a long distance cuz I'm just curious about this like when when"
+    ],
+    [
+      0.9571730494499207,
+      " the whole notion of Iota like what does the person feel like they owe you like I owe you something like a physical reciprocation or they owe you I meant I'm going to disappoint you in some way these men I've dealt with women in the past that one out of them were very disappointed in that why I like from the distant ants usually intense dating stories you know I am so closed off from any kind of hook up situation cuz I just been hurt so many times where is like for a while I haven't been sleeping with men unless they're my boyfriend like I told us this was my ex boyfriend for like 2 years but I was like when I came back together I can safely do that but I realize I wasn't really open to anyone else as long as he was like in my vagina off and on and sew"
+    ],
+    [
+      0.9518675804138184,
+      " oh I put a stop to that open myself up to other people which has been really good and then I thought I could like blow someone and not get attached cuz it's not my vagina and got it I think a blow-dryer is more intimate than the other guy just busting nuts in your badge it's like your heart and your face dude it's going to be here I'm going to taste you and you're going to be a bad smell their nuts and everything yeah right there and then they it just it just hurts to it hurts my feelings so much when someone even if I don't want to be with them and they have rejected after it sucked your penis you even listening you blow someone and the person doesn't want to be with you but wants to be polite should they just Express they want to be with you"
+    ],
+    [
+      0.9776681661605835,
+      " drop off entirely afterwards and that is rude understand why they do it I don't think men who leave the room so I feel like guys freaked out the next day after they hook up with a girl is all this build-up in in and they they get you to a place where you're comfortable enough and you think this is a nice guy you suck his dick the next day he doesn't he's not watching your Instagram story he's not liking your stuff he's just like disappeared like it's you feel it feel it on social media you feel when they're not texting you and they do it because they're like I don't want to be her boyfriend and I don't want to lead her Aunt Patrice thing like we cheat on you for you it's like they do this mean thing to protect you what you need to do is just be more honest about the fact that had don't want a girlfriend right now but I had a great time and your great just communicates before or after sex I mean"
+    ],
+    [
+      0.972929835319519,
+      " know before if they do it's like freaked out but it's very difficult it is it is you feel crazy making the venue start go I'm making an assumption but I don't want I don't feel confident enough to voice the Assumption it feels more comfortable to let the Assumption sit inside and slowly pull back and the assumption that she likes you as the guy you might think that and you go like maybe she likes me now but you know what maybe maybe I'm being crazy thinking that she wants to be like maybe she just did that thing and she's the one who's just wanted a sexual fling so if you start your playing guessing games in your own head usually not confident enough to voice them you know so it ends up feeling safer is like kind of the more childish thing to do which is to be like I'll text less"
+    ],
+    [
+      0.9079577922821045,
+      " I don't know what happened"
+    ],
+    [
+      0.9328899383544922,
+      " he's like I live by this"
+    ],
+    [
+      0.9340577125549316,
+      " I just"
+    ],
+    [
+      0.9682764410972595,
+      " I don't get off generally from like these random hookups cuz I just not comfortable enough I'm feel insecure telling a guy what I really want need and I have used Too Many vibrators that if you don't have one that's like I I really need one Riot Fest and it's not any fault of your own it's just right so I'm not going to what am I getting out of this then what's the point of me sucking your dick I did blow this guy because I just felt like I needed the practice man and I thought he was into me and I thought maybe we would date I think I did a good job but this guy I got tired shows he came to I think I have one show that night but then I spent all day with him afterwards we go"
+    ],
+    [
+      0.9675970077514648,
+      " hang out so late and like just let's go to your hotel room suite finally get to his hotel room at 1 in the morning I have a 3 a.m. pick up for a 5 a.m. flight and I got to go back to my hotel after that so I'm like let's get this going we going to his hotel room and there's been no sexy Vibe between us and we've already hooked up months before this so I'm like you only really happened I think he takes off his clothes down to his boxers gets in bed I'm I'm literally sitting there with my purse and I go out. I guess I'm getting but I got a bed no I do not take off my clothes I just get in bed cuz I'm like okay I feel so ridiculous at this point I am furious and I don't even like him anymore I'm just like this guy is fumbling this so hard I'm laying in bed next to him for 40 minutes talking and I'm like are you going to make a move I can't say it because he needs I'm doing the soothing of like guys need to make every remove with me I'm not moving an inch is enough that I show up and that I'm going to be feminine"
+    ],
+    [
+      0.9723405241966248,
+      " open to receiving but you got I can't come after you anymore it just does not work for a create a hundred percent to be pursued it turns me on can I tell you about the book you should be reading this fucking tantric nonsense this is bullshit there is a great book out there listen to all his women listening it's a stupid book it is called into I do know why men love bitches yeah it sounds stupid but it's in the title is crass but the point is what you just said old school baby keep it OS us for life let the man pursue the woman god dammit evolutionary biology and your fucking things up when the woman is pursuing the man it is not how it goes I am an effeminate to say, I'm a feminist power has to be that way otherwise you're fucking with nature it's it's fucked Christina because we are so empowered as women now with the women's movement to get what you want I can have anything and Power"
+    ],
+    [
+      0.9717495441436768,
+      " AmeriGas my career has been meeting like I see that I want that I'm going to ask for it and get it and you showed my business doesn't work for men I do I've done it for men and then like I like you let's kiss like and it doesn't work so I'm waiting I'm in Disguise been waiting and he's talking about like I don't even know what I'm like giving all the but like I'm leaning towards him trying to get him at one point I just go I would really like if you touch me that's what I had to say before and hooked up with before this is the kind of Queer Eye For The Straight Guy might I don't know that you're wrong but I he finally he goes you think that's a good idea and I go what what it what are you talkin about your life and then he goes he said something about me too and I'm like are you joking me right now I'm in your bet I was just I was so angry I hated him in this"
+    ],
+    [
+      0.9688596129417419,
+      " Elvis Presley more but I've worked so hard to get to this moment been hooking up and you've given it so much thought in your like. If I could only kiss him and I've liked masturbated to like the idea of it and then it's happening and you're like this is like this is it a tablet is almost have it every time my last make out I was like Nicki don't do that again be present and I really was able to be present and like I had a good time but most the time I'm just like this is it so me and this guy making I'm pissing him I already have a bunch of stuff from our past that is visible dredging up of meeting like fucking piece of fucking make out with me and then and then he is like just put like and I'm like and we're not going to do anything else I was wanting them to maybe go down on me but then again I was like I'll just have to take a bunch of orgasms in like I don't really feel like that I'm also like"
+    ],
+    [
+      0.9589226841926575,
+      " didn't see it much and want to go down on me I'm not going to make you until he kind of has like will you go down on me and I was like I need to practice or I'd like play with it a little bit and then I was like bald this I don't know what to give a handjob for gloom and so I was like okay what's going on in the booth and the booth knows that they're just to give handjobs cuz you guys do them best yourself so why am I even going to let me know if they're they're just all saying it I mean no one going to do it better than me cuz it's all I got now to get a guy off cuz I can't hang your dick I like you I can't have sex with you I like you so I have to just jerk off got like because I got it."
+    ],
+    [
+      0.9611027836799622,
+      " I'm just that night I wasn't confident in my job and I was like I need to get this guy off so I can go home and so so yeah it would feel like I know how to do it for you because we've been together but that's like you got to learn what this particular guy likes your recent than you think that it would be gentle and delicate but they're not know cuz I think you just grow up as a girl like you"
+    ],
+    [
+      0.965889573097229,
+      " a little late so I'm very like gentle and now I realize like no but our machines are very I mean mine is very gentle like to get fract I know I add like hell is that why you know but I still need it hard cuz I think I should just like my I think I've ruined myself with us what's it called vibrate so what can you lay off the can you can you abstain from it the vibrator for a while to go off at all right now like I don't even have the desire for it so dented late don't don't do it for a while and let the feeling come back and then you know I like you're over maybe or over-stimulating yourself not to die have not I masturbate like once every 3 weeks it's it's really disappointing I wish what's going on are you depressed maybe yes yes"
+    ],
+    [
+      0.813165009021759,
+      " a throwout that's the best kind of clip so there is a rotten egg"
+    ],
+    [
+      0.7413826584815979,
+      " Nick you're going to regret her I'm already have spent"
+    ],
+    [
+      0.8606805801391602,
+      " this is like when I watch could you handle though like the fact that you made this would be the guy like would you be is his penis going to be using their hands"
+    ],
+    [
+      0.9032238721847534,
+      " and sleepy she can't sleep in that position dick head sleep Squad it down make it back pads being told good girl being forced to have orgasms in the guy's not their dick is nowhere near the show Mike Myers character"
+    ],
+    [
+      0.7988623976707458,
+      " resume"
+    ],
+    [
+      0.9332482814788818,
+      " 20 times stronger so gross versus still feel the same intensity of the best orgasm"
+    ],
+    [
+      0.8782984614372253,
+      " 30 bucks an Uber ride"
+    ],
+    [
+      0.8160253167152405,
+      " enjoying my sister's panties I don't believe it"
+    ],
+    [
+      0.9280900955200195,
+      " oh God I know who he looks like"
+    ],
+    [
+      0.9545762538909912,
+      " song that in the last in the last few years my aversion to seeing any public kissing has grown to a point like getting some movies TV shows anyway I don't know I really get up I get like upset by it open make out really makes me want to vomit but I even like seeing people just French and just on the street I was waiting for my Uber Uber and this couple he just got there any sort of Frenching her like right on the sidewalk I was like this is such an intrusion tackleberry from the"
+    ],
+    [
+      0.8961029052734375,
+      " play Force Academy movie he does tackleberry from the police academies hold on where this is Lionel."
+    ],
+    [
+      0.7931995391845703,
+      " Describe how the sensation might expose on your body of God"
+    ],
+    [
+      0.9134978652000427,
+      " touching her stomach"
+    ],
+    [
+      0.8965582847595215,
+      " business cards right to celebrate that it was a good call a staff recycle that's awesome, sweetheart it's how you get into this line of work but it's pretty cool and not going to be for long check out this guy"
+    ],
+    [
+      0.7723950147628784,
+      " what are some women are women out there who really like them"
+    ],
+    [
+      0.9871498346328735,
+      " having their pussy licked"
+    ],
+    [
+      0.8579956889152527,
+      " he just wants to be women out there who enjoy it just what"
+    ],
+    [
+      0.9630690217018127,
+      " buy him or just the general is like making this mean like this will probably work like this film was going to see this and be like him like your pussy Nikki Bella really want you know for a fact that my heart set on dying wish for him or something that's what I want when someone is the Aztec Lee eating my pussy not like I mean I don't think it would be a terrible gift to give that back to you to get something out of it and realize how long how long he would ride that wave for the you like you leaving he would just be like God listened and he would just he would be glowing in that for years he would leave it he never washes"
+    ],
+    [
+      0.9474536180496216,
+      " place again that kind of thing, you know if I could just close my eyes and disassociate and not hear him put on some noise cancelling headphones be down when you're interested in me and your friend on the site of mine and you really want to have that done let me know cuz I am seriously interested in doing that like alot about a Friendly's I bring a friend to finished first okay here's a different guy let's change it up"
+    ],
+    [
+      0.9552199244499207,
+      " for all your you feel me just let me eat you one time just let me eat you one time and you don't guarantee you going to ask me to see how soon can you go to sleep in 3 days my baby at your house what he's doing this is about a guy right here I guess what know I can show you what time it is clean up your house you just gotta jump jump jump in the tub with all them but you what you realize that he does want you to bathe okay so what you get home"
+    ],
+    [
+      0.9068423509597778,
+      " I'm going to show you I'm a make you cry what do you mean he's great with the I'm with I'm with Nick he's good he's good because Missy up and there's somebody else that you would like to thank God, you Shipman"
+    ],
+    [
+      0.9451404213905334,
+      " I'm looking for girls for pussy I love you pussy"
+    ],
+    [
+      0.9401698112487793,
+      " so gross, it was the first time and now my eyes are awesome do you choose as your date we're not done so hold on to that guy that was the same brakes yep let me eat you one time yeah then now is fatty what my God I'll be home for the holidays sexy voice"
+    ],
+    [
+      0.9050789475440979,
+      " 1574 text me that is a sexy voice is actually an upper respiratory infection. They tend to have pulmonary problems when they exceed 450 you know"
+    ],
+    [
+      0.9660705924034119,
+      " edema want him to be able to eat pussy at one point is life no one's he's never done it seat what's the Houston I wish somebody would give it to him because I have a potion waves really interested in Billy and I'm more pulse that is true and this is consistent like that you actually go like what you know I'd like to be able to help this person and you're always like fuck this disgusting get away from me I have to stay anywhere near as they just all they want is pussy and they just they don't know how to get it this what this is such a cry for help it's like the last note that there are mine are writing a they're trapped in a cave somewhere it's our last dying wish I mean this guy is near. That's why can't someone just sit on his face why don't you I mean would you be the one to do it is what I'm saying being mean"
+    ],
+    [
+      0.9598016738891602,
+      " me too but I feel as though I'm like no no no push no you're like so much to do it but I'm angry that this guy has the audacity to put this message out 3Q who or what are you offering he's mentally disabled for sure I just feel for these guys they just they never got it together enough to get a prostitute and just get it over with so why can't they just they should be asking for money for a hooker yes that's what they should be doing time machine out of beef jerky"
+    ],
+    [
+      0.9552846550941467,
+      " I want a girl who can roll a blunt with a pussy text me a 1/6 or call me my name is John call me at 15 by his two phones by the way have a text on her to call the club why did he just like the chances that a girl would be into that what she was like you know what I'm going to do this and then and then and then that knocked her out so he's too demanding he's too picky q and Beggars can't be choosers and he's got some kind of road rash on his face if I had to have one of these guys eat me out of be the first guy because I feel like he's never been touched that doesn't have any diseases and really wants it and probably deserves it Choice guess who's back"
+    ],
+    [
+      0.7854495048522949,
+      " I ain't going to play with you my Baby I'ma put my hands"
+    ],
+    [
+      0.9083827137947083,
+      " the number dude I got my snake I just felt so disrespectful you you put somebody loves you that much"
+    ],
+    [
+      0.8419510126113892,
+      " I bet you he is a younger age than he looks really I bet he's just sent there yet having no teeth"
+    ],
+    [
+      0.9448506236076355,
+      " where is money if you clean you clean remind me to look at him a pic he seems happy though it does. Do you still you're still young you're still going with the praying guy even in light of the second additional clip of I thought you would require take to make Daddy call Ono and it would be done in a way that you want to do either with your body or a friend of yours that's a girl that you can send with picture and say Daddy stroke to her"
+    ],
+    [
+      0.9246444702148438,
+      " like the daddy stuff I like the being told what to do and what I do I'm Nicki always has curved I'm just being very open-minded here and he has some stuff that I'm in the bed with no frame just a mattress on the floor has the arrogance that like a CEO should have said he's like I'm the fucking man like it just reads and you know he's a piece of shit just barely getting by"
+    ],
+    [
+      0.952691912651062,
+      " but he is like I'm fucking amazing and you were writing a video that you sound or something that you think will make Daddy squirt but that is like 100% on your shoulders I trust that my baby will know Daddy well enough responsibility lost you cuz you were in a moment ago about if you don't like it you got to do it that goes back to the biology of like it's the man you like that the man telling you it's biology oxendine a fucking problem is weenie interesting guys who write poetry"
+    ],
+    [
+      0.9621644616127014,
+      " how to do I like my watch is like guys being like you can't come you can't tell me you don't you dare do it don't do it and the girls like please and he's like you can't don't do it and that I mean that the hottest thing I can imagine that he's like okay now you can and then she gets to it like that all of that baby or are you into BDSM have you tried yeah okay so then maybe you need to find a dominant a guy who's a dog because it sounds like you're pursuing these these weenie guys because I don't like pursuing men on the like I don't want to go to like a pink. Org they want to find you now I'm going to be your New York it's a city of fucking Ballers okay you are a high achiever yes big career a lot of things going on Tractive lady why I like you need to be"
+    ],
+    [
+      0.9462164044380188,
+      " with another high achiever and it's probably not going to probably not going to be less likely to find in comedy so if you step out of Comedy cuz I know cuz probably most of the available"
+    ],
+    [
+      0.9529653787612915,
+      " you know are not going to be high Achievers so that those guys are either taken or a few and far between give me like I'm already taken and that one I've got it. Would you be okay with a divorced man yet with older children out of the nest maybe like a guy Wall Street guy with a divorce so he's been around the block he knows how to treat a lady now he's made his mistakes and he's a career guy highly successful"
+    ],
+    [
+      0.9652523398399353,
+      " clean yeah alpha male confident yet not emotionally crippled like these guys you love yes let me know if this is very scary to me because it seems like oh that could be something so about your driver the other day I caught him masturbating right before he dropped me off I like looked at for my phone and I just saw like listen I didn't report it only because there is a 9% chance that it wasn't that cuz I didn't see skin I didn't see the penis I didn't see I didn't have confirmation so I can't ruin a guy's career sure on wood that 20% chance so I gave him one star but it was I even feel bad for doing that makes me feel bad about doing that because I wasn't sure cuz unless you see the penis and it's there like you can't"
+    ],
+    [
+      0.9686987400054932,
+      " promotion is to be wiping stain off his pants he could have been cleaning his food and then when I said he got you kind of went off right before I drop her off but then I didn't want to happening I didn't want to him to see me feel me because then he could do something weird and I don't know the temperature you don't know what it's like something definitely not to do you don't you don't know a part of me wishes I could have been like what are you doing but then he could have been like okay now I'm going to murder you cuz you saw my sneaky habit then and I'm going to lose my job so he murder you cuz obviously I'm deranged I why would I be jerking off while driving a passenger anyway they're not mentally well so I just got out of the car and was just like I had to go and get us"
+    ],
+    [
+      0.9573001265525818,
+      " spray tan and stand naked in front of this girl and she was like she was really nervous about the rose and I don't know I'm just thinking about how my Uber driver was just masturbating she said oh my God I would have told him. And I was like oh my God. Org off things are just like home whatever it if it happens to me I just I won't lick it lick ruin my night it made me really emotionally like such a such a buffet Asian guy jerking off in front of our house turned on though I hold the button police because some kid could be walking by and a disguise drinking it in his car I mean I've seen guys jerking off in public a bunch you know what I might if I was just thinking I may want to contact Uber and just feel like I don't I can't confirm but this guy me"
+    ],
+    [
+      0.9708816409111023,
+      " maybe I don't know I don't know what happens to her like you have to report it because it protects other women and Slick why is it on me now hey now he's just not rapist or I know why is it always our fault and it's obviously yeah but I know what you're saying like their needs to be I hate when guys too gross things to women like egregiously Groesbeck this guy could have been doing nothing that's the problem it's like it's either All or Nothing well I kind of I kind of like that you hold your accusation to a standard of certainty before you let them know because you're right it's like you're saying you're saying as the person they're okay then that is fair enough to not you know I think let me ask you this though the motion cuz cleaning a stain off is"
+    ],
+    [
+      0.7951350808143616,
+      " yeah but if it is rhythmic going to have something depends where it is my dick's getting hard and I feel sick"
+    ],
+    [
+      0.9158818125724792,
+      " it's kind of fun like you've expressed a comfort with anal sex and kinky stuff how do you feel"
+    ],
+    [
+      0.9437650442123413,
+      " what are you doing"
+    ],
+    [
+      0.9351740479469299,
+      " what are you doing hello what are you doing what are you doing around here"
+    ],
+    [
+      0.9790669679641724,
+      " seriously"
+    ],
+    [
+      0.939129650592804,
+      " looks like a dick when you that is wild so much going on there a bike handle these kind of that's going to end up at a Goodwill and some shut up and ride that someday Jesus Christ he's covering his head so clearly there is an indicator of Shang also scared of the sun like I do that when I lay out of town but I just want you single or maybe still is Vice President of marketing at Microsoft this is an in Seattle"
+    ],
+    [
+      0.9692047238349915,
+      " I mean this could be at okay well let me I like his a little like his Patagonia is Camelback yet people that one leg going well I can't why is this woman confronting him even though she brave enough to do that this guy would have to get a lot of things together to attack the woman he's got one shoe there on the floor oh my God how do you even at this moment be like this is what I want to put some in my ass and I mean like on the sidewalk it's dirty and your fucking and just like that right about now you think he might be mentally ill or on drugs know both let's play the game"
+    ],
+    [
+      0.7221057415008545,
+      " sad saying"
+    ],
+    [
+      0.9028641581535339,
+      " Decades of drug use"
+    ],
+    [
+      0.7947741150856018,
+      " or just delusional he has nowhere he is outside for years sensing broken relationships"
+    ],
+    [
+      0.9714634418487549,
+      " no job no regular income"
+    ],
+    [
+      0.8341856598854065,
+      " vagrancy he's a homeless guy is on the Move he's got his bicycle having a nice bike helps what are you smelling what do you taste your nose"
+    ],
+    [
+      0.955663800239563,
+      " just so you know what I'm thinking about his child I mean it gets dark for me I just go to like this this kid went through some terrible things in his childhood and then there's obviously the fuking bat to the leg that didn't help either that happened stitched up real nice I mean used to be in the hospital and people cared for him at one point this truth that grip on that no adjusting it to move on okay seen enough what happens with this Microsoft now I remember you so"
+    ],
+    [
+      0.9690112471580505,
+      " by the way as a single lady you're on social media what's the DM's like for you to do you get hit up a lot do you ever take your act on a DM like do you meet somebody not haven't yet it would require you to act like a blue checkmark or at least have your account be on private so I can look and see if your hot or not I can't tell by your little tiny pictures of it's so annoying I just feel like it's annoying in general just to be like I'm on this app with all of you but I keep my stuff locked up weird today when you come to Denver whatever their pitching tonight then make it on private so I can look at cute enough there never even close to the guys that think that they deserve me I just go what are you know whenever I just don't know how to hold on. I love I love putting ugly women in their place like when when when I was"
+    ],
+    [
+      0.9679926037788391,
+      " no I'm saying and like like a woman would hit on me have you like me you out of your fucking mind you think I'm going to see now I have sympathy for that I actually have sympathy cuz a lot of nerves would ask me out in my life yeah and I tried to be very kind to the people that have the courage to approach me that he is gentleman I always had sympathy for those guys who had the courage to ask me out that's a bigger deal to me and then like it's let me eat your pussy like I don't have any sympathy for that guy and I'm always very polite when I do respond most of them I just ignore it and don't say anything back because you don't need to but when it's something when they're vulnerable and they're actually yeah I'm like a touch but a lot of times in like"
+    ],
+    [
+      0.9711467027664185,
+      " did you think I was going to move to Omaha and we're going to have like a relate like I just don't understand I think I just know that's you're so stupid and and you don't and you don't see me they always act like I see you other men don't understand who you are and I don't know you don't you just listen you don't know me and trying to access me on that kind of level where it's like you're misunderstood I really listen to what you have to say it just it disgusts me and and and I yeah I just you're so beautiful will then why do you think I would date you if you're in the same as beautiful as you think I am the real toads there's a thermometer 5:39 so you know I'd say, they tend thanks but I don't I know what what I am I don't demand like I don't need the hottest guy in the world but these guys are real you know like the guys that you were just"
+    ],
+    [
+      0.9549594521522522,
+      " watching me men like that really think that they have a shot so sorry if these are really gross do okay in the middle of America that think I'm just going to pick up my life and go be there sure step yeah these there was a yes I mean there was he when a guy who came on to me live with his parents he was 10 years too old to be an undergrad and he work for the Department that I work for and got fired but they still were the windbreaker around like he was touched me 6s and he worked up the courage one day to ask me out and I felt so I felt sad because I thought you would say that's how you have to be face-to-face."
+    ],
+    [
+      0.9448801875114441,
+      " I would I would love more men to be as Brazen and ask girls that they don't do it anymore and and I appreciate what it is done and when I turn it down I'm always very nice and just like I'm just not dating right now or I'm seeing someone that's what I say on the road now to I get asked a lot"
+    ],
+    [
+      0.9805575609207153,
+      " just tell you I'm out there I was hoping you went out ready to get you think I'm going to go out with you barely string together Guardians me after I did so I was I was on Instagram and I just saw some someone I follow I'm not even friends with this guy in their picture was like super hot I was like who is this guy like and what actors that went to his profile and he's following me I'm just how am I on Earth is this hunk following me and I look at he's like he's a fan of a show that I was on that appearance on last year and I was like I could tell by his post that he was a fan of the show and I got all right but it was that appearance and so I followed him I'm like he'll see it and I'm just waiting"
+    ],
+    [
+      0.9708763360977173,
+      " for him to DM me cuz now we're both following each other he clearly doesn't see it and I'm just waiting on like I can't reach out to him I don't want to be the initiator it's got a notice me I'm waiting for him to post so I can like something and just get his attention and he knows I'm following him and then I look and and then one night I was like medial damn him and I like pulled it up to DMM you know like I just like started the thing and he had DM to me is my request and I never saw it back when I was on the show when he started following me the show that he's a fan of he a DM to me you are so hilarious I was walking my dog and I was like crying laughing and you killed it and just as really nice message kind of but not really flirty but just but he's a hot guy dming a hot lady and I was like okay this is it was it was I think eight nine months at before I saw it and so I responded like hey I just saw this nine months later and it made my day and he was like glad you got it and I was like damn"
+    ],
+    [
+      0.9608743786811829,
+      " I missed the way he's like he's got to have a girlfriend now and so I can't do anything you know that's the problem with these guys I get so close and I feel like it's happening in the night I wait for them to keep it going and if they don't it just Falls because I will not do anything I will not pursue at all anymore at all the losers Mickey he doesn't know you like him how does he not know"
+    ],
+    [
+      0.9606785178184509,
+      " let me tell you something about if a man likes you he's going to go to the ends of the Earth to make a shit happen because that's what women tell other women when the guys thank you he's not weird about like he wants you to know cuz he likes you and then you also do whatever so if you're like every time I'm going to go do this thing in Amsterdam for 6 months to be like guess I'm fucking going to yeah that's what guys do with friends in Pasadena and you live you live in the valley, drive all the way out to Pasadena what is that an hour I don't know it was horrible open 7 in the morning because that's what if I'm not interested I be like Pasadena's far right"
+    ],
+    [
+      0.9739423394203186,
+      " cuz it is far it is far you tell yourself but if the guy really likes you living across and he's not texting me is not calling you please just doesn't like you that much troops stop making any excuse for him he did not lose his phone he was not busy at work if a guy likes you they will make the effort that's the biggest bullshittin while he's too busy to call me or he's just not Nikki and we would be on the same show all night long like we would have like three sets together on a Saturday night in like I can't suck it or wait for tonight because I'm going to be at the club all night in between sets will be hanging out oh my God flirt flirt flirt make out like in the will go across the round the corner and make out I'll be so I get dressed up and then he would cancel his sets because he wouldn't even been aware that I was on the show"
+    ],
+    [
+      0.9669870734214783,
+      " but if he liked me he would have checked the lineup he would have been aware that I was on the show he would have done everything to keep those but he doesn't like me and I like knowing he didn't even think to check my because he doesn't like that's what people say to you like you like the friends who emotionally just want to protect you cuz they're like they're kind they wouldn't think it's not exactly his family is in town this weekend he he just I think he's really depressed right I mean it's just the amount of excuses I just don't there's no excuse it was a woman that's the guy she eats his balls from behind she starts and then goes up the crap that you shouldn't leave bread crumbs for boys I believe cuz I left some bread crumbs for a cigarette I know that I was interested because let's face it back when I was 28"
+    ],
+    [
+      0.9589643478393555,
+      " how's the comedy turn around and I just want to make sure he knew that likes tell if I can drive anything but I just lets her know that if he wants to sniff in the yard he can sniff around okay so this was when you answered already just like I had a couple flirty interactions backstage or between sugar-free friends Reddit what happened was it was there anything for you before that where you really have to worry about yeah because also having one should a boyfriend that's why I was always respectful of that wasn't you know so the friend let me know that they broke up he was like you know she's single right now she's mentioned you and I was like what's up suwoo when I go over there"
+    ],
+    [
+      0.9643545746803284,
+      " he's like that's not what your blood when you first had sex now here's a funny story I tell the story so I decided cuz I never had a one-night stand and then I'll be okay now is a 28 year old will a 27 write her dating I decided he was going to be my first one-night stand that you weren't I was like I'm just I'm going to bang Tom cuz it has a nice guy I know him is not a stranger and I'm just going to bang him and then I'm going to just pump and dump them think I'm going to be a tough girl but then I like them so much and I couldn't get off of that D you know what I'm saying I got hooked on that Sigrid don't forget I was like 25 I was pretty active and I was giving her hours"
+    ],
+    [
+      0.9297016859054565,
+      " drilling I was a member she was like like I was really hot."
+    ],
+    [
+      0.9236534237861633,
+      " Deal well yeah I mean I would know I was open to it you know I was single out here at that point three years right Lisa feel kind of knew I had like a couple like hookups double hook up hose that I would"
+    ],
+    [
+      0.9395332336425781,
+      " you know tap on the shoulder every now and again I really love I mean I really like that she was like it I hate the whatever you want to do like date you're like what what do you like she's like whatever you like yeah I mean yes oh my God someone who knows what they like in any what is it"
+    ],
+    [
+      0.9660006165504456,
+      " letting the guy lead and letting the guy pursue he should make the plan he should pick the dinner he should woke up like so I left the crumbs listen I'll send up a signal that's cool hey like you have my check my make sure that I'm available cuz if you would frog you want to come courtin you know I'm saying like my shit's up here I put a flare-up bitches on here yeah and now if he didn't come calling that's it that's what I'm not going to fucking ask knock on the door get bitched this is the one crumb this motherfukers going to get the initiation of a date let's go out and then keep call and text and I'm saying I like it's just I like a strong opinion strong personality that's what I'm saying what I mean I mean like a bitch might not mean I don't mean like a real bitch but it's like I did not mean but like you know what you're like a certain age to let you know things you like you know whenever you have somebody Express those types of opinions I think Eva"
+    ],
+    [
+      0.9360648393630981,
+      " in like in friendships it's at I'd rather hang out with somebody who says what they mean knows what they like like those kind of things do drawn to those Personnel the bad title it's not a bing a bitch it's just being a self-contained person you know I'm saying like yet like was he saying I have an identity I knew who I was because"
+    ],
+    [
+      0.7563023567199707,
+      " and that"
+    ],
+    [
+      0.5857607126235962,
+      " ipsum"
+    ],
+    [
+      0.967167854309082,
+      " he likes sticks to what she likes and and knows what she doesn't like likes you then you know that it's real and then you feel like cool almost at this woman that's so self-assured like she it makes you feel good so yeah that makes sense why men would be attracted to women who know what they like because they know that their of value if this cool woman on earth and you're good at business right you're great at your career yeah I'm great warrior qrl another reason to is Hugo yes no yes no yes no yes you do that with dating I guarantee it's going to be yes that's cuz you're telling me but this guy and I fixed and then I tell him to go to therapy and then I find out he cries like men in and have a guy who's already got that shit done and now homeboys like I cry on your you don't want to do anyways so you're a back straight by next town by by Telisha is Tantra and funny though and that the weirdos there so weird on it"
+    ],
+    [
+      0.8143489360809326,
+      " nightmare mangle"
+    ],
+    [
+      0.9477433562278748,
+      " okay okay Eagles all right up there with you a bitch but I want to be I want to be I think it's going to happen I mean I will pursue you become very much more visible I think after my special comes out on things like it's going to open me up to a new world of men's that you may have to take like an agent I'm that's on Sahara manager on the business in the"
+    ],
+    [
+      0.9559049010276794,
+      " someone in the bed a little older than you might be a good idea what I'd I need to like have my agent sent me up like I said yes it's someone in the biz he works a lot to hear the ad or what you're doing but a little mature sounds like he was always sunny the man they need to be funny but most of them are okay swingle actually like I gave him that but don't let her forget she was also a pig she was like put my head in this trash can like we got us keep that up to"
+    ],
+    [
+      0.9602004885673523,
+      " I don't want to say that I am not mean I was never mean no I was no not so I try not to be like what's the attachment style where you're like so I guess I think it's about a woman that's secure and quite honestly like a loofah mysterious like Jackie Onassis in my courting style but it's only because I have a bad attachment like he actually Tom and I work because were I don't know and I don't and I'm actually more avoid it so that comes across as a lip yes yes I got to read that book I don't know what style I am wiser you up on Sirius XM 95 every morning Monday through Thursday 10 to 12 Eastern"
+    ],
+    [
+      0.8915929794311523,
+      " how to shoot the degenerate"
+    ],
+    [
+      0.9611624479293823,
+      " call Toby on Netflix comes out October 1st banging and yeah so that'll be out in graduation thank you thank you will see and then you have some other stuff in the in the in the works yeah yeah big it's going to be a busy here and I'm going to have at a theater tour in the new year and good finally out of the clubs for a bit until I tell the career takes another. And I'll be back in a relationship you and that's great and then those dates will all be on Nikki Glaser. So check out not just the hour special also season 2 of the generous way about to shoot that will come out probably a few months later"
+    ],
+    [
+      0.9246699213981628,
+      " $3 paulucci Jim Norton Bobby Kelly and one more killer lineup that's a good one that's going to be great I don't even know where I'm taking two days and I don't know myself yet seriously I mean I've got a lot of stuff and I guess right yeah yeah yeah I know I have a podcast also you up review And subscribe and it's always great to see you and I thank you for your thank you for stopping in"
+    ],
+    [
+      0.8708751797676086,
+      " are you doing blender three types of blender gender fluid in your mouth you would lender Retard Retard are you to give me your gender fluid"
+    ],
+    [
+      0.9080876708030701,
+      " are you doing blender retard blender gender fluid in your mouth are you do a blender Retard Retard blender gender fluid in your mouth"
+    ]
+  ]
+}

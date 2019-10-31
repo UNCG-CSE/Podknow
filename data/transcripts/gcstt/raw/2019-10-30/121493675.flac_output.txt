@@ -1,0 +1,34 @@
+{
+  "Stats": {
+    "PodcastID": "121493675.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 279.562438,
+    "OriginalFileSize": 4473020,
+    "FlacFileSize": 24135966,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 100.62819337844849,
+    "DownloadSuccessful": "3.069026231765747"
+  },
+  "Transcripts": [
+    [
+      0.9599266052246094,
+      "live from NPR news in Washington on Lakshmi Singh wildfire in Southern California it started early this morning before Dawn north of Los Angeles in Simi Valley area it's spreading fast Ventura County Fishel say the brush fires Scorch more than 400 Acres Fighters with help from fire in Presidential Library that side in nearby homes have been evacuated in wine country to the north firefighters are said to be making progress against I nearly seventy seven Thousand Acre blazing Sonoma County it's about 30% contained the national weather service has Ryan Welborn tells kgo-tv air condition should be calmer in the coming days 5 to 7 days we will get into a more tranquil weather pattern no rain in the forecast but also no more off door window vents"
+    ],
+    [
+      0.972541868686676,
+      "more than 150,000 people remain under evacuation orders the head of the FBI is briefing members of Congress today NPR's Windsor Johnson reports Christopher wray's delivering the bureau's latest assessment on the threats facing this country and the globe in his opening statement before the house Homeland Security committee race at countering threats from foreign countries Remains the FBI's top priority he said the agency remains of the laser focused on preventing attack the US sites and encrypted messaging platforms rather than in some remote training camp or cave filling the position of Homeland Security secretary acting secretary Kevin mcaleenan is set to officially step down on Friday Windsor Johnston NPR News Washington ministration so cold"
+    ],
+    [
+      0.9801713824272156,
+      "conscience rights rule for healthcare workers is on trial NPR Selena Simmons Stephen says the rules intended to protect doctors nurses in other providers refused to provide certain care to patients on moral or religious grounds the kind of Medical Care a health professional might objective abortion surgery for gender transitions even end-of-life decisions that sued over this rule is Santa Clara county in California this year County Attorney James Williams problems with the rule there are no exceptions for emergencies and staff object care quote on the fly to have extra Staffing to accommodate the fact that there may be people who have objections that would be very costly November 22nd is the judge hearing the case does not block it Selena Simmons Duffin NPR news from Washington this is NPR news"
+    ],
+    [
+      0.9743761420249939,
+      "the country will find out in a couple of hours If the Fed in fact Cuts interest rates for the third time this year is expected to do soap the federal reserve's policy makers are concluding two days of meetings in Washington DC today the FED has previously / rates in July and September leading to lower mortgage rates in Spring more home sales the fed's meeting comes after the government reported that the US economy grew at a 1.9% annual rate of July to September quarter the Italian-American carmaker Fiat Chrysler says it's in talks with a French company Peugeot its second your taxes this year is a company comes Under Pressure to invest in Clear Car Technology and pure Sylvia piccioli reports its successful than you company would have a market value close to 50 billion dollars Fiat Chrysler said the discussions are aimed at creating one of the world's leading Mobility groups earlier this year fca's talks with another French company Reno collapse following French government into"
+    ],
+    [
+      0.9713921546936035,
+      "pension FCA has been pressing for consolidation in the Auto industry in the belief that a Slowdown in global demand could mean some companies will fail and picture of chief executive Carlos Tavarez has predicted 10 years of chaos for automakers as consumers are switching to electric cars over concerns for climate change and FCA Pujols merger would bring many Brands Under One Roof Fiat Alfa Romeo Citroen opal Peugeot and the popular Jeep SUV so people Julie NPR news Rome this is NPR news"
+    ]
+  ]
+}

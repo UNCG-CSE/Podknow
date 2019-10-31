@@ -1,0 +1,126 @@
+{
+  "Stats": {
+    "PodcastID": "1447513097.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 220.5257,
+    "OriginalFileSize": 8875961,
+    "FlacFileSize": 19520158,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 76.04902172088623,
+    "DownloadSuccessful": "4.80547022819519"
+  },
+  "Transcripts": [
+    [
+      0.922642171382904,
+      "Hey listen this is Dave from keycode we're really excited to announce our new show the edge of sleep here's a sneak peek"
+    ],
+    [
+      0.9259355068206787,
+      " stay awake awake"
+    ],
+    [
+      0.9676510095596313,
+      " July 8th"
+    ],
+    [
+      0.9378477931022644,
+      " it's a beautiful day"
+    ],
+    [
+      0.9541218280792236,
+      " sun is shining the birds are chirping and everyone's dead"
+    ],
+    [
+      0.9201661944389343,
+      " it's not what I thought the end would look like there are no bodies in the streets no burning cars and hordes of zombies picking up survivors"
+    ],
+    [
+      0.9419502019882202,
+      " I don't like that"
+    ],
+    [
+      0.9593762755393982,
+      " it's more like the world went to sleep and never woke up"
+    ],
+    [
+      0.8611925840377808,
+      " Q code AS Bledel resent each fischbach created by Jacob Manuel and Lily blossom"
+    ],
+    [
+      0.8972506523132324,
+      " first night"
+    ],
+    [
+      0.9247921705245972,
+      " before it began"
+    ],
+    [
+      0.9443813562393188,
+      " I dreamed I was under the ocean"
+    ],
+    [
+      0.9575701951980591,
+      " I was walking in a field of seagrass tall green stalks loomed over me swaying Dark Water"
+    ],
+    [
+      0.713460385799408,
+      " is that pushing the weeds I can see something blowing"
+    ],
+    [
+      0.9127310514450073,
+      " but are you guide me through the grass"
+    ],
+    [
+      0.8160618543624878,
+      " Tim cross a whale"
+    ],
+    [
+      0.8810082674026489,
+      " seaweed dangled from its mouth or maybe was crawling there like a great long beard"
+    ],
+    [
+      0.942136287689209,
+      " the whale was enormous the size of a battleship looks like a sea monster out of an ancient myth"
+    ],
+    [
+      0.9548170566558838,
+      " spoke"
+    ],
+    [
+      0.7494130730628967,
+      " Churchill portraits"
+    ],
+    [
+      0.8166336417198181,
+      " check my coat song bottle of sleeping pills"
+    ],
+    [
+      0.8786278367042542,
+      " I didn't question"
+    ],
+    [
+      0.981813907623291,
+      " I uncap the bottle"
+    ],
+    [
+      0.9320580363273621,
+      " suck the drugs into his mouth creating a vortex in the water suddenly lit up like slot machine mechanic low in a hundred different colors"
+    ],
+    [
+      0.8947731256484985,
+      " I have a message for you"
+    ],
+    [
+      0.8624641299247742,
+      " I don't understand what's up what the fuck man you just don't do pills I love your desk look what the hell"
+    ],
+    [
+      0.8094565868377686,
+      " oh yeah"
+    ],
+    [
+      0.9320899844169617,
+      " if you want to hear more subscribe today on Apple podcast or whatever you get your favorite shows the edge of sleep Premiere September 24th with new episodes every Tuesday through November 5th"
+    ]
+  ]
+}

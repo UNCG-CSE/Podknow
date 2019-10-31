@@ -1,0 +1,74 @@
+{
+  "Stats": {
+    "PodcastID": "1057255460.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 756.985313,
+    "OriginalFileSize": 12111971,
+    "FlacFileSize": 66003002,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 265.3398094177246,
+    "DownloadSuccessful": "11.397303581237793"
+  },
+  "Transcripts": [
+    [
+      0.9655531048774719,
+      "quick nap before we get started we are doing a live taping of our show in Washington DC so if you want to hear what we think about the latest political news or if you just ever wondered what it's like to see a podcast tape by join us at the Warner Theater on November 8th information and tickets at NPR presents. Org hope to see you there hello this is that kind of late last night the UK Parliament decided to hold an early election on December 12th it's tough keeping up with politics on both sides of the Atlantic but luckily we have the NPR politics podcast to help us out this podcast 1:24 p.m. eastern time on Wednesday October 30th enjoy the show"
+    ],
+    [
+      0.9678374528884888,
+      "hey there it's the NPR politics podcast I'm Tamara Keith I cover the White House and Jessica Taylor political reporter and I'm Domenico montanaro senior political editor and correspondent action we are preparing for an election but it's not the one you're thinking of preparing for a few of them said we are talking about gubernatorial elections in Louisiana Mississippi and Kentucky and legislative races in Virginia so Jess why do these off off off year elections matter what can they tell us we have seen and stay races the one place that people even if they may vote Republican in a federal level that they may be willing to support Democrats or candidates of a different party is on the state level because we haven't seen those is nationalized but this year may really sort of test whether that can be the case but I mean sort of in the age of trump we were just seeing partisanship"
+    ],
+    [
+      0.969064474105835,
+      "chili levels it's really hard to do that anymore you know I want you to see just what happens with impeachment in a lot of these states because you know given that this is happening right now is it going to be something that fires up rule Republican base voters or is it going to fire up more of that Democratic base in places like Kentucky for example you've got a lot of Voters in Louisville who are going to want to get out there and you know see that Trump is impeached so you have this partisanship that is pulling at the fabric of the country and just how much is a really divisive lightning rod kind of issue like impeachment how does that play in three pretty conservative States states I'm not convinced that we're going to be able to say and now we know how impeachment is going to play in 2020 or no"
+    ],
+    [
+      0.9685356616973877,
+      "is going to win really easily in 2020 but whether voters see this as a way to sort of a register their vote of support for President Trump which I think is the case that he's going to be making when he campaigns in Kentucky and Mississippi this weekend okay let's start with Kentucky digging in who are the players here so Matt Bevin is the incumbent governor elected in 2015 you may remember him because he ran against Mitch McConnell in 2014 in the primary but then went on to to become the governor later on which was really a surprise even then and he is actually for Kentucky even though it voted heavily for Trump by 30 points is actually but it's sort of ancestrally democratic it sort of the other and it has Appalachia there as well and he's actually only the third Republican Governor since World War II in the state so I mean in the state legislature didn't shift to Republican"
+    ],
+    [
+      0.9707629084587097,
+      "troll until 2016. He is being challenged by Andy beshear that name is Vaguely Familiar sounding yeah because the thing that Bashir is really trying to play up is the idea of respect and the reason for that is because Matt Bevin is one of the lowest rated Governor's approval rating wise in the country only 34% and according to the latest morning consult poll on his approval rating in part of that is because of how he has this sort of a cervix style you know he's kind of a tea party guy he says what he thinks is on his mind and because of that he's really aligned himself a lot with President Trump because as just notes it went by almost 30 points for Trump in the presidential election he really needs the present to pull them over the finish line but she reposes President Trump his top supporters want to impeach our president Matt bevin's moving Kentucky"
+    ],
+    [
+      0.9722666144371033,
+      "the end. Add he plays up the stairs Scare Tactics you can see these members of MS-13 gang is like climbing over the wall and he says you know Andy beshear stands with the illegal immigrants he talks about how he's pro-life and so he's really he has nationalized this race to an extent that we typically do not see any Governor's races on to Mississippi this is another race that were watching who are the candidates so Tate Reeves is the lieutenant governor and he sort of your establishment style politician but he's kind of wonky and nerdy and then you have him running against the Attorney General Democrat Democrat there Jim Hood his ads he's in his pickup truck you show some carrying he's with his gun he's pro-life and so it really is a very drastic different style there I think we have an ad from that to vibrate my own hook carry my own gun and drive my own truck a democrat in a deep red State this is how you do is like the perfect candidate that you could create"
+    ],
+    [
+      0.9585468769073486,
+      "in a lab however this is I think of the three states this is Republicans best chance and here's why there's a little quirk in the Mississippi it's actually still a Jim Crow era law that they are challenging in court but probably not going to be decided in time where I can and it has to not only win a majority of the popular vote they also have to win a majority of the State Legislative districts or like this many electoral college if they don't do that then the race actually gets kicked to the state legislature where Republicans have a supermajority so that is sort of Reeves his insurance policy and Democrats I talk to you they acknowledge it's really hard for Jim Hood even for all of his word of likability and things in the fact that he has been elected Statewide before to do that right Louisiana is the last date on our list here and right now there is a Democratic governor John Bel Edwards he is up for re-election and President Trump certainly doesn't want him to win so Republicans would have called him and Ashley this sort of accidental governor"
+    ],
+    [
+      0.9698770642280579,
+      "1 in 2015 against Republican David Vetter which if you remember him he was tied up in this DC Madam prostitution Scandal that really came back to bite him in the governess we had the jungle primary earlier this month there and he ended up with that he will face Republican businessmen Eddie rispone who's kind of cast himself as a sort of trumpian character you actually put 11 million dollars of his own money into the primary so when we had the primary this was Edward has best shot of course to get a win and Democrats actually thought that he might be able to do that but like we've seen inside to stop and explain so this is you called it a jungle primary before it's this weird thing where everybody is on the ballot together right so everyone is on the ballot regardless of party he actually got almost 47% of the vote but Democrats off and he actually might be able to top 50 cuz if anyone Topps 50 game over you win Trump came in the night before as we've seen in so many places he is able to just would have Jenna Republican turnout and this really highlights what we did see"
+    ],
+    [
+      0.9797129034996033,
+      "we have seen a recent elections this increasing rural vs Urban Suburban divide that just The World vote and Barry White parishes there was really up and Edwards really needed High black turnout especially to when he did not get that to that is what he has to do in order to win on the 16th these three races really are going to test the limits of partisanship in a lot of ways because John Bel Edwards is a Democrat who's the governor in the South it's not the kind of thing you see very often but he's been able to have this kind of record where he wants to say that he's reaching across the aisle and working with Republicans in the state in fact so much so that he doesn't really even talked about the fact that he's a Democrat. Edwards is the only Democratic governor still in this deep south Interstate to we are going to take a quick break and when we get back we are headed to Virginia closer to home here where guns are at the center of the races that will decide who will control the legislature their support for this podcast in the following"
+    ],
+    [
+      0.9582250714302063,
+      "come from the Annie E Casey Foundation developing solutions to support strong families and communities to help ensure a brighter future for America's children more information is available at aecf. Org Halloween is supposed to be a scary time of the year but you seen the news real life is so scary races and it's so scary climate change it so scary fear in an age of real life horror on NPR's code switch"
+    ],
+    [
+      0.9330757260322571,
+      " and we are back and let's talk about the great state of Virginia the Commonwealth Tam and I both live I am aware of"
+    ],
+    [
+      0.964518666267395,
+      " but yet I get your TV ad you live on the other side of the river that which is like you know you might as we might as well be in different countries I'm fascinated by the advertisements I see in these races and particularly how much they're focusing on guns it's really amazing considering you don't really see that as an issue traditionally over the years be something that dominates as much as this year it has and what we have here are a whole bunch of legislative races and just put a fine point on it last time around there was a race that was decided by drawing names out of a bowl because it was so close and then and then that actually decided who controlled the legislature in a bowl in the bulls names were in the film canister I don't even know where they found film and the issue of gun control is it because Virginia has unfortunately been the site of several mass shooting"
+    ],
+    [
+      0.9726479053497314,
+      " at Virginia Tech over over a decade ago now and then just recently in Virginia Beach where I'm an employee open fire at a government in a government building yes and so 1 race there in Virginia Beach I think is a good Bellwether for not only how the night maybe going for both parties but just on this issue of guns and of course the National Rifle Association headquartered there in Virginia so you have the Democrat who is a political newcomer she was a girl scout leader decided to go into politics her name is Missy Carter smasal and she's challenging the incumbent build a staff and this is a district that President Trump carried really easily but but in governor and Senate races Democrats have I been there so they really sort of see it as a swing district and she is running heavily on the issue of guns after the shooting there I saw the gunman on the other end of the hallway when I saw a co-worker in the middle and he looked at me"
+    ],
+    [
+      0.971865713596344,
+      " yelled go so I was lucky but not everyone was you know pro gun restriction groups are a huge story of what's happened over the last 5 to 10 years in political activism I with mass shootings that have taken place across the country and more money now that has funneled into these groups to really become more professionalized this is a real test case for these groups and how they mobilize get-out-the-vote and continue to push this issue and we will be watching all of these races Jess you in particular will be watching these races on Election night yeah I'll be following these races for hearing NPR. Org you if you can follow me at Twitter at Jessica Taylor all right that is a wrap for today we will be back tomorrow until then keep up with all the latest updates I heading to NPR. Org and listening to your local public radio station or on the NPR one app on Tamara Keith I cover the White House I'm just a Taylor I cover politics and I'm Domenico montanaro senior political editor and thank you for listening"
+    ],
+    [
+      0.9519319534301758,
+      " if your politics podcast"
+    ]
+  ]
+}

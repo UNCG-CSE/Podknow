@@ -1,0 +1,450 @@
+{
+  "Stats": {
+    "PodcastID": "863897795.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 4402.573067,
+    "OriginalFileSize": 70842948,
+    "FlacFileSize": 330590978,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1518.0304465293884,
+    "DownloadSuccessful": "47.661750078201294"
+  },
+  "Transcripts": [
+    [
+      0.9684271216392517,
+      "optimal minimum altitude I can run flat out for a half mile before my hands start shaking"
+    ],
+    [
+      0.9888661503791809,
+      " I'm a cybernetic organism living tissue over metal endoskeleton"
+    ],
+    [
+      0.968454897403717,
+      " this episode of the Tim Ferriss show has brought you buy athletic greens I got us all the time if I could only take one supplement what would it be the answer is inevitably athletic greens I view it as a lot of you now view it as all in one nutritional insurance I recommended it way back in 2010 in the 4-Hour Body and I did not get paid to do so I've been using it since before that and I use that a lot of different ways I travel with it to avoid getting sick or to help mitigate the likelihood of getting sick I take it in the morning to ensure Optimal Performance and overall it covers my basis if I can't get what I need from Whole Food meals throughout the rest of the day and if you want to give athletic greens to try and they're offering a free 20-count travel pack for first time users I nearly always travel with at least three or four of these windows back in other words if you buy athletic greens as a first time buyer you now get for a limited time an extra $79 in free product so check out the details at athletic greens. Com"
+    ],
+    [
+      0.9462843537330627,
+      " Tim again that's athletic greens. Com Tim for your free travel pack with any purchase"
+    ],
+    [
+      0.9770656228065491,
+      " this episode has brought you buy linkedin's Hello Monday hello my name is a podcast with Jessi Hempel is back for season 2 in the show is full of advice practical tactical advise that you can start using today each week Jesse sits down with featured guests to investigate the role workplace in their lives how it can be integrated into your life and how to make work work for you better this season one of the First episodes is with Jerry Colonna who has been called the CEO whisper I've actually done quite a bit of work with Jerry and he's one of the world's most in-demand executive coaches amongst the startup ecosystem in the episode Jerry shares his person meetings explains how to ask good open ended questions and you also goes through his approach to daily journaling among other things journaling can really create an incredible competitive advantage and also act as an emotional rebalancing tool of sorts I recommend taking a look at it getting a listen more accurately"
+    ],
+    [
+      0.9624451398849487,
+      " whether you're starting your first job or gearing up for retirement Hello Monday helps you tackle Monday and the rest of the work week with tactics and strategies that you can use to check it out find Hello Monday with Jessi Hempel that's j e s s i h e m p albums look up Hello Monday on Apple podcasts or wherever you listen to podcasts"
+    ],
+    [
+      0.9646228551864624,
+      " hello boys and girls this is Tim Ferriss and welcome to another episode of the Tim Ferriss show where is my job every episode to attempt to deconstruct world-class performers of all different types to tease out the routines favorite books habits and so on that you may apply to your own life my guest this episode is Ben Horowitz you can find him on Twitter at B Horowitz Horowitz Ben is a co-founder and general partner at the Venture Capital firm in treeson Horwitz he is the author of The New York Times bestseller the hard thing about hard things and the brand new Harbor Business book what you do is who you are"
+    ],
+    [
+      0.9687929153442383,
+      " he also created the a16z cultural leadership fund if you are wondering what a16z stands for Discount the number of letters between the beginning in the end of Andreessen Horowitz so he created the a16z cultural leadership fund connect cultural leaders to the best new technology companies enable more young African-Americans to enter the technology industry prior to a16z that's Andreessen Horowitz Ben was co-founder and CEO of opsware formerly known as loud Cloud which was acquired by Hewlett-Packard for 1.6 billion dollars in 2007 previously been ran several product divisions at Netscape Communications including the widely acclaimed directory and security product line he has an m s n b a computer science from UCLA and Columbia University respectively so without further Ado please enjoy this wide-ranging conversation with the one and only Ben Horowitz"
+    ],
+    [
+      0.9695428609848022,
+      " then welcome to the show thanks Tim very excited to be here and I've so many questions I have pages and pages of questions will try to get to as many as possible I thought I would start with a name that I know you're familiar with and that is Andy Grove that may not be a name that all people know but could you please describe who Andy is why he's interesting to you"
+    ],
+    [
+      0.9568846225738525,
+      " ESO Andy was kind of one of the founders of Intel which is kind of the foundational company of Silicon Valley and I'm if there was any end and Foundation musically but also call Troy importantly and just an amazing guy probably you know for my money the best CEO we ever had out here but you know he started his life he was a refugee from hungry from World War II and you know he had to escape the Nazis and then the Communist kind of came over on a boat and with I forgot to give him like $27 when he got to New York and he taught himself English and he kind of went to school at ccny and became the men that up with some tell me a very funny story of his life where I Gordon Moore"
+    ],
+    [
+      0.9763767123222351,
+      " speaking of famous Morris law and founder also a co-founder of Intel when they brought and again to Fairchild semiconductor the way they picked him out and he told me his very life he said he finished his PhD at Berkeley in two and a half years and they had found that people quickly correlate with high performers so that's how you got the job well that's perfect jumping-off point for about a half a dozen things that I was meaning to get to anyway but let's I'll try to ratchet back my mic by caffeine enthusiasm and a focus on Andy for a bit longer high output management you at wrote the forward to a reprint of that book which when I looked in Silicon Valley was able to observe the the the rebirth"
+    ],
+    [
+      0.9699443578720093,
+      " Elizabeth you Resurgence of this book and its popularity and I know some incredible Founders who have stacks of this book in their offices to give away why did you agree or offer to write the foreword and what are some of the takeaways that people might find in that Booker that you found a particular value is my favorite management book by far in fact only management book that I ever read that I like so it was quite a thing for me when Andy called me and he said and you know I was watching you give this talk at Stanford and you know where the tacos talk about my book my first book the hard thing about hard things and somebody asked me why and I said well you know what I was a kid I read this book high output management and it like it was amazing this is the CEO of Intel which is like the most important company of technology and he wrote this book and it wasn't till like you know say"
+    ],
+    [
+      0.9727670550346375,
+      " great he was really going to like all these books that these guys right who can I run big companies and how like they'd be here is what I learned the value of a dollar and then misses when I'd be built the Great Big company and all this kind of thing they say but it was a book to teach like young people like myself how to manage I'm so it's just a complete contribution back to the environment with really you don't away nothing in it for him and you know I always but I get to bring that back I said if I ever make it if I ever kind of become anybody that anybody wants to listen to I'm going to write the sequel to high output Management in that was I tried to do that was a hard thing about hard things when he called me there was no question I was like a hundred percent is a hard thing about hard things in that most management books are like cheers all the obvious easy stuff and he was like eight like random steps to do the most easiest thing in the world"
+    ],
+    [
+      0.9623757004737854,
+      " anybody can figure out like who you know wasn't like an idiot all the way to the worst hardest most messed up things that you have to do so like you're one of the things I remember for the buck is he goes well hey like you're writing performance review and the rule of thumb is you never put anything in a performance review that you haven't already told the employee write-up that's the role that's what we do and he's like okay so now you're at the performance review and there's something that the employee needs to improve that you haven't told them what you do"
+    ],
+    [
+      0.9583452343940735,
+      " and it's like okay that's it that's a real like thing and he's like you put in the reviewer do you not put in the radio and it's bad but it's worse than not tell him now and you know it and those kinds of difficult decisions like you know how you really do that or like like okay people are late to meetings you know they're wasting everybody's time so stealing money from the company like but like it's very awkward to deal with them and so how do you deal with him on that and that kind of thing which is really what you need to know to put these management techniques into effect us like how do you do it when there's real conflict and that's why it's such an amazing book becoming too late I end table in one of your a blog post UFC if some fantastic blog posts an excellent writing both course on the web in this case and then in the books but that you"
+    ],
+    [
+      0.9630101919174194,
+      " you share an anecdote that begins with for example we can talk about some more time vs. peacetime CEOs but a basic principle of those management books that you should never embarrass employee in a public setting but Andy Grove in the situation you just mentioned once said to an employee who entered a meeting late quote all I have in this world is time and you're wasting my time and quit to my favorite aunt and a suit supposed to eat the first question that I'd like to ask and we may end up getting into the wartime purses peacetime CEO differentiation but what occurs to me is that he has he is a scientific background is an engineering and physics background you also have a computer science background how do you"
+    ],
+    [
+      0.9461915493011475,
+      " think about management what is it in a very broad question but do you think about management differently than many people I would seem to be that the answer is yes I also just based on the observation you had about the most management books wish I would agree with how my how is your experience your life experience maybe including computer science informed how you approach her think about management"
+    ],
+    [
+      0.9709283113479614,
+      " well I think it's interesting combination cuz there's a part of an engineering background that's extremely helpful which is can you think about systems and can you think about like how like broad-scale systems interactions occur and like what the implications are and then there's a different part which is a very kind of I would say a high IQ component which is in order to make that system work you have to be able to see the company Through The Eyes of the people who are doing the work which are usually the people are not in the room when you're making the decision and you have to understand how it's going to affect them how it's going to change their behavior and so forth as an example of that like"
+    ],
+    [
+      0.9743123650550842,
+      " easy like if somebody comes to you and they say you know Ben I really deserve a raise and you can go okay well you know like I like you and I want you to like me so I'll give you that raised but you have to think about it you know if you're bad at all you go okay well like how will it look to the people who are not here is that fair have they gotten a chance at it this person just getting the raise cuz he came into my office or a like you know does he really deserve it so do I have a systematic process to evaluate talent and allocate the money that we have or do I run it like that because I'm not really thinking about it from everybody else's perspective and so you kind of end up needing both to be good at it and I think you know kind of going back and screaming at that employee that that's kind of a little bit of the balance right because you know that implies definitely going to be like ashamed and horrified and it may be demotivated by him"
+    ],
+    [
+      0.9731987118721008,
+      " play embarrassing him but in that instance would he was doing was something different which was he was setting the culture and saying look culturally fundamentally like I'm going to teach everybody in his company a lesson by saying something that's so powerful and so colorful that it's going to spread like wildfire through my company and everybody's going to know that it's not okay to waste people's time by being late for meeting and that's more important in this case than the individual so it's kind of a Confucian approach the CEO from time to time now you don't want to do it fortuitously because that is definitely going to hurt somebody's feelings so ghetto and and maybe that's a great employee or whatever but you do think the culture is in place and they're kind of willfully ignoring the culture which I then you have to"
+    ],
+    [
+      0.9690964818000793,
+      " system in value that above that person's feelings and he's her kind of the trade-offs that you make complicated to get it right and you know it's always like broken down in management books are often is like you're talking to one person at a time and that's never the case you're always talk to everybody if this is a useful distinction of but for you to define the two terms for us for the differences between two terms that is management and Leadership how do you how do you distinguish between those two I know it seems like a stupid question maybe but yeah I'd love for you to do if you're able to just comment on that for a second or if it's bad question we can move on through the way I think about it and let you know who they're kind of"
+    ],
+    [
+      0.9518681764602661,
+      " your leadership did there's kind of a is a lot of getting is the art of kind of getting people to follow you and Colin Powell said if only out of curiosity and I think so. That involves kind of having a vision being able to articulate it being inspiring making creating a feeling among people that you said you care about them in a way and you care about"
+    ],
+    [
+      0.9674432277679443,
+      " their goals and objectives and and you know what they want out of life and people want to follow people who have you know some number of those attributes management gets more into okay you have this great vision you've articulated everybody likes it but like how do you operationalize that how do you kind of break it down into its steps how do you make sure that people who need to communicate are communicating in these kinds of things so it's kind of you know later a lot of leadership is you know knowing what to do getting people to follow you and then you don't management involves getting people to do what you know and that's a kind of a little bit of different part of your brain it's a little more creative side management requires a little more discipline and systematization"
+    ],
+    [
+      0.9603846073150635,
+      " Stella on the on the former in the case of leadership getting people to follow you if only out of curiosity and in this may may not be a Fitbit in the course of doing research for this conversation I I came across mention of a paper called good product manager bad product manager and it it seems like at least the way it was phrased in this Fortune piece it because it quote became a Bible for the startups in this case referring to Netscape for startups unpolished young Executives could you describe that paper and what impact it had on you"
+    ],
+    [
+      0.9392811059951782,
+      " and were the people around you when it came out"
+    ],
+    [
+      0.9471930861473083,
+      " yeah so you know what's funny is it was a piece I wrote out of pure frustration so turns out like product manager is a weird job in Silicon Valley and that in every single company it means something different and so like what you do is that doesn't really translate well from one company to onexton many companies"
+    ],
+    [
+      0.9387112855911255,
+      " have just bad product management functions and so you're the people that I kind of inherited when I got the job to run the team all have things like different and different and weird views on with the job was I you know I always found myself like yelling at them going like does that make any sense to you that kind of thing you know Monday is acai keto I have to"
+    ],
+    [
+      0.9588639736175537,
+      " train like the team on what I want and I was like but I ain't have time to put a training program together so I sat down I just wrote this document good product manager bad product manager you know ahead of us like it's a bad thought but it was like this is going to be like dog training in a like that bad dog came from but it was really just so you know like like this is what good product manager is doing this is what bad product managers do and just like let's just be clear on that so like you will know you can anticipate what I'm going to say if you do something bad and and we don't have to have that conversation all the time and so that that's all it started out to be and then what happened was kind of as you know as you said is like people value just getting that information so much that not only did Mighty music but then everybody at Nets game started yet"
+    ],
+    [
+      0.9592487812042236,
+      " and then like you know a huge number of people in Silicon Valley still afraid of that thing which I wrote 1995 and what it was like everybody no matter how smart they are no matter like they went to Stanford or Harvard or whatever they can always use training in the job that you want them to do because the job that you need them to do is one of these jobs are very complex and they are different and and a lot of it is what do you expect as a manager and set your manager doesn't train your people you probably I can imagine you're good at your job just cuz there's no way they're going to be able to read your mind on everything so I thought I'd like to talk about"
+    ],
+    [
+      0.9556028842926025,
+      " more Lessons Learned and then I'm going to Segway from that into how you might teach others because in a lot of ways you do teach others let's let's chat about Bill Campbell and Bill Campbell has come up once before on this podcast when I had a conversation with Eric Schmidt legendary figure known throughout the valley is coach has advised people like Jeff Bezos Steve Jobs so on could you share what your relationship was like with Bill and what are some of the things or any of the things that you that you really absorbed from Bill"
+    ],
+    [
+      0.966295063495636,
+      " yeah so you don't he was just such a great help to me as CEO and a lot of it was just able to have a conversation with somebody who knew what I was talking about and who knew what they were talking about at the same time which is which is very difficult to have those in a way you know that's kind of confidential and I'm like not with like somebody who could like remove you anything and so he was just invaluable to me in that sense and in a lot of it was so great about it"
+    ],
+    [
+      0.9040970802307129,
+      " saw the one hand like we could argue about whatever and like he would have been put in like maybe I would in a listen to it maybe I want but it would never whatever I did never affected the relationship nose is just that kind of thing with"
+    ],
+    [
+      0.9624854922294617,
+      " but the thing that he did better than anybody that I've worked with is he could really see the company through the employer like Through The Eyes of every single employee in Keene New how people would react to every single decision and he know enough people in it he would but he had just like this incredible sense about that and has proved to be very valuable examples giant deal with EDS to sell them kind of world we had this business that was going to kind of basically make us bankrupt and by doing the transaction with EDS we kind of escaped bankruptcy and then kind of watched into this other business to suffer business was to eventually became like breath like 1.6 billion dollars or I think I was at"
+    ],
+    [
+      0.9733923077583313,
+      " and yes it was like the probably the most important deal we'd ever done as a company and you know we do the deal and I go Bill like yeah we got the deal. I can't believe it and we're going to New York on Monday and we're going down sudden he's like you can't go and I was like laying some people off and so forth as soon as that news hits you got to be in person in the company talking to the employees and letting everybody know where they stand as quickly as possible and I was like oh course he's ready I am even like thought that through and had I not done that I mean I decided that I sent Mark to New York to do the announcement but I had I not done that had I not kind of stayed back and had that conversation I don't think we would have made it as a company because that day and is up being pivotal Chino to reconstructing the trust"
+    ],
+    [
+      0.9650077819824219,
+      " I need a tech kind of run the company going forward any of that. That's the kind of value that bill added but if you want the only person I've ever met who's like do the thing that built to do is Oprah Winfrey and I know it sounds weird in a way but like Oprah Winfrey can like meet you and talk to you for 5 minutes and she can know you as well as somebody's known you ten years and Bill could do that too that's so wild but it is amazing what do you think is behind that is it an ability to see behind the words and just deeply empathically sense more about your core personality and what shaped it than other people what allows an Oprah for instance to do that do you do if you have any any theories"
+    ],
+    [
+      0.9647176265716553,
+      " I did Stephanie a combination of things that I don't possess so it's a little hard to read it but yes she kind of can read in every signal you're so like the tone of your voice the expression on your face like the way you're holding your hand everything like is complete High Fidelity information to her and then she knows the exact right question to ask to get to the deeper level of what's going on and you know like I've seen her do it I learn from it but like I was like literally don't have the capacity to do it anywhere near their level but yeah it's some combination of like they're able to just process way way way more information about a person much much faster and then great retention on like the thousand people they've met before that might match to that and it is super impressive"
+    ],
+    [
+      0.9702733159065247,
+      " yeah there is its I enjoy trying to deconstruct the secret sauce but sometimes it is just impossible to do I need to get there there there there are certain people who are hardwired for a different spectrum of of perception on the other hand there are a lot of coachable or teachable skulls and if we're if we're looking at management I'd like to shift from in some respect students of Bill or advice receiver of Bill Campbell to advice giver and your Mark Zuckerberg has said that you are the management Guru to all of the young entrepreneurs in the valley and I want to I want to dig into that for a second because of course you have much faster experience that I do but having spent almost 20 years in Silicon Valley before moving spend a lot of time with first time startup Founders who in some cases have a real tiger by the tail"
+    ],
+    [
+      0.9566468596458435,
+      " and many of the CEOs are really great product people with no real management experience to speak of who have never had this type of game to lose if that makes sense what would you teach her what do you teacher advise someone like that if you have a safe first afternoon meeting with them were a few hours there a new portfolio company in walks this bewildered CEO who's entering deep Waters how to how do you how do you begin to cultivate them or advise them as a manager-in-training so to speak or CEO training they're all different but there's things that are similar about them and some of them are good at some things and others about others"
+    ],
+    [
+      0.964127242565155,
+      " kind of thing that I would say that any of them but yeah one thing they all struggle with is"
+    ],
+    [
+      0.9665875434875488,
+      " how to build a bear team are particularly their management team and then Okay and like the company's kind of degenerating cuz they don't know how to run it then that usually kind of gets into this whole executive hiring integrating managing problem and this is forceful none of them are like I've never had a first-time CEO who is good at this and I know I wasn't good at it when I started the problem is okay. You're bored goes hate you give me tire like a CFO he's got to keep track this place is going crazy like what are you doing well I'm the CEO so I must know how to do that but you don't know how to do that and not like that like you've never worked in a finance organization you don't even know what the CFO job"
+    ],
+    [
+      0.969335675239563,
+      " what's a good control structure how do you distinguish a good one from a bad one hanging out like a may have no idea I like him so like how are they going to interview a CFO sort of like interviewing a Japanese interpreter if you don't know Japanese now I'm going to I'm going to plead ignorance before we get too deep into the weeds what is a control structure in this context how so you know just how does money gets spent like do you know every dollar that's getting spent Rihanna when money comes in like do you account for it properly these kinds of things and how do you do that systematically as I don't think Rose and you know people are budgets and all these kinds of things do and they don't know how to ask save that they don't know how to do it and they don't know how to kind of learn how to do it and so I always like to just start with OK like"
+    ],
+    [
+      0.9494523406028748,
+      " talk about a process for learning how to getto possibly at least get a criteria for your company for this position not like a general like guy you know peace platonic form of a CFO cuz that doesn't exist but like a CFO for this company right now like what do we need and then we you know how do we do that while maybe we should talk to some CFOs see what they would hire Forest see if that matches us you know see how they would test for an interview and that you know what kind of get deeper into it but even as you go through all that like you know okay once that CFO get signed"
+    ],
+    [
+      0.9711206555366516,
+      " how do you teach them about your company you know what is day one look like how do you integrate them these kinds of things so it's really is kind of has to be a hand over hand instruction and then like you know once you're in there if you hire somebody to get a lot of times these CEOs will hire somebody who's so senior and so aggressive you know cuz they went for the biggest resume they can find in the person wants doesn't want to be see if they won't be seeing you and then you know that person will start trying to grab territory from the CEO and all these kinds of things and you got politics you've got to handling and so it's just a long I would say it's not a quick manual it's a kind of ongoing conversation to understand where they are or what they have to do how to retain their Mojo all that kind of thing and I'll start with saying that the hard thing about hard things your book 1"
+    ],
+    [
+      0.9663230776786804,
+      " books I should say is one of the most recommended books that has come up in the last handful of years on this podcast, by what I would consider certainly high-performing Founders and CEOs you mentioned or we mentioned high output management earlier are there any other books that you would give to a first-time founder of food does have a tiger by the tail who's who's doing well but clearly out of their depth in this in a new level of complexity with with running what it what is turning into a a company as opposed to just a a a good product"
+    ],
+    [
+      0.8831698298454285,
+      " yeah so you know it's funny what are the management books you'd recommend"
+    ],
+    [
+      0.9362982511520386,
+      " you know I think that depends a little on the later you're one of the books that I have been recommending for years is a book written by CLR James in 1937 called the black Jacobins which is the story of the Haitian revolution and okay what kind of leadership book is that but it turns out that the"
+    ],
+    [
+      0.9556211829185486,
+      " thank you. That Toussaint l'ouverture who kind of blood that Revolution was a basically a management and cultural genius like better than anybody that I've ever kind of read about her or learn from and you know it just ends up being a great leadership Buck I think God Colin Powell's Book his autobiography is very very interesting on leadership and there is a bunch of Eric Reese's book is great in Abilene start up and started amazing at teaching you things that you don't particularly if you've not built a new company before or just really a fundamental Essence and we see I mean kind of"
+    ],
+    [
+      0.960654079914093,
+      " which were kind of all the ones for my area but the dangers of a fat startup I think he really articulate amazingly well in that book and and that is one of the early traps you can fall into particularly an environment like this for there's a lot of Venture Capital Money running around and 2D the job Co I've enjoyed a lot of reading and it in one of your blog post I think I think the title is making yourself a CEO at least that's yet you talk about how the the job but CEO is a very unnatural job and that here a couple of lines but to be a good CEO in order to be liked in the long run you must do many things that will upset people in the short run unnatural things"
+    ],
+    [
+      0.9153584241867065,
+      " how have you cultivated that ability in yourself or help others to cultivate a willingness to be unpopular in the short run I think the deadly strikes be is a real critical differentiator leadership skills and the time"
+    ],
+    [
+      0.9683839678764343,
+      " then those are the decisions they would have made without you so you're not rightly adding any value that people don't agree with him don't like and are difficult and cost people not like you at least for a while and you know the way I generally work with CEOs on this cuz it's very difficult cuz they there's so much emotional psychological for us pushing them to make kind of the wrong decision the easy decision the one that is going to be the people pleasing decision and a lot of it is just pointing out what's going to happen letting them make it and then when the pain comes goes"
+    ],
+    [
+      0.9805591106414795,
+      " you remember we talked about this and this is what happens and"
+    ],
+    [
+      0.9670255184173584,
+      " you know a lot of it is just you have to go through making those mistakes to train yourself to it. It's kind of like it's running for its a Darkness you know like there's this pain and dark area where you know like people are going to lie to you know it's going to suck you know you like maybe you have to fire somebody maybe at the Layton off maybe you have to make a very unpopular decision to cancel a project or whatever but if you run away from that because then you always know you have to do it like that you can sense it when you run a company if you run away from that that's that's when you really get a huge Raging Fire and that down both eventually burn down your company seems to me and I've never run a large company but just in my interactions with very serious and Founders that I'm coming back to the CEO position is a very unnatural job that there are there are certain baby yet Tactical"
+    ],
+    [
+      0.9342728853225708,
+      " abilities or procedural abilities maybe that are pretty easily trained or are or relatively straightforward and then there are others that are perhaps less explicitly taught and I one that you've written about before is the ability to manage your own psychology yes what what tools are techniques have you personally found or routines anything at all really to be useful for cultivating and ability to manage your own psychology and maybe you could just describe what that means"
+    ],
+    [
+      0.9227076172828674,
+      " yeah so let me know like kids"
+    ],
+    [
+      0.9663927555084229,
+      " it is certainly the hardest part of the job because what happened to think about this when you're starting a company it's like one of these and I always talked about this I'm like you know if you knew what was involved when you started you would never would have started in there like absolutely right there's no way I would have done it so it's kind of a blessing then nothing whatever happened but like the kind of thing that happens is okay you can have this idea to start a company and then it's just think about that socially you know like okay so that you've got a lot of friends and relatives in like some of them are excited for you some of them say that's never going to work and you did it a tiny want to prove them wrong and all that but then you got to go out and you've got to sell people on the idea so you've got to hire people into this kind of vision that you have and then you've got to raise money behind it in like often like some of that money might even come from like your relatives say that kind of thing"
+    ],
+    [
+      0.9491768479347229,
+      " us you've got careers that people have entrusted you with and you start going and then something goes wrong and looks like like the company may not work and so you know what's the consequence of that well like every relationship you have your going to violate if it all goes down and that is super scary like it could be more scary and"
+    ],
+    [
+      0.9262064099311829,
+      " eater to not let that thought for that set of thoughts paralyze you is going to come be really difficult at times and"
+    ],
+    [
+      0.9658403396606445,
+      " a lot of it either one of us important things which I wrote about his first thing as you can you can't think I'm probably you know you got a not think the way investors think and probabilities you have to just think in terms of how do I do this life if there was a way out like which way is out and train your mind in that direction is supposed to well there is a 90% chance it like where I can get the stale and if we don't get this deal we're going to watch the corridor free with the quarter will be able to raise money if we won't be able to raise money than I may have to lay everybody off like when she start thinking like that literally can't function and so kind of getting around 2 okay I've got one bullet in the gun I've got to hit the target so I'm going to get do whatever I can to get as close as possible and then like we're going to shoot our best shot and there's Camino contingency plan and no way out and no you know like if somehow we don't make it we don't make it but like we're going to"
+    ],
+    [
+      0.8860684037208557,
+      " I trying and Matthew not getting to that mentality is really the key to being an effective entrepreneur I think what what have you"
+    ],
+    [
+      0.8855127692222595,
+      " found to be helpful for"
+    ],
+    [
+      0.9489445686340332,
+      " managing the stress of that type of a sort of existential Threat Level One Shot One Kill psychology are there any particular habits or types of self-talk or anything that you use or encourage that allow people to perform better under those types of of circumstances like in a cold sweat with my guts boiling like all that stuff like it's not like I didn't have that so I wasn't that great at it in terms of kind of a butt"
+    ],
+    [
+      0.8887907266616821,
+      " I think Timmy the things that help me where one's us"
+    ],
+    [
+      0.9398313164710999,
+      " always focusing on what I could do like there was so many things I couldn't do so many things out of my control some of the things that I was in the middle of the greatest technology Equity meltdown in the history of the world so like there was nothing I could do about that"
+    ],
+    [
+      0.8838304281234741,
+      " make any sense to think about those things such as you're really thinking about the things that you can do and then was very very helpful to just be able to talk to him in"
+    ],
+    [
+      0.9621912240982056,
+      " has he had any answers either but just to have somebody that you know I could at least get it off my chest I was like Alexia wearing a spiral like in he's like I was like I think we have like two shots to get out and here they are not feeling like I was missing anything but you know I think a lot of people now they meditate and do other kinds of things and so forth and let you know that's not what I did at the time so running towards the scary things and not away from the scary things which might result in a lot of acute short-term to rest but it it may ultimately"
+    ],
+    [
+      0.9566048383712769,
+      " result in less long-term dress could you explain the line sharpen your sharpen the contradictions and say yes this is a line I think this was from actually originally Karl Marx and he was speaking of the contradictions between capital and labor to basically accelerate the revolution Lenin was like amazing with Greta reckon and that kind of thing he was definitely a rhetorical genius also kind of had a horrible impact on the world but like that's a different story but I like cheese in a management because it's a great kind of cute for the"
+    ],
+    [
+      0.963822603225708,
+      " because we haven't seen organization is like he'll see like little disagreements between people and like a lot of your inclination is to like smooth things over but the right answer is usually to sharpen the contradictions and the reason you want to sharpen the contradictions is cuz that's there's information in that contradiction there's information about like how you're not communicating how the objectives are not aligned how the strategy might be wrong and like you've got to get that cuz that's where the truth is and so when you smoke that over if you don't like bring it to a head and resolve it then you know you miss an opportunity so it really is most important techniques I think anytime I can a board meeting anytime like I hear like a little bit of disagreement or I see like you know an inconsistency in the strategy Iowa that's always my cute"
+    ],
+    [
+      0.9654935598373413,
+      " self I want to let you know that's when you get the answer now it's also a good way to start a revolution so you got to be careful not a fan of the of the default music for baby. Too but I was going to say you're not you're not a fan of the default backpedaling oh no it's a miscommunication that type of but like it's probably a systemic miscommunication and as opposed to like oh yeah like you meant I meant that and like so now we're all happy then that's not what happened very rarely you are you have a new book why why write a new book when you're gifted writer but why why write a new book and why this bacon could could you describe it could you describe what it is"
+    ],
+    [
+      0.9348052144050598,
+      " so it surprised me but it's interesting because when I was kind of first learning to be a CEO one of those Glass bill and asked a lot of kind of others Mentor as I can or what should I focus on and eat a lot of them said you know you should focus on culture"
+    ],
+    [
+      0.9587201476097107,
+      " but then I suppose how do I do that and nobody really had any kind of like it was all these weird abstract ideas to that they weren't compelling do they weren't well articulated and I never get and it was always like a grope in the dark for me to try and understand like how to set the culture how to change it and so I really kind of became obsessed with this question for myself and you know I did a lot of my life I kind of been interesting about like culture and the broader sense"
+    ],
+    [
+      0.9783739447593689,
+      " and so you know I just really really really spent a lot of time kind of going through ghetto history going through kind of trying to understand how people didn't like what were the components and it turns out to be a you know I think one of the most Central parts of management in that I can think about like management tools yeah there's a mission statement and there is the okr is in kPa and you've got all these kinds of things but none of them really dictate the things that really Define who you are right like you show up on time for meetings you stay at the Four Seasons you stay at the Red Roof Inn do people go home if I were to go home at 8 you know like what kind of company is this what are all those behaviors to get back to people like right away or do you never get back to them are you get back to him in 3 days and like"
+    ],
+    [
+      0.9686895608901978,
+      " those behaviors like are your culture but they're how people are behaving when you're not looking so I couldn't do about that and you know how do you set that and how do you make that go because that ultimately is really going to speak now I to the quality of your company but like what impression it makes on the world right leg is it a good company to do business with a bad company is it a place where people work and their life becomes better as a place a working my life becomes worse you know like what are all these things and they're all a result of this like weird abstract call culture and so you know as I start work with CEOs like none of them know"
+    ],
+    [
+      0.9718809723854065,
+      " really how to deal with it at all like they have ideas but they're mostly ideas are like half baked then like mostly wrong so I thought you know I should really go back and restudy this problem and see if I can articulate enough with the books about and that's called what you do is who you are because it's not what you believe it's not your values it's not what you tweet it's not like your social signal it's like what you actually do that's who you are and once you get your head around that you realize that's a big task and that the subtitles how to create your business culture and you I think I'll do that to at least one big component of this but it is culture than it is you define it here because shared set of behaviors and beliefs or what how would you suggest people who are listening to this at Crest change how they think about culture or ask themselves"
+    ],
+    [
+      0.9640703797340393,
+      " questions that will help to refine their stinking if their CEOs are or founders of a company for instance Christmas longest lasting kind of cultures in history has a way of the warrior the culture of the Samurai you know you can like that culture or not but you have to give the credit for the fact that lasted like over a thousand years and to hold a concert for that long is amazing and one of the key insights from Bushido is culture is not set of beliefs it's a set of actions and that's really what the culture is and this is why I think the people miss it so much because they think it's a shared set of beliefs but it's not it's a share to the behaviorists and you don't even have to believe it but if you behave that way that's a culture and this is"
+    ],
+    [
+      0.9643909931182861,
+      " you know but you have to ask yourself is okay like what are the behaviors that show like for real that we're doing what we believe and I'll just give you an example and venture-capital every Venture Capital firm says they have great respect for the entrepreneur has very few treat entrepreneurs with any kind of respect at all and so you go like well how do you have that disconnect and it's because that they haven't Define like what are the actions that translate into that being a real thing in a real part of the culture and so this is one of the problems we have to solve when we started the firm and the one who thinks he can get away with things I put in place very early on was like if you're late for meeting with an entrepreneur I collected $50 today on this $10"
+    ],
+    [
+      0.9117693305015564,
+      " I don't care you know what if you and I had to make a phone call and I'm caring and the reason I have it that way is cuz I want them to ask me why"
+    ],
+    [
+      0.9688093662261963,
+      " and when they say why I said because like building a company is really really hard and you know if an entrepreneur takes time out of their day to come see us like we're going to respect the fact that how hard it is somewhere always can be on time no excuses plan your day fish that phone call five minutes before you have to meet with the entrepreneur go to the bathroom earlier I don't drink that eight cup of coffee you like but you need to do what you're supposed to do and you have to set these kinds of things in place if you're really going to live up to your ideals and and that has to be across every dimension of the culture you have to kind of program it in or you're just not going to happen you're going to talk it and then if you talk it and don't do it then your culture becomes your hypocrisy rice"
+    ],
+    [
+      0.9536165595054626,
+      " is it is is culture something that you really have to get right at the get-go or is it possible to do a rehaul and make it work without replacing all of the employees at a company examples in the Buckeye one that the Haitian revolution we're in a reprogrammed into a military culture which is"
+    ],
+    [
+      0.9421602487564087,
+      " almost unfathomable like now I did have a slave culture but it was one of the most difficult slave cult in it was significantly more brutal kind of slave environment than even like the US live environment so if you from the beginning of a kind of the transatlantic slave trade to the Haitian revolution I think nine hundred thousand slaves were brought to Haiti at the end there were four in the 65,000 left at the start of the revolution in the US 500,000 slaves were brought Matt M. There are seven hundred thousand left so like it was like that much quantitatively that much more brutal so very difficult environment of low trust to build like a military force"
+    ],
+    [
+      0.9225196838378906,
+      " damn you know he building he build a culture that I create an army that defeated probably at least two of the strongest military European military powers in history you know France under Napoleon and the British Empire and so"
+    ],
+    [
+      0.9619768857955933,
+      " you got to say absolutely you can change a culture and you know he use the same guys the same guys who were kind of slaves didn't even have clothes that kind of thing to Gina that kind of Army and then the other one that I found very interesting is Shaka senghor who is running you know a prison gang a very violent prison gang to be like remarkably you know I'm pathetic or so like it wasn't all friendly but it was a really significant and I have met some of those guys you know that he had their as I've gotten out of prison and it's just remarkable the effect it had on them not only in that organization but but coming out so hundred percent it's possible attending either case in in the former that is is bleach paste of my very limited understanding was it if not the only one of the only successful"
+    ],
+    [
+      0.9432458281517029,
+      " play revolutions resulted in any of the things that he did that helped with that transformation from slave culture to organized military culture"
+    ],
+    [
+      0.5639363527297974,
+      " yasso"
+    ],
+    [
+      0.9571928381919861,
+      " is quite a remarkable guy along these lines in that"
+    ],
+    [
+      0.9558756351470947,
+      " she was born a slave so to sound was born a slave but he was so smart that the plantation owner basically made so you learn to read read things like Caesars, but he also made him his driver and so to sound was able to go to all these meetings you know on the island so he's learned French Colonial culture kind of military culture and then he'll send his slave culture so he had this"
+    ],
+    [
+      0.97575843334198,
+      " really comprehensive cultural understanding so he knew the elements of kind of the various things that that he wanted and so one of the one of the techniques used to which I refer to his kind of crate a shocking rule was here to solve this problem that trust was super low move the most difficult part of slave culture is it lacks trust and the reason is trust is really like a long-term commodity in that I'm going to do something for you today cuz I trust that overtime like it's going to pay off for me but if you're asleep there's no tomorrow right they have no possessions they can take your family at any point that can kill you at any point you don't own your own life so to build trust in that environment is almost impossible"
+    ],
+    [
+      0.8682944178581238,
+      " the way to say I did it is nowhere one away CDs cray that this role which was basically officers can't cheat on their wives and"
+    ],
+    [
+      0.9587351679801941,
+      " you think about that in Hugo okay well maybe that's not that big a deal but like you're talking about an environment where like basically soldiers were paid in like raping and pillaging like that that was like a fundamental kind of thing that everybody did outside of Toussaint Army but he said no look I need to be able to like your word like is everything and he had a great line about them you know he'd rather relinquish his command and break his word that's how much emphasis is put on it and like if I can't trust you to keep that one promise them you can't be an officer in the Army and so everybody wants to know why that Will was in place and so that kind of starts to build up okay here's how much we value you keeping your word and said I was in a kind of one like little aspect that he did to reset the culture"
+    ],
+    [
+      0.8566927313804626,
+      " you know another thing was he he really elevated ethics and he go well like why is that important you know you live"
+    ],
+    [
+      0.9783063530921936,
+      " with a higher code and you have a stronger Bond because it gives you a feeling about yourself in a feeling about the people who you're working with that like we're doing something important and you went out like that and he outlawed raping and pillaging I'm in the Army and he said like Warcraft to something more important mess Liberty and so we're not going to rape and pillage and became so powerful that the white women in Haiti refer to $0.02 as father like this is as a slave who's running an army they like him better than the troops from Spain or Britain or France they they'd like it like that the slave Army better because they treated them so much better and then there's a great story around the switch and it's a legend so you know it's true but the name to sound like he wasn't born he was born to send slaves only had a first name"
+    ],
+    [
+      0.9618715643882751,
+      " dehumanization process and literature came later and nobody knows for sure why but does the story is Napoleon hated him like he drove to Plum Crazy Napoleon suffered more casualties in Haiti and Waterloo and he wanted to get him so badly and he got his generals around he said like how can you not defeat the slave and the general said well"
+    ],
+    [
+      0.963888943195343,
+      " we get them back up we surround them but every time we think we have them there is an opening and so his name is Toussaint l'ouverture Toussaint the opening you know I am at least I my belief is that you know those people those those women in the town you know they helped him in a way that like Napoleon could never understand because it elevated the culture II that the grace so those are a couple of things for doing some homework for this conversation and I'm excited for hopefully the clarity"
+    ],
+    [
+      0.9673249125480652,
+      " and with that precise action that the book will bring to something that like you said culture in quotation marks is often thrown around as a collection of very high altitude abstract Concepts but with it without any real"
+    ],
+    [
+      0.9648386240005493,
+      " plausible next steps but this this really makes the abstract concrete it seems seems that way that you're both giving me examples historical and current day of how to install these be shared and in some cases rewarded behaviors and I just feel particularly now and you see all these criticisms of high-tech culture in like this CEO how could I see that I'm like well it's really hard really hard to get 10,000 people to behave the way you want them to and you going to like the default is everybody's culture screwed up and I takes a lot of effort to make a good makes me think of the"
+    ],
+    [
+      0.9675678014755249,
+      " does a Ram Dass quotes of which all paraphrase but it's something along the lines of if you think you're enlightened to go spend a week with your family and it's like a bad like like everybody should reflect on that when they're criticizing a specially I would say a relatively unseasoned or new to the job CEOs ability to get 10,000 people to behave while it's very difficult it's very very very very very challenging what would you consider success for this book what type of outcomes would you like to see in the world ever. That's a great question is funny cuz my goal was that the CEOs in the portfolio and read it and a good dogs that was so narrow that I think it forced me to write a specific book which they think a lot more people like"
+    ],
+    [
+      0.9588691592216492,
+      " get on this one"
+    ],
+    [
+      0.9032905697822571,
+      " I would you know I think that anybody Sue who kind of cares about their imprint on the world in Abyss is kind of the book for that in that in and always tell people to friend this"
+    ],
+    [
+      0.9008156061172485,
+      " you like it"
+    ],
+    [
+      0.9712302088737488,
+      " when we're all retired like we're not going to remember like every deal that we did that was good or that we did that was bad or that we wanted that we lost her how much money we made her remember like what it felt like to work there and what it felt like for the people interacted with us and and like we're going to know if we were proud of it or or like it's something we want to forget and that you that's what culture is really about it's like who are you like what do you do like you know what does it mean to know you and that you know right I think it's such an important but people don't have the Mechanics for that I hadn't been able to find anything that I could read on that so that that's kind of the purpose in the butt and I really like that it it also it I would imagine and I haven't yet read the book but I'm very excited to that that provides examples that allow people to"
+    ],
+    [
+      0.9569340348243713,
+      " see principles in action answer of deduce how does might apply to to their own decisions whether that's say Reed Hastings right at that flick or Netflix or rewinding the clock and going all that all the way back to jangus Khan is of course I should say of course someone that I've been really fascinated with for the last few years and Pristiq for many many reasons and has been really portrayed in a lot of the coverage in a one-sided are one-dimensional very unfairly but these are the scale and scope and vision of culture that you talked about in the book as it relates to that I think it'll be really eye-opening to people and I'm excited about it for that reason I know we're coming up on time you fun to do"
+    ],
+    [
+      0.9586095213890076,
+      " coffee going around to some other time I'll protect you if I still have a long list of questions which witch is which we can get to some other time but just a couple of I really quick closing questions and then bring this to a rap but the this question is is sometimes one that is difficult to answer but I'll I'll love it out there and see what we got and that is if you had a a billboard this is a metaphor of course but a billboard on which you could put up anything you want an image of a question a word but it allows you to get a convey something to billions of people not done non-commercial what can you can you think of anything that you might put on such a billboard"
+    ],
+    [
+      0.9707672595977783,
+      " so this is just really off the top my head because I was listening to this song this morning but my friend dies has this great line which is you think I'm rich cuz of my diamond piece but I've been Rich since I started finding peace and I think that's like today will that that could be a podcast in and of itself just digging into that all right all finding peace. That will be part of our of our round two is there anything else in terms of closing comments suggestions recommendations asks of the audience that that that you'd like to add before we before we close up this this first installment at least"
+    ],
+    [
+      0.9701367616653442,
+      " but I would just say is the book is really you know to nabal you to do what you need to do kind of as a leader news organization to be who you want to be and as a leader I think that's the most important thing wonderful that is what you do is who you are to find that anywhere books are sold people can wait for low on the internet on Twitter at the Horowitz and we'll link to that and everything else in the show notes including everything that we mention two people listening can find that at 10. Blog forward slash podcast been this is really been a lot of fun and very and lightning and enlivening and I have all sorts of notes to follow up on for my own research and reading as so thank you so much for taking the time I really really appreciate it"
+    ],
+    [
+      0.8500362634658813,
+      " I am looking forward to round 2 and the cup of coffee"
+    ],
+    [
+      0.97835373878479,
+      " hey guys this is Tim again just a few more things before you take off number one this is five bullet Friday do you want to get a short email for me and what do you enjoy getting a short enough for me every Friday is that provides a little morsel of fun for the weekend and five Fridays every short email rice share the coolest things I found or that I've been pondering over the week that could include favorite new albums that have discovered it could include gizmos and gadgets and all sorts of weird shit that I've somehow dug up in the other world of the esoteric as I do it could include the articles that I have read and that I've shared with my close friends for instance and it's very short it's just a little tiny bite of goodness before you head off for the weekend so if you want to receive that check it out just go to four hour work week., that's four hour work week. Com all spelled out and just drop in your email and you will get the very next one and if you sign up I hope you enjoy"
+    ],
+    [
+      0.9692600965499878,
+      " this episode has brought you buy linkedin's Hello Monday hello my name is a podcast hello my name is Jessi Hempel is back for season 2 in the show is full of advice practical tactical advise that you can start using today each week just as it's down the future guests to investigate the role workplace in their lives how it can be integrated into your life and how to make work work for you better this season 1 of the First episodes is with Jerry Colonna who has been called the CEO whisper I've actually done quite a bit of work with Jerry and he's one of the world's most in-demand executive coaches amongst the startup ecosystem in the episode Jerry shares his person meetings explains how to ask good open ended questions that you also goes through his first two daily journaling among other things journaling kit really create an incredible competitive advantage and also act as an emotional 3000 tool of sorts so I recommend taking a look at it giving a listen to more accurately"
+    ],
+    [
+      0.9509771466255188,
+      " whether you're starting your first job or gearing up for retirement Hello Monday how to tackle Monday and the rest of the work week of tactics and strategies that you can use to check it out by Hello Monday Jessi Hempel that's Jessie hpmp all things look up Hello Monday on Apple podcasts or wherever you listen to podcasts"
+    ],
+    [
+      0.9721888899803162,
+      " this episode of the Tim Ferriss show was brought to buy athletic greens I got us all the time if I could only take one supplement what would it be the answer is inevitably athletic greens I view it as a lot of you now view it as all in one nutritional insurance I recommended it way back in 2010 in the 4-Hour Body and I did not get paid to do so I've been using it since before that they use in a lot of giveaways I travel with it to avoid getting sick or to help mitigate the likelihood of getting sick I take it the morning to ensure Optimal Performance and overall it covers my basis if I can't get what I need from Whole Food meals throughout the rest of the day and if you want to get athletic greens to try they're offering a free 20-count travel pack for first time users I nearly always travel with at least three or four of these one dust bag in other words if you buy athletic greens as a first time buyer you now get for a limited time an extra $79 in free product so check out the details at athletic greens. Com"
+    ],
+    [
+      0.9168493747711182,
+      " Kim again that's athletic greens. Com Tim for your free travel pack with any purchase"
+    ]
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "Stats": {
+    "PodcastID": "1205030005.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 2646.909344,
+    "OriginalFileSize": 84751733,
+    "FlacFileSize": 222136175,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1172.690066576004,
+    "DownloadSuccessful": "83.82033801078796"
+  },
+  "Transcripts": [
+    [
+      0.9534100890159607,
+      "due to the graphic nature of this Killers crimes listener discretion is advised this episode includes discussions of murder and assault that some people may find a pensive we advise Extreme Caution for children under 13"
+    ],
+    [
+      0.969382643699646,
+      " sunlight stream Through the Windows as 58 year old Dorinda Hawkins tidied up by the front register of the antique store it was quiet but darynda didn't mind she was just watching the place as a favor to the owner and was happy to take a break just as she was beginning to relax the bell rang at the front of the shop or short blonde woman about a vintage frame for an old photo of her mother has smiled and let the woman towards the back of the shop where are yellow rope separated the framing area from the rest of the store she turned and pointed out a few custom samples unaware that the woman was staring at her with increasing Fury"
+    ],
+    [
+      0.9535463452339172,
+      " suddenly darynda heard a rustling from behind before she could react she felt the woman's slip the yellow rope around her neck and yank it taught during I gasped but couldn't scream all she could do was big words lie for her life while her assailant whispered softly in her ear telling her to relax during the past out when she awoke a short time later her head was pounding the woman was gone as heroin as dorinda's assault had been she was one of the lucky ones not everyone survived their encounter with Dana Sue Gray"
+    ],
+    [
+      0.9695068001747131,
+      " hi I'm Greg polcyn this is serial killers parcast original every Monday we dive into the minds and Madness of serial killers I'm here with my co-host Vanessa Richardson hi everyone you can find episodes of serial killers and all other parcast Originals for free on Spotify or wherever you listen to podcasts to stream serial killers were free on Spotify just open the app and type serial killers in the search bar today we're finishing our analysis of Dana Sue gray who ended the lives of three women in Riverside County California in 1994 at podcast we're grateful for you our listeners you allow us to do what we love let us know how we're doing reach out on Facebook and Instagram at parcast and on Twitter at parcast Network if you enjoy today's episode the best way to help us is to leave a 5-star review for every listening it really does help last week we explored Dana's trouble"
+    ],
+    [
+      0.9537462592124939,
+      " childhood and turbulent adult life we discussed Dana's mounting despair as she lost her job and a crude a staggering amount of debt her insecurities and pent-up rage eventually led her to commit a series of brutal slayings this week we'll examine thirty-seven-year-old Dana's month of murder as she moves from victim to victim unleashing her pent-up aggression and using her victims credit cards to satisfy her shopping addiction"
+    ],
+    [
+      0.9706588387489319,
+      " in February of 1994 Dana Sue gray likely killed for the first time her alleged victim 86 year old Norma Davis was someone she knew through her father's wife Jerry in fact Dana a trained nurse had stayed with Norma for a short time in January to help her recuperate from a car accident going to take over on the psychology here and throughout the episode please note Vanessa's not a licensed psychologist or psychiatrist but she has done a lot of research for the show thanks Greg forensic neuropsychologist dr. Martha Rogers notes that among the small number of female serial killers many of them are nurses nurses aren't shocked over blood or that are used to helping their patients through painful experiences Rogers writes the vulnerability is a factor that draws them to the situation"
+    ],
+    [
+      0.9611964821815491,
+      " if someone is under your control and vulnerable to some degree that may be pleasurable being in control but it's hard to tell whether it was the thrill of dominating her victims or her frustration at the state of her own life that drove Dana to violence whatever her true motivations head investigator Joe Greco was convinced the murder of Norma Davis was personal since there was no sign of a struggle at the scene but what you didn't guess is that the killer would strike again soon on the afternoon of February 28th 1994 66 year old June Roberts stood outside her home raking leaves it was her birthday and she was tidying up before meeting a few friends for dinner she smiled as she watched a brown Cadillac pulling up from the front seat her boyfriend's five-year-old son Jason"
+    ],
+    [
+      0.9696119427680969,
+      " in the passenger seat June waved she knew Dana well her late husband had been good friends with Russel Dana's father and warmly greeted you she wasn't there to wish June a happy birthday Dana asked you and if she could borrow a book on nutrition June had recommended to her the previous year she'd been drinking a little heavily lately and wanted to get healthy again and hurried inside to grab the book she returned moments later and handed it over to Dana with a smile Dana smile back until she saw the title it wasn't the book Dana had asked for instead June had handed her a book about the dangers of heavy drinking in Dana's I June had just called her and alcoholic according to to die for the shocking story of serial killer Dana Sue gray Dana been quietly informed her I think"
+    ],
+    [
+      0.9667131900787354,
+      " what's the other one you recommended you know it had to do with nutrition Nikki Cashton a nonviolent communication consultant notes that criticism judgment or reject can be interpreted as threats to our survival she writes our nervous system still equates emotional safety with physical safety even if conceptually we understand the difference it's possible that Dana's Primal instincts were triggered when she felt like Junot actor character June notice Dana had taken offense and hastily agreed when Dana suggested they both go inside to look for the other book before she went inside Dana call to Jason she'd be right back"
+    ],
+    [
+      0.9717991948127747,
+      " but she was there to do more than just pick up a book Dana follow June through the front door and down the hall towards the den as she went she pulled on a pair of latex gloves she had stuffed in her purse before going to see June then quietly she disconnected the cord from the phone June stepped into the den and pure. Her bookshelf looking for the title Deana Hubbard behind her for a moment or face full of Fury then she with the phone cord around June's neck and pulled hard to spell backward she clawed her throat and try to throw Dana off of her but Dana was stronger than you before June could get free Dan and grabbed a wine decanter and used it to bludgeon June until she lay still Dana dusted herself off and Strode out the front door stopping briefly to dig a few credit cards out of June's purse"
+    ],
+    [
+      0.9491013288497925,
+      " turn to the car where five-year-old Jason was waiting patiently with a smile Dana suggested they go grab a bite and do some shopping Dana felt she had worked hard for those credit cards and wished to treat herself"
+    ],
+    [
+      0.967252254486084,
+      " she took Jason to Bailey's Wine Country Cafe in nearby Temecula and gorged on food she even ordered extra and filled several to-go boxes for later after dinner danapepper herself by getting a haircut and a perm at a salon compliments of June Roberts stolen visa she signed June's name on each receipt after the salon Dana bought an expensive leather jacket some jewelry and clothing for Jason at Mervyn's department store before finally returning to her boyfriend Jim's house he immediately questioned her about the shopping bags since she owed him money he demanded she go return the items and pay him back because she hadn't used your own money to shop she claimed the purchases were made on her estranged husband Tom's credit card this did little to assuage Jim's concerns of the two started screaming at"
+    ],
+    [
+      0.9621672630310059,
+      " Dana was exhausted from her long day of killing and shopping the fight was Jim only wore her down more that night she called a spa Murrieta Hot Springs and arranged for a massage the following afternoon the appointment was made under June Roberts name a few of June's friends that arrived at our home for a birthday dinner the women knocked a few times and grew concerned when June didn't answer one of them found June's house key hidden in the golf cart outside so they let themselves in"
+    ],
+    [
+      0.9698917865753174,
+      " Jim's friends tentatively open your front door and called out jeans name there was no answer they proceeded to the house carefully checking each room until they finally peered into the den there the women froze too terrified to even scream their friend June Roberts lay dead on the floor a wooden chair had been placed on top of her body and the carpet beneath her was soaked in blood her face was beaten so badly it was nearly unrecognizable detective Greco who had investigated the death of Norma Davis arrived at the house soon after he quickly noted the contents of June's purse spread out where Dana had rummaged through them earlier his first instinct was to assume the crime was a robbery gone wrong but none of June's jewelry or other valuables have been taken Rekha was perplexed was the purse."
+    ],
+    [
+      0.9691688418388367,
+      " Bruce iskandar seen again growing uneasy he couldn't shake how familiar it felt there was no sign of a break-in the murderer had occurred during broad daylight and a phone cord have been used to strangle the victim it looked a whole lot like the scene at Norma Davis's home in the back of his mind Greco started to worry it was a serial killer"
+    ],
+    [
+      0.9723736643791199,
+      " well Greco I'd Dana's Grizzly handiwork fearfully Dana was still celebrating it on Tuesday March 1st Dana bought some expensive swimsuits before her spa appointment a clerk named Kelly check Dana out she recalled that after asking Dana for her address to authorize the transaction Dana seemed impatient and dismissive Dana said she just moved and did remember the address after Kelly grabbed a manager to authorize the sale and annoying Dana handed over another credit card and claimed she was in a hurry the manager put the sale through but Kelly remain suspicious she wasn't the only one almost every clerk Dana came in contact with remember to vividly it doesn't seem like Dana made any attempt to avoid suspicion after Mervyn's she continued her shopping spree at a Sav-On Pharmacy before heading to the luxurious Murrieta Hot Springs Resort for her"
+    ],
+    [
+      0.9736295938491821,
+      " appointment she followed up her massage with a leisurely lunch at Ferrari Bistro before spending the afternoon on yet another shopping High she hit Perfumania a Nike outlet and famous Brands it seemed Dana plan to keep going until June's credit cards were maxed out after risking jail time for them perhaps Dana thought she should get the most out of the cards according to clinical forensic psychologist and private investigator Joni Johnston Dana Sue gray isn't the only killer to exhibit shopping addiction Ted Bundy for example was known to buy socks and go on shopping sprees using stolen credit cards Joni notes there are number of serial killers whose obsession with money and the things money can buy most assuredly either contributed to the motive to commit murder or served A celebratory purpose afterward couldn't keep up forever"
+    ],
+    [
+      0.964779257774353,
+      " and the more she bought the closer she came to being caught after Dana second shopping binge Jim Roberts daughter received a letter from the bank there then activity on June's credit cards after she died a lot of it soon the police began to interview the businesses that appeared on the credit card statements as they spoke to shopkeepers and store clerks where Dana had made her purchase as an image of their killer finally emerged they now knew they were looking for a blond woman in her mid-thirties sometimes accompanied by a young boy it should be noted that more than one account claim that Dana was also with a tall dark-haired man this has never been confirmed and Dana never made mention of an accomplice regardless Dana remain blissfully unaware that the police were beginning to put the pieces together she went about her daily life seemingly unaffected by the horrors she'd committed even when"
+    ],
+    [
+      0.9666745066642761,
+      " will she loved were affected only a few days after she killed June Roberts Dana stop by her dad's house both Russell and his wife Jerry were in shock over the second murder they had known both Norma and June and Jerry was adamant that the killings were linked according to to die for when Jerry mentioned her thoughts on the matter Danish head with the round she looked startled it appeared that getting caught simply hadn't occurred to Dana before now she felt a sudden need to cover her tracks for days later on March 7th Daniel went back to the salon where she'd permit her hair a few days earlier she wanted to change the color to Red The Stylist refused as Dana's Hair could fall out from the damaged another dye job because a few days later officer Greco followed up with the stylists after seeing the salons charge on June's credit card statement The Stylist told Greco about"
+    ],
+    [
+      0.9508785605430603,
+      " woman stopping in a second time for a dying request and then she gave Greco and even bigger lead at the time the clerk said the mystery woman had a kid with her around 5 the clerk remembered the name as well Jason Wilkins the woman had referred to herself as Jason's other Mommy"
+    ],
+    [
+      0.9748888611793518,
+      " detective Greco didn't have time to track down Jason Wilkins before the killer struck again Dana's next attack happened on March 10th 1994 after she wandered into an antique shop in Lake Elsinore California she strangled the clerk Dorinda Hawkins with a rope but only succeeded in knocking darenda out it's unclear whether Dana mentally Dorinda alive it's possible the public nature of the store in Christina's fear of being discovered and prompted her to flee after darynda passed out but what was most curious about the assault was that Dana only stole $25 from the register it seemed to Dana was no longer killing for money thankfully Dorinda had survived and was able to report the incident to the police Lake Elsinore was serviced by a different Precinct to that detective Greco's so we wasn't aware the assault"
+    ],
+    [
+      0.8819242119789124,
+      " taking place until he read about dorinda's attack in the local paper Reckless eyes widened at the attackers description short blond hair mid to late thirties his killer had struck again"
+    ],
+    [
+      0.8698269724845886,
+      " upnext Dana's Killing Spree continues to spiral"
+    ],
+    [
+      0.9554211497306824,
+      " don't miss this Fall's True Crime must listen call me God the untold story of the DC sniper investigation from the leading True Crime investigative team that brought you New York Times bestseller evil has a name comes this new riveting probe into the Manhunt for The elusive DC snipers hear the never-before-told story of the chilling and volatile investigation that led to the killers capture and ended and unprecedented 23 day reign of terror that paralyze the DC area and grip the nation told first-hand by those essential to solving the case and including a brilliant Deep dive into the behavioral ballistic forensic and electronic analysis are required follow FBI agent Brothers Jim and Tim Clemente as they leave listeners through the Tangled path of Discovery and evidence Gathering only a select few had the vision to see"
+    ],
+    [
+      0.9733049869537354,
+      " call me God the untold story of the DC sniper investigation how do you stop what you can't see listen free with a 30-day trial just go to audible.com Untold Story"
+    ],
+    [
+      0.9630575776100159,
+      " bullies masterminds mustache twirlers for every hero there's a villain the new parcast original villains explorers the psychological political and emotional factors stats on both real and fictional villains every Friday villains focuses on a different real or fictional evil to her for fictional villains you'll delve into the social influences lights. Character's creation for real villains you learn the true story of their dark Deeds that explain what drove them to evil you'll hear episodes on characters like Don Vito Corleone and No Country for Old Men Anton chigurh as well as real life villains like the Iceman Richard Kuklinski and The Co-Ed Killer Ed Kemper some are fictional some are real are Philips villains for free on Spotify or wherever you get your podcasts or visit podcast.com villains to listen now"
+    ],
+    [
+      0.96205073595047,
+      " now back to the story"
+    ],
+    [
+      0.9515068531036377,
+      " in March of 1990 for 37 year old Dana Sue gray had murdered two women and assaulted 1/3 after killing her second victim June Robert she use June's credit cards to go on an expensive 2-day shopping spree police interviewed Witnesses at the stores she'd visited and were able to glean that their suspect was a blond woman in her mid-thirties they also knew her hair red. Refused police theorize Dana might have found someone else to do it the investigation was making progress but they'll police were getting closer to a complete profile of their suspect public hysteria was growing the murders were on everyone's mind some residents of Canyon Lake California we're so fearful of the killer they temporarily fled the commune"
+    ],
+    [
+      0.9747748374938965,
+      " women who lived alone stayed with friends and couples but comes the police were inundated with phone calls from worried citizens if Dana was aware of the frenzy surrounding her she didn't allow it to interfere with her plans she stopped to get a manicure on March 11th only a day after her attempted murder of Dorinda Hawkins she greeted her usual nail technician Lorene warmly and chose a color learning noticed that Dana seemed on edge and had put on some weight to try and make conversation Lori Jean brought up the two murders that everyone was talking about she told Dana she'd heard it was a local who was responsible Dana suddenly seemed antsy and remarked that she thought the murders were similar to 2 in San Diego then she changed the subject talking instead about her boyfriend's son Jason and all the things she recently bought him according to dr. Martha Rogers shopping and pain"
+    ],
+    [
+      0.9617361426353455,
+      " was a way for Dana to reassert her superiority when faced with Lorraine's discussed over her murderers it's possible that Dana felt the need to confirm her value she was reminding herself of the good things that have come out of her atrocious Deeds just as much as she was telling Loreen what a thoughtful mother figure to Jason she was"
+    ],
+    [
+      0.9649346470832825,
+      " meanwhile detective Greco also had his attention focused on Jason following the chip from Dana stylist Greco found a Jason Wilkins registered at a local elementary school excited Greco waited outside Jim's house for a glimpse of his suspect but he was soon disappointed a woman did show up at the home but she looks nothing like a description of Dana though it's not clear who this woman was Greco discounted her as a potential suspect after speaking with her deflated you decided that the lead was most likely a dead-end taking a step back he decided to speak again with cherry was married to Dana's father the last time he had interviewed her was after Norma Davis had died he figured he'd reached out to check on a potential link between Norma and the second victim June"
+    ],
+    [
+      0.9540330171585083,
+      " Grieco went to see Jerry and was surprised to find that she knew June quite well June's late husband have been good friends with Jerry's husband Russell after hearing about their connection greca went out on a limb and gave Jerry the description of the woman they were looking for He also mentioned she might have recently dyed her hair red there was a tense moment of silence"
+    ],
+    [
+      0.965374231338501,
+      " but Jerry regretfully had no suggestions for him disappointed Greco return to the station to check up on leads unfortunately he found nothing but the incessant calls of community members desperate to know how long they had to continue to live in fear while many of the community were hiding inside and locking their doors Dana was out on the town she finally dyed her hair red and it went to her parents home in Canyon Lake to show it off when Dana arrived Jerry and mediately noticed her stepdaughters new locks the voice of detective Greco echoed in her ears she thought about the rest of Greco's profile and realized with mounting fear she was staring at a killer after a few sleepless nights Jerry finally gather the courage to call Greco on Wednesday March 16th 1994 at 9:30 a m"
+    ],
+    [
+      0.9665870070457458,
+      " the detective answered Jerry nervously suggested he looked into her stepdaughter Dana Sue gray has Jerry confirmed each piece of Greco's profile he became more and more certain Dana was who he'd been searching for Greco told Jerry to keep her suspicions to herself and not to tell Dana's father Russell event hung up and rush to his superiors they needed a search warrant and they needed one now after Jerry hung up with Greco she was filled with anxiety and an interview during an episode of the TV series diabolical women Sherry stated she grabbed her husband's gun and her cell phone and waited tensley in her living room for Russell to come home from work Cherry said since I hadn't heard Dana was picked up I was afraid she would come first and I would be the next victim"
+    ],
+    [
+      0.972623348236084,
+      " Medina was busy with something much more mundane than revenge she was looking for a job the same morning Jerry reported her to police Dana said in the unemployment office hoping they had some work for her the office only had two new openings one was looking for a server and the other for janitor Dina was Furious she had been a nurse she'd helped people and now she was only fit to bring them food or clean up after them embarrassed Dana grab the contact information and fled the unemployment office in the Hof despite her humiliation at the prospect of being a server Dana couldn't ignore her money issues she needed the work she angrily drove to Murrieta Hot Springs to apply for the server job the restaurant was in the resort where Dana had gotten a massage only two weeks earlier now instead of being seen as a treasured guests she"
+    ],
+    [
+      0.9655258059501648,
+      " be a desperate job applicant for what she considered to be a lowly position around 10 a.m. and grabbed an application from the front counter she filled it out beautifully go failed to mention she been fired from her last job for stealing painkillers after handing the application in Dana got back in her car mortified and fuming she was sure the woman who gave her the application had been judging her danis all red then drove North without any destination in mind her hands grip the wheel as she replayed the indignity of her situation by 11 a.m. she found herself in Sun City a California neighborhood 9 miles west of Canyon Lake back at the Police Precinct detective Greco was also angry he was locked in a tense argument with Deputy DEA Rich Bentley who didn't think Jerry's information about Dana was in"
+    ],
+    [
+      0.9676271080970764,
+      " enough to justify a warrant he's adjusted Greco keep investigating but Greco was sure Dana was the killer he had officers go to Jim's house in Lake Elsinore to survey the scene while he wrote up the warrant officers outside the home taking notes on the layout and waiting for Dana to return but their Predator wasn't ready to come home just yet she had one more victim to claim"
+    ],
+    [
+      0.8630955815315247,
+      " when we return Dana assaults her third victim no back to the story"
+    ],
+    [
+      0.9655857086181641,
+      " on March 16th 1994 after killing two people in the previous month 37 year-old Dana Sue gray was in dire Financial Straits she filled out an application for a server job but felt embarrassed having to beg for work that she saw as beneath her after she handed in the application she drove to a shopping center in Sun City California to vent her frustration Verde nasaw 87 year old oraibi be coming out of a doctor's appointment she waited patiently in a Cadillac four-door to re-emerge and Then followed her home it's not known whether Dana went to Sun City deliberately to search for a victim or if her urge to kill a. After she laid eyes on Dora b b l conflicting stories to different psychologists to Doctor Michael Dina said she felt pulled two doors home but she told."
+    ],
+    [
+      0.9303713440895081,
+      " turn Martha Rogers that she blacked out and suddenly found yourself in front of doors house with no memory of how she got there"
+    ],
+    [
+      0.9699163436889648,
+      " even so we can guess her motivation was to kill a GHIN Nottingham Trent University Professor Mark Andy Griffith's believes that addiction is caused when the addict is consistently rewarded for their behavior a killer who kills without being apprehended is allowed to satiate their bloodlust without punishment it instills a sense of power within the killer Dana deep in dead and unemployed had no doubt felt powerless in the months prior to her first kill have given her the power she been lusting after and after the embarrassment she endured when applying for the server job Dana no doubt wanted to find a way to feel good again as Dora disappeared inside her home Dana pulled her Cadillac up to the curb she hurried up the walkway and knocked"
+    ],
+    [
+      0.9709177613258362,
+      " Pandora look through her people and open the door cautiously Dana said she was lost would Dora happen to know how she could get out of Sun City after a moment Dora told Dina she didn't have much time but reluctantly suggested Dana come inside to look at a map she had no idea she had just welcome to monster into her home Dana would later blamed Ora for her own violent actions claiming Dora was rude to her during their initial interaction doors flippant attitude May Dana feel like an inconvenience and it reminded Dana of the way her mother used to speak to her"
+    ],
+    [
+      0.9720813632011414,
+      " Dana followed or inside immediately grabbing the telephone cord as door LED Dana to the back of the house according to to die for Dana later said I choked her with a telephone card I had that overwhelming like to text feeling stupid as it sounds I felt hurt and projected author James Garbarino points out the correlation between parental rejection and extreme rejection sensitivity rejection sensitivity is when people believe they're about to be rejected and take pre-emptive action this can be internally destructive like isolating oneself but it can also elicit outward violence Dana's sensitivity to being ignored by her mother at an early age most likely affected her sense of self-worth this could have made her so sensitive that the only way she could react to dory's attitude was with violence book hurt and rejected"
+    ],
+    [
+      0.9677243232727051,
+      " do you like weak words when compared to what Dana did next she wrestled door to the ground with the phone cord and then grabbed an iron and hit Dora repeatedly Dana admitted that Dora didn't put up much of a fight and yet she continued to brutalize her when Dana finally finished she washed her hands in the sink and left she grabbed his wallet and checkbook on her way out falling back into her routine Dana spent the next few hours shopping her first stop was at a stationery store at 11:45 a.m. only minutes after she'd bludgeoned and 87 year old woman to death there Dana purchased a briefcase and an immense amount of stationary her total was $110.05 she wrote a check with Dora's checkbook and signed her name as Dora BB she then spend another $133.20"
+    ],
+    [
+      0.9642547369003296,
+      " the health food store across the street"
+    ],
+    [
+      0.9726459980010986,
+      " Jana finally drove back to Jim's Place in Lake Elsinore around 3:10 p.m. she had no idea she was being watched by seven officers and separate unmarked cars all of them were thrilled to finally get eyes on their suspect but Dina wasn't inside for long she had a lot of shopping left to do she left again 30 minutes later the officers followed the surveillance team watch just went back to Sun City to go to The Provident Bank then a bonds grocery store she didn't go into the bombs but got out of her car looked around and then got back in this class the officers too worried she'd spotted them but rather than try and shake them she drove straight back to Lake Elsinore though they didn't know it at the time the police should have remained in Sun City a short distance away Louis Dorman was knocking on doors door Dora was"
+    ],
+    [
+      0.9662126302719116,
+      " close friend I had promised to drive him to a doctor's appointment when she had failed to show up he worried something had happened he let himself in her home and was met with the sickening seen door lay in her hallway half her body in the hall bathroom her leg was twisted at an odd angle and the site of the blood covering her face made Louis sick he immediately called the police mean while the officers on Dana's tail we're still perplexed by her movements after leaving Sun City she led them to another Vons Dennis Avon then a Stater Brothers she treated herself to lunch at a nice outdoor restaurant before finally driving home by 4:58 p.m. Greco had finally gotten his warrant signed and they finally moved in on Dana"
+    ],
+    [
+      0.9703369140625,
+      " less than an hour later at 5:45 p.m. Greco arrived at Jim's home with this team their guns were drawn labor ready for anything luckily Dana was too surprised to react violently at the site of the police after answering the door she's simply stood open-mouthed and speechless as detective Greco explained she was under arrest a confused Jim was put in the back of a police car as well well in officer entertained young Jason officers next search the home and found its contents shocking it was filled to the brim with grocery bags get still in their packaging and a pantry overflowing with food the closet was packed with clothes that still had time and untouched accessories police were most excited to find items that match the charges on June's credit card they also found a size 6 Nike sneaker that match the shoe print"
+    ],
+    [
+      0.9511539936065674,
+      " left at Norma Davis is home while the search continued Greco took Dana to the station on his way in he noticed some other detectives from Riverside County they mentioned that a homicide of another elderly female had occurred earlier that day in Sun City since Dana had been under surveillance Grieco assumed the murder was unrelated and continued into the interrogation room"
+    ],
+    [
+      0.9659017324447632,
+      " they started by asking about the evidence they found in her home it was damning with Dana tried her best to talk her way out of it when questioned about the items that matched purchases made on June's credit cards Dana assured them that she'd bought the items but paid cash for them when told about the witnesses who described her Dana merely suggested she had a familiar face Gina. Cool calm and collected throughout she acted like she in the police were chatting rather than taking part in an investigation according to diabolical women Greco noted that she was smart in her reactions he felt like she was the one prodding them for information to try and figure out what they knew Dana was questioned about her visit to Provident Bank when she was under surveillance earlier that day at first she lied about ever having been there but when they told her she'd been seen she knew she was caught"
+    ],
+    [
+      0.9737098813056946,
+      " cheap tentatively admitted she'd lied because she was scared Dana claimed she found a woman's purse and didn't turn it in instead she withdrew some money from the moments account she cautiously gave Greco the name of the woman BB Greco shot to his feet he hustled out of the room and immediately asked the Riverside County detectives who their victim was they told him it was Dora BB and Greco informed them he had their suspect in custody already understaffed in an interrogation tape that aired on diabolical women Dana broke down in sobs at the question she claimed she had been addressed so much Financial stress she thought finding Doris purse was a lucky break no one bought her crocodile tears at 2 a.m. on March 17th 1994 Dana Sue gray was cha"
+    ],
+    [
+      0.9476207494735718,
+      " charged with the first-degree murders of June Roberts and Dora Bebe Lo Greco was certain that she'd been Norma Davis is killer the Nike shoe print was the only evidence they had found and it wasn't enough to sufficiently tie her to the scene of the crime faced with the plethora of evidence against her Dana knew she had been caught like many serial killers she attempted to plead insanity"
+    ],
+    [
+      0.9730865359306335,
+      " over the course of the months that followed she was interviewed by three psychologists dr. Martha Rogers in particular interviewed her extensively Rogers determined that Dana sought power over her victims and believe Dana might have borderline personality disorder she also suggested the Dana enjoyed watching her victims suffer much like she might have enjoyed catapulting Neighborhood Cats into swimming pools when she was a child has psychological diagnosis during her trial her father Russell remain supportive but her half-brother Rick wasn't quite so forgiving he appeared at the courthouse one day while Dana stood trial carrying a release order needed to sign the release in order for her belongings including some furniture Rick had lent are almost a decade before to be taken out of evidence and get it back to him even after all that it happened"
+    ],
+    [
+      0.9633038640022278,
+      " Rick wanted his stuff Dana refuse to sign it and Rick stormed outside to vent to reporters about Dana's long history of selfishness next four years consisted of a flurry of psychological evaluations Dana told conflicting stories two different psychiatrists trying whatever she could to convince them she was legally insane finally in the summer of 1998 the examinations were concluded and Dana was deemed saying with no options left Dana agreed to plead guilty to avoid the death penalty she finally confessed to the murders of June Roberts and door BB as well as the assault of Dorinda Hawkins seriously she never admitted to murdering Norma Davis even so law enforcement especially head investigator Joe Greco was certain that she was the Killer"
+    ],
+    [
+      0.9746219515800476,
+      " perhaps she was ashamed to have killed someone so close to her family or perhaps the time she'd spent caring for Norma made Dana regret would have happened unfortunately we don't know why she chose not to confess regardless Dana was put behind bars for life on October 16th 1998 but she wasn't done appearing in the public eye during her time at the California women's prison in Chowchilla she managed to sell a used pair of her underwear on a murder of Belial website she signed them and charged $250 appears to be active Dana also had a prison pen pal page up encouraging people to buy her art and even pay her a visit as she got lonely according to Dana Sue gray serial killer when greed turns to murder Dana wrote before you judge me take a chance to get to know me"
+    ],
+    [
+      0.9420260787010193,
+      " it seems that even Behind Bars Dana remains worried about being looked down upon by the outside world today Dana is 61 and kept under lock and key thankfully her desperate desire for attention can no longer destroy those powerless to stop her"
+    ],
+    [
+      0.9675211310386658,
+      " thanks again for tuning in to serial killers will be back Monday with a new episode on Spotify Spotify already have all your favorite music but now Spotify is making it easy for you to enjoy all your favorite podcast Originals like serial killers for free from your phone desktop or smart speaker to stream serial killers on Spotify just open the app and type serial killers in the search bar circle of your vast how to help the show that if you enjoy the show the best way to help is to leave a 5-star review and don't forget to follow us on Facebook and Instagram at parcast and Twitter at parcast network will see you next time"
+    ],
+    [
+      0.9626060128211975,
+      " serial killers was created by Max Cutler is a production of Cutler media and as part of the parcast network it is produced by Max and Ron Cutler sound design by Carrie Murphy with production assistants by Ron Shapiro and Paul Mueller additional production assistants by Maggie admire and Freddy Beckley this episode of serial killers was written by Kate Murdock and stars Greg polcyn and Vanessa Richardson"
+    ],
+    [
+      0.9393558502197266,
+      " if you haven't heard it yet listen to the podcast original villains that explores the psychological political and emotional factors that's real and fictional villains all villains for free on Spotify and anywhere you listen to podcast"
+    ]
+  ]
+}

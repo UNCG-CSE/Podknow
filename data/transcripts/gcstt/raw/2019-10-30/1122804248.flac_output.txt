@@ -1,0 +1,330 @@
+{
+  "Stats": {
+    "PodcastID": "1122804248.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 2192.483222,
+    "OriginalFileSize": 70241060,
+    "FlacFileSize": 181884732,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 732.2674016952515,
+    "DownloadSuccessful": "45.630752086639404"
+  },
+  "Transcripts": [
+    [
+      0.9648546576499939,
+      "due to the graphic nature of this murder case listener discretion is advised this episode includes dramatizations and discussions of murder and assault that some people may find offencive we advise Extreme Caution for children under 13 stop walking so fast you should really be heading home maybe you just need to catch up its past 3 in the morning all the respectable girls are asleep in their beds by now you got a lot to drink let me walk you home huh who said anything about me being respectable and I won't quit being such a wet blanket and stop following me it's creepy I'm just trying to look out for you cricket"
+    ],
+    [
+      0.9778652787208557,
+      "which makes one of us I can handle myself especially in this town trust me"
+    ],
+    [
+      0.9489142894744873,
+      " here let me help you I'm fine listen kid you're a great friend and all but can you tell when someone's trying to shake you"
+    ],
+    [
+      0.9282441735267639,
+      " go on home now like anyone respectable would"
+    ],
+    [
+      0.9557073712348938,
+      " around 3 a.m. on the morning of March 31st 1949 Boveda Cricket coogler had been drinking heavily she stumbled toward home in the dark with her friend Luther Mosley trailing behind her Luther followed her for a few blocks until a car slow do stop the car mode off leaving Luther alone in the street"
+    ],
+    [
+      0.977267324924469,
+      " he was the last person other than her killer to ever see her alive"
+    ],
+    [
+      0.972711443901062,
+      " this is unsolved murders true crime stories podcast original I'm your host Carter Roy we dive into the world of a real unsolved murder and try to solve the case when you can find episodes of unsolved murders and all other parcast Originals for free on Spotify or wherever you listen to podcasts to stream unsolved murders for free on Spotify just open the app and type unsolved murders in the search bar we're grateful for you or listeners you allow us to do what we love let us know how we're doing reach out on Facebook and Instagram at parcast and Twitter at parcast Network and if you're enjoying today's episode of the best way to help us is to leave a 5-star review wherever you're listening listen to previous episodes of unsolved murders as well as all of park has Southern shows on Spotify and wherever else you listen to podcasts this is our first episode on Oviedo cricket"
+    ],
+    [
+      0.9266305565834045,
+      " Google Earth an 18 year old new Mexican waitress who was murdered in 1949 this week we'll examine the life of Oviedo coogler and the night she disappeared next week will cover the investigation trial and allegations of cover-ups that spiraled into the biggest political Scandal New Mexico had ever seen."
+    ],
+    [
+      0.9671319127082825,
+      " Aveda coogler was born on November 9th 1930 in Cottondale Florida to Ben and Holly coogler she had a twin brother Willie and two older sisters Valletta and cookie in 1943 when Oviedo was 13 years old her father contracted tuberculosis on doctor's orders the family moved west of the small town of Las Cruces New Mexico to Oviedo was said to be outgoing confident though a bit uppity she was small in stature Wing roughly 90 lb but made up for her size with witty repartee she was known as to her friends and family know it's unclear if that was because she was small and always on the move or because of the sound her high heels made when she walked her father died to help shoulder some of the financial burden Cricket dropped out of high"
+    ],
+    [
+      0.9240438342094421,
+      " blue and entered the workforce Cricket took on the responsibility of providing for her mother and twin brother Willie Cricket phone work as a waitress and over the next four years or it several the small cafes in town she was also a frequent bar Patron at night despite the fact that she was under age"
+    ],
+    [
+      0.9708293080329895,
+      " what's the Dame got to do to get some service around this joint huh I'll have a gin and tonic meet you know the rules Johnny what do you say this isn't the deluxe has about the next time you're over at the diner I set you up with a nice juicy steak on the house it's going to take more than a hunk of meat to tempt me on this one oh yeah could I tempt you with here don't tell anyone okay I don't want word getting out that I'm certain miners promise Cross My Heart Hope To Die"
+    ],
+    [
+      0.978073000907898,
+      " even though Las Cruces was a small town with a total population of over 10000 it's downtown had a vibrant nightlife on any given day of the week State officials and businessmen from Santa Fe favored the city for its plentiful liquor gambling and sex workers illegal gambling halls and brothels were commonplace in the downtown area and law enforcement was known to look the other way if the price was right on the southern edge of town the New Mexico College of Agriculture and mechanic arts or amn now known as New Mexico State University was practically overrun with young War veterans using their GI bills to complete their education locals Army vets State officials and soldiers from the nearby White Sands Missile Range intermingling in the pressure cooker that became downtown Las Cruces and crew"
+    ],
+    [
+      0.9359259009361267,
+      " Kugler was at the center of it all"
+    ],
+    [
+      0.9549484252929688,
+      " what can I get you fellas started with today maybe an omelette what's a sweet thing like you doing in a dive like this shouldn't your husband be taken care of you I can take care of myself mr. I bet you can doll face can you take care of me too if you catch my drift what's in it for me that my friend George Washington can think of a few things pick you up after your shift ends would it make a difference still be around later"
+    ],
+    [
+      0.9751554727554321,
+      " by the time cricket was 15 she was known for partying around town she like to hang around with the state officials that made their way to Las Cruces and was seen leaving town with them on many occasions she was young hot-tempered and always looking for her next thrill it wasn't uncommon for Cricket to be away from home for days or even weeks at a time which made it difficult for her to keep steady work Cricket didn't make a lot of money as a waitress and it was heavily rumored but never confirmed that she was having sex with several well-connected men in exchange for money one thing that did seem steady violence her dry cleaner told reporters that he'd cleaned many blood stains out of crickets close over the years some of which were very thoroughly saturated from time to time Cricket could be seen sporting fresh bruises presumably from men who got too rough with her she was also known to jump"
+    ],
+    [
+      0.9538529515266418,
+      " out of moving cars to escape her suitors if things weren't going the way she liked or if she suspected danger 1946 Cricket showed up at the dorm of some A&M students covered in fresh bruises and looking extremely disheveled she wouldn't give any details but it was obvious someone had beaten her up and that she walked a very long distance they gathered that she could either thrown herself out of a car or been abandoned in the desert with students Trover back to town if a request and dropped her off at the Tortuga's Cafe where she said she had a change of clothes waiting Cricket refused to tell them where she lived so that they weren't able to take her home she also wouldn't let them drop her off at the police station are the two students told newspapers that they thought Cricket administ salted pretty badly but she refused to name her abuser Cricket never reported the incident and it was never investigate"
+    ],
+    [
+      0.9641938209533691,
+      " on March 30th 1949 18 year old cricket was working at the deluxe Cafe on Main Street she finished her shift around 3 p.m. and went for a walk after friends who saw her around town said it seemed like she was having a bad day and mostly left her alone around 6 p.m. she finally arrived back at her house"
+    ],
+    [
+      0.9587259888648987,
+      " Cricket is that you yes mother I'm just changing changing for what a date can you help me with my zipper and who are you stepping out with tonight deer just a date here must be something special if you're wearing those shoes are you going to tell me who this fella is or do I have to guess I can't tell you his name"
+    ],
+    [
+      0.9655559062957764,
+      " Cricket never did tell her mother who her date was or anything else for that matter she never got the chance"
+    ],
+    [
+      0.9349492192268372,
+      " coming up will go step-by-step through crickets last night"
+    ],
+    [
+      0.9667983651161194,
+      " don't miss this Fall's True Crime must listen call me God the untold story of the DC sniper investigation from the leading True Crime investigative team that brought you New York Times bestseller evil has a name comes this new riveting probe into the Manhunt for The elusive DC snipers hear the never-before-told story of the chilling and volatile investigation that led to the killers captured and ended and unprecedented 23-day reign of terror that paralyze the DC area and gripped the nation told first-hand by those essential to solving the case and including a brilliant Deep dive into the behavioral ballistic forensic and electronic analysis are required follow FBI agent Brothers Jim and Tim Clemente as they leave listeners through the Tangled path of Discovery and evidence Gathering only a select few had the vision to see call me"
+    ],
+    [
+      0.9590482115745544,
+      " God the untold story of the DC sniper investigation how do you stop what you can't see listen free with a 30-day trial just go to audible.com slash Untold Story"
+    ],
+    [
+      0.9672766923904419,
+      " masterminds evildoers savages for every hero there is a villain the new podcast villains from the par cast network highlights the psychological political and emotional factors that spawn both real and fictional villains every Friday villains focuses on a different real or fictional evil doer for fictional villains you'll delve into the social influences that led to the character's creation or real villains you'll learn the true story of their dark deeds and hear what drove them to evil you can hear episodes on characters like the Joker and Darth Vader as well as real life villains like Charles Manson and Pablo Escobar summer fictional somewhere real but all are villains follow villains for free on Spotify or wherever you get your broadcast or visit Park ask.com villains to listen now"
+    ],
+    [
+      0.9470778107643127,
+      " now back to the story"
+    ],
+    [
+      0.9686171412467957,
+      " at 6 p.m. on March 30th 1949 18 year old Las Cruces waitress Cricket coogler stop by home to prepare for a date she refused to tell her mother who she was meeting up with before heading back into town around 7 p.m. what Cricket did for the next 2 hours is unclear but we do know that having had a few drinks Cricket stumbled into the deluxe Diner around 9 p.m. she worked there but she'd finished her scheduled shift earlier that day instead Cricket kept drinking until she ran into 26 year old downtown regular Luther Mosley"
+    ],
+    [
+      0.948223888874054,
+      " heeia Cricket mind if I join you sure but you better buy a Gala drink to another for the lady"
+    ],
+    [
+      0.8685445189476013,
+      " so what are you doing at all by yourself huh"
+    ],
+    [
+      0.9538608193397522,
+      " who said I'm by myself judging from the amount of whiskey you've been nursing I'd say he's a no-show you keeping tabs on me Luther apparently I ain't the only one that has been on you for the better part of an hour if you don't like it so much why don't you go over there and say something"
+    ],
+    [
+      0.8859402537345886,
+      " here's some napkins let's stop that up before it jumps on your clothes why should I care anyway what are you talkin about"
+    ],
+    [
+      0.8687728643417358,
+      " let me get that"
+    ],
+    [
+      0.9629677534103394,
+      " while talking with Luther at the diner Cricket made a strange statement suggesting she thought she didn't have long to live over there didn't know what she meant to brush the comment off as a joke cricket and Luther eventually made their way to the Tortugas Cafe where waitress refuse to serve Cricket because of her drunkenness local police officer Ruben Flores saw the exchange and stepped in to have a few words with Cricut the two were most likely well acquainted as Flores is one of two policemen in the town you could sense that Cricket had been drinking but let her go with a Stern warning crickets nighttime Antics were rather commonplace and Flores probably found it easier to let her off with a warning rather than spoil his dinner by making an arrest cricket and Luther left the cafe at 9:45 p.m. and moved on to the Union Bus Depot they had coffee and donuts before heading back"
+    ],
+    [
+      0.9222283363342285,
+      " to Tortugas at 10:45 at 11:30 p.m. they were back at the deluxe where Cricket continue to drink away her sorrows it was almost midnight when Jerry Newsome a 26 year old professional football player for the Pittsburgh Steelers strolled onto the scene crooked had managed to shake Luther for the time being she had just sat down to have a cigarette at the bar when lose them approached"
+    ],
+    [
+      0.9648726582527161,
+      " Excuse Me Miss let me help you with that"
+    ],
+    [
+      0.9721773862838745,
+      " what do you think you're doing putting out my cigarette what are you playing at I was trying to get a pretty girl to give me the time of day I'd say it worked smooth as a peach honey what's your name but everyone calls me Jerry say a couple of us are headed next door for some shuffleboard care to join us"
+    ],
+    [
+      0.9359359741210938,
+      " Cricket in usum went next door to the Del Rio bar with Luther Mosley not far behind no doubt more drinks were consumed it wasn't long before Cricket decided to leave the bar with news has the pear walk toward Newsome's brand new Maroon Mercury sedan news and thought it would be funny to physically pick Creek it up and try to force her into his car Luther stepped out of the bar at this moment and witness the interaction"
+    ],
+    [
+      0.9715557098388672,
+      " what's the matter sweetheart"
+    ],
+    [
+      0.9684681296348572,
+      " hey buddy the lady doesn't have to go with you if she doesn't want to listen fella are you looking for trouble if you are you better leave town and leave fast I hate to break it to you but I never have been made to leave town before and you ain't the guy that do it judging by the state you're in no calm down calm down it was just a prank"
+    ],
+    [
+      0.9662002325057983,
+      " after Newsome's insistence that he was just joking loser drop the matter news and went back into the Del Rio enjoyed his friends Cricut followed but sat at the bar by herself loser returned as well and sat in a booth nearby where he could keep a close watch 12:30 a.m. on the morning of March 31st Cricket made a phone call to Joel coffee a taxi driver she had been casually seeing and invited him to join her at the bar he declined their stock Cricket crying and tried to cheer her up with conversation around 1:30 a m nuzum invited the pair to another game of shuffleboard in a friendly effort to mend fences they played until the bar closed then move back to the deluxe around 2 a.m. and bear in mind this was the fourth time Cricket have been there today live there was hoping to take Creek at home but she rejected him"
+    ],
+    [
+      0.9523295760154724,
+      " around 2:20 she moved to an empty Booth to be alone this left of perfect opening for Jerry Newsome to swoop in yet again much like a tennis match at seeing the two men were volume to see who would get to take Cricket coogler home and it was a standoff decided once more to leave with them and almost like deja vu for the second time within his many hours nuzum picked up cricket and tried to physically put her in his car all this time Deluxe manager Bob Ash was on the scene to intervene"
+    ],
+    [
+      0.7523044347763062,
+      " you go hey what's the big idea for me down"
+    ],
+    [
+      0.9377354979515076,
+      " you trying to interfere in my business I'm not trying to get involved in your business but she called out for me to help and it looks like you're trying to kidnap her"
+    ],
+    [
+      0.9857475161552429,
+      " I was just fooling anyway"
+    ],
+    [
+      0.9507820010185242,
+      " nuzum let Cricket go in the argument ended Cricket went back in the cafe about a half an hour later Cricket decided to walk home by herself she didn't know it at first but Luther followed her it didn't take long for him to announce his presence in the form of a warning"
+    ],
+    [
+      0.8914865255355835,
+      " Cricket what's that car"
+    ],
+    [
+      0.9672512412071228,
+      " get out of the road it's going to hit you luckily the driver saw Cricket the car was able to slow down in time leaving Cricket unscathed the two men in the car were police officers Ruben Flores and Vicente Lucero they offered to give Cricket a ride home but she refused she wanted to go her own way the officers let her go but Luther kept watching one of the officers sites Cricket took off running she didn't make it far before she lost her balance"
+    ],
+    [
+      0.8653084635734558,
+      " Cricket are you okay"
+    ],
+    [
+      0.9202519655227661,
+      " cricket"
+    ],
+    [
+      0.9811702966690063,
+      " are you hurt do you need help"
+    ],
+    [
+      0.9535146951675415,
+      " a dark-colored car motor past cricket and stopped halfway down the lane it slowly turned around the car came to a stop in front of cricket and she climbed in joining a man in a hat Luther watched as the car drove off and disappeared into the night the mysterious man and the girl he liked inside"
+    ],
+    [
+      0.9201292991638184,
+      " several hours later at the Kugler house crickets mother begin cooking breakfast as usual crickets 18 year old brother Willie soon emerge from his own room drawn by the smell of frying bacon"
+    ],
+    [
+      0.9522753953933716,
+      " morning Mom at least one of my children has decided to stir a good morning Willie but now go on and see if you can Rouse Cricket breakfast is almost ready"
+    ],
+    [
+      0.9058617949485779,
+      " Creek time to get up now breakfast is on Cricut you in there"
+    ],
+    [
+      0.9247020483016968,
+      " she's not here but she didn't tell me she be out all night"
+    ],
+    [
+      0.9314389824867249,
+      " Ali Kugler stood in the doorway to her daughter's empty bedroom staring at the meatly folded sheets crickets bed was still made from the day before she had never returned home"
+    ],
+    [
+      0.917198896408081,
+      " I've next the search for Cricket begins now back to our story"
+    ],
+    [
+      0.9732108116149902,
+      " on March 31st 1949 Ali Kugler discovered that her daughter 18 year old Cricket never made it home from a date the night before wasn't unusual for a cricket to stay out late but it wasn't usual for her to not come home at all even then she was always sure to let her mother know if she'd be gone overnight Cricket hadn't said she'd be out late she hadn't said much of anything the night before as the hours passed with no sign of her daughter Ali coogler grew increasingly worried when night fell cricket was still missing home by 8 on the morning of April 1st 1949 Ali was in a full-blown panic it had been 36 hours since she talked to Chris she phoned the police to report her daughter missing Alfonso happy Apodaca who is less than concerned Cricket had a reputation"
+    ],
+    [
+      0.9737870097160339,
+      " around town for being a bit of a party girl she was even known to keep company with Sheriff Happy from time to time sherfab you told all of the Crooked he knew turn off on her own time I most likely she just ran away for a night or two spheres couldn't be quelled she pressed and eventually happy agreed to look into crickets disappearance but he didn't at least not right away on April 6th 5 days after all the coogler reported her daughter missing Sheriff happy finally made the News public the last Cruces Sun-News picked up the story a day later and reported that Cricket had only been missing for one day in reality she been missing for 6 no word from happy about his investigation crickets mother spoke with a Las Cruces Sun-News is it been 10 days since you've last seen or heard from cricket"
+    ],
+    [
+      0.9589942693710327,
+      " what is your daughter look like man my daughter is 18 years old 5 foot 2 in about a hundred pounds and she has a scar on her left leg from a burned I think she wearing when you last saw her she was wearing a gray suit with blue stripes she'd borrow a pair of red shoes from her sister and had a red purse to match is there anything else you think will be helpful she didn't take her billfold with her that night which I thought was odd why would she go out without any money thank you mrs. cougar I'm sure she'll turn up soon and I remember she also painted her finger and toenails bright red you see she had a date that night and it had bought a new suit jacket for the occasion"
+    ],
+    [
+      0.971205472946167,
+      " Sheriff happy only urge the public to get involved after always account came out in the papers on April 9th 1949 he asked anyone who would pertinent information or leads on Cricut coolers whereabouts to contact his office and whatever it seems like you took no further action into the matter on April 12th all the cougar called the sheriff again hello Sheriff may I speak to you for a minute it's about Cricket she's been gone for 13 days why hasn't she come home I'm sick with worry about it I don't know I'm sure it's nothing to get all in a tizzy about mind your little nurse dear please happy I'm begging you you got to find my Cricket assure you I'm doing all that I can you haven't even done a search now go round up a posse and bring me back my daughter"
+    ],
+    [
+      0.9438238739967346,
+      " message coogler I'll remind you to watch your tone and remember who you're speaking to I meant no offence Sheriff but I do think the papers might find it interesting that no formal search has been conducted don't you threatening me me and my little nurse I wouldn't dream of it"
+    ],
+    [
+      0.9653245806694031,
+      " after his office received several phone calls and complained about the lack of response for Cricket Kugler Sheriff happy finally organized a search party of sorts they recruited 30 local Boy Scouts and announced that he would personally lead them on a search for Cricket east of the city but after only a few hours of searching the sheriff called it a day report state that happy brought in a few of the usual local suspects for questioning but didn't clean anything substantial with no results from the Scout search and no Trail to follow it seemed that sheriff happy became content to sit back on his haunches once more"
+    ],
+    [
+      0.9640612602233887,
+      " but it look like things were about to change when Carl bamert crickets brother-in-law came to talk with the sheriff bammert gave Sheriff happy the names of three possible suspects Jerry Newsome Luther Mosley and an on-again-off-again boyfriend of crickets named Lauren Welch he also told the sheriff where to find Luther dammert also reported the location of a car fitting the description of the one Luther had seen Cricket get into on March 31st and fortunately happy never followed up on these leads at this point Cricket has been missing for 15 days and buy all records Sheriff happy had given up"
+    ],
+    [
+      0.9693260192871094,
+      " around this time Las Cruces resident Robert Estrada called Happy's personal residence he left a message saying he had important news about the cricket coogler case and waited for his call to be returned but happy never called him back if he had he would have learned something that would have changed the fundamental nature of the case"
+    ],
+    [
+      0.9720452427864075,
+      " shortly after midnight on April 1st Estrada was driving home along Highway 80 about 25 miles outside of town he passed a young woman that looked like Cricket kuebler she was dressed in some sort of grey suit and high heels and running on steadily as if she was drunk she called out for help so Estrada slow down to make a U-turn but right then a dark green pickup truck stopped on the side of the road right next to Cricket two men got out and feed Cricket before throwing her into the truck and speeding off the first Estrada thought what he witnessed was some sort of family tussle and he didn't want to intervene in their private matters so he kept driving about Cricket in the papers Estrada reconsidered his original assessment and made is called a happy but neither happy nor anyone from the police department ever called him back"
+    ],
+    [
+      0.9663920402526855,
+      " luckily this wasn't the only Highway sighting on April 15th Mesilla Park residents ID Howard phonesheriff happy to report a possible connection to crickets case Howard told happy he spotted a red high heel shoe on the side of Route 80 and remembered seeing if there is far back as April 4th he hadn't thought anything of it until he read the description Ali Kugler had given of crickets last outfit in the paper stating he was busy with other work Sheriff happy said he'd get back in touch with Howard later when happy eventually reached out to Howard he's simply asked him to bring the shoe into town the next time he drove by Howard agreed of the shoe happy did actually take it to the electric shoe shop for inspection a worker was able to identify a brace he placed against a crack in the heel and believe that he had made the repair for Cricket sister"
+    ],
+    [
+      0.9615910053253174,
+      " play it was a known fact that Cricket had borrowed those shoes from her sister and it was becoming increasingly clear that Cricket or at least your shoe had been on Highway 80 at some point after March 31st the same day officers took the shoe Dolly coogler she identified it as one Cricket had been wearing on her last night out it appeared something terrible had happened to Cricket has news of the discovery spread local reporter Alice groover took the opportunity to press Sheriff happy about its significance"
+    ],
+    [
+      0.965587317943573,
+      " Sheriff can you confirm that it was in fact miss coogler shoe that you found we believe it to be the shoe Cricket I mean Miss coogler was wearing on the night of her disappearance and and what well isn't this potentially a huge break in the case Lady it's a shoe that's all but wouldn't this be considered the first real piece of evidence in this case until now it seems like Miss coogler had simply dropped off the face of the Earth this finding doesn't amount to anything don't go spending it into something it's not"
+    ],
+    [
+      0.9699772000312805,
+      " this comment and Happy's reluctance to do any real investigating was something Groovers reporter's intuition couldn't shake after speaking with Sheriff happy she was even more convinced that something strange was going on over spoke to the editor of the El Paso Herald post Ed Cooley she didn't have the time or resources to do the type of investigative journalism this case needed a groover believed Puli staff could get to the bottom of things reporter Walt Finley overheard their conversation and decided to see for himself what exactly was going on in Las Cruces so he packed his bags and headed into town with his sights set on Sheriff happy"
+    ],
+    [
+      0.9480645656585693,
+      " on April 16th 1949 17 days after Cricket Kugler was last seen two pairs of teenage brothers went rabbit hunting Jerry and Glenn Smith and Charles and Jerry Hawkins often hunted near the Mesquite Cemetery but just turned into a day that they would never forget"
+    ],
+    [
+      0.6609617471694946,
+      " I see one"
+    ],
+    [
+      0.9395919442176819,
+      " hold it steady now keep her in your sights take a deep breath"
+    ],
+    [
+      0.9484586119651794,
+      " now dang it I missed again don't worry you'll get the hang of it will I get the hang of it before dinner time I sure am getting hungry did you see that"
+    ],
+    [
+      0.834587574005127,
+      " follow those years"
+    ],
+    [
+      0.9656075835227966,
+      " oh my God guys come quick and decomposing body of a barely recognizable young woman lay strewn on the sandy desert floor she was lying on her back with her clothes pushed up around your neck her lower half was bear and from the looks of it someone had attempted to cover her with a couple shovelfuls of sand what's that smell it's a it's a girl how can you even tell the whole body's flat look at her fingers and toes red nail polish"
+    ],
+    [
+      0.9562028050422668,
+      " after 17 days Cricket coogler had finally been found the town of Las Cruces had a new question for the sheriff how did she get there"
+    ],
+    [
+      0.9698396921157837,
+      " join us next week as we follow crickets case down a rabbit hole of Lies cover ups corruption and the biggest political Scandal New Mexico had ever seen thanks again for tuning into unsolved murders will be back next Tuesday with part 2 of the Aveda Cricket coogler case for more information on Aveda Cricket coogler amongst the many sources we used we found polymers book Cricket in the web the 1949 unsolved murder that unraveled politics in New Mexico and the documentary The Silence of cricket coogler that extremely helpful to our research you can find all episodes of unsolved murders and all other parcast Originals for free on Spotify will not only does Spotify already have all your favorite music but now spotify's make it easier for you to enjoy all of your favorite parcast Originals like unsolved murders for free from your phone desktop or smart speaker"
+    ],
+    [
+      0.9403746724128723,
+      " Sears on Spotify just open the app tap brows and type unsolved murders in the search bar to help us if you enjoy the show the best way to help is to leave a 5-star review and don't forget to follow us on Facebook and Instagram at parcast and Twitter at parcast network will see you next time if we live till next time"
+    ],
+    [
+      0.9570119380950928,
+      " unsolved murders true crime stories was created by Max color in developed by Ron Cutler it is a production of Cutler media and as part of the parcast network it is produced by Max and run Cutler with sound design by Michael langsner production assistants by Ron Shapiro Paul Molitor Megan Meier and Freddy Beckley this episode of unsolved murders was written by Vanessa Pegram & Stars Carter Roy and Wendy McKenzie the amazing cast the voice actors includes Rebecca earrings Diamond Mike Capozzi Susana Corrington Sky King and Harris markson"
+    ],
+    [
+      0.9414039850234985,
+      " if you haven't listened to it yet check out the par cast original villains that explores the psychological political and emotional factors that spawned both real and fictional villains follow villains for free on Spotify and anywhere you listen to podcasts"
+    ]
+  ]
+}

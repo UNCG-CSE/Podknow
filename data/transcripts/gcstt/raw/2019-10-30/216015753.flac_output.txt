@@ -1,0 +1,1570 @@
+{
+  "Stats": {
+    "PodcastID": "216015753.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 3121.886344,
+    "OriginalFileSize": 100093085,
+    "FlacFileSize": 301207807,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 928.5236666202545,
+    "DownloadSuccessful": "70.58595538139343"
+  },
+  "Transcripts": [
+    [
+      0.9486033916473389,
+      "hey this is Steven furtick on the pastor of Elevation Church in this is our podcast I wanted to thank you for joining us today hope this inspires you hope it builds your face hope it gives you perspective to see God is moving in your life enjoy the message"
+    ],
+    [
+      0.968682587146759,
+      " come on everybody feels comfortable just lift your hands everybody who doesn't feel comfortable lift your hands King of Kings Lord of lords Jesus is your name we bless you honor you respect you admire you and adore you"
+    ],
+    [
+      0.9143033027648926,
+      " the really we want you to know that we need you"
+    ],
+    [
+      0.7320828437805176,
+      " we know that"
+    ],
+    [
+      0.9267435073852539,
+      " for the things that we encounter as human beings that we cannot understand on the level of our existence"
+    ],
+    [
+      0.9328706860542297,
+      " we need to vanity"
+    ],
+    [
+      0.9206860661506653,
+      " would you direct the pads of"
+    ],
+    [
+      0.9759457111358643,
+      " each of the precious people that you assemble together today"
+    ],
+    [
+      0.9644206762313843,
+      " see I know that we think we decided to come to church but really you brought us to this place"
+    ],
+    [
+      0.9611364603042603,
+      " something that you want to remind us of something that you want to show us something that you want to reveal"
+    ],
+    [
+      0.9808739423751831,
+      " and whatever it is"
+    ],
+    [
+      0.9695153832435608,
+      " clear out the debris of disappointment that has accumulated in our souls this week"
+    ],
+    [
+      0.885297954082489,
+      " A Place For Your Glory and your presents to dwell we are your temple"
+    ],
+    [
+      0.8430966138839722,
+      " and we reverence you"
+    ],
+    [
+      0.9738108515739441,
+      " and we worship you"
+    ],
+    [
+      0.9842818975448608,
+      " and we praise you"
+    ],
+    [
+      0.9876290559768677,
+      " in Jesus name"
+    ],
+    [
+      0.8071292638778687,
+      " and the whole church said together a man a man"
+    ],
+    [
+      0.9068602919578552,
+      " come on let's show the Lord that he's important to us"
+    ],
+    [
+      0.957184374332428,
+      " well look at the person next to you and tell him I love you so much"
+    ],
+    [
+      0.9752692580223083,
+      " tell him I love you"
+    ],
+    [
+      0.9501447677612305,
+      " come on tell him I love you"
+    ],
+    [
+      0.9734739661216736,
+      " like Homer loves Donuts on The Simpsons"
+    ],
+    [
+      0.9709653258323669,
+      " come on tell him I love you like Kanye loves Kanye"
+    ],
+    [
+      0.9688068628311157,
+      " tell him you're my number one with the lemonade tell him right now"
+    ],
+    [
+      0.9392992258071899,
+      " see if they're saying how many of you are saved delivered on your way to heaven glad about it"
+    ],
+    [
+      0.9457710385322571,
+      " God is so faithful we want to welcome all of our campuses let's do that right now Ballantyne let's welcome all of our locations"
+    ],
+    [
+      0.7866764068603516,
+      " all over the Charlotte area Asheville North Carolina Greenville South Carolina Toronto Canada Melbourne Florida come on let's thank God for Raleigh Morrisville"
+    ],
+    [
+      0.9375417828559875,
+      " should we see who's watching on Arif a more extended family around the world there's always many different cities and states and Nations watching somebody pull it up for me it wouldn't pull it up on the Elevation Church YouTube"
+    ],
+    [
+      0.8903874754905701,
+      " make sure you go on the Elevation Church one because it will have the most viewers go to Elevation Worship is not as popular"
+    ],
+    [
+      0.8903440237045288,
+      " so good are y'all going to get that on that new song"
+    ],
+    [
+      0.9051087498664856,
+      " you never lost a battle are you going to get that on Friday make sure you get that screen back"
+    ],
+    [
+      0.9331892728805542,
+      " that's going to be so good you can just get it stuck in your head all the time now, you have that song stuck in your head we didn't sing it today but which seems like a strategic misfire that we're releasing it Friday and we didn't sing it today but"
+    ],
+    [
+      0.9443870782852173,
+      " anyway this is a good song to get stuck in your head but I promised you your wife would rather hear Tiffany and Chris sing it then you you can't sing so download it stream it and play it let the professionals do it you can sing along tell me where your are watching from on the comments of YouTube Oakland California Wisconsin Seattle Nigeria"
+    ],
+    [
+      0.9899097084999084,
+      " Rockwell North Carolina"
+    ],
+    [
+      0.8146940469741821,
+      " jump in the Rockwell have you heard of it either"
+    ],
+    [
+      0.9050098061561584,
+      " Indiana Charlotte"
+    ],
+    [
+      0.9409691095352173,
+      " you better have the flu measles the mumps the shingles or something Uganda Atlanta"
+    ],
+    [
+      0.7842962741851807,
+      " Chicago Pennsylvania Brazil Baltimore it's so fast"
+    ],
+    [
+      0.9066763520240784,
+      " Dominican Indonesia ask somebody where did you come from and what are you cooking for lunch can I come over ask him that real quick and then welcome Arif am around the world"
+    ],
+    [
+      0.8199306726455688,
+      " let's give out let's give out 17 hogs on our way down to our see can we do that"
+    ],
+    [
+      0.9744485020637512,
+      " are you ready for the word of God"
+    ],
+    [
+      0.9262452125549316,
+      " come on let's hang out for the worship team"
+    ],
+    [
+      0.925931453704834,
+      " the reason I said that I don't know how else to transition them off the stage and we'll have to offer you about songwriting and sermon writing which one do I enjoy more"
+    ],
+    [
+      0.982140064239502,
+      " to which I responded it depends on what part of the process you catch me during"
+    ],
+    [
+      0.9642248749732971,
+      " because there are certain times where a sermon idea will come to me and I will feel enlightened and spiritual and confident can't wait to preach it get me a new 9 volt battery in my microphone and gather the people I have something to say from heaven then 5 minutes later I look at the same idea and it just seems so ridiculous and simple and basic and I basically tell you all everything I know every week I'm just waiting on you to actually do it one time"
+    ],
+    [
+      0.9020760655403137,
+      " just kidding your credit your growing I know your disciple but it's like the process of creativity it has certain points in it when I was talking about it I called it the sticking points"
+    ],
+    [
+      0.9811850190162659,
+      " and as I talked about that creatively I want to speak about it today that's the title of my message is called the sticking point because everything that you love in life is going to have a part of the process that you don't like"
+    ],
+    [
+      0.9449610710144043,
+      " and a part that is going to tempt you to quit"
+    ],
+    [
+      0.9637627601623535,
+      " and it doesn't mean you don't love it I don't know when we started thinking that we have to love everything or like everything all the time you know I quit my job cuz I wasn't feeling it what were you feeling indoor plumbing go back to work"
+    ],
+    [
+      0.967023491859436,
+      " pay your bills not the love everything all the time you know cuz everything that you love is going to have a part I called it the sticking point is going to have a part or parts that you don't prefer"
+    ],
+    [
+      0.9158062934875488,
+      " I can't tell if you're with me yet let me take this a little deeper every person that you love"
+    ],
+    [
+      0.97000652551651,
+      " it's going to have some parts that you don't prefer"
+    ],
+    [
+      0.9004495739936829,
+      " I'ma say it that way it's gentler than saying that you don't like or that you want to change"
+    ],
+    [
+      0.9618334770202637,
+      " not me I love everything about him you're dating it's been 2 weeks I can tell"
+    ],
+    [
+      0.967252790927887,
+      " because every person and and there's a parable about this Jesus said that the Kingdom of Heaven is like a man who found a treasure and was excited and so he liked the treasure so much that he sold everything and bought the field that the treasure was in"
+    ],
+    [
+      0.9615764021873474,
+      " so if you want the treasure you've got to buy the field"
+    ],
+    [
+      0.8924603462219238,
+      " going good"
+    ],
+    [
+      0.9725578427314758,
+      " we want the treasure not the dirt that comes around it"
+    ],
+    [
+      0.9601468443870544,
+      " we want the treasure or the blessings or sometimes we want those those joyful moments but even if you love your marriage there will be sometimes"
+    ],
+    [
+      0.9540460109710693,
+      " were you just what I control the TV"
+    ],
+    [
+      0.9631382822990417,
+      " without any voting you know even if you love your kids"
+    ],
+    [
+      0.8919068574905396,
+      " there will be times where you will secretly Google adoption agencies too sick for the record I hate mail"
+    ],
+    [
+      0.965229868888855,
+      " but everything you love even preaching there's times when when I'm preaching that I feel the spirit and then there's times where I look at the wrong person in the room"
+    ],
+    [
+      0.9502357840538025,
+      " and I feel another Spirit the spirit of stress the spirit of even people walk out sometimes while you're preaching and I called it when I was talking to them the sticking point it's the moment where you start to doubt what you were so secure in its it's the moment where your mood doesn't match your mission but you got to push through anyway because you've got something important to do"
+    ],
+    [
+      0.9544330835342407,
+      " it's a moment where oh I didn't know that about you when I said I do well you did"
+    ],
+    [
+      0.9721887707710266,
+      " and now you do"
+    ],
+    [
+      0.9571488499641418,
+      " the sticking point for scriptural example I thought of no better passage than the classic Exodus where God let his people out of Egypt through the Red Sea"
+    ],
+    [
+      0.9309946298599243,
+      " did you notice what I said in my setup through the Red Sea"
+    ],
+    [
+      0.9309322237968445,
+      " not over it on a boat but through it on foot"
+    ],
+    [
+      0.9776530861854553,
+      " you are going through something right now you are at a sticking point I don't know if it is a state of mind because sometimes we are stuck not in our situation but in our state of mine"
+    ],
+    [
+      0.967951238155365,
+      " even recently Holly pulled up a picture from a few years ago when we were flying home from Seattle and we got stuck in Chicago overnight on a layover we were laughing because we were in such a bad mood we were just remembering how how late it was it was probably 10:00 at night but let's make it 2 in the morning just for dramatic effect on the story creative license"
+    ],
+    [
+      0.9192425012588501,
+      " but it was late in our bags were checked and we have no clean underwear"
+    ],
+    [
+      0.9371762275695801,
+      " and we checked into this horrible hotel that American Airlines had put on and we were stuck in Chicago we were laughing about that we were laughing when it happened we were laughing looking at when it happened you know two or three years ago"
+    ],
+    [
+      0.9167919754981995,
+      " and I remember that when we got stuck in Chicago will why were we stuck in Chicago technically American Airlines but if you take it apart a little bit more"
+    ],
+    [
+      0.9344548583030701,
+      " the the the city of Chicago is a city that we like"
+    ],
+    [
+      0.9213540554046631,
+      " we had visited there by choice before"
+    ],
+    [
+      0.9240531325340271,
+      " when I preached for Steve Munsey and jmac we stayed over two extra days just so we could shop and watch the Cubs"
+    ],
+    [
+      0.9363299608230591,
+      " we had we had a good time too we ate deep dish pizza this was in my early thirties when I could do it and just plank a little bit and it will fall right off but we did some we have marital in Richmond in the hotel room on that trip that was a good trip"
+    ],
+    [
+      0.9802556037902832,
+      " there's nothing wrong with Chicago"
+    ],
+    [
+      0.9430317282676697,
+      " it wasn't it wasn't it wasn't like it was Des Moines"
+    ],
+    [
+      0.8787924647331238,
+      " I love them so much you're such a"
+    ],
+    [
+      0.9644927978515625,
+      " it wasn't it wasn't the situation that we were stuck in the reason we called It suck is because it wasn't on our schedule"
+    ],
+    [
+      0.9697908759117126,
+      " you better get to the text for me Chapter 14 verse 10 the Israelites leaving Egypt bright God heard their cry they were stuck as slaves for four centuries serving pharaoh who had taken away their building materials increasing their requirements while reducing their resources so they're stopped and God hears them and God breaks through and God uses Moses to lead them out because there comes a. Where God sees you stop and realize that you cannot get yourself out of the situation so he said I've heard the cries of my people and I have come down to visit them and when he chose Moses to do it he knew all about Moses's Brokenness and he knew all about Moses reluctance and he let them out and he compelled pharaoh to let them go not the first time not the second"
+    ],
+    [
+      0.9587022066116333,
+      " but after 10 plagues of negotiation you know sticking point is a negotiation term they talked about it and business well we almost had the deal done but then the asking price was a sticking point because they wouldn't let me Finance it over five years they wanted me to pay it off in 3 or where they wanted me to leave the septic tank and take it with me we had a sticking point you know you had a sticking point in your faith you had a sticking point in a relationship you hit a sticking point in your life and you've come as far as you can come and then God comes down and he sees you struggling I need those for you what you cannot do for you and then don't shop"
+    ],
+    [
+      0.9856468439102173,
+      " you come to something that wasn't on your schedule"
+    ],
+    [
+      0.9086180329322815,
+      " Exodus 14 verse 10 when Pharaoh Drew near what's Terrell doing in the picture I thought we were done with him"
+    ],
+    [
+      0.8394205570220947,
+      " no"
+    ],
+    [
+      0.9164046049118042,
+      " can I preach on half of a verse"
+    ],
+    [
+      0.9345158934593201,
+      " you got anything to do after this or should we just look up complete this sentence if you grew up in church complete this sentence where God guides"
+    ],
+    [
+      0.9529955387115479,
+      " he provides true let me add to it"
+    ],
+    [
+      0.9268047213554382,
+      " where God doesn't guy he still provides because he's so good"
+    ],
+    [
+      0.9841019511222839,
+      " have you ever had God bless you when you were going backwards and doing the wrong stuff"
+    ],
+    [
+      0.9613729119300842,
+      " the song Angels in this section over here have you ever he was running from Jezebel in the wrong direction from his assignment he laid down and wanted to die even though he had seen God do great things and the angel made him a cake he was going away from his assignment and God fed him with an angel food cake I don't look at me like the reason that you always ate is because you were always good some of you know that you didn't deserve it you didn't earn it you didn't pray enough to get it you didn't quote Philippians you didn't always take the right turn or follow the North Star but God dropped you down under a broom tree and bless you anyway"
+    ],
+    [
+      0.847811758518219,
+      " some people who are past anyway just shall just said something"
+    ],
+    [
+      0.9458639025688171,
+      " so where God guides he provides but even where God doesn't God he'll still take care of you because you're his"
+    ],
+    [
+      0.9610881805419922,
+      " and then I wanted to add one more see if you can put this on Pinterest okay"
+    ],
+    [
+      0.952246367931366,
+      " because they're leaving Egypt Here Comes Farrow their enemy behind them they hear clickety clack clickety clack clickety clack that sparrows Lamborghinis these are fast furious because their pharaohs best and they're being chased down on their way out and so they turn around and see something that they can't go back to look forward and see something that they can't get over"
+    ],
+    [
+      0.8096029162406921,
+      " they got to go through it"
+    ],
+    [
+      0.9104825854301453,
+      " cuz where God guides"
+    ],
+    [
+      0.8199257850646973,
+      " now"
+    ],
+    [
+      0.9213045239448547,
+      " not that one this one where God guides Farrow follows in negotiation terms because here's a little business tactic okay I'm going to a seminar on negotiating right now I'm not going to charge you $49 you could just listen"
+    ],
+    [
+      0.9209010004997253,
+      " if someone is holding on to something in a negotiation that means it's valuable"
+    ],
+    [
+      0.9749516248703003,
+      " if they don't let it go easy"
+    ],
+    [
+      0.9788517951965332,
+      " that means it has great worth"
+    ],
+    [
+      0.9480847120285034,
+      " I don't know I'm preaching to but the devil hasn't been letting you go easy"
+    ],
+    [
+      0.9695261120796204,
+      " you've been trying to shake this for a long time"
+    ],
+    [
+      0.9640251994132996,
+      " and the reason may be the reason if the devil is real and if Destiny is a fact and not just a concept or fantasy maybe the reason that it's been so difficult for it to let you go it's because what you carry"
+    ],
+    [
+      0.8995317220687866,
+      " it's of such great volume I believe this in my car some of you are at a sticking point right now and I won't let you go easy cuz once you get through this"
+    ],
+    [
+      0.8399101495742798,
+      " if you ever if you ever negotiated with someone in there like it's nothing"
+    ],
+    [
+      0.9464319944381714,
+      " you can have that too it's nothing but if they ever pull it back at you. Every time you're trying to get out of depression and addiction and you try to stop with the pills and you try to stop with the porn and you're trying to stop with the"
+    ],
+    [
+      0.9584280848503113,
+      " this is a sticking point for some of you you've been flushing it but then you buy it again and then you've been deleting it but then you put it back and then you've been walking away from it but then you feel drunk to it and I wanted to tell you that when you get stop that means you're on the verge of something significant"
+    ],
+    [
+      0.9722747802734375,
+      " that's the first half of the first verse"
+    ],
+    [
+      0.9466696381568909,
+      " Quintero Junior where God guides Farrell follows the proof of God's activity in your life will often be the increase of resistance"
+    ],
+    [
+      0.9258458614349365,
+      " and behold the Egyptians were marching after them and they feel greatly yeah I bet they did"
+    ],
+    [
+      0.9876289963722229,
+      " this is not stuck in Chicago"
+    ],
+    [
+      0.9865776896476746,
+      " this is not this is not we're going to have to catch the 6:35 a.m. flight out Central Standard Time this is"
+    ],
+    [
+      0.9763119220733643,
+      " pulse is pounding Panic triggered by the trauma"
+    ],
+    [
+      0.9446339011192322,
+      " of a lifetime of bondage"
+    ],
+    [
+      0.8536159992218018,
+      " I saw her standing there"
+    ],
+    [
+      0.9019930958747864,
+      " this is one thing that happens they start arguing with Moses look at this verse 11 they said that you were taking us to die in the wilderness what have you done to us and bringing us out of Egypt"
+    ],
+    [
+      0.8585646152496338,
+      " it's another fighting the one who's helping them"
+    ],
+    [
+      0.9727603793144226,
+      " parents don't worry about it"
+    ],
+    [
+      0.8208010792732239,
+      " yeah thank you one day"
+    ],
+    [
+      0.9116812348365784,
+      " maybe if you don't kill him"
+    ],
+    [
+      0.939584493637085,
+      " is this not what we said to you and Egypt first to leave us alone that we may serve the Egyptians I never heard him say that all they were doing before they got out was praying to get out"
+    ],
+    [
+      0.9789782166481018,
+      " well"
+    ],
+    [
+      0.9483503103256226,
+      " that's all I've been okay when you get stuck"
+    ],
+    [
+      0.9175976514816284,
+      " you get stupid"
+    ],
+    [
+      0.9829846620559692,
+      " I'm not saying you are stupid"
+    ],
+    [
+      0.9347288608551025,
+      " but for me"
+    ],
+    [
+      0.9800868034362793,
+      " some of the dumbest decisions I made"
+    ],
+    [
+      0.9474874138832092,
+      " what's cuz I got sick of being stuck"
+    ],
+    [
+      0.8458937406539917,
+      " I'ma just do something"
+    ],
+    [
+      0.6903884410858154,
+      " CNS"
+    ],
+    [
+      0.958243191242218,
+      " you know when you hit send"
+    ],
+    [
+      0.8583717346191406,
+      " unsane unsane Jose Manson"
+    ],
+    [
+      0.9123201370239258,
+      " but"
+    ],
+    [
+      0.9712477326393127,
+      " when you get stuck Elijah came in our room the other night this is Friday night"
+    ],
+    [
+      0.856043815612793,
+      " and we're both asleep we were we were off-duty on parenting"
+    ],
+    [
+      0.7861741781234741,
+      " and our office hours are you know"
+    ],
+    [
+      0.8779827952384949,
+      " 7 a.m. to 5 p.m. and it is off duty"
+    ],
+    [
+      0.9513276219367981,
+      " and he comes in the room laughing and we were both asleep and he's like you're not going to believe he's laughing"
+    ],
+    [
+      0.9405146837234497,
+      " any had gym shorts mesh elevation youth Champion gym shorts hanging from his braces"
+    ],
+    [
+      0.9629825949668884,
+      " he said get it off get it off and I was going to write I said first let me get a video"
+    ],
+    [
+      0.8001265525817871,
+      " real quick Michaela"
+    ],
+    [
+      0.934878945350647,
+      " listen"
+    ],
+    [
+      0.8139330744743347,
+      " because the whole breaks out just look"
+    ],
+    [
+      0.8789376616477966,
+      " bra"
+    ],
+    [
+      0.6496366858482361,
+      " Gus"
+    ],
+    [
+      0.9520174860954285,
+      " I wish you would look at your neighbor and tell him when you get stopped"
+    ],
+    [
+      0.9511209726333618,
+      " you can stupid"
+    ],
+    [
+      0.9234455227851868,
+      " maybe don't date anybody for six months until you heal from the last heartbreak because when you get this"
+    ],
+    [
+      0.9251031875610352,
+      " I'm in Exodus 14"
+    ],
+    [
+      0.9637433886528015,
+      " when you get stuck"
+    ],
+    [
+      0.9338191747665405,
+      " You Reach For Stuff"
+    ],
+    [
+      0.942062497138977,
+      " you reach for the stuff that you flushed when you get stuck when you get lonely when you get hungry when you get tired when you get stuck now I got the whole thing hanging out my mouth now I got a Rainbow vacuum cleaner now I got a timeshare when you could stop"
+    ],
+    [
+      0.9124990701675415,
+      " I didn't do it cuz I didn't love God I didn't cuz I was stop"
+    ],
+    [
+      0.7003873586654663,
+      " when you hit the stick and put everybody's like come on Richard siken I'm stop"
+    ],
+    [
+      0.9857345819473267,
+      " stuck in a memory"
+    ],
+    [
+      0.811926007270813,
+      " give me stuck in a memory"
+    ],
+    [
+      0.9868311285972595,
+      " I'm stuck in a pattern"
+    ],
+    [
+      0.934063196182251,
+      " I'm stuck in a generational thing that started before I ever came to the planet I'm stuck"
+    ],
+    [
+      0.935625433921814,
+      " I get stuck preparing these sermons decision is horrible"
+    ],
+    [
+      0.9609329104423523,
+      " I'm not playing now I know I've been showing you know life illegal footage of my children and everything in church orthodontist is going to kill me Monday"
+    ],
+    [
+      0.9114424586296082,
+      " he's a great orthodontist to doctor a doctor who you should look him up he's great he's got to fix that tomorrow we're going to have some business for him but when I get to prepare to you sermons"
+    ],
+    [
+      0.947907030582428,
+      " I get stuck and is horrible because the sticking point it makes me want to just like give up on everything I've worked on"
+    ],
+    [
+      0.9839573502540588,
+      " please don't think that I'm preaching to you about preaching"
+    ],
+    [
+      0.8752021789550781,
+      " that's too meta"
+    ],
+    [
+      0.9635457992553711,
+      " I'm preaching to you about preaching because that's where I get stuck and I figured you might get stuck sometimes too"
+    ],
+    [
+      0.92951500415802,
+      " I mean when when I go to prepare"
+    ],
+    [
+      0.9787248969078064,
+      " it'll just be moments where"
+    ],
+    [
+      0.9681688547134399,
+      " none of it makes sense for everybody that's like 40 and older"
+    ],
+    [
+      0.8982474207878113,
+      " like when you head in tennis"
+    ],
+    [
+      0.946071207523346,
+      " on the TV and you could see the station but not fully"
+    ],
+    [
+      0.9280493855476379,
+      " cuz you're watching your neighbors HBO before you got saved before BC"
+    ],
+    [
+      0.9625396132469177,
+      " it's under the blood now"
+    ],
+    [
+      0.9466732144355774,
+      " but he'll scramble and I don't even know where I don't know what to say about Moses coming through the Red Sea nrt preach about that before they just wish you know they already know they got through the Red Sea so this will be interesting to maybe I should start with Abraham Abraham Isaac Jacob and Joseph went to Egypt to get trapped in Egypt went there to get food but sometimes you get Trap remix to get food and sometimes place where you go to somebody's place where you get stung me to start there but I never miss"
+    ],
+    [
+      0.9001995325088501,
+      " that's about the burning bush went to the burning bush and there was a bunch of burning up but it wouldn't burn up have just burn it going to burn up and stays alive in the proof of your presence we stay on fire even though we go through"
+    ],
+    [
+      0.9445396661758423,
+      " how come at the bricks in the straw cuz she know that you sometimes you have all the mud but you don't have the straw and so you got to go and get your own straw and you didn't have a dad so you trying to be a bad you don't have what you need to be what you trying to be in the devil use in his condemnation and then after that man I'm like oh my God I need a nap and I would just feel like I don't know where to preach the sermon on Sunday"
+    ],
+    [
+      0.8447685241699219,
+      " I'm stop"
+    ],
+    [
+      0.8880558609962463,
+      " and I guess so stuck I don't want to say anything"
+    ],
+    [
+      0.858388364315033,
+      " how you doing praise the Lord"
+    ],
+    [
+      0.9023333191871643,
+      " nothing you get stuck to even if you don't preach sermons I figure you go not going to have this meeting at the kids going to go down there and talk to the principal suck sometimes"
+    ],
+    [
+      0.7349832057952881,
+      " I figured you'd get stuck to some time since the second one"
+    ],
+    [
+      0.984178900718689,
+      " and this is not the first time"
+    ],
+    [
+      0.9232543110847473,
+      " that you've been stopped"
+    ],
+    [
+      0.9504184722900391,
+      " and this is not the first time Moses was stuck and that's the good thing about it if he did it before"
+    ],
+    [
+      0.9561208486557007,
+      " I just want to keep you breathing today cuz I know you've been stuck If He Did It Before"
+    ],
+    [
+      0.9210101366043091,
+      " we did stop not always at the external circumstance"
+    ],
+    [
+      0.9576735496520996,
+      " sometimes we get stuck in ourselves"
+    ],
+    [
+      0.903057336807251,
+      " sometimes suck is the state of mine"
+    ],
+    [
+      0.9458351135253906,
+      " Chicago is a nice city"
+    ],
+    [
+      0.9627561569213867,
+      " but you weren't supposed to be in Chicago"
+    ],
+    [
+      0.940178632736206,
+      " sometimes we get stuck not anywhere we are but where we were supposed to be in our plan for our life"
+    ],
+    [
+      0.9644283652305603,
+      " I saw him suck not necessarily in what it is but in what I thought it was going to be I get stuck in supposed to you have been stuck in supposed to my kids were supposed to be valedictorians I was supposed to be married still I was supposed to be can be very painful I was supposed to buy mouth but my retirement went out in 08 I was supposed to be ready to quit working by now I was supposed to be married my roommate got married and she's crazy and I'm a good person and I'm a Christian girl and I sing in the choir and elevation Ballantyne and I'm supposed to be married some of us are stuck in what we think we were supposed to be"
+    ],
+    [
+      0.8064773678779602,
+      " the stop"
+    ],
+    [
+      0.9607844352722168,
+      " then get stuck in a season"
+    ],
+    [
+      0.9674043655395508,
+      " every time in Fall I start to feel a little drained from the ministry of the year and then depression can come in"
+    ],
+    [
+      0.9856095314025879,
+      " because it's the same same same same same same"
+    ],
+    [
+      0.8653760552406311,
+      " and then everybody else in the church is feeling the same way and then I got to preach to y'all"
+    ],
+    [
+      0.6582594513893127,
+      " so like"
+    ],
+    [
+      0.8856327533721924,
+      " you know I grew up in the Lowcountry of South Carolina"
+    ],
+    [
+      0.8828179240226746,
+      " you don't know where I'm going with this to hang on"
+    ],
+    [
+      0.8839147090911865,
+      " things to take their trucks out on Friday night and get stuck on purpose call them mutton"
+    ],
+    [
+      0.9505370855331421,
+      " but I found out something now"
+    ],
+    [
+      0.9679900407791138,
+      " you don't get stuck in anything shallow"
+    ],
+    [
+      0.9761832356452942,
+      " if you feel stuck"
+    ],
+    [
+      0.9652970433235168,
+      " that means you're in the Deep stuff"
+    ],
+    [
+      0.9840263724327087,
+      " maybe God is doing something deep in your life when you feel stuck"
+    ],
+    [
+      0.9593811631202698,
+      " maybe when you feel stuck your building strength I mean that's the only way you really build strength right is to get to that sticking point to get to that point where you can't push through I know you lift weights all the time how much you bench press"
+    ],
+    [
+      0.6326438188552856,
+      " 535"
+    ],
+    [
+      0.9138447642326355,
+      " 535i making this up I didn't hear what he really sick but he's big and you know he's in there I used to have this father in high school I didn't bench press 5:35 and the moment I started to struggle he would just lift the whole weight off of me"
+    ],
+    [
+      0.9245065450668335,
+      " I thought one man"
+    ],
+    [
+      0.9564371109008789,
+      " that's not a good spotter"
+    ],
+    [
+      0.9878188967704773,
+      " that's not a good God"
+    ],
+    [
+      0.8101075887680054,
+      " turn up her like you have any weight"
+    ],
+    [
+      0.8733441233634949,
+      " that's not a good guy said never let you have any challenge how would he grow your faith"
+    ],
+    [
+      0.9254177212715149,
+      " don't see a good spotter 11 right 535 wrap 11 and I'm just a little. And God is standing over your life I need you to know this and he sees where your stuff that's sticking point and he says I'm not going to take it off of you I'm going to give you a lift. Be your starter I declare the God of Angel Armies"
+    ],
+    [
+      0.7138745188713074,
+      " Short Street"
+    ],
+    [
+      0.9663749933242798,
+      " he knows how to get me past the point where I'm stopped but now watch this you may not like this"
+    ],
+    [
+      0.9594945907592773,
+      " the first sticking point that Moses encountered was not pharaoh"
+    ],
+    [
+      0.9304308891296387,
+      " the first sticking point did Moses encounter and maybe the greatest one is if he tried to negotiate with God"
+    ],
+    [
+      0.8687360882759094,
+      " and he got stuck"
+    ],
+    [
+      0.8597078919410706,
+      " I got stuck at the burning bush before he got stuck at the Red Sea. So I can shows you"
+    ],
+    [
+      0.8954354524612427,
+      " now he's already stuck tending sheep for his father-in-law Jethro he been doing that 40 years"
+    ],
+    [
+      0.9613310098648071,
+      " cuz he got mad at somebody and kill them"
+    ],
+    [
+      0.9729591012001038,
+      " cuz when you get stuck you get stupid"
+    ],
+    [
+      0.9248971939086914,
+      " so now he's doing something doing something that's a consequence of this decision"
+    ],
+    [
+      0.8869317173957825,
+      " and then the Lord speaks to me is like"
+    ],
+    [
+      0.8984712362289429,
+      " I told you go to pharaoh and tell him let my people go"
+    ],
+    [
+      0.8035871386528015,
+      " with the hand motions to go to Bible School"
+    ],
+    [
+      0.8270329236984253,
+      " Moses is stop he's like give me chapter 4 verse 1 Exodus 4 verse 1 cuz you might be stuck in yourself"
+    ],
+    [
+      0.8893624544143677,
+      " he said but behold they will not believe me but you ain't even talk to them yet"
+    ],
+    [
+      0.9514461159706116,
+      " or listen to my voice for they will say they will say the Lord did not appear to you now there's two things about this that are wrong one is on other people into it's about a future event you can't control either"
+    ],
+    [
+      0.9303431510925293,
+      " Zoey suck"
+    ],
+    [
+      0.9038746953010559,
+      " and he sucked for good reason is because"
+    ],
+    [
+      0.9599606394767761,
+      " he knows himself"
+    ],
+    [
+      0.8016564846038818,
+      " he knows Moses"
+    ],
+    [
+      0.945507287979126,
+      " you know you"
+    ],
+    [
+      0.9415913224220276,
+      " and to negotiate with God is usually like nah better not try that"
+    ],
+    [
+      0.661125898361206,
+      " some stock"
+    ],
+    [
+      0.7612927556037903,
+      " it myself"
+    ],
+    [
+      0.9710549712181091,
+      " and he's already in this crazy he's telling himself a story of what's going to happen"
+    ],
+    [
+      0.9609151482582092,
+      " you've been stuck in a story of what's going to happen"
+    ],
+    [
+      0.9343821406364441,
+      " wake up in the middle of the night sometimes just like a king size bed everything's good"
+    ],
+    [
+      0.8956445455551147,
+      " does beautiful woman in the world sleeping next to me"
+    ],
+    [
+      0.9338564276695251,
+      " what might happen tomorrow or what has happened before you have been stuck in a story"
+    ],
+    [
+      0.9771578907966614,
+      " have you ever been stuck in yourself"
+    ],
+    [
+      0.9860013723373413,
+      " have you ever been stuck in a story about yourself"
+    ],
+    [
+      0.984704315662384,
+      " I mean rejection is painful but Moses takes it to a new level"
+    ],
+    [
+      0.9388841390609741,
+      " this is not rejection"
+    ],
+    [
+      0.9247705340385437,
+      " he rejects himself before anybody else has a chance to"
+    ],
+    [
+      0.8288021087646484,
+      " this is like advanced-level Reach This is projection"
+    ],
+    [
+      0.8166038393974304,
+      " when are you going to try"
+    ],
+    [
+      0.9272893667221069,
+      " the story of my life everything always goes wrong"
+    ],
+    [
+      0.8615762591362,
+      " I mean I see this I don't want to do a dating someone already I already did a negotiation seminar when you ask her out on a date"
+    ],
+    [
+      0.8814677596092224,
+      " have some confidence to a man"
+    ],
+    [
+      0.862045407295227,
+      " Welcome to our life a I didn't know if you wanted to go Tuesday or Wednesday"
+    ],
+    [
+      0.9089086651802063,
+      " come on I'm helping you name your kid Larry"
+    ],
+    [
+      0.8894091844558716,
+      " phimosis is like"
+    ],
+    [
+      0.9709491729736328,
+      " I can't do this I know me I don't have it I can't do it you stuck in a story about himself now"
+    ],
+    [
+      0.9818825125694275,
+      " the bigger story does not revolve around you"
+    ],
+    [
+      0.9876291155815125,
+      " remember that"
+    ],
+    [
+      0.9156721830368042,
+      " when we get stuck in ourselves we miss the whole point that God is doing something that is bigger than you it's bigger than what's wrong with you it's bigger than what you didn't do it stickers in the time you wasted and is certainly bigger than the opinions of others"
+    ],
+    [
+      0.9178866147994995,
+      " God makes this kind of like pep talk is like what is that in your hand"
+    ],
+    [
+      0.926101565361023,
+      " what is that in your hand which this would make me feel any better if I've got the lead a whole nation until the most powerful man in the world"
+    ],
+    [
+      0.9494847655296326,
+      " let my people go yeah yeah yeah yeah what is that in your hand and Moses says give me the verse"
+    ],
+    [
+      0.8643030524253845,
+      " a staff bsv calls it a staff"
+    ],
+    [
+      0.9531898498535156,
+      " technically it's a stick"
+    ],
+    [
+      0.9750819206237793,
+      " for every sticking point in your life"
+    ],
+    [
+      0.9870586395263672,
+      " God has given you a stick"
+    ],
+    [
+      0.9270318746566772,
+      " and you've got one right now"
+    ],
+    [
+      0.9789080619812012,
+      " in order for Moses to see what that instrument could be he had to release it and throw it down on the ground"
+    ],
+    [
+      0.9086293578147888,
+      " when he released it on the ground it became sake until you surrender it you will never see what it could be"
+    ],
+    [
+      0.9663052558898926,
+      " I'm a princess say I'm going home in a minute but let me tell you something right now if you will release it if you will put it before God if you will say here's my intellect here's my will here's my understanding here's my ability you will watch it transform it will transform it became a snake to become a sign because Moses needed to know this is really God because he was stuck in himself and when you need to get out of yourself you have to release what God has given you so he can show you what it can become"
+    ],
+    [
+      0.9123126864433289,
+      " but then we have to we have to do something crazy you had to do something that I would never do he had to do something that you only do if you really love nature he he had to pick up the snake"
+    ],
+    [
+      0.8702898621559143,
+      " 21st released it and it became a snake you ran from it"
+    ],
+    [
+      0.9594382047653198,
+      " because he was smart"
+    ],
+    [
+      0.9501330852508545,
+      " not because he didn't have faith but because he had intelligence"
+    ],
+    [
+      0.90323406457901,
+      " but then got called in to reach for what he had been running from"
+    ],
+    [
+      0.9555462598800659,
+      " I promise you I feel the holy spirit so strong right now"
+    ],
+    [
+      0.7249605655670166,
+      " and when he did it"
+    ],
+    [
+      0.933170735836029,
+      " it turned back into a state"
+    ],
+    [
+      0.8494875431060791,
+      " a stick of something small"
+    ],
+    [
+      0.9735711812973022,
+      " but it would be that same stick"
+    ],
+    [
+      0.9854825735092163,
+      " I need you to know this because you've never been through this challenge before"
+    ],
+    [
+      0.919529914855957,
+      " you never been 24 before you never been 61 before"
+    ],
+    [
+      0.9759758114814758,
+      " you never been a wife before you never been a mom before I never been a dad before this is my first rodeo"
+    ],
+    [
+      0.9765762686729431,
+      " you never been through this before this wasn't on my schedule"
+    ],
+    [
+      0.9797523617744446,
+      " and I don't feel like I'm what I'm supposed to be for what I'm up against"
+    ],
+    [
+      0.9801586866378784,
+      " can I tell you what God told Moses by the power of the Holy Spirit"
+    ],
+    [
+      0.871688723564148,
+      " that when you stand in front of those Red Seas in your life"
+    ],
+    [
+      0.9854202270507812,
+      " God took him back"
+    ],
+    [
+      0.9448214769363403,
+      " and showed him the same stick"
+    ],
+    [
+      0.9057221412658691,
+      " the same stick that God had changed into a snake and back into a stick"
+    ],
+    [
+      0.9439893960952759,
+      " the same stick and he told him in Exodus 14 verse 16 I want you to take your stick"
+    ],
+    [
+      0.9290618896484375,
+      " and pointed at what you're going through"
+    ],
+    [
+      0.9613590836524963,
+      " I want you to take your stick"
+    ],
+    [
+      0.9442653656005859,
+      " and I want you to point it at what you can get over"
+    ],
+    [
+      0.9309982061386108,
+      " I want you to take your stick keep the verse up cuz this is right from the Bible and raise your staff I know it's small it always feels small"
+    ],
+    [
+      0.96598881483078,
+      " I know that some of you are visited by the Perpetual Spirit of a never enough but it becomes enough when you stretch it it becomes enough when you use it it becomes enough this is the miracle of Faith why because God changes things said God changes things that's what he does God Shane just thinks he turns mourning to dancing he changes things he gives Beauty for Ashes he changes things he turns shame into Glory he turns crosses into empty tombs he turns Graves it's a garnish turns phones"
+    ],
+    [
+      0.8717678785324097,
+      " so"
+    ],
+    [
+      0.9563583731651306,
+      " I know it feels small"
+    ],
+    [
+      0.9483855962753296,
+      " and I know for many your energy has been diminished by what you've gone through and I know some of you feel too young and some feel too old and some feel too in between and some Phil to shut up"
+    ],
+    [
+      0.8630906343460083,
+      " and trust your stuff"
+    ],
+    [
+      0.9830995202064514,
+      " don't do something stupid like give up and quit just because you feel tired"
+    ],
+    [
+      0.9491167664527893,
+      " I felt tired from the 9:30 and I came out and preach this one and I had to get in a freezing cold shower to wake up"
+    ],
+    [
+      0.9772142767906189,
+      " cuz you need this word"
+    ],
+    [
+      0.9633533358573914,
+      " so I grabbed my stick and preached it because I can't stop doing what I'm called to do just because I'm tired"
+    ],
+    [
+      0.9837289452552795,
+      " but you will have to trust that it is enough"
+    ],
+    [
+      0.9421917796134949,
+      " I think God is enough"
+    ],
+    [
+      0.9659144878387451,
+      " but that what he gave you is enough"
+    ],
+    [
+      0.9033144116401672,
+      " for where he put you this is a sticking point"
+    ],
+    [
+      0.9760715961456299,
+      " if you sit there and try to negotiate with God you will miss it"
+    ],
+    [
+      0.9535103440284729,
+      " saddest thing in the world is that Moses never even went into the Promised Land"
+    ],
+    [
+      0.7753676176071167,
+      " he got stuck"
+    ],
+    [
+      0.9308196902275085,
+      " he hit he hit a rock with his staff the same staff that he raised Over the Sea and the waters parted then they got through he took that staff because he was tired of the people and he struck the rock twice and God said now you you can't go in because you don't trust me enough"
+    ],
+    [
+      0.9823459982872009,
+      " everything you love will have a part of the process that you will not like including following Jesus"
+    ],
+    [
+      0.9679818749427795,
+      " did Jesus love the father"
+    ],
+    [
+      0.9715678095817566,
+      " then why did he ask in the Garden of Gethsemane if there's any other way I don't want to do it because everything that you love"
+    ],
+    [
+      0.8871158361434937,
+      " we'll have a park that you don't like"
+    ],
+    [
+      0.9851544499397278,
+      " I'm so sick of my generation thinking that we always have to feel happy to move forward"
+    ],
+    [
+      0.9398519396781921,
+      " sometimes we can do it because we love God enough and we love people enough and we're called and because we have a staff I got to stick I got to stick it out"
+    ],
+    [
+      0.9474725723266602,
+      " come too far to get stuck here"
+    ],
+    [
+      0.9595425128936768,
+      " show me you came from broken homes and broken families and and busted situations and God would not bring you out here to drown you he's dealing with your enemies and trust your stuff and go full ver"
+    ],
+    [
+      0.7208513021469116,
+      " and stand there"
+    ],
+    [
+      0.9613547325134277,
+      " it's a small thing"
+    ],
+    [
+      0.9500342607498169,
+      " and if you trust enough to stretch the small thing over the bigger thing I don't know what that is for you"
+    ],
+    [
+      0.9852421879768372,
+      " I'm going slow because I need you to imagine"
+    ],
+    [
+      0.9507851004600525,
+      " I need you to see yourself on the other side of this"
+    ],
+    [
+      0.9730232357978821,
+      " what is going to be like when you're helping somebody else"
+    ],
+    [
+      0.8974671363830566,
+      " and all the hell that you went through isn't wasted but it's invested"
+    ],
+    [
+      0.9518718123435974,
+      " it's the dumbest thing but I just saw a picture like Popeye or something of you just getting strong in your spirit"
+    ],
+    [
+      0.7733733057975769,
+      " cuz you push it."
+    ],
+    [
+      0.9453555345535278,
+      " You got a spotter"
+    ],
+    [
+      0.9533504247665405,
+      " God is not going to let it fall on you"
+    ],
+    [
+      0.6284618377685547,
+      " but you got to imagine okay"
+    ],
+    [
+      0.8877270221710205,
+      " Will Rejoice again"
+    ],
+    [
+      0.8769862055778503,
+      " I'll think again my children are going to be free because I fought for this"
+    ],
+    [
+      0.9601989388465881,
+      " but but you will have to come in"
+    ],
+    [
+      0.9611443877220154,
+      " you will have to you will have to walk through it"
+    ],
+    [
+      0.8763269186019897,
+      " and that means you have to walk through something that feels like a collapse on you and anytime"
+    ],
+    [
+      0.8935191631317139,
+      " The Story Goes that he stretched the staff trust in God and God made of"
+    ],
+    [
+      0.9734760522842407,
+      " don't you love this"
+    ],
+    [
+      0.966188907623291,
+      " an interstate highway through the see who else can do that"
+    ],
+    [
+      0.9403318166732788,
+      " who else can turn a sheet into a highway a stick into a snake a great only God can do it"
+    ],
+    [
+      0.9800101518630981,
+      " so the ability to walk through something that God is holding up for you"
+    ],
+    [
+      0.9184331297874451,
+      " you can't stick your right foot in and your right foot out you can't Hokey Pokey through the Red Sea"
+    ],
+    [
+      0.9489923715591431,
+      " it's going to mean saying that God I'm going to see this through"
+    ],
+    [
+      0.9700139164924622,
+      " must stay in this uncomfortable place I would rather stay stuck and have you deal with what you need to deal with I would rather stay stuck and see your purpose for my life full film"
+    ],
+    [
+      0.9491360187530518,
+      " cuz when you're standing in front of something you've never seen before hold on to what you know"
+    ],
+    [
+      0.9701670408248901,
+      " you got a sec"
+    ],
+    [
+      0.892926037311554,
+      " you got a sec"
+    ],
+    [
+      0.8418146967887878,
+      " and when it happens this week when you hit the sticking point"
+    ],
+    [
+      0.9063597917556763,
+      " it is a mood or if I don't want to say this but if it's a mother-in-law"
+    ],
+    [
+      0.8000044226646423,
+      " or if it's something real deep and dark that we can't talk about out loud"
+    ],
+    [
+      0.9002689123153687,
+      " when you hit it"
+    ],
+    [
+      0.9733063578605652,
+      " use your stick"
+    ],
+    [
+      0.9720802307128906,
+      " small"
+    ],
+    [
+      0.925858199596405,
+      " trust imagine"
+    ],
+    [
+      0.8568596839904785,
+      " commitment"
+    ],
+    [
+      0.92698073387146,
+      " and no"
+    ],
+    [
+      0.7033013105392456,
+      " that spells stick small"
+    ],
+    [
+      0.9402517080307007,
+      " trust Garden feel like much but it's enough trust imagine"
+    ],
+    [
+      0.6675726771354675,
+      " come in"
+    ],
+    [
+      0.9443489909172058,
+      " and no"
+    ],
+    [
+      0.9140726923942566,
+      " father as your word has gone forth today"
+    ],
+    [
+      0.9726507663726807,
+      " I have experienced such a joy of seeing these people receive this personal were and on the other side of the camera watching through a screen somewhere is someone who needed this message"
+    ],
+    [
+      0.8279356360435486,
+      " I'm sitting in this room as someone who has had a sticking point"
+    ],
+    [
+      0.9812431335449219,
+      " and what they do next will determine so much"
+    ],
+    [
+      0.8981745839118958,
+      " about whether they stay stock or move forward"
+    ],
+    [
+      0.8884177803993225,
+      " everyone standing at all of our locations no one leaving"
+    ],
+    [
+      0.9802428483963013,
+      " thank you Lord"
+    ],
+    [
+      0.9876290559768677,
+      " glory to your name"
+    ],
+    [
+      0.9855362176895142,
+      " thank you Jesus"
+    ],
+    [
+      0.9876290559768677,
+      " Blessed Be Your Name"
+    ],
+    [
+      0.9852848052978516,
+      " holy is your name"
+    ],
+    [
+      0.9876290559768677,
+      " Worthy is your name"
+    ],
+    [
+      0.9777114987373352,
+      " Worthy is your name"
+    ],
+    [
+      0.917988121509552,
+      " Worthy is your name"
+    ],
+    [
+      0.9278823137283325,
+      " when they got through to the other side y'all they started singing"
+    ],
+    [
+      0.9636440873146057,
+      " but sometimes you got to sing on the wrong side"
+    ],
+    [
+      0.9523362517356873,
+      " where are they is your name"
+    ],
+    [
+      0.946286141872406,
+      " sometimes you've got to sing when you feel pain and you've got to offer God the sacrifice of praise and I wish there were about a thousand people at elevation Ballantyne and a few hundred Blake be in a few hundred of gas that would just lift your hands and begin to worship God begin to thank him that he turned season 2 highways"
+    ],
+    [
+      0.8293898105621338,
+      " navigate to thank him but he turns mourning to dancing"
+    ],
+    [
+      0.8256217837333679,
+      " schools Wings & Waves"
+    ],
+    [
+      0.9770671725273132,
+      " only he can do"
+    ],
+    [
+      0.9643536806106567,
+      " thank you for joining us special thanks to those of you who give generously to this ministry is because of you that this ministry is possible you can click the link in the description to give now or visit elevationchurch.org podcast for more information if you enjoy the podcast you can subscribe you can share it with your friends you can click the share button take a screenshot and share it on your social stories and tagged us at Elevation Church thanks again for listening God bless you"
+    ]
+  ]
+}

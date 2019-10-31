@@ -1,13 +1,13 @@
 {
   "Stats": {
-    "PodcastID": "1463081342.mp3",
-    "DownloadTime": 1,
+    "PodcastID": "1463081342",
+    "DownloadTime": 2.448308467864990,
     "AudioLength": 160.496333,
     "OriginalFileSize": 1998261,
     "FlacFileSize": 13419483,
     "TranscriptionMethod": "googlecloud",
     "TranscriptionTime": 91.41775012016296,
-    "DownloadSuccessful": 2.4483084678649902
+    "DownloadSuccessful": 1
   },
   "Transcripts": [
     [

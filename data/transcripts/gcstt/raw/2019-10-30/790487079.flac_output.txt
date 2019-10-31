@@ -1,0 +1,422 @@
+{
+  "Stats": {
+    "PodcastID": "790487079.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 2879.973878,
+    "OriginalFileSize": 46463704,
+    "FlacFileSize": 244359892,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1049.3717761039734,
+    "DownloadSuccessful": "30.661908388137817"
+  },
+  "Transcripts": [
+    [
+      0.9493911862373352,
+      "sword and scale contains adult themes and violence and does not intended for all audiences listener discretion is advised"
+    ],
+    [
+      0.9198669791221619,
+      " by the time that you go home at University 6:37 at night have you decided in your mind what you going to have to do and what was that"
+    ],
+    [
+      0.9312437772750854,
+      " then I'm going to have to"
+    ],
+    [
+      0.8880200386047363,
+      " dismember my dad"
+    ],
+    [
+      0.9304324984550476,
+      " hello welcome this is season 6 episode 1 4 9 of sword and scale a show that reveals that the worst monsters are real"
+    ],
+    [
+      0.9222073554992676,
+      " a little housekeeping before we start last time I said her lapel pins have been shipped out and that you should email us if you haven't gotten yours"
+    ],
+    [
+      0.9724342823028564,
+      " what I should have said was that you should email us if you haven't got yours and actually qualified for one by signing up before the deadline of July 31st with a valid mailing address and credit card I did it to myself and we're underwater here trying to keep up with all your emails but that's okay because it let us know that you guys really really really love lapel pin so we're making another one in fact we're making a set of four design by the same artist Lily back or is it bayek anyway one of these pens will be a spinner and one will be a throwback to one of my favorite episodes about the heist at Harvey's Wagon Wheel Casino in episode 70 diesel go out to various tears starting at the $10 level in just a few months and you'll have to be signed up at the time to get it thing is we're not going to tell you what we're just going to have to sign up and stay there"
+    ],
+    [
+      0.973720133304596,
+      " that is after all the business model details but the $50 and up tears will get the full set of course $25 level will get a set of two and $10 will get one randomly selected pin but if you're a plus member at the time at any level you'll be able to purchase the set or the ones you're missing at a discounted price if you're not a plus member sorry but you won't be able to get it at all your money is no good here we want you to be a plus member again business model so make sure to keep your address updated and stick around for updates and now let's stop talking about pins and get into a little murder shall we"
+    ],
+    [
+      0.9656921029090881,
+      " I'm addicted to this game I think I made it to like level 18 on the first day have you played best fiends it's a casual puzzle-solving game that's easy to play easy to fall in love with playing it's not like those other games you've heard about with the candy in the one. But puzzles are much more engaging and the characters are really cute with slugs being the antagonist I just love getting a Slugma get in as you progress through the various levels you collect characters and then upgrade them to get special capabilities best fiends updates the game monthly with new levels and event so never gets old it's the perfect game to play on a cross-country trip or even a trip to the bathroom it's casual play great for playing anywhere and you can download for free and get your brain with fun puzzles and collect tons of cute characters to best fiends is the Five star rated mobile puzzle game with over a hundred"
+    ],
+    [
+      0.9381847381591797,
+      " million downloads globally download free on the Apple App Store or Google Play That's fiends without the our best fiends download best fiends now and start playing"
+    ],
+    [
+      0.952610433101654,
+      " remember when Society valued hard work the term self-made man used to be a thing a person that others looked up to someone who through hard work and sheer determination has made something of themselves and today's and titled Society this term is all but forgotten"
+    ],
+    [
+      0.9734655022621155,
+      " couple that with the inherently American materialistic culture of Glitz and Glamour and shiny things and you end up with an overarching General fog of a window longer expect to work for the things we want we want them to be given to us let someone else pay for it give me the check give me a universal basic income that's no longer a handout it's our Birthright to take what should be ours and it doesn't matter who we're taking it from"
+    ],
+    [
+      0.9627836346626282,
+      " $800,000 the cost of a moderately nice upper-middle-class home in South Florida $800,000 your reward for chopping up a desecrating the body of the man that raised you and took you into his home and most importantly of all gave you life a life which you decided to improve with a trip to Home Depot and a saw in the garage $800,000 hey after all"
+    ],
+    [
+      0.9876290559768677,
+      " it is your Birthright"
+    ],
+    [
+      0.9721404910087585,
+      " a sense of entitlement is a cancerous thought process that is void of gratitude and can be deadly to our relationships take a moment to think about that let me read it back to you one more time a sense of entitlement is a cancerous. Process that is void of gratitude and can be deadly to our relationships"
+    ],
+    [
+      0.9653319120407104,
+      " it's unknown where narcissistic behaviors come from with some sources citing that it is a complex disorder it said that it could have come from either overbearing or neglectful parents or could derive from a disorder we haven't fully discovered growing up in Michigan James scandirito II admired his father James skip scandirito who was the judge in Mount Clemens is Mother Teresa was a process server for the same court in which her husband worked but in April of 1999 news broke that skip it been involved in quite a scandal women began coming forward claiming that he had been offering to lower sentences and quote make their lives easier in return for sexual favors"
+    ],
+    [
+      0.9663267135620117,
+      " after the accusations surfaced skip resigned from his position and entered into retirement with his wife following suit shortly after the pair decided they needed to get away from Michigan and headed down to Boca Raton a city just north of Fort Lauderdale Florida James decided to join them and relocated to the Sunshine State while they may have been retired to Reese went back to work for a brief period at the Cricket shop in Delray Beach but her spare time was cooking and entertaining family and friends something she loved to do she was happy with the way life was going and she had her husband by her side and her son had a degree in law but it made his wealth in real estate not to mention James had just married a young Brazilian woman"
+    ],
+    [
+      0.9643775224685669,
+      " unfortunately Teresa's Health rapidly began to decline and after a series of tests and blood work he was diagnosed with lung cancer the years passed and both Skip and James cherish the time they had with her on April 28th 2017 she lost her battle it was around this time that James himself had suffered. Only the loss of his mother but also his job and had himself gone through a divorce so we decided to move in with his dad Skip and while most would take the time to grieve after a death the party for James and Skip had just begun between the money Ledger and the drugs and alcohol the two were having the time of their life"
+    ],
+    [
+      0.9588094353675842,
+      " it was actually somewhat of a relief for the younger scandirito as he had become accustomed to these things prior to losing his job that is until James came home one day to find his father was nowhere to be found on March 29th 2018 Betty butcher a friend of Skips had plans to attend the Miami Open tennis tournament the night before she arrived home from a day of playing golf and noticed she had a message on her answering machine from skip to call them back to converse with them about their plans for the tournament the Miami open"
+    ],
+    [
+      0.8201903700828552,
+      " Angie Harmon"
+    ],
+    [
+      0.94677734375,
+      " very funny after his wife's untimely passing skip enjoyed spending time with Betty he was an avid golfer as he was and the two enjoy the same types of a vet's such as the tennis tournament they would be attending"
+    ],
+    [
+      0.9554376006126404,
+      " but the phone call they shared that evening would be their last"
+    ],
+    [
+      0.8540326952934265,
+      " I received a text"
+    ],
+    [
+      0.9553678035736084,
+      " sure be coming this way on April 1st James called the Boca Raton police department and explained he had come to his father's house only to find a missing after calling the police he called his father's friend Gary goodin who came to the home in support of the younger scandarito what detectives arrived at the luxurious home they began noticing things out of place right away especially in the garage"
+    ],
+    [
+      0.7968786954879761,
+      " the only garage"
+    ],
+    [
+      0.9505609273910522,
+      " are there back inside the home detectives Tim Curtis and Scott Hanley sat with both of the men at the kitchen table to take a recorded statement after taking the statements detective Hanley informed both of the men that they were going to need to vacate the premises as it was going to be considered a crime scene ultimately agreed to leave the residence as he was gathering items to take with him detective Hanley observed as James took a cell phone off a cabinet and slid it into his pocket"
+    ],
+    [
+      0.908673882484436,
+      " can you read me directions to the frontier myself to my neighbors were shocked to hear that skip was missing for one especially as she had seen him just prior to his disappearance"
+    ],
+    [
+      0.9576906561851501,
+      " missing on Saturday I spoke to him my boyfriend spoke to him in our next door neighbor we were all at the back then talking about you just saying hi and how nice it was outside always in a great mood you know and he was introducing us to the neighbor was that of ordinary or and she's actually talking to my boyfriend about Kayaking and stuff like that because he likes to kayak and just an outgoing person in the neighborhood I know he's lived here for a very long time"
+    ],
+    [
+      0.9632540941238403,
+      " crime scene technicians arrived on scene and begin processing the home with the use of a substance called Blue Star similar to what is commonly referred to as luminol throughout the garage splotches of luminescence were found indicating the presence of blood and a cleaner"
+    ],
+    [
+      0.842086136341095,
+      " the area where we are."
+    ],
+    [
+      0.9542505741119385,
+      " is it that pain area and what are we see on the bottom they continued finding illuminated areas into the home and the dining room and hallway guest bathroom after processing the home for blood evidence crime scene technicians were tasked with going through skips SUV at the police impound right away the smell inside the vehicle had begun to give hints of what could have possibly occurred are you familiar with that smell"
+    ],
+    [
+      0.9328327775001526,
+      " nice when you open the door get into the car okay continue until there was that we had if they were truly cares about himself has to look at all of the evidence they were finding that suggested bow play they were missing one thing"
+    ],
+    [
+      0.9876291155815125,
+      " the body"
+    ],
+    [
+      0.9687836170196533,
+      " what's your favorite part of True Crime for many like me it's the whodunit aspect looking into the various Clues try to figure out who could be capable of murder imagine if you yourself could solve crime you think you have what it takes well there's one way to find out hunt a killer the murder mystery box that Embraces you into the mind of a detective with every delivery you'll see through elaborate case files and evidence eliminating suspects until you crack the case and catch the killer huntakiller will send you a series of boxes that are all part of a season these Clues beat up to finding the killer it's a great game experience together with others who love true crime or order some takeout and have a really exciting date night while solving a crime it's really cool to open up a box and see all these physical clue"
+    ],
+    [
+      0.9705834984779358,
+      " so you can sort you at your own pace right now you are listeners can go to huntakiller.com sword for 20% off your first box hurry up to take advantage of this offer and embrace your inner detective that's huntakiller.com sword for 20% off your first box huntakiller.com sword and you know what it's not about catching the murderer it's about the friends you'll make along the way check out huntakiller today huntakiller.com sword let's talk about the holidays yeah I know I know it's crazy early to start talking about the holidays but trust me you don't want to go through another holiday season taking closed-mouth photos while everyone else is grinning ear-to-ear do you getting a photo ready smile starts right now and it's easier than ever with clear aligners from candid river that tooth cap I used to have a while back yeah it's kind of gone"
+    ],
+    [
+      0.9747012257575989,
+      " candid aligners can straighten your teeth faster than traditional wire braces treatment takes just six months on average an experienced orthodontist who is licensed in your state creates a custom treatment plan then shows you a 3D preview so you can see how your teeth will look after you're all done candid aligners are comfortable removable and completely invisible can it ships your liners directly to you so there's no hassle of going to an orthodontist's office and can it cause 65% less than braces and with each a lighter purchased candid donates $25 to Smile Train brings safe 100% free cleft lip and palate treatment to children around the globe now's the time to get ready for the holidays guys get your photo ready smile started get your photo ready smile in time for the holidays go to Canada co.com sword that's candid Co. Com sword and use code sore"
+    ],
+    [
+      0.9551665186882019,
+      " to get $75 off that's candid Co. Com sword code sword for $75 off candid Co. Com sword code sword do it today and smile big on the holidays"
+    ],
+    [
+      0.9662930369377136,
+      " based on James behaviors after the investigation began detectives Curtis and Hanley began to suspect that the younger scandarito was involved in his father's disappearance the fact that there was a lot of physical evidence that indicated Foul Play began to make their suspicions even stronger"
+    ],
+    [
+      0.9383962750434875,
+      " strong suspicion of things that you can make inferences from about what he's acted how he's acting what he's saying that could be promoted and one of them as well as you wanted to read body language private investigators had to look into where James had been between the time he had spoken to Betty and the time they had been alerted to his father's disappearance"
+    ],
+    [
+      0.9256032109260559,
+      " to their surprise it appeared James had been doing his own investigation for more time"
+    ],
+    [
+      0.8971356153488159,
+      " do you know what I mean score"
+    ],
+    [
+      0.9559444189071655,
+      " something like that to the detectives that it was possible his father had gone out kayaking and possibly encounter trouble along the way he tried to point them in the direction of where his vehicle may have been but they already had in possession and had process the vehicle for evidence after the interview with James detectives were able to track down the places he had been in the days prior obtaining video evidence of him shopping at Home Depot Gathering cleaning items a hefty Dolly and a saw"
+    ],
+    [
+      0.9731789827346802,
+      " during the surveillance operation in the early morning hours of April 4th detectives observed as James drove to the Ocean Breeze Golf Club the golf club was no longer in business but a place that both Skip and James had spent a lot of time together it appeared that James was carrying a bag and disappeared into the course they observed him coming back a short time later and this time was carrying a suitcase that he discarded into a dumpster"
+    ],
+    [
+      0.9389475584030151,
+      " inside of the suitcase was blood maggots the compositional tissue as well as some clothing that was soaked in blood detectives near this area was a heavy interest to look into two other detectives were called out while they searched the defunct Golf Course. 28 continue to walk a little bit Windows love is law enforcement do when you do when you get that area with a fresh ham"
+    ],
+    [
+      0.6131052374839783,
+      " Ed Sheeran"
+    ],
+    [
+      0.8940767049789429,
+      " and are the banks are open in the number to the jury what you sow in the back door open arms were severed was the second band that was still secured open as well"
+    ],
+    [
+      0.8694320917129517,
+      " set reminder 5"
+    ],
+    [
+      0.9193698763847351,
+      " within a few days the medical examiner's office was able to identify the remains as that if skip scandirito dr. Reinhard Motel handled skips autopsy member from mid side we're looking at the phone still attached to him I didn't do this this is the Way You Are song"
+    ],
+    [
+      0.9649904370307922,
+      " middle ear bones with a body physical evidence and a slew of other circumstantial evidence James was brought into the Boca Raton police department on April 9th and presented with the information the police do when he arrived he was placed in handcuffs and taken into an interrogation room as a result of our investigation we have a really good idea of what happened when things happen just a little concerned about why certain things that happen"
+    ],
+    [
+      0.910111129283905,
+      " but that's why we came up here today was to call let you know"
+    ],
+    [
+      0.9291160702705383,
+      " that we didn't I find your father has been identified"
+    ],
+    [
+      0.5704655647277832,
+      " flip a coin"
+    ],
+    [
+      0.9388496279716492,
+      " and unfortunately based on the information we have we know that you're involved 100% but I want to be able to at least draft in a report basically that we met with you today"
+    ],
+    [
+      0.8763490319252014,
+      " and are able to outline some text to indicate that you're not the monster that people might think you are"
+    ],
+    [
+      0.8135906457901001,
+      " does that make sense"
+    ],
+    [
+      0.9395526051521301,
+      " I'm not going to say anything"
+    ],
+    [
+      0.9484010338783264,
+      " I think I need to have a lawyer obviously James scandirito II was charged with first-degree murder in regards to his father's skip but was everything the detective has had as it appeared"
+    ],
+    [
+      0.9538992643356323,
+      " what was the truth behind this grisly discovery"
+    ],
+    [
+      0.9401495456695557,
+      " on March 11th 2019 James went on trial for the murder of skip but he testified that he didn't murder his father you testified that what happened in the scandirito home on the evening of March 28th 2018 wasn't at all what it seemed to smoke marijuana right vs Hannibal just screw your dad is as well just drinking alcohol beers a good time to use in the other truck he takes pain pills for his knee and hip I guess"
+    ],
+    [
+      0.9123374223709106,
+      " so he took some and you know how long he'd been taking Painesville"
+    ],
+    [
+      0.8505668640136719,
+      " I want to say croissants is that the pain"
+    ],
+    [
+      0.866427481174469,
+      " I know of him taking Percocet for a long time"
+    ],
+    [
+      0.8987897038459778,
+      " mainly because he has bad knees and hips and replace a lost for words so I know he takes pain pills pain pills for his you know his injuries from were you aware of other health issues that your dad hat"
+    ],
+    [
+      0.9576021432876587,
+      " green head in a heart problems in the past he had triple bypass had to be broke his neck he was in Brazil and he was body surfing in Brazil any the wave took him down and landed straight on his neck and he broke his neck and he was depressed before you know it sometime after my mom died he doesn't seem depressed you know he seemed like he was just same old guy but he had talked to some people about that and talk to me about that I was one reason why we went to the keys for the holidays that time when your mother and your nail your wife I isn't around for the holidays first holiday"
+    ],
+    [
+      0.950893759727478,
+      " so you cook together that night"
+    ],
+    [
+      0.9549542665481567,
+      " and I don't do much cooking meal I did my dad my dad weren't does on the grill and warm some things up in the microwave and call the house yeah I was like right after we after we're done eating the two decided to pass the time using marijuana and kicking back some beers in father-son bonding time that is until James decided to pull out a stash of cocaine after you finish watching Survivor that night what do you do if I'm chatting with my girlfriend probably some other people prior to that I actually started doing some cocaine"
+    ],
+    [
+      0.9546948671340942,
+      " my dad didn't want to do any said he had a good buzz and yeah I knew he was going to get up the next morning I really need to go play tennis or go watch the tennis match so he didn't partake in any which wasn't was an unusual that he did God and retrieved a silver platform platter which both men would typically put the cocaine on to use when smoking marijuana it's basically we just set the marijuana on the table there you know either the vape pen or the horde of the bag of marijuana for for smoking and for what do we do cocaine we have a little bit of a"
+    ],
+    [
+      0.9270650148391724,
+      " I don't know how to be call if it's like a hors d'oeuvres server kind of a dish the kind of has raised up a little bit and it's like a platform kind of a circular maybe sits in 06 in so high so that's kind of what we would do cocaine off of so that's what I had set up on that table there okay"
+    ],
+    [
+      0.9493435025215149,
+      " he said I have a good buzz James claimed he wanted to go smoke a cigarette something his father didn't like to see Therese passing away from lung cancer Coke a perfectly acceptable though you smoke cigarettes doesn't want me to do it in the house you know my mother died of lung cancer so it's not really but you know it and I do and so I generally go back out to the back patio back by the pool there's an area there's a little table area so I'll sit back there"
+    ],
+    [
+      0.7538159489631653,
+      " she was terrible life and was diagnosed with"
+    ],
+    [
+      0.927721381187439,
+      " not not too much I may occasionally you smoke cigars on the golf course if I'm all the time but in terms of cigarettes and I like how much not much in front of them outside James have been texting with his girlfriend and watching a soccer game on his iPad and lost track of time while he was out there"
+    ],
+    [
+      0.9390166997909546,
+      " that time from you know roughly 9:45 to 11:30 do you see your dad at all no no all right is there a time that you go back into the house I think it went to the bathroom one time I probably cut right through my the back of my dad's bedroom opens up to the pool area so I probably won't use my dad's bathroom and came that count okay when do you have to be your father"
+    ],
+    [
+      0.9749897122383118,
+      " I come come inside a good guess you know was some around 11:30 right after I was done communicating with mayara you know within 10 minutes probably of that I come in the back door and I don't see him in the chair and the back patio door I don't see him in the chair as I come around I see him he's on the floor kind of on a side between the the table and his chair kind of with his head rested against the the couch and I yelled at he's okay and no response. Maybe just passed out or something so I kind of grabbed them and shake them a little bit and"
+    ],
+    [
+      0.9402318596839905,
+      " nothing I checked his pulse said his neck there was no pulse at all I try to roll him over and it's kind of a tight little quarters that I kind of tried to roll him over pushing on his chest and there's no response he feels like he's"
+    ],
+    [
+      0.8455845713615417,
+      " not be this good body temperature isn't what it normally is with you know it's feels cold but"
+    ],
+    [
+      0.9627365469932556,
+      " like it had to happen and you know a little bit before then certainly he had knocked over all of the cocaine that was on the the server the appetizer server that was on the floor was on the couch and was on him and he was just kind of laying in it and my my once I saw all of that my first reaction was that he might have done liner of cocaine and just passed out onto the table James didn't want to call 911 he began to believe that if his father had done the cocaine he had brought to the home the younger scandirito would be to blame James knew he had to sober up and act quickly skips friend Betty was supposed to be arriving at the home only hours later so James retrieve his father cell phone and send a message saying that both James and Skip would be attending the Miami open together"
+    ],
+    [
+      0.9523380398750305,
+      " it would hopefully by him enough time to Stage his father's death as if he had died during a sleep with James wasn't prepared for was the deadweight that he would have to move so he waited until morning where he went to Home Depot and purchased a dolly along with some other previously mentioned items I know Home Depot opens up at 6 and I know they have dollies there guess what"
+    ],
+    [
+      0.9692713022232056,
+      " well the gas can and I thought that you know if I ever have to explain why I why I bought a dolly I can explain it as you know I needed to move my dad's power washer because it's really a two-person job and get to lift it into the put it in and out of the back of the truck and I know he has a gas can that doesn't have a top on it so again I wasn't thinking anything other than you know"
+    ],
+    [
+      0.9507272243499756,
+      " I need to you know possibly justify why I would buy a dolly at that time I had already started thinking you know what do you know what am I going to say how out what am I going to do that kind of stuff in so at that point in time when you buy the Box the dolly what is your plan for how you're going to handle it"
+    ],
+    [
+      0.9385928511619568,
+      " well there's really no I would never say I ever had a plan you know my my thought was to kind of roll them over onto the dolly and then pull him out in at that by that point you know it had been"
+    ],
+    [
+      0.9546144604682922,
+      " 7 oz 6 or 7 hours maybe since he passed away and I can maybe I should just put them in in his bed that way I can when I woke up he was dead in his bed but after obtaining the dolly James realized moving his father was still going to be a lot of work and that's when his mindset began to change without options James was going to have to take drastic measures to protect himself"
+    ],
+    [
+      0.8792754411697388,
+      " you know roughly 6:37 at night have you decided in your mind what you going to have to do I have and what was that"
+    ],
+    [
+      0.8889755010604858,
+      " then I'm going to have to it"
+    ],
+    [
+      0.8883528709411621,
+      " dismember my dad"
+    ],
+    [
+      0.9802014827728271,
+      " to be able to move him out of the house"
+    ],
+    [
+      0.8942936062812805,
+      " now when he is on the dolly if you paid with his front or his back hard to the racing parts"
+    ],
+    [
+      0.8430985808372498,
+      " is back to the dolly in the garage okay and do you do when you are his number"
+    ],
+    [
+      0.8794896602630615,
+      " yes could you overheard the medical examiner talk about that"
+    ],
+    [
+      0.8328733444213867,
+      " Benjamin back to front just okay is on the dolly while you are coming"
+    ],
+    [
+      0.9610819220542908,
+      " yeah cuz I thought I roll the dolly over when I am doing the dismembering of the extremities having Those portions that are hanging off of the dollar okay there's if there's a space in front of the course you seen it all many times in front of the refrigerator when you come out of the garage on the left side of neck to look unless I got Jesus face there so I had to lead a clear tarp down the dolly was on top of the cart on top of the tarp and then I had another tarp that went over over the top of the of the dolly and in the end the plastic tarp that was underneath the dolly after cutting up his father's body into pieces replaced the pieces into black garbage bags and attempted to seal the bags by wrapping them thoroughly with duck"
+    ],
+    [
+      0.903383731842041,
+      " eventually ended up putting them all into 3 suitcases"
+    ],
+    [
+      0.9036086201667786,
+      " it seemed like I was doing it all night and I know documoto said it was easy and then"
+    ],
+    [
+      0.8952627778053284,
+      " maybe it's not in a physically strenuous but you know it wasn't"
+    ],
+    [
+      0.9320029020309448,
+      " it was not something that I it was a quick if it was a long time I would"
+    ],
+    [
+      0.9536615014076233,
+      " take frequent breaks go out through the garage door in the outside of the house inside the house have cigarette smoke cigarettes and just you know your status was Linda Snyder was happening James was faced with the problem of trying to hide the desecrated body that's when he chose to place the dismembered pieces of skip at the Ocean Breeze Golf Club where he and his father had spent countless hours together someplace that was special for the entire family but would this story be acceptable to a jury because he was the sole heir to his $800,000 estate couple that with the fact that James had lost his six-figure income and the ability to party and enjoy the company of young women fortunately for James dr. mote a concluded there was no indication of homicidal violence against skip"
+    ],
+    [
+      0.9266307353973389,
+      " Hammond Heartland days meeting his car his arms and his car were full of cholesterol on bypass 34 by pacifier or they take blood vessels that would be cool if I passed with bad artery and can I complain. It was a little bit more than you deserve any signs of external trauma on the portions of the body that you observe other than is milk after 10 days of trial the jury reached a verdict"
+    ],
+    [
+      0.9560782313346863,
+      " we find the defendant guilty of abuse of a dead human body as charged in the indictment not guilty of murder but guilty for the dismemberment of his father on June 21st exactly three months after hearing the verdict James was back in court to hear his sentence James pleaded with a judge for 24 months in prison with probation as a sentence is attorney spoke on his behalf stating she had seen her client weep multiple times throughout the time they were working together but Judge John Castro next wasn't having it"
+    ],
+    [
+      0.9608670473098755,
+      " James scandirito Jr ended up getting 15 years in prison for the dismemberment of his own father in the aftermath of this absolutely terrible and avoidable tragedy skip sister and niece are fighting for the rights to his estate they almost many others believe that James should have no rights over the $800,000 in equity and other properties"
+    ],
+    [
+      0.9745696783065796,
+      " his sister and niece have been quoted as saying that even if they get nothing out of the estate as long as James doesn't get a piece of it they are happy and okay with whatever is done with the money $800,000 the cost of a moderately nice upper-middle-class home in South Florida $800,000 your reward shopping up and desecrating the body of the man that raised you and took you into his home and most importantly of all gave you life a life which you decided to improve with a trip to Home Depot and a saw in the garage"
+    ],
+    [
+      0.9642553925514221,
+      " $800,000 after all it is your Birthright"
+    ],
+    [
+      0.9282938838005066,
+      " is it for this episode of Sword and scale thank you once again for tuning in and listening remember so I have the plus get your PIN get your Birthright see you next time they say"
+    ],
+    [
+      0.93439781665802,
+      " hey Mike I just wanted to say that your podcast is absolutely amazing I've been a fan since day one and I just wanted to say that episode 69 you would recommend that the end of the show sister crayon unbelievable woman I love the music you play and I love the stores you tell keep keep it on me"
+    ]
+  ]
+}

@@ -1,0 +1,1270 @@
+{
+  "Stats": {
+    "PodcastID": "1184022695.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 8049.319067,
+    "OriginalFileSize": 128934815,
+    "FlacFileSize": 681221497,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 2713.0311884880066,
+    "DownloadSuccessful": "56.95077037811279"
+  },
+  "Transcripts": [
+    [
+      0.9680291414260864,
+      "welcome to season 2 episode 32 of the Jordan B Peterson podcast. I'm Michaela Peterson dad's daughter and collaborator today's episode is a 12 rules for life lecture recorded in Edinboro on October 28th 2018 I'll admit it I had to Google how to pronounce Edinborough I haven't been saying Edinburgh but I have been calling it Edinboro so that's embarrassing for me but I figured I'd admit it I've named this lecture the topic of Truth which is why partly I admitted the whole Edinborough thing I really like this lecture telling the truth isn't easy but it's easier than the repercussions that come from lying I've had a hard time learning that to be honest I keep relearning it that'll never stop probably well I hope it doesn't one day you know when you're in a situation and is easier to not say something or to change the story just a tiny bit it doesn't seem to ever be a good idea or workout"
+    ],
+    [
+      0.9726963639259338,
+      "scared to tell the truth but it's worth that life can get really convoluted and confusing very quickly if you lie I've been trying to sort out my life which you would assume would be easier with a father like mine but it's still not easy I have a lot going on social media has been particularly vicious this month with Dad's health problems in my relationship I've been separated since June 2018 but just started talking about it recently we co-parent my daughter Scarlett I just hired my access my business manager and he helps me manage my dad as well we're going out for dinner tonight we're good friends and life is complicated with people like to throw judgment around and forget that people online are real people best thing you can do I think in response to that is to be honest or is Dad says at least don't lie I'll try to update people soon about how he's doing if you're worried please don't wear Peterson's we've got this"
+    ],
+    [
+      0.8154005408287048,
+      "my next year will be joking about it"
+    ],
+    [
+      0.9672038555145264,
+      " recently Bitcoin Prices rose after China devalue its currency and markets tanked Bitcoin as a way to hedge against government failures and for me the best place to trade crypto is etoro you Toro social trading platform has over 11 million active Traders and facilitates / 1 trillion dollars and trading volume per year globally you can access the world's best cryptocurrencies they have 15 different coins available not just pick one Dave Lowe and very transparent fees Advanced charting features for smart strategy building and if you don't actually spend money you can try it out before you try it with a virtual portfolio and $100,000 buy something to look into because Bitcoin isn't going away and there's no harm in a virtual portfolio I finally received a book called the Bitcoin standard which I haven't read yet but I'm going to decline something to learn about if you haven't already and eat or was an excellent place to start figure out how to trade make a bunch of money succeed in life eat more meat and never going to stop sticking that died if I sense this podcast by the way sign up"
+    ],
+    [
+      0.862448513507843,
+      " jie toro.com Peterson that's e t o r o.com Peterson check it out"
+    ],
+    [
+      0.9772761464118958,
+      " do you ever wonder where your family comes from I was obsessed with this when I was trying to figure out some of my health problems number of years ago went down a rabbit hole of Adderall induced searching for my past obviously that was the 23 year-old me and not current me it was incredibly interesting though ancestry DNA is a great tool to delve into your genealogy because you much more than just the places you're from you can trace your ancestors Journeys overtime following how and why your family moved from place to place they've combined DNA results with over a hundred million family trees and billions of Records to give you more insight into your genealogy Nora we found out my dad's side is Norwegian Irish British and German my grandma's father so my great grandpa arrived on a boat from Germany in the 1910s we found out my grab on my dad's dad is half Irish we thought he was fully Norwegian it's kind of sad how much of this family lineage can get lost if people don't keep track of it I think it's worth spending a bit of time trying to track backwards"
+    ],
+    [
+      0.9439155459403992,
+      " so your kids can have it and keep it up to date is easy to do they send you a kit you spin a tube and they test your DNA to figure out where your family's been go to ancestry.com Jordan today for 20% off your ancestry DNA kit that's ancestry.com Jordan for 20% off your ancestry DNA kit ancestry.com Jordan"
+    ],
+    [
+      0.9630469083786011,
+      " I'd like to talk to you about Elysium and NAD Elysium is a company and it's run by people from MIT that attempts to translate breakthrough scientific advancements in aging Research into Health they have a product called basis which is the first and only dietary supplement based on 25 years of research in the signs of aging it works by giving you more NAD and activating what scientist call our longevity genes need an ID for mitochondrial function how we make energy for DNA repair system for regulating our sleep-wake cycles and those levels decline in our bodies by as much as 50% by middle-aged this week listeners can get $45 off a six month subscription by using Code Jordan additionally Elysium health is giving listeners a limited-time offer of $80 off a 1 year subscription by using Code Peterson for the month of November this is our best offer of the Year visit trybasis.com Jordan that's trybasis.com Jordan"
+    ],
+    [
+      0.9096915125846863,
+      " the promo code Jordan $45 off a six month subscription and Peterson for $80 off a 1-year subscription that's a great deal on a groundbreaking supplement"
+    ],
+    [
+      0.9556177854537964,
+      " the topic of Truth by Jordan B Peterson 12 rules for life lecture"
+    ],
+    [
+      0.9872779250144958,
+      " thank you"
+    ],
+    [
+      0.9681823253631592,
+      " thank you very much the first thing I'd like to say is that you have an absolutely amazing City that's why I came here first about two years ago I only spent a couple of days but"
+    ],
+    [
+      0.9699926376342773,
+      " it's just the only city I've really been and I think that was more impressive was or as impressive let's say was bruised bruised is staggeringly beautiful but Edinborough is really really something so congratulations and I see that you're tearing down a fair number of those hideous 70s buildings that were built and then good riddance to those bloody things math one of the horrible things about being a psychologist in the University of North America is that you are destined to occupy the most hideous building on campus to delete the older campuses are quite beautiful you know what to the degree that they were built on a church architectural what would you say ethos there they have that kind of grand Cathedral light expands and then the newer ones while they're more like knowledge factories and so they're they're kind of hideous and then the Pinnacle of hideousness is always the psychology building cuz it was built in like"
+    ],
+    [
+      0.9699467420578003,
+      " 1875 when I don't know what happened to Architects is like they had a collective break down and built these horrible cinder block buildings with windows that don't open because we were going to run out of oil if you know back in 1975 so people weren't going to be allowed to open up their windows so seeing all those 70s monstrosity is get demolished out of your beautiful city of things put back in their proper perspective is really nice anyways it really is a remarkable places I've always struck what I come to Europe because there's a dearth of Beauty in North American cities not all of them the New York's a real exception and I would say also so is Montreal but after New York and Montreal it's downhill pretty damn quick while they're Chicago Chicago has some great architecture but come to Europe what the hell it was with you people you you got obsessed with Beauty in some strange way and I made it so so staggeringly important"
+    ],
+    [
+      0.968271017074585,
+      " centuries in centuries to make things beautiful beyond belief and you know it was expensive to do that and it required a tremendous input of Manpower and unremarkable vision and it's paid off in Spades the way because everybody comes all over from all over the world to Europe to to it's like a pilgrimage to beauty and so that's really something so obviously it was a very wise idea and one of the rules that I'm working on for my next book is so make your big one room in your house is beautiful as possible because I think it's very important for people to have a relationship with beauty because it is a strange thing that's hard to it's like it's like it's like music or any other art for my supposed to course partaken Beauty it's it's difficult to it's difficult to get a grip on exactly what it is what what is beauty who knows but it's it's something that calls you to be more than you are that something and it's it's a celebration of the"
+    ],
+    [
+      0.9694550037384033,
+      " stability of life as well it just hurts just surround yourself with what's beautiful is two bits to set the stage for living a life that's aiming higher and whenever I come to Europe and see so many also I traveled with my wife through we we drove from we drove from Amsterdam to to Prague and then back a couple years ago and we decided that we would use the you and UNESCO world heritage sites as a guide UNESCO has done a pretty good job of describing or protecting or marking out remarkable natural and and constructed parts of the world for special consideration and so if you use the UNESCO guide there's un sites that qualify all of them but I think the square mile in the middle of a UNESCO site world heritage site and so we"
+    ],
+    [
+      0.9726303815841675,
+      " went through all these world heritage sites a lot of them were Medieval Villages as well in East in East Germany they put those old back together and they're so damn beautiful you go to those they just bring tears to your eyes you know it's really something to see that and so it's so magnificent so it's such a pleasure to be here in two just to walk down the streets to see that it's really that that that sense that you should build something that would last that's part of what's here that that isn't in North America because things are so well you know buildings are built on a to turn over quite rapidly they're mostly and there's no shortage of hideousness as a consequence of that and any kind of shallowness that that's also alienating the other thing I really like about European cities is that you really feel that people belong in the moment and really modern cities people seem like what kind of quieter the place up here"
+    ],
+    [
+      0.9502347111701965,
+      " it's all beautiful except for the people they're kind of making it ugly and so if you just got rid of them it would be all pristine and beautiful and I never really filled out any European city it feels like that's where people live in they've been there a long time and it's a good thing that they're there so anyways it's if it is a great pleasure to be here and so and so and so thank you for that all of that"
+    ],
+    [
+      0.8699362277984619,
+      " it's my pleasure Your Man"
+    ],
+    [
+      0.8765160441398621,
+      " so"
+    ],
+    [
+      0.9505985379219055,
+      " I talked but I would I always pick a question to talk about if he if you're going to organize to talk or if you're going to write an essay you need to have a question you know that's your topic question I suppose your topic statement your grammar's teachers grammar school teachers probably taught you about the necessity of those but you do have to have an organizational Point you're aiming at something you have to be aiming at something to be vaguely coherent in to be on track and so I thought I would concentrate on Rua late tonight Andrew late is tell the truth"
+    ],
+    [
+      0.9560673236846924,
+      " or at least don't lie about reason original formulation that rule was just tell the truth that was I wrote 42 Rules for a website called Cora I outlined in that that in the preface to 12 rules for life and I did that because some kid written in what are the most important things that everyone in life should know I've been answering a lot of Korra questions about 50 or so it's not a tremendous number but the fair fair number will stay out of curiosity and"
+    ],
+    [
+      0.938097357749939,
+      " I thought I'd take a crack at that one and"
+    ],
+    [
+      0.9659348726272583,
+      " and so I wrote 42 Rules and and and they were very popular was interesting to see you can track how many responses your quora answers get a and most of mine didn't get very many responses and small minority got the overwhelming majority of responses and that's in keeping with a principle that I've discussed quite frequently in my YouTube video seen the Forbidden 12 rules for life called the Pareto Principle in the Prix de principle is that almost everything fails completely and something succeed overwhelmingly and it doesn't matter what the domain is so I would say two of my quora questions probably got 98% of the attention you know one and that's not a typical you think about pop music right it's like how many pop music songs are written everyday God only knows there's just and then put online this just while hundreds of thousands of them online and hardly any of them ever"
+    ],
+    [
+      0.9531737565994263,
+      " listen to buy anyone and then now and then you get one like the Gangnam Style dancer who gets like 2 billion and and MMS that's the way of the world that's that's how things go"
+    ],
+    [
+      0.9732332825660706,
+      " and the core answer that I produce for what are the most important things in life that everybody should know got a disproportionate amount of tension by the standard of my questions but by the standard of questions in general and I thought that was kind of interesting it's like people like the list for some reason it was kind of half there's a bit of wit to it as much as I can manage anyway since some of it was sort of commonplace and and some of it was a bit quirky like rule 12 is pet a cat when you see one on the street doesn't seem like something particularly important but it's kind of a nice thing to meditate on for a while maybe to develop a bit of a c Milan and anyways in in that rule list the rule was tell the truth maybe I could write a book about it I'm right about these or these rules because"
+    ],
+    [
+      0.9728999137878418,
+      " it was already market-tested that's one of the things you want to do if you ever do something creatively is really useful to know if any of you have entrepreneurial ideas you know that old idea that have you build a better mousetrap the world will beat a path to your door if that's wrong if you have a good idea you just you barely got started man you probably cracked 5% of the problem it's really worth knowing the because there's welders communication about the idea because other people have to know about it and that's really really hard and there's sales in this Marketing in this customer support and there's your competition and there's having to offer the product at the right time at the right price point and I mean these things are really really hard problems and if you're sort of intent if you like to think while a good idea is enough but it isn't even close to enough so one thing that's kind of useful to do if you're developing a new idea lot of tech firms do this when they're putting out new hardware new software is that it make version"
+    ],
+    [
+      0.97777259349823,
+      " whatever it is they're making let's say the software and then they go test it out on their customers they would like hypothetically would you buy this if we made it and if the answer is no then they quit making it so you have to do this interactive discussion with your potential Market to find out if what you're producing has any any any possibility of monetization you have to do by the way at least to some degree if you're an artist unless you want to start which is pretty much what you're destined to do if you're an artist I mean the probability that you can be a successful artist is so low that it's absolutely amazing that there are any artists at all but but but but one thing you can do is understand that you do need to actually communicate with people and find a market and maybe communicate with your audience and see well how they're responding to what you're doing and isn't a matter of selling out it's a matter of engaging in a useful discussion with other people I mean if you want to pay"
+    ],
+    [
+      0.9736106991767883,
+      " listen to stack them up in your basement that's fine too but but that and it really if you if you want to do that that's truly that's fine but that doesn't lead to the sort of success that allows you to exist autonomously as an artist and so if you want to be an artist and you want to exist successfully and autonomously as an artist then you have to take communication you know you have to treat communication seriously one of the pleasurable things about doing these lectures there's many pleasurable things but one is that I get to test out my ideas in real time because I can discuss them formulate them extend them and all of that and then I can watch everyone well one person at a time usually cuz you can't watch everyone that just makes you nervous you watch people wanted the time and but you can listen to the whole audience and see if they're quiet and and focused and then you can find out if you're on the right track that's very helpful anyways I was I was formulating this 42"
+    ],
+    [
+      0.9687218070030212,
+      " Rose I started to write essays about them I originally thought I would write a small essay on all 42 Hitchhiker's Guide to the Galaxy answer to life the world and everything was 42 and I thought while I could write a book called 42 and you know what if you're a geek that would be funny and that's why I thought that would be amusing but but it turned out that I had more to say about each ruled and then 10 pages or seven pages 42 * 7 would have made about a 300-page book so I called him down to 12 or at least don't lie and I added or at least don't lie to it because I realized that the state should tell the truth wasn't really a very truthful statement and the reason for that was it isn't really clear to me that that's within our power depends what you mean by the truth"
+    ],
+    [
+      0.9728093147277832,
+      " play there's a hole in the truth the whole truth and nothing but the truth that's famous legal phrasing one of us know that we don't know the truth the whole truth and nothing but the truth someone asked me today a journalist from Germany if I thought blasey Ford was telling the truth you know the woman who testified against Kavanaugh in the United States and read her testimony and I listened to her it didn't seem to me that she was lying it seemed to me that she believed what she was saying now whether or not that's the truth is a whole different matter because God I mean I can't remember things that happened in high school I mean I can barely remember what happened to me yesterday and I and I know perfectly well to the way memory works if you remember something from a long time ago and then you talk about it you think about it you change the memory and every time you do that you change the memory quite dramatically because memory isn't static it's it's it's it's a dynamic living"
+    ],
+    [
+      0.9670130610466003,
+      " thanks and in the reason for that is that the purpose of your memory isn't to remember the past and that's what people think why do we have memory to remember the past it's not the reason you have memory is so that you can extract information out from the past that you can use to guide yourself wisely in the present and the future is there a practical issue and so my most things that have happened to you once you understand them you basically forget them obviously cuz you don't run around like you're not just cluttered up with your past memories solidly don't remember every single thing that ever happened to you if you can possibly do that you are abstract and extract out from your past what's relevant and then you use that to guide you into the future so you're building a map as it really that's a really good way of thinking about it is that what you do when you think is build a map and the map is of the present and the future but it's predicated on your"
+    ],
+    [
+      0.9369597434997559,
+      " the past and that's also very germane to tonight's topic about truth because well one of the things we might want to point out first is that well do you want an accurate map or not"
+    ],
+    [
+      0.9595121145248413,
+      " know if you have an inaccurate math it might tell you that it to our journey will only take 10 minutes and if it too early to our journey will only take 10 minutes and let's say it's all downhill well then you don't have to pack and you don't have to prepare and it's going to be a cakewalk but the problem is is when you go out to make the journey you're going to find that it doesn't take 10 minutes and you're not going to be prepared and that's not going to be good even though it was lovely to contemplate the fact it was going to be only 10 minutes and downhill so the question is do you want your mouth to be accurate or inaccurate and the answer to that is well how badly do you want to fall into a pit"
+    ],
+    [
+      0.9790835380554199,
+      " because that's the consequence of having an inaccurate map so first of all you're not going to get to where you're going you might know what where you're going might not even exist that would be even worse but you're certainly not going to get there if your mouth is darker than on the way if you're following your map can't really see the world you see your map if it isn't if it isn't based on the best information that you have at hand then like woe is you to use a very are carried archaic form of language and that's definitely the case and it's very useful to know that the structure that you look at the world through is map like so it's not surprising you have to go places if you're alive let me look at you you've got legs right I mean the way you go you're not a plant a tree you don't stay in one place you're always moving around and you're moving around because you have to get from where you are to where you're going and you have to do that because while you have you have you have"
+    ],
+    [
+      0.9569023251533508,
+      " there are things important things that you need to accomplish in to accomplish them you have to move around and to move around successful you have to know where you are and where you're going and so you better have your map laid out properly"
+    ],
+    [
+      0.9702115654945374,
+      " and so I would say our deepest meditations our deepest philosophical meditations are actually meditations on the structures of the maps that guide us and that's why in the first book I wrote I called the first book maps of meaning because I had understood how important how important Maps were by that point and also their their equivalents in some sense to stories when you watch someone on the screen say act out a drama you're seeing what their map is and what the consequences of manifesting that and what are the consequences of manifesting that mapped in the world and the map is complicated because you know we don't have territory but we do but territories more complicated than we think we don't just map territory in the geographic sense and the landscape like like you do"
+    ],
+    [
+      0.9734367728233337,
+      " when you're using a map in a car most of our Maps or maps have ourselves another people and the reason for that is most of the territory that we have to contend with is actually made up of ourselves and other people so our maps are psychological in the sense as well as as as as well as geographical impractical and so a map of a person is a story that's a good way of thinking about it and you have a map of yourself and that's your story of yourself and and and that's also very much worth knowing you want a map yourself accurately but only if you want to propel yourself through time and space with a minimum of Hassle and a maximum of the probability of success and so it actually turns out to be very important that you are good cartographer and you get your map together and so okay so that looks like .1 let's say well here's an interesting to think things to think about it's pretty clear that the people can lie"
+    ],
+    [
+      0.9753791689872742,
+      " and it's it's not so clear that animals can there's a little bit of evidence the chimpanzees can use rather rudimentary forms of Deceit like they can pretend not to have food or maybe they can even hide food so that another chimp can't see it so they can go back and get it later but they're really not that good at it so it's a rudimentary skill man we are unbelievably good at at life unbelievably good at it and it's actually a skill we developed quite early intelligent children learn to and I mean children who are more intelligent in the technical sense learn to lie earlier than children who are less intelligent and so it's obviously the other that's one piece of evidence at least that the capacity little eye is integrity associated with our higher order cognitive abilities and so I think we should take that apart a little bit to begin with so that we just understand why it is that we can lie cuz the point I'm trying to make is tell the truth or at least"
+    ],
+    [
+      0.8979113698005676,
+      " lie and then of course one question might be well if you can lie"
+    ],
+    [
+      0.9615195393562317,
+      " then why don't you you know I mean wait we seem to all share the idea at some level that yeah lying is a bad idea I don't think that the majority of parents are likely to take a child that they are caring for insane look kid the best way to get to life is to just look it you got a problem count it encounter an obstacle you having trouble with someone your best bet is just a lie is lie about everything don't let them know anything about what's going on the Wilder the story the better. All you right in life but no one believes that no one even a psychopath doesn't believe that even though the psychopath might believe that they could use lies on a fairly regular basis to acquire what they want that isn't necessarily the same as believing that that's the best pathway through life or that that would be something that you would recommend to someone that you truly love"
+    ],
+    [
+      0.9514560699462891,
+      " I don't think that we do that and I certainly don't think that we admire people who do that or that we would ever make more than anyone morally no matter how immersed in moral relativism and nihilism they might be where they make a credible case that the more deceit the better I've never seen that anyways so alright so so back to back to back to the truth and lies okay so why can we lie well"
+    ],
+    [
+      0.972800076007843,
+      " I was thinking tonight about about how animals hunt and how animals think cuz animals can clearly think in that they can manifest very very complicated behavior and I think most complicated Behavior you probably see among animals is hunting in packs you know like if you watch you can watch National Geographic or BBC World specials and watch Lions rather pack animals what would you say cut cut a zebra out of the herd and then track it down it in it in it in a in a in a group and obviously as the animals are doing this the Lions they're adjusting the way that they're moving in relationship to the zebra itself but also in relationship to all the other lions that are part of the hunting wolves do the same thing and that's very complicated behave and you know you see this and other animals too and in ways that are actually I think they're actually they're actually in comprehensible I don't understand them at all one of the animals it's very interesting to me or are jumping"
+    ],
+    [
+      0.9623961448669434,
+      " Raiders I mean I'm not obsessed with him for everything or anything you know I've little collection of jumping spiders and it's not like I'm thinking about them everyday but but there are interesting thing spider. Austin hunts other spiders and they're very tricky tricky these these these creatures though maybe there's a spider sitting in a web over here and the jumping spider comes up and takes a look at that spider and it's got a tie so it's taking a real good look and then it figures out how to how to jump on that spider and it doesn't just run off the edge of the leaf and jump it's like it sits there and it looks it moves back and forth it looks really mechanical it looks cybernetic like a really sophisticated robot it's it's it's really something and it'll do something like climb down the Plant it's on and then across the the the the the the floor of the forest and then up behind the spider and then over top of it and then it'll spin"
+    ],
+    [
+      0.9490483403205872,
+      " food web and it'll drop down on the spider and then jump on it and it's like that's really smart this is a spider it's like it didn't it doesn't have a brain it's only this big I just impossible to imagine how it how it manages that or another thing it will do is let's say the spider is sitting in the middle of a web there's different different parts of a web have different functions looks like there's some parts of a Weber sticky to trap insects and some of them are not sticky so the spider can walk on them and the the hunting spider will come up to the web and it'll play on the on the web fibers with its"
+    ],
+    [
+      0.9672726988792419,
+      " what is a good place that's what they're called and insect in trouble so I guess playing a little harp and the and the sound is insect in trouble and then this spider in the middle the weather becomes if it over to find out about the insect that's in trouble cuz it's going to eat it and then the jumping spider jumps on it it's like God that's so smart it's like it's it's just that looks a lot like thinking you know but but it's certainly not verbal thinking while we don't think so cuz it doesn't look like spiders can talk so as far as we know when or if they do talk they're so smart we don't understand what they're saying but but it looks like thinking and it looks like the kind of thinking that animals do when they hunted I think the way to think about that is that that sort of thinking is the same sort of thinking you do when you play football or when you play any any any team sport"
+    ],
+    [
+      0.9725049734115601,
+      " you know like if you watch people play hockey which is of course the best sport in the world you you you see the speed of it first and she's very Sox game because you're not just running your skating and you can really move along the ground on skates it's you zip around pretty damn fast and so and the entire landscape is changing constantly really what hockey is like like like most sports of that type is a it's an abstracted form of hunting you know so you think what what's hunting among human swell you get your bow and arrow or your Spear and we've been doing that for like 2 million years a very very long time you get your Spear and then you get your your guys and then you don't spare something and show you what you have is a projectile when you have a Target and you have a team and so that's what you do when you're hunting and when you're playing hockey it's the same damn thing you you have a spear except it's a it's a hockey stick and you have a projectile"
+    ],
+    [
+      0.9750714898109436,
+      " that's the park and you have a Target and it's the net you know but it's sort of than that because someone's also guarding it you know so it's it's the animal for all intents and purposes and and we're pretty excited about this because we're based on a hunting platform and we like to see people hurl projectiles at Targets it's one of the things that really warms our hearts is to see one of us really definitely her a projectile at a Target specially if it's moving and if you're if you're at your favorite sports event and someone someone's playing football and they make it particularly wonderful move and get the ball in the net from in a hundred yards away and some spectacular way you're so thrilled that the primate. The projectile into the mammoth that you leap up and have a little celebration and then later you drink a tremendous amount of fermented Beverages and have a hell of a time about it because it's it's like Feast time and so and so that's that's that's us it's really true"
+    ],
+    [
+      0.9497121572494507,
+      " show all of this and it shows you how people have strapped to you know how there's some fundamental biological level there that's driving things but that it's abstract it up and sew in a weave learned how to have competitive hunting matches as a as a great spectacle and it's and it's some music but it's partly because we sharpen the rain and and perform brilliantly in in that in that Dynamic situation anyways in it and then that's not a contest like that and some people don't really have time to think right because on a on a hockey on on an indoor rink"
+    ],
+    [
+      0.9711873531341553,
+      " everything's in flux I mean people are just moving non-stop right that mean first of all your team players they're your team members there and then he's there and then he's there and there's another one behind you and there's two over there in the opponents are moving this way of the goalie shifting back and forth and the time is running out and it's like you're watching not one thing but you're kind of watching everything at once and then you're figuring out how to position yourself in relationship to every everything else so it's a really complicated mapping exercise a, complicated Dynamic mapping exercise the way we would normally think about thinking it's cuz you don't have enough time if you're playing hockey or any other fast-paced game to think about all the possibilities that you might manifest in the next few seconds as you Traverse through time and space because the time you're not fast enough thinker to do that and so in some sense you seem to be thinking with your body and we kind of know this is true because here's an example you know"
+    ],
+    [
+      0.9677759408950806,
+      " if you're a pro tennis player and someone your opponent wines up to serve at you the ball goes so fast off their rocket that you actually cannot see it before you headed back not consciously so now your visual system is very complex and see you think that when you look at the world what happens is you see something and then you react to it like you consciously see it but lots of times things are happening so fast that isn't how it works what happens is that you've developed a tremendous amount of expertise maybe you play tennis for $10,000 so you're just an absolute body expert at it and even as the person is winding up you can tell by the angle of their rocket and how they're holding their their arm and where their positions on the court and the way they have their legs and how fast the rocket starts to move where that ball is going to go and you're already there ready to react before they even hit it and you hit it back reflexively so and it's because your eyes are"
+    ],
+    [
+      0.9700806736946106,
+      " actually reporting to your nervous system at multiple levels of nervous while your nervous system is a hierarchy and the closer the hierarchy is to the direct visual input the faster it can react but the simpler it is and so you use a lot of simple reflex of systems once you're an expert so you can be super fast and you don't have time to think about what you don't even have time to see the ball you do see it but that's you only use the visual record of the ball to update your habitual an automatic skill if you make an error"
+    ],
+    [
+      0.9678319692611694,
+      " otherwise it's pretty much all automatic and that's part of the lovely the loveliness of watching someone who's a true expert do something especially athletically because they're so good at it is just instantaneous right they waste no emotion that's why they don't exhaust themselves even though they're moving much faster generally speaking than an amateur might most of the time in a crisis but things are happening very rapidly takes like half a second to think something you know or or at least a tenth of a second you can only read about the second even if you're super fast and that's just not that fast when when things are really moving so so a lot of thinking is is embodied thinking it's like dancing to dance or even more if you can't dance that's what it what he going to do think about how you're going to dance with your no one's going to want to dance with you if you have to think about this foot goes here and then it goes here"
+    ],
+    [
+      0.9677841067314148,
+      " the complete bloody clots if that's the way you're dancing if you're good at it you practice then you're using these subtle indications from your partner to to move into twisting in keeping with them in real time and and that's not thinking it's whatever it is that you do with your body that's intelligent that's like thinking that animals do whatever that is so but we can think that's the thing about human being so that not only can we do all those other things but we can also think and so then the question is what are you doing when you're thinking and the answer is first of all is your anus is a consequence of of Rapid cortical development from an evolutionary perspective at some point our capacity to represent the world got detached from our capacity to act in the world and so the more primordial the brain system that's operating the more deterministically you act so mad"
+    ],
+    [
+      0.9769527316093445,
+      " that you're angry you know how impulsive you get when you're really deeply angry get really important if you're really in raised it's super impulsive and you'll do things or maybe I'll hit someone you know and then think about it later it's in it and it's like you're in the grip of something that's driving you forward the same thing might happen if you're hungry or if you're thirsty or if you're overwhelmed with with sexual desire or any of those sorts of things that can make you impulsive and it's because you're under the sway of a fundamental biological system that's really got one goal and wants to retain that as fast as possible with the with the least amount of trouble and and taking the fewest number of other things into account and again if that's something sort of akin to how animals react cuz they're driven by those underlying biological systems to a great degree"
+    ],
+    [
+      0.9700435400009155,
+      " but human beings have a very complicated brain on top of those fundamental biological systems and the reason that we have it in part is because what do you do if you're hungry and angry or what if you do if you're hungry and tired what if you do what do you do when fundamental biological motivations conflict or what it what do you do if well maybe you're starving and you need to steal something but then you're going to go to jail it's like or you going to get punished in hurt for it so it's it's it's highly probable that these single-minded drives that are part and parcel of your fundamental motivations and your emotions are going to produce conflict when when when when considered over any reasonable span of time and some of the more complicated brain because well for example we don't want to just not be hungry today"
+    ],
+    [
+      0.9770455360412598,
+      " we also want to not be hungry tomorrow and next week and next month and next year and at the same time that we're not hungry we don't want to be too tired we don't want to be too thirsty and we don't want to be dying of exposure and we want to get along with other people and we don't want to be killed and so to solve the problem of hunger which is something that you could solve impulsively to release all of it over the long run you have to come up with an integrated you have to come up with a way of integrating all those Necessities into something harmonious that exists over very long. Of time and part of the reason that we have a brain like a complex brain is to solve that problem not only do we have to fulfill our basic needs let's say we have to do it in a way that doesn't interfere so that each need doesn't interfere with each other that's hard enough"
+    ],
+    [
+      0.9727656245231628,
+      " but also so that each need doesn't interfere with each other's need being fulfilled over long spans of time in a community that consists of all sorts of other people who are trying to do exactly the same thing and so that's complicated it's like how many ways can you solve a set of problems that complex and answer is well not that many ways and so that's why it's because I'm concerned the moral relativists are wrong because there just aren't that many ways of setting up a society where each person in this Society can get more less what they want and need so that families also function so that communities function and so that that works over a long span of time vanishingly small number of correct Solutions one of those seems to be reciprocity you know you do something for me I return the favor and I'm very careful about that because then we can trust each other and we can cooperated that's a very good thing for the long run and that's also predicated"
+    ],
+    [
+      0.972490131855011,
+      " honesty and truth right to me what are the things that you really liking people whether you know you like this or not is there ability to track reciprocity you know if you call a friend a couple of times to come over for dinner tonight, you build up an expectation that they're going to call you a couple of times to come over for dinner or repay you in kind in some manner that you don't keep a tally you know unless you're obsessive Ill Bill to dinners for Bill zero returns X4 bill but you don't really need to do that because you do do that we were so good at recipe reciprocity track that it's unbelievable and we really don't like it when that's violated and you don't have to violate that very often with people before they don't want to have much to do with you and that that's also part of the reason that you should be honest like respect that reciprocity tracking that that ability to keep track of who you owe and why you owe them and what you owe is absolutely vital to success"
+    ],
+    [
+      0.9026854634284973,
+      " social interaction over the long run so"
+    ],
+    [
+      0.9718510508537292,
+      " show reciprocity in all honesty or both are both fundamental and that's to treat someone else like you want to be treated yourself a fundamental ethical rule that goes along with truth and it's the fundamental rule of reciprocity and it might be the fundamental ethical rule it really might be because not only do you want to treat someone else as if they are you let's say you even want to treat yourself as if you're you and I'm using cloth what the hell does that mean you're not stuck with the you that's here right now you're stuck with you that are right now in the units here tomorrow and next week and next month and next year like there's an infinite number or not an infant has a very large number of use extending out into the future and then they're quite different cuz they're get older and maybe some of them are more ill than you are and you know they have different interests and all of that so you're actually you're actually a slice of a commune"
+    ],
+    [
+      0.975080132484436,
+      " city across time that's fundamentally what you are as an individual and if you're going to act properly in your life you have to act right now in a manner that takes care of that entire Community across time even know that Community is just you so even if it wasn't that you were being reciprocal with other people in order to get along and you have to be you at least have to be reciprocal with your future self to get along because otherwise it's a downhill path and and unless you want to talk her face down into the ground at some point that's a bad path so that's part of even being honest and reciprocal in relationship to yourself okay so"
+    ],
+    [
+      0.9732744097709656,
+      " well so we can think what's the what does that mean well Austin were driven by the same sort of fundamental motivations to drive animals and we can think with our bodies the way animals do but then we have this additional ability which I believe is associated with this more complex computational problem how best to set things up in the long run and so we who knows how this happened but we we we we could divorce our perception from her action and so that's what that looks like it's associated with the development of the cortex especially the front part of the cortex which is the part that you use for abstract thinking you think we'll what is abstract thinking means what is it exactly and what it is in some senses the same thing that you do with a video game you know when you're playing a video game you have an avatar of yourself and you place the Avatar out in this fictional world and then you run the Avatar through a bunch of Adventures and you hope it lives but if it doesn't like what what the hell you can just generated"
+    ],
+    [
+      0.958672821521759,
+      " rabbit are right and hypothetically hypothetically perhaps even actually you can learn from the adventures and Misadventures of your avatar and what you learn you can incorporate in your life and act out and so there's this old idea by Alfred North Whitehead I believe he was the first person who formulated this I believe that's the case might have been Karl Popper but anyways it was one of the two he said the purpose of thought is so that you can let your thoughts die instead of you"
+    ],
+    [
+      0.9628540277481079,
+      " I so smart it's like dead on Manor grade formulation and so see in the darwinian world what happens is that let's take the case of mosquitoes like how many offspring does a mosquito have it's like God who knows like a hundred and fifty thousand it's like if if those mosquitoes were successful we be like neck-deep in mosquitoes in like 2 years pigs are the same way I can have like nine letters of seven piglets of a year or something like that we imported wild boar into western Canada as a domestic domestic animal about 10 years ago and it's like there's just tens of thousands of them everywhere now you can just shoot them whenever you want if he people Pat you on the back it's like I have I have a cousin t-shirt like 400 last year so well they're really hard on the train those things and and and anyways anyways"
+    ],
+    [
+      0.9645581841468811,
+      " creatures tend to produce a very large number of variance of themselves and most of them died and so typically each mosquito manages to produce another mosquito another successful mosquito obviously if it was anything other than that you get a geometric or or a geometric increase in mosquito Mouse and soon the whole planet very soon the whole planet would just be one big cloud of mosquitoes and that doesn't happen so mosquitoes produce a lot of variance in each of them is a little different genetically mosquitoes don't learn a lot so almost all their variation is genetic and now and then one genetic variant of a mosquito which is slightly different than the genetic variants of the other 10,000 is a trifle more successful and doesn't Parish"
+    ],
+    [
+      0.9407337307929993,
+      " so that's how that's really how the darwinian process works and it's actually why it seems to me that there is something that has to be correct about the darwinian idea so the darwinian idea that is something like this things change in ways you can't predict"
+    ],
+    [
+      0.9666327834129333,
+      " and because of that you don't know what solution is going to work and not only that you can't know because the unpredictability itself is unpredictable so things can really radically shift on you and so the best you can do is produce a bunch of variance"
+    ],
+    [
+      0.9770759344100952,
+      " and then hope that one of them happens to match whatever is coming down the the runway and and it is the case that things change unpredictably although not entirely unpredictability unpredictable unpredictably and it is the case that you can't completely see what's coming so that idea that there has to be random variation in order for things to survive has to be correct because there's random variation in the environment now I don't know if that's the whole story but it's a very powerful argument for the necessity of something approximating darwinian Evolution and and and I'm telling you that for reason and the reason I'm telling you that is because it's Jermaine to how you think so what human beings have learned to do this is so cool we're so smart it's unbelievable is that we can separate our perception from the actual world and then we can perceive a fictional world and the fictional world is like the real world except not completely it's the world in your dreams"
+    ],
+    [
+      0.9583190083503723,
+      " you don't have to go to sleep at night and you dream and you can dream up a whole bloody world and it's so real that you think it's the real world like how you do that is just beyond me cuz you can't do that City that some people are very powerful visual imaginations but most people can't manage that but you can recreate everything in fictionally and then in your dreams and this is partly why we dream your dream you can do all sorts of crazy things and what what happens if you die in a dream so I can well nothing so what it's scary maybe you wake up and there you are and the reason that you're still there is because you build a fictional world"
+    ],
+    [
+      0.9589718580245972,
+      " can you put fictional you in the fictional world and you had some fictional adventures and you know maybe some of them turned out real well in some of them not so well but fundamentally you're still around and maybe you have you wake up from a nightmare and you think God I never going to do that so I can cuz you died in The Nightmare you got torn apart or something like that so I call no not that the good that was an avatar it acted it out its particular map it perished do not use that as a model for emulation and then like it's very useful to know that we think this way because it's sheds light on all sorts of strange things we do while we go to athletic contests to watch abstract Hunters abstractly hunt and we go to movies to watch"
+    ],
+    [
+      0.9676856398582458,
+      " professional dreamers act out professional dreams and so you go to the movie you'll pay for it strangely enough you find it intrinsically entertaining which is not self-evident but the reason for that is it self-evident although obviously you do feel that way or you watched dramas on TV or you read fictional accounts in books you read your children stories because you get to show your child on you a fictional world that corresponds with the actual World in some interesting ways and then you can watch avatars of yourself and those would be the actors act out certain ways of apprehending and understanding and you can see what happens to them and you can watch the good guys"
+    ],
+    [
+      0.9727684259414673,
+      " and you can watch the bad guys and generally what you see is the bad guys spiral downward to adjust a viable horrible and with your quite happy about and the good guys Prevail and that way you and you say, what's a good guy and what's the bad guy while the good guy is someone who's organized his representation of the world and his actions in the world that is of some substantive pattern of long-term sustainable benefit and you don't know what that pattern is because the world so damn complex and so maybe you have to go to a movie and watch a hundred good guys do a hundred different adventurous things consummate a successful romance and have a great adventure you have to watch that a hundred times or a thousand times before you can abstract out from that the pattern that characterizes what's common across all the good guys"
+    ],
+    [
+      0.9667956829071045,
+      " and if you want to know how religions developed I would say that's basically how they develop is that what we have strived to do over thousands of years of mapmaking and story-telling is to tell stories about good guys and you know we couldn't call them good guys if they didn't belong to a category of some sort right what's comment about good guys about heroes in the story while they're all good guys well what is it that defines that set of good attributes and the answer is well we can't fully articulate that it's too complicated but we can recognize it when we see it and even more deeply we it's more difficult than than mere recognition because when you go see a movie are used to tell my son cuz I took him to a movie that was kind of scary Lord of the Rings for example you really hated those nozzles you know those black monster soul-sucking faced can't imagine why he hated them"
+    ],
+    [
+      0.9731738567352295,
+      " how he said you can keep an eye on the hero I never said don't be afraid so I can look at those things I mean yeah you should be afraid of them like they're like symbols of what's terrifying about life don't be afraid to tell ya right no snow keep an eye on the hero cuz he'll find the proper pathway and then you know my son can tolerate all the tension cuz he can watch the good guy and it would be a very upset at something not so good happen to the good guy because of none of us like that that's a tragedy the moral Injustice but then he could he could he could embody what was happening with that Avatar and see his pathway through the world and so maybe you do that a thousand times you do that 10,000 times you abstract out the pattern of what constitutes good and that doesn't mean that you can articulate it like it's very difficult to articulate something that complex we've been trying to do that"
+    ],
+    [
+      0.9701176881790161,
+      " they aren't our religious Enterprises in the attempt to do that and I'm so an end and most of that isn't articulated like one of the things that's quite interesting about coming to know all of your cities have these great cathedrals in their part of this immense tradition that your culture is predicated upon in each of those Cathedrals were built when people weren't there stairs picture boards and stories inside the paintings and sculptures and so forth and that's all in the temp to to represent how it is that you should conduct yourself in the world and show you people built these massive buildings beautiful spectacular what what forests of stone and glass and light and then to to represent this striving towards the highest possible ideal and then inside of them you populated them with these with these stories about how it is that you should conduct yourself if you don't understand the damn story that's why you built the cathedrals in Maine"
+    ],
+    [
+      0.9591901302337646,
+      " paintings it's like well we think it's something like this so what but we don't know there's a nose images have like they have sacred significance because they speak to you at a level that underneath your articulated intelligence it's more than you are it's there's something more there than you know which is partly what makes it sacred and so and we're in great danger of losing that and and and assuming that it has no value because we don't fully understand it because it's mysterious but it is mysterious because how to be good in the world is mysterious it's as mysterious as how to be evil in the world or perhaps even more mysterious"
+    ],
+    [
+      0.971555233001709,
+      " all right so well so one of the things we can do is we can abstract away from reality and that's kind of cool because it makes us future-oriented instead of driven by the past and I would say animals and impulsive people are driven by the past in the present but but people who are"
+    ],
+    [
+      0.7921115756034851,
+      " what would you call what do you say awake"
+    ],
+    [
+      0.9636423587799072,
+      " that's got to be about the right word it's a higher order of Consciousness they're not driven by the past or the present they're contemplating the future that's a different thing and so and I I think the way we operate as human beings is that what we see in front of us what we actually perceive isn't the present it isn't the reality of the present what we perceive and regard as most real is the potential of the future and so we're creatures that encounter potential whatever that means no potential is a weird thing right because we know it exists what will certainly castigate each other for not living up to it you know one of the things you definitely don't want for your children as that they don't live up to their potential and your parents told you that you're not living up to your potential potential and you know you take that seriously and so today they think that's a real a real failure are you on your part and a betrayal of the deepest part"
+    ],
+    [
+      0.9695847034454346,
+      " view it's no joke to not live up to your potential it's like what the hell is that what is that potential it's like it's not here it's not measurable it only might exist if Ike what is the reality of something that only might exist"
+    ],
+    [
+      0.9635987281799316,
+      " well I don't know but it's the thing that we seem to regard as most real we certainly treat each other that way I know you wake up in the morning and there are things that you could do there's a world of possibility of different dimensions that reveals itself to you and you know perfectly well how that potential potential is going to be transformed into reality is it consequence seems to be a consequence of the choices that you make and you know you think you act this way but if you make good choices the right choices that potential will manifest itself in the best way that it can and if you make bad choices been that potential will turn into something that is wretched and dismal and hellish and you know that and so and so and you call each other on that constantly and if you interact with someone else even with yourself you're very upset if you haven't made use of the potential of the"
+    ],
+    [
+      0.9721842408180237,
+      " you go to sleep and you think I'll well you know I really wasn't who I could be today and so you're this Contender with potential and then that's part of the hero myth is the dragon of chaos that's the thing that could destroy you out early but but that Hoards the treasure that's beyond compare that's the future it's like it's everything it's your death for sure and it's your fortune for sure and there it is in front of you all the time and the question is what how should you go about confronting it and to shrink away well that's not a good idea because then the Dragon part gets larger and you get smaller and that's a bad long-term decision so you know the first chapter in my book which is"
+    ],
+    [
+      0.9141149520874023,
+      " stand up straight with your shoulders back is an injunction to meet that potential head-on and with heart with eyes awake eyes front and with a vision in mind"
+    ],
+    [
+      0.9684735536575317,
+      " in any case you can conceptualize that potential in different ways you can take while what if I did what if I what if the world was like this what if this is how the world laid itself out because of a choice I know what would the world look like and what would I look like in your thinking about that might make you anxious you know maybe you'll have to go in and confront your boss God damn it I got to go confront that son-of-a-bitch he's just be on my case too much did I just went in there and told him what I really thought of them so you run that little fantasy so now you walk in and tell him what you really think of them and then and then and then now you live on the street and okay"
+    ],
+    [
+      0.9663540124893188,
+      " banished add Avatar to the netherworld for not incorporating that now and so and so you let that idea die instead of you and you know maybe you play with anybody else like that and that's partly how you guide yourself into the potential of the future and so what that means is you could generate up hypothetical worlds and then you can populate them with hypothetical you and then you can play out the consequences of that and then you can evaluate the outcome and then you can decide which of those you're going to implement and maybe you don't just do that by yourself because it's quite complicated maybe what you do is you know you got a problem and you need to confront him and so you sit with your wife or your husband at The Breakfast Table you say look you know I've got a complicated fork in the road in front of me"
+    ],
+    [
+      0.9697765111923218,
+      " and you know I think well maybe I could deal with it this way and you lay out your plan which is a fictional world and then there you say maybe I could deal with it this way and and here's what I think might happen in and what do you think and then you jointly engaged in the mutual construction of a couple of fictional worlds and you evaluate them and you come to some negotiated agreement about which pathway you're going to take and hopefully that works hopefully that decreases the probability that you're going to be fired and homeless that increases the probability that you're going to be broadly successful and you know you probably want to inform those around you her relatively close about which of these fictions you're going to transform into actuality because generally they have some implications for them so we do this jointly and so that's partly why in my estimation free speech is so important because what we have to do"
+    ],
+    [
+      0.9694002866744995,
+      " in order to perform this task properly as we have to be free to generate a variety of alternative world even though was ranging from horrifying to beatifically say the entire emotional range and then we have to be free to explore the consequences of doing so even though that's a very emotionally challenging before we Implement them in action and we need to be able to do that because otherwise we Implement into action precipitously and then we collapse and it's not easy you know one of the things I noticed with my clients I've always tried to tell them we're going to talk about some of the ways things could be but you have to remember this is really useful things to do with your partner if you guys are facing a complex decision you say something like this look"
+    ],
+    [
+      0.9720371961593628,
+      " complicated decision you might go really wrong let's think of 10 ways we could deal with it but let's remember that just because we're thinking about these things that does not mean they're going to happen because we have a proclivity because our thought isn't that much divorced from from our reality to act as if what we think is immediately real and so in order to thank you can't do that you have to pull yourself away you have to say will look let's lay out this plan think about it and then this plan to and also this plan also this plan and also this planning and let's sleep on it for a couple of days knowing that we don't even have to implement any of those plans the great thing to learn to do to get that sort of Detachment because then you can run much more effective simulations of yourself and hopefully well you suffered last it's a very difficult thing to learn is also why people have such a difficult time negotiating with one another and even thinking"
+    ],
+    [
+      0.9693015813827515,
+      " because it's so easy to take the first plan that comes to mind and treat it like it's reality and get some damn terrified by it that you just can't you know you can't loosen yourself up to consider other Alternatives but you need to you need to desperately so okay so what does that have to do with lying while he seems to have happened you can generate fictional representations of the future and you can do that because you can be catch your thinking from your action know it's kind of painful in some sense that you can do that because life you think life would be easier if you know people are very peculiar because you'll you'll tell yourself something like I need to go to the gym every morning at seven three days a week and I have to stop eating desserts"
+    ],
+    [
+      0.973757803440094,
+      " and then you think I need to do that because I'm ugly and fat and I'm going to die and so and so those are good reasons to stop doing it and then and then what happens while nothing you go to the gym like once and you know and maybe eat a bag of like chips on the way and then you sort of move very slowly on the treadmill while you're watching TV and then you're satisfied you never do it again and so and so and so are the reason I'm telling you that is because one of the prices you pay for detaching your ability to think from from from your capacity for Action is that you can think up a bunch of things and then not act them out right cuz it might be easier if you could just tell yourself what to do and then do it but you don't"
+    ],
+    [
+      0.9670150876045227,
+      " and if you can't if you're going to think that can't happen because you have to be able to detach the thinking from the action and then if it's detached well then it's detached and so you can't just command yourself it's it's not so simple it's not so simple to turn yourself into the more successful Avatar right cuz you're already sort of the way that you are and it's painful that you can't just command yourself into doing things but whatever you can so why can you lie well if you can fictionalize the future which you clearly can then you can also fix your lies the present and you can fix your life the past but that doesn't mean that you should"
+    ],
+    [
+      0.9700179696083069,
+      " but it definitely means that you can and and that's that's very dangerous because you know maybe the past maybe went over some pretty damn Wicked Cliffs and down to some pretty deep holes you barely got out of the damn things in the past and you'd rather an Adu like threw yourself into the hole cuz that's certainly happens and then you don't want to think about that until you replace it with a different version of what happened and you certainly can if you know you don't really believe it but if you talked about it enough while it starts to become real and you can tell other people and and the back you think I can get away with that I don't really have to face what happened I don't really have to learn my lesson I'll just pretend that things were better than they actually were and and you can end because a bolt of lightning doesn't come out of the sky and crispy right on the spot usually you think I got away with that"
+    ],
+    [
+      0.9713603854179382,
+      " but you didn't because you did fall in that hole and it might have been because you weren't navigating very carefully and it's certainly possible that you'll hit the same geography in the future and had you since you haven't learned your lesson which is how to walk around that particular pet then you just fall in it again and so that's not a very wise plan and so that's really the final analysis why you shouldn't LIE there's other reasons as well but that's a big one is that well"
+    ],
+    [
+      0.9654626250267029,
+      " if you're going to if you're falsify your experience then you can't if what you're trying to extract from your experience is a reliable indicator of how to move forward which is clearly the point of memory and then you falsify your past experience or your present experience then you don't produce a cartographic accurate map of your future trajectory and what that means is that you'll fail"
+    ],
+    [
+      0.9715839624404907,
+      " and so why shouldn't you lie wild answer is because you'll fail it's a it's a simple as that no it's not quite so simple because telling the truth is actually a rather daunting proposition you know because if you tell someone what you really think well then all sorts of terrible things happened the first thing is you figure out what you think and that could be a horrible horrifying experience you know it's like well maybe there's some things you think about your boss and you don't really think about the things that you think about your boss because you don't want to go there and no wonder or maybe it's your partner maybe it's your sister maybe it's your mother your father maybe it's you you've got some dark conceptions lurking around there in a when it's it's easy in some sense to just not attend to those and not articulate them they're still there"
+    ],
+    [
+      0.9741641283035278,
+      " embedded inside you in a non articulate form that might make you moody and irritable and hard to get along with and full of perverse decisions as those was ice formed monstrous thoughts possessed you when you're not paying attention because that happens all the time but that doesn't mean that owning up to what you actually think is an easy matter it's not easy at all because then you have to discover what you are you know one end and you're quite the monsters creature with this massive capacity for both good and evil and to really become aware of what you think it's like oh my god really I really think that it's useful to know you know it's useful for example discover how aggressive you are because now then you can tap into that and use it like if you really know how unbelievably irritated you are at your tyrannical boss and you let those fantasies of God only knows what they might be you know these people who go into office buildings and shoot"
+    ],
+    [
+      0.9719117283821106,
+      " shoot their employee or their their peers and their boss it's not like they haven't been thinking about that for like 10 years and then the next thing of cheese I'm not very fond of my co-workers and then and then maybe they could think that through so I could hate my boss I'm not very fond of my co-workers like what do I want to work somewhere where I actually hate everyone and why is it that I hate everyone is it everyone or is it me cuz if it's everyone it's probably me and then well if it's me and I hate everyone well maybe there's something really wrong with me and so then you have to go digging around and you have to find out what's wrong with you and maybe you're unpopular is a kid because you're just miserable piece of the earth than you know you're resentful and you don't carry your own weight and every chance you get to irritate people and well there's people like that man there's no doubt about it and maybe you're one of them and we're all part leave one of them and so you have to get to the bottom of it and God that's just an abscess"
+    ],
+    [
+      0.9647656083106995,
+      " miserable thing to do but you know what's the alternative to going to work with people that you hate and have a absolutely Dreadful time every day and let your unconscious fantasies become darker and darker and more bitter and take you out but that's the old ternative it while I'm not going to go shoot up in the office and well if you know congratulations to you and maybe that's partly a consequence of your cowardice and not your morality so don't don't be so sure about that but you know you're married to someone and you know a lot of marriages end in divorce and an end and why is that well it mean it's partly because people they don't tell the truth to each other you know I'm so they don't take a problem when it's still a small pack of small hole and say look look I don't know man this is what I'm thinking it's kind of ugly and it's not very flattering to you and it's not very flattering to me either or it doesn't bode well for our life together and maybe it's not"
+    ],
+    [
+      0.9676467180252075,
+      " true you know but it certainly what I think and maybe we should have a talk about this and like that one nasty talk that is boy the probability that you're going to get out of that without a scrap and some tears is like very very low but there's some possibility you might find out why you're in that hole together or separately and figure a way out of it and when it's still the kind of hole that you could actually fly motive at least hypothetically and if you don't think that you're going to fall in holes like that with someone you're married to then while you're either not married or you're absolutely blind because this just happens all the time not least because life is really hard and just because of its mirror difficulty you're going to end up in places that are not that are dark and difficult to get out even if both of you are doing pretty decent job together that's just part of the difficulty of life until you can go in there and contend with that Darkness you can tell the truth then maybe you can use"
+    ],
+    [
+      0.9651304483413696,
+      " you can fix your map you can you can figure out all Piers how we got here you know one like this place we want to be well no no we don't hate each other that much yet you know so so that I'm independent I'll drag you in rather than take myself out because I'd like to see the misery extend to you rather than to make myself better so I can if you don't understand that sort of thing you've never had a family and you've never had a marriage so because people are definitely that dark and very frequently they end up like that permanently and that's partly why they end up divorced so it's no joke to contend with the vagaries of life but you do that honestly then you can take on the monster when it's still relatively small and that's a good thing even though it's a monster it's it's better to take it on when it's relatively small because maybe you can defeat it and maybe you can also become stronger in the combat and then when larger monster comes along well maybe"
+    ],
+    [
+      0.9750174880027771,
+      " more ready to deal with it and that's and that's part of the truth and so that's another reason not to like snow and with this I think so Socrates you know when Socrates was was going to be put to death I wrote about this in 12 rules for life the guys who wanted to put him to death really didn't want to put him to death they were it was a little town Athens 25,000 people everybody knew each other right and it was corrupt in the same way that little towns get corrupted know Socrates was a pain in the neck because first of all he would make young people think and there's nothing more annoying than that and you know people would stop to talk to him and and they'd have some story about how they were conducting their life and he'd ask them 10 questions and then he then they knew that they were just lying about everything and that was absolutely Dreadful and so then they hated him and so that was Socrates and maybe the first person who actually really thought"
+    ],
+    [
+      0.9536778926849365,
+      " and so like you could kill someone like that because you don't want that to spread that's for sure so you know they told him look you're corrupting the youth we're going to kill you on trial but it's just a show trial"
+    ],
+    [
+      0.7056715488433838,
+      " death"
+    ],
+    [
+      0.9558283090591431,
+      " Temple sore to happen for 6 months so I can why the delay but you just come and stab a midnight to know if you're going to do it, I just wanted to get him the hell out of town it's like go away you were tired of you don't bother the stoics are the Spartans you know and everyone knew this. Together they said we got to get you out of town and because you know these guys are serious you know them and they're going to go through with this whole thing if you force them to and"
+    ],
+    [
+      0.9541348218917847,
+      " we'd rather that you weren't dad and probably you feel the same way and so Socrates listen to that and he knew that that was the story but he went out and meditated which he was Want To Do song about it asked himself"
+    ],
+    [
+      0.9765694737434387,
+      " ask himself what do useful skill to to learn you know cuz you like to tell yourself things you should do this you know you like to come and yourself like your sort of your own slaves but doesn't work but you can ask yourself you don't like if you want to improve your life maybe it is a bad habit you need to stop or there's a good habit you need to develop you could see yourself down and you can say yeah look I know we haven't gotten along that well in the past and you don't trust each other that much and I tend to be a bit of a tyrant you tend to procrastinate and not you no pick up after yourself and we're all together quite useless but I'm thinking that maybe we could make things slightly better if you would be willing to communicate to cooperate is there something I could offer you that would entice you to behave in a slightly better Manner and know if you're careful and humble and don't aim too high then you can usually figure out something that you can convince yourself to do that will work and so that's this sort of meditation"
+    ],
+    [
+      0.937088131904602,
+      " Socrates engaged and then he claimed someone asked him I think I just trial at his trial that's that's correct leaping ahead he went out and had a discussion with himself and he realized that he wasn't going to run"
+    ],
+    [
+      0.9444375038146973,
+      " any thought this was real short for what what do you mean don't run like well you shouldn't run away from this well what do you mean I should run away from this I'm going to die"
+    ],
+    [
+      0.8689070343971252,
+      " well doesn't matter your you should run away from this"
+    ],
+    [
+      0.9243887662887573,
+      " so he went back and he told his friends I'm not running away from this"
+    ],
+    [
+      0.9599775671958923,
+      " so then he went to trial they been trying to convince him to leave but he wouldn't and he went to trial in the the Athenian judges were actually kind of curious about what the hell he was doing there because they expected that they just leave cuz that was the plan until they asked him about himself or he told them he said you know I've lived this kind of exemplary life people come from all over to listen to what I have to say if you might want to know why that is so he said what I've got this demon"
+    ],
+    [
+      0.9600380659103394,
+      " yes spirit that inhabits me that I communicate with on a regular basis and"
+    ],
+    [
+      0.9618211388587952,
+      " I personally said well you know people come and talk to me and you know I don't I don't I'm not really rewarded for that I make my living that way from what people gather up for me and I'm always trying to seek for the truth I don't really believe that I have it but I'm trying to see for it and and and people seem to recognize that in and the delphic Oracle herself said that I was the wisest man in Greece because I knew that I didn't know"
+    ],
+    [
+      0.9636799097061157,
+      " but I know anything I was aware of my own ignorance and so even the gods admit that I'm doing something right and everyone no one disagreed with that and then Socrates sort of explain what it was that he did that was right and he said he had this internal Damon just really like the voice of conscience I think that's the right way to think about it because people do seem to have a voice of conscience to ask my students for years about this how many of you have what you might describe as little voice inside of your head that tells you when you're about to do something stupid that you don't necessarily listen to but that you know is right like I need to see if you have that voice was so let's just ask if you have that voice in your head"
+    ],
+    [
+      0.9350625276565552,
+      " okay okay now how many of you don't have a voice but have a feeling that's it for approximately equivalent okay and how many of you just have no idea whatsoever what I'm talking about"
+    ],
+    [
+      0.8895770311355591,
+      " okay so so okay so so so anyway so that's the damn and at least in part in the shark and he said here's what makes me different from other people"
+    ],
+    [
+      0.9541385173797607,
+      " I always listen to that but doesn't tell me what to do but it tells me what not to do and so that's don't lie I would say tell the truth or or don't lie I don't think you can necessarily tell when you're telling the truth because you just don't have access to the truth because what what the hell do you know you're limited in your knowledge you're limited in your perceptions there's your ignorant beyond belief you're biased"
+    ],
+    [
+      0.9696874618530273,
+      " truth"
+    ],
+    [
+      0.9867522120475769,
+      " you can do your best"
+    ],
+    [
+      0.9587898254394531,
+      " but I do believe that it's Universal Human Experience to know that at some time you're about to lie which is to say something that you know full well is North true whatever true is was Socrates dictum was don't do that"
+    ],
+    [
+      0.9667916297912598,
+      " ever"
+    ],
+    [
+      0.9631359577178955,
+      " if you know that it's a lie don't say it don't act it out and that's the pathway the wisdom and I believe that that's the case and one of the things I learned from Carl Rogers very famous psychotherapist was he believed you should be integrated in your body and your mind and so that not only should you say things that you believe to be true or at least weren't lies but you should act them out as well so that you're kind of a unified thing you should act in a manner that makes it unnecessary for you to lie about what you did"
+    ],
+    [
+      0.9730794429779053,
+      " cuz otherwise that's just a lie it's just a different version of a lie and so that that's another problem with not lying because then you have to start doing things that you have to lie about and of course that's a very annoying because most of the things that you have to lie about a really fun especially in the impulsive way and so then you have to give those up and that's very irritating and so but Socrates point was he always listen to this voice and he and in Rogers point was that you could actually detect when you were about to say something false and that you could learn to listen to yourself and you can learn to feel whether what you were saying was making you stronger or weaker and I think it has to do you know how if you're in a strange city and and the map isn't working and you're sort of disoriented you don't know where you are but you don't know where you are and you don't know where you're going until you start to feel all over the place you know you know"
+    ],
+    [
+      0.9535419344902039,
+      " Georgia together solidly ready to act it's an anxiety-provoking experience in that sense that that sense of weakness that comes without a ring Ally produces exactly the same consequences for the same reason because you're disrupting your representation of where you are in time and space where you are and where you're going and so then that you could be anywhere doing anything and that's too much it makes you anxious and weak and you can learn to feel"
+    ],
+    [
+      0.9690834879875183,
+      " you can you you can learn to listen to what you say and you can feel whether what you're saying is making you stronger and more and more position or whether it's making you weak and fragmented know the week is often has the benefit of allowing you to do something impulsively pleasurable and so there's a hype right there's a high payoff for it in the short-term but it's a catastrophe in the long run you can learn to Center yourself and I think what's happening when you do that is that you're aligning yourself from the bottom up and I don't mean from your feet up what I mean from the deepest recesses of your being I mean from all the way from down at the atomic level all the way up through all the levels of your interacting being everything is lined up and pointing in the same direction and that makes you itch it makes you diamonds like it it makes you sharpen hard and unable to move towards something without anything getting in its way and to be to be something that seeks a precise and pristine Target"
+    ],
+    [
+      0.9590461850166321,
+      " I should be implacable and Unstoppable and to be without excess fear and to be courageous all of that that the truth tempers you like metal is tempered and I think that you have the option to do that and then I'll close with an observation there's just this idea if the in Genesis is very interesting idea that God is that which confronts potential with truth that's that's that that's the deepest idea that's embedded in the biblical Corpus as a whole to the ideas of others God the Father whatever that means some some some something something that that has an intrinsic structure and some possibility of creativity and that entity Divine entity has a function and its function is the logos and that's the truth and that that structure applies that function the truth"
+    ],
+    [
+      0.9740036129951477,
+      " two potential that's the tohu bohu that exist before anything else exists that's potential it's just what could be and that the application of that logos to the potential creates reality creates order that's how order comes to me and I believe that's true I believe it's a it's a description of the actual structure of the manner in which being manifest itself and I think that you partake in that when you confront potential yourself you see the potential of the world and you act on it and you transform it into reality and then the question is what what sort of reality do transform it into a literally the case cuz that's what you're doing is you're you're taking what could be and making it into what is the degree that you're capable of doing that and in the biblical narrative God does that with the truth"
+    ],
+    [
+      0.9626930952072144,
+      " I'm so then order comes into being sequentially and there's this repetitive idea that's also part of the poetic structure of the first chapter of Genesis every time God uses the truth to extract order out of potential he says and it was good and so and here's the idea great idea it might be that great idea but it's definitely a great idea the reality that you produced as a consequence of confronting potential with truth is good"
+    ],
+    [
+      0.9642340540885925,
+      " it's the it's the fundamental statement of faith and it's worth thinking about because it could be the case is that you have the option of bringing the world into being for better or worse and if you want to bring it into being for better then the way you do it is with the truth and and there's going to be a price because the truth has a price but so does falsehood it's just a delayed price maybe the price of the truth is something you confront almost immediately but then it's over and and then things are better and then there's another idea in Genesis that human beings are made in the image of God and it's very difficult thing to understand but it's easier to understand if you know what the first part of the story means and it means something like what I've outlined although no doubt tremendously more than that means that"
+    ],
+    [
+      0.976504385471344,
+      " whatever you are whatever your Consciousness is whatever that capacity is that's part and parcel of you having that ability to Grapple with potential and transform it into reality that's how you partake in the Divine and it seems reasonable to me to deposit that if what you're doing is actually transforming potential into actuality because I can't think of anything that's more like what Divinity might be than that that's quite the damn trick and you seem to pull it off all the time in question is what how should you go about doing that answer seems to be with the truth"
+    ],
+    [
+      0.8974211812019348,
+      " and then there's one final thing I keep saying that there were three final things"
+    ],
+    [
+      0.9684850573539734,
+      " here's something so interesting I learned this when I did the biblical lectures last year when I was looking at the abrahamic stores there's a call to Adventure that's part and parcel every great narrative is your called out of your Slumber to undertake the adventure of your life and if so a great life is not a happy life and it's not an easy life it's it's a great and meaningful adventure and and you're partaking in the process of bringing something magnificent into big. That's life that's that's that's a far more than happiness it's it's and happiness might be part of that or satisfaction meaning might be part of that but this is much grander than all of that and and you do that you do that most effectively with truth and partly that's because telling the truth is actually a tremendous Adventure"
+    ],
+    [
+      0.9659419655799866,
+      " It's like because maybe you're aiming at something you think while look I can tell a person X this and I'll get what I want it's like that's fine you know except what the hell do you know about what you want you might be wrong about that and you probably are because what's your vision of the ultimate future it is a fully developed you would have gone to handle on that fundamental Utopia maybe it's something more like this is whatever the truth brings into. That's the right that's what's right and so you have to subordinate yourself to that and then you have to tell the truth and what show in trusting about that is it instantly are on an adventure because there's absolutely nothing more unpredictable and I can have profound and meaningful way then what happens to you if you actually start well at least to begin with not to laugh"
+    ],
+    [
+      0.9149408936500549,
+      " it's a company transforms your life completely and all sorts of insanely strange things happen to you because you're not exactly like"
+    ],
+    [
+      0.9711647033691406,
+      " a typical person anymore if you stop lying there's something to you that it's kind of uncanny that might be a way of thinking about it and it changes the way you react to yourself and it changes the way other people react and then weird things come your way in all sorts of ways and they're the things that if they're the things that if handled properly would actually constitute the justifying adventure of your life that's how you encounter it there's this idea it's in the New Testament Christ who is an image of the truth regardless of the religious issue is an image of the truth and body says I am the way and the life and the truth no one comes to the father except through me a hell of a thing for someone to say you know it's not someone something that someone just says to you when they walk by you on the street it's a very strange thing to say but it means something and then didn't need something deeply mysterious it means if you're willing to put your"
+    ],
+    [
+      0.9674676656723022,
+      " telephone the line into the stoplight in tune to strive towards the truth you'll encounter the adventure of your life and the consequence of that will be that that will call for Angus you the best in you and that won't be conjured out of you buy some trivia wish like if you want to make yourself into what you could be you have to contend with something just like if you want to become powerful you go to the gym you lift heavy weights or light weights it's makes you a lightweight you have to push yourself you have to push yourself to your limit and then to engage in the adventure that the truth produces is to push yourself to your limits and to push yourself to your limits is to force yourself to become what you could be and to become what you could be is the ancestral you that's the father that's a full manifestation of what it could be to be a human being and we don't even know the limit to that"
+    ],
+    [
+      0.9408963918685913,
+      " so that's why you should tell the truth or at least not lie"
+    ],
+    [
+      0.5280192494392395,
+      " thank you"
+    ],
+    [
+      0.9329755902290344,
+      " thank you thank you once again all right so you you are offered a substantial number of questions here so I'll try to find something interesting and maybe somewhat comical now and then and also that I could answer"
+    ],
+    [
+      0.9597952365875244,
+      " the show"
+    ],
+    [
+      0.8663532137870789,
+      " here's one that was outvoted by 45 people"
+    ],
+    [
+      0.9392895698547363,
+      " I'm an autistic male struggling to understand the concept of love I hear you discuss responsibility giving meaning to life how important is love to meaning"
+    ],
+    [
+      0.9096730947494507,
+      " show"
+    ],
+    [
+      0.9676231741905212,
+      " you know it's it's it's a hard"
+    ],
+    [
+      0.9775132536888123,
+      " it's a challenge to discuss truth"
+    ],
+    [
+      0.9773390889167786,
+      " I mean you have to be pretty presumptuous to discuss truth"
+    ],
+    [
+      0.9690497517585754,
+      " you probably have to be even more presumptuous to discuss love"
+    ],
+    [
+      0.9612548351287842,
+      " partly because it's a word that's it's like it's it's like it's it's like it's an old beautiful building that's been overlaid with centuries of grime and dirt and hasn't been cleaned properly for forever and so you can just barely see it through all the"
+    ],
+    [
+      0.9740010499954224,
+      " pollution"
+    ],
+    [
+      0.8867110013961792,
+      " show"
+    ],
+    [
+      0.9087387323379517,
+      " I discussed it with trepidation you can't you seem to have a high probability of"
+    ],
+    [
+      0.940677285194397,
+      " becoming false the moment that you even utter the word"
+    ],
+    [
+      0.9608514308929443,
+      " so I'm going to tread very carefully"
+    ],
+    [
+      0.9309258460998535,
+      " I think that what love is"
+    ],
+    [
+      0.9555209875106812,
+      " at its base is"
+    ],
+    [
+      0.8439584374427795,
+      " well it's what do you feel when you have a child"
+    ],
+    [
+      0.8210441470146179,
+      " and you're clear-headed and"
+    ],
+    [
+      0.9699059724807739,
+      " you you actually want the best for that child"
+    ],
+    [
+      0.8940566778182983,
+      " you think if you could have your wish that's what it would be"
+    ],
+    [
+      0.9374491572380066,
+      " and it's not easy to have that in the purest form that it should be because"
+    ],
+    [
+      0.9382238984107971,
+      " people are jealous of their children because of their used and they're jealous of their children because of their misspent adult life and the fact that someone new is entered the world that has a full realm of possibilities that they've already"
+    ],
+    [
+      0.9603784084320068,
+      " squandered let's say"
+    ],
+    [
+      0.979619026184082,
+      " and then a child is someone"
+    ],
+    [
+      0.9695817828178406,
+      " who you can easily Target with your capacity for malevolence"
+    ],
+    [
+      0.9437369704246521,
+      " and used as a scapegoat for all the resentment that you accrued in your life"
+    ],
+    [
+      0.9018596410751343,
+      " but"
+    ],
+    [
+      0.9765272736549377,
+      " having said that I think that for most people the closest they come to"
+    ],
+    [
+      0.9591740369796753,
+      " a connection with what love could be in its purest acids is"
+    ],
+    [
+      0.963796079158783,
+      " true contact with"
+    ],
+    [
+      0.9628052711486816,
+      " their child or children and"
+    ],
+    [
+      0.938385546207428,
+      " the desire that everything worked out well for them now that's a complicated desire because"
+    ],
+    [
+      0.9335867762565613,
+      " you know"
+    ],
+    [
+      0.9701840877532959,
+      " a child is a vulnerable thing can be hurt will be hurt that's for sure"
+    ],
+    [
+      0.8811432123184204,
+      " and"
+    ],
+    [
+      0.9687034487724304,
+      " that's part of the horror of life really that"
+    ],
+    [
+      0.9247109293937683,
+      " children can be hurting it might be one of the primary horrors of life or it may be a worse one is that you could be the agent of their destruction you could be the thing that does the hurting but it's it's the same idea"
+    ],
+    [
+      0.9779801368713379,
+      " so you might think of a child is something that's representative of the fragility and potential of being"
+    ],
+    [
+      0.721833348274231,
+      " characterized"
+    ],
+    [
+      0.955206573009491,
+      " very much fundamentally by potential but also very much by limitation and delimitation of being is what gives it its fragility and its vulnerability and its tragic element and its susceptibility to exploitation by malevolence"
+    ],
+    [
+      0.9496185183525085,
+      " and sold to love a child means that you have to want the best for something despite the fact that it's limited and vulnerable and morkel and susceptible to destruction by malevolence and even poked and even characterized by the potential to go wrong itself"
+    ],
+    [
+      0.9193395376205444,
+      " and so then you could think of a child as"
+    ],
+    [
+      0.9479595422744751,
+      " a representation of of existence or experience or being itself"
+    ],
+    [
+      0.9615107774734497,
+      " but it still seems that the proper attitude towards a child is love and that is the desire that things turn out the best for that beer"
+    ],
+    [
+      0.8909568190574646,
+      " and maybe you can abstract passed out and say that"
+    ],
+    [
+      0.9111359119415283,
+      " in the most philosophical an abstract sense then love is the desire that being turn out for the best and and you might think of that in some sense as a truism but it's not because"
+    ],
+    [
+      0.9858623743057251,
+      " life is so difficult and so cruel"
+    ],
+    [
+      0.922382652759552,
+      " and soul"
+    ],
+    [
+      0.9753174781799316,
+      " and so dark so often"
+    ],
+    [
+      0.9351779222488403,
+      " that is very difficult to wish it well"
+    ],
+    [
+      0.9633644819259644,
+      " and it's very easy to adopt a resentful and cruel and vengeful vengeance-seeking stance towards yourself and towards other people but on a more fundamental level towards existence itself towards the fact that there's being itself"
+    ],
+    [
+      0.9397047162055969,
+      " Goethe who wrote Faust"
+    ],
+    [
+      0.931885302066803,
+      " has a character in his great play Mephistopheles who's a variant of Satan and Mephistopheles has a CREDO when she repeats twice in the play in the first part and the second part written many years later and his Credo is"
+    ],
+    [
+      0.9755062460899353,
+      " things are so compromised by their limitations and the suffering that that produces that it would be better if nothing existed at all"
+    ],
+    [
+      0.9851866364479065,
+      " and I would say that that's the opposite of love"
+    ],
+    [
+      0.9807704091072083,
+      " that doesn't make love a trivial thing because it means that you have to embrace the catastrophe"
+    ],
+    [
+      0.9771464467048645,
+      " but I think that is what you do when you love someone"
+    ],
+    [
+      0.9527583718299866,
+      " deeply you"
+    ],
+    [
+      0.9483930468559265,
+      " you decide at the deepest level of your beer that for all the fragility in the adequacy and error of that particular person"
+    ],
+    [
+      0.9487923383712769,
+      " it's spectacularly wonderful that they existed that certainly what you decide I think when you grieve you know because you could imagine that when someone dies that that was a celebration that they were released from the catastrophe of their existence in from the darkness of of the world"
+    ],
+    [
+      0.973750650882721,
+      " I know there is an element sometimes like that when someone dies if they've been suffering for a long time but that isn't really what I mean when someone dies even someone close to you even if it's someone with whom you had a somewhat fractious relationship which is of course typical of the relationships that you have with people that are close to you and you grieve you still seem to be acting out the proposition that it was a good thing that they were"
+    ],
+    [
+      0.9720793962478638,
+      " and that is love"
+    ],
+    [
+      0.9494552612304688,
+      " I would say that the truth is nested inside lover they have a reciprocal relationship it's very being very difficult for me to determine which is the higher order virtue I think that they have to act in a dynamic way"
+    ],
+    [
+      0.5047460198402405,
+      " the two"
+    ],
+    [
+      0.9166451692581177,
+      " Orion Your Truth properly you have to decide that being for all its"
+    ],
+    [
+      0.9777870178222656,
+      " limitations perhaps necessary limitations"
+    ],
+    [
+      0.9184618592262268,
+      " is something that most certainly should be"
+    ],
+    [
+      0.9661861062049866,
+      " and I think that might be the primary commitment of faith that in spite of the evidence of the world's inadequacies"
+    ],
+    [
+      0.9876465797424316,
+      " existence is good"
+    ],
+    [
+      0.9584641456604004,
+      " I think that this is what you decide if you're a woman when you decide to have a child you know because women are often tormented by the notion that it's perhaps a moral to bring a child into a world such as this you see that in the great statue of the pieta the pieta Michelangelo statue where you see Mary holding Christ as an adult her son who's being broken and destroyed by malevolence and betrayal and catastrophe and I always think of that is the female equivalent of the crucifixion or a female equivalent of the crucifixion because if you're a mother"
+    ],
+    [
+      0.9789320230484009,
+      " you have to offer up your children to be broken by the world and that's the price you pay for bringing them into existence"
+    ],
+    [
+      0.9789245128631592,
+      " but it still seems the proper thing to do and I suppose you counterbalance that catastrophe of their life with hopefully with love and truth and courage and we all hope that those are enough to balance the scales and I think they are in fact"
+    ],
+    [
+      0.9723497033119202,
+      " enough I mean I think in many ways I'm a deeply pessimistic person and the reason for that is because I've looked into very dark places I've been in very dark places in my life from time to time myself with my family members and with my clients and I've investigated dark places in in my intellectual Adventure because I studied totalitarianism for years somewhat obsessively and most particularly the atrocities that were associated with the totalitarian States and most particularly the manner in which those atrocities were conducted by identifiable individuals and that that makes that part of the reality of your own life because you understand the people who did those sorts of things were people and and you're one of them and that's very dark"
+    ],
+    [
+      0.9381870031356812,
+      " very dark but"
+    ],
+    [
+      0.9240310192108154,
+      " none the less what has emerged for me as a consequence of that study is two things one is that the darkness does not overcome the light despite how much Darkness there is and that"
+    ],
+    [
+      0.9737901091575623,
+      " what we are as potential can transcend even the darkest Spirit of malevolence that what you discover in the darkest places is your greatest possibility and I think that love which is the desire that things work out for the best is a precondition for that"
+    ],
+    [
+      0.9669145941734314,
+      " investigation and discovery"
+    ],
+    [
+      0.9647846221923828,
+      " and then what constitutes responsibility is your decision to take on the burden of working for that best in whatever manner you can conceptualize it to work for the update your conceptualization of the best so that it becomes a better and better conceptualization of the best as you become wiser and wiser in your truth and your responsibilities"
+    ],
+    [
+      0.9622595310211182,
+      " and so that's"
+    ],
+    [
+      0.969735324382782,
+      " what I think about that"
+    ],
+    [
+      0.7177596688270569,
+      " question"
+    ],
+    [
+      0.9396767616271973,
+      " Franz Kafka said"
+    ],
+    [
+      0.9876290559768677,
+      " the meaning of life is that it stops"
+    ],
+    [
+      0.9876289963722229,
+      " what are your thoughts on this"
+    ],
+    [
+      0.9808990359306335,
+      " well I think that the meaning of life is that it stops might be an overstatement"
+    ],
+    [
+      0.9438742399215698,
+      " but there's something to that mean the meeting of the symphony is not that it stops it does stop and the fact that it's a bounded performance let's say is integral to its existence"
+    ],
+    [
+      0.9859049916267395,
+      " but that doesn't provide it with its meaning"
+    ],
+    [
+      0.9484657645225525,
+      " I think what cafka meant was that"
+    ],
+    [
+      0.9757123589515686,
+      " there's some necessary relationship between finitude and existence"
+    ],
+    [
+      0.9876289963722229,
+      " and I'll tell you a story"
+    ],
+    [
+      0.9519426822662354,
+      " it's it's a it's a it's a series of thoughts that I encountered while reading you"
+    ],
+    [
+      0.9325494170188904,
+      " old commentary Jewish commentary on on the nature of God and it's like a Zen Cohen except it's the Hebrew equivalent of the Zen koan I suppose"
+    ],
+    [
+      0.9107728004455566,
+      " you take see being take a being with the classical. Tributes of God omniscient omnipotent and omnipresent be anything do anything be everywhere Unlimited in every way what is it lack"
+    ],
+    [
+      0.8985362648963928,
+      " and the obvious answer is well nothing new by definition lacks nothing"
+    ],
+    [
+      0.925024151802063,
+      " but lacking nothing is a form of lack and so the answer to the question is well it locks limitation"
+    ],
+    [
+      0.9516758918762207,
+      " and then the question is what are there advantages to limitation that limitlessness does not possess"
+    ],
+    [
+      0.9796420931816101,
+      " and it seems to me that the answer to that is clearly yes"
+    ],
+    [
+      0.9588431119918823,
+      " there's nothing to strive for if your unlimited there's no Adventure if you're in unlimited there's nothing new to build if your unlimited there's nothing to do there's no Frontiers to discover maybe there's no being"
+    ],
+    [
+      0.9476005434989929,
+      " if your Unlimited"
+    ],
+    [
+      0.9795385599136353,
+      " and so maybe"
+    ],
+    [
+      0.9399449229240417,
+      " and the conclusion that was drawn by these wise men who formulated this Paradox was that man was created by God because limitation have advantages that limitlessness did not"
+    ],
+    [
+      0.9592161178588867,
+      " and that seems to be tied into the idea of the great adventure of life"
+    ],
+    [
+      0.9813145995140076,
+      " then the question becomes well if being"
+    ],
+    [
+      0.966594398021698,
+      " and adventurous being requires limitation but limitation produces suffering which it certainly does then how is it that you can have your adventurous being without following falling unbearably pray to the suffering"
+    ],
+    [
+      0.9301409721374512,
+      " and the answer that seems to be"
+    ],
+    [
+      0.9660654664039612,
+      " what depends on how you live and we addressed that already with the first answer if you live"
+    ],
+    [
+      0.9667131304740906,
+      " Guided by love courageously and truthfully then you can have the adventure that justifies the suffering of your being"
+    ],
+    [
+      0.9876289963722229,
+      " and I think that's true"
+    ],
+    [
+      0.98155677318573,
+      " I think that's what makes me not pessimistic at all in the final analysis but overwhelmingly optimistic because I do believe that"
+    ],
+    [
+      0.9112941026687622,
+      " the potential strength of people and MBA strength that's often manifested is more is a more potent Force than the catastrophic limitations of existence"
+    ],
+    [
+      0.9827136397361755,
+      " and I think that that Discovery is in some sense waiting there for each of us to discover if we will it and that Discovery is made by"
+    ],
+    [
+      0.9500764012336731,
+      " the faith it's made possible by the face that allows for the courageous and truthful confrontation with the terror and catastrophe and malevolence of limitation that confrontation transcend"
+    ],
+    [
+      0.9848281145095825,
+      " both psychologically by providing you with a purpose for your life that you might regard as worth the trouble"
+    ],
+    [
+      0.9783627986907959,
+      " but also"
+    ],
+    [
+      0.9740985035896301,
+      " solving the trouble itself because not only is it worthwhile to have a purpose for your life"
+    ],
+    [
+      0.9837783575057983,
+      " but if the purpose for your life is of sufficient"
+    ],
+    [
+      0.9513151049613953,
+      " quality then not only does that elevate you psychologically and fortify you in your movement forward but it actually directly addresses the problem of suffering and malevolence and so it's possible that the world is constituted so that we can have the advantages of limited being"
+    ],
+    [
+      0.9631383419036865,
+      " and symbol taneously overcome and transcend many of the disadvantages that can make it unbearable and I think that that's a very good goal and one that I do believe that we implicitly desire and share and that we could formulate explicitly and work diligently towards"
+    ],
+    [
+      0.9804873466491699,
+      " I'm a male engineering student"
+    ],
+    [
+      0.9270375967025757,
+      " class is 85% men and girls have female Scholarships in Opportunities grad recruitment is 50/50 it is that really true is is grad recruitment designed to produce a 50-50 gender balance in in your engineering program"
+    ],
+    [
+      0.9328872561454773,
+      " okay so people think no"
+    ],
+    [
+      0.9704280495643616,
+      " well then I would have to say that the question is how can I stand a chance and I would have to say I'm afraid I don't know enough about the specifics of that situation do offer an intelligent commentary so I won't show"
+    ],
+    [
+      0.9282739162445068,
+      " a 25 how do I find a balance between trying to take on maximum responsibility pushing productivity and enjoying my youth and not taking myself too seriously that's a good question why I think that's not a question just for a 25 year old so so let me tell you a story I think one of the things that you need to do when you're young"
+    ],
+    [
+      0.9371574521064758,
+      " is what you have to do enough stupid things so that you can figure out that doing too many stupid things is stupid that's necessary to painful experience"
+    ],
+    [
+      0.9693952798843384,
+      " and there's an old doctrine that you cannot be redeemed from any sin you didn't commit which is part and parcel of a relatively profound line of Christian thinking what are the things you really want to do when you're young as you want to find out what you can do like I think it's necessary to push yourself in at least one direction past your limits of tolerance so that you can find out what those limits are once you do that you have to pull back and you have to do it carefully obviously because you don't want to exhaust yourself but one of these one of these"
+    ],
+    [
+      0.932225227355957,
+      " Adventures of being youthfulness to find out okay what what am I made of what what can I do and the only way you can find that out is to take on"
+    ],
+    [
+      0.9580511450767517,
+      " a challenge"
+    ],
+    [
+      0.9257739186286926,
+      " and that's not much different than taking on the responsibility and so there's a great adventure in that that mean you want to have an adventure when you're young that's very good adventure to find out who you are when I was a graduate student you know I"
+    ],
+    [
+      0.8892612457275391,
+      " which I think that was probably perhaps the best part of my youth I was about 25 about the age of the questioner and I was"
+    ],
+    [
+      0.9582592844963074,
+      " taking my clinical Ph.D program and I was reading a tremendous amount scientific papers educating myself in the fields of neuropsychology and Psychotherapy ecology an animal behaviorism in child development and drug and alcohol motivation and jungian psychology and Freudian psychoanalysis and nietzschean philosophy and rogerian Psychotherapy and very large number of very large number of field symbol taneously reading as much as I could get my hands on"
+    ],
+    [
+      0.9685227274894714,
+      " writing a lot I started to write a book at that point would you turn into maps of meaning so I was writing about 3 hours a day I was also doing my scientific research are published about 15 papers in the five or six years I was at Miguel which was which was a lot of papers and at the same time I had a very active social life I was out at least three or four times a week and The Clinical Psychology students who were my parents were very social group of people and they really liked to their very extroverted and they read like to have a party and have a good time and so there was a tremendous amount of that and it was it was ridiculously entertaining and fun and I was also going to the gym because I decided I was going to try to put myself in something approximating some reasonable physical shape"
+    ],
+    [
+      0.9861467480659485,
+      " and so that was a that was a lot"
+    ],
+    [
+      0.9760592579841614,
+      " and it was very useful to try to do all those things at the same time partly to find out how much I could do and one of the things I learned was that you can get very efficient if you push yourself beyond your apparent limits you will learn ways of doing the same with less you can get raisley crazy efficient and you can learn how to make 5-minute sections of your life productive and that's a way of stealing more time and some sense but I couldn't couldn't do so for example when I was writing maps of meaning which pretty much laid the foundation let's say for everything I've done since all my YouTube lectures in my University lectures and 12 rules for life and all of these lectures all really stem in large part from the"
+    ],
+    [
+      0.9543465375900269,
+      " writing I did on maps of meaning cuz I wrote for 3 hours a day for 15 years that's a lot of writing and I decided I was going to make that sacrosanct that I was going to put that time away and nothing was going to stop me from using that time not love not money nothing and until I was trying to do all those things and I had to give some of them up because they started to interfere with one another so for example I found that I had a pretty capacious capacity for for alcohol coming from Northern Alberta where drinking was essentially the national sport"
+    ],
+    [
+      0.9617658257484436,
+      " and I really enjoyed it a lot it was a very good drug for me although"
+    ],
+    [
+      0.9763237237930298,
+      " not necessarily because of what enticed me to do because I did learn that almost all the times that I acted in a manner that I regretted it was under the influence of alcohol and so I had to come to terms with that and I also had to come to terms with the fact that the topics that I was dealing with while I was writing we're so deep"
+    ],
+    [
+      0.9579622745513916,
+      " that I couldn't handle them if I wasn't in pristine mental condition they were too daunting mentally or emotionally especially when I was studying totalitarian atrocity it was just too much hungover that was just too much and also if I was writing and trying to formulate my thoughts clearly then especially if I was editing and headed to the lot if I wasn't in pristine intellectual condition then when I added it what I was writing I would make it worse which seemed counterproductive and so I realized when I was about 27 or so that"
+    ],
+    [
+      0.9621241092681885,
+      " if I was going to continue to pursue what I felt to be most important and I had sort of figured that out by pushing myself in various directions simultaneously and looking at the consequences that I was going to have to radically regulate my social behavior and so I think when I was 27 I stop drinking completely I stopped smoking I also smoked cigarettes and I quit that as well and I didn't drink anything for 25 years and that was necessary because there's no way I could have done the other things that I did that had I not made that sacrifice and it was a sacrifice you know I mean I love my social life I still"
+    ],
+    [
+      0.9636397957801819,
+      " I still I still miss it to it to a large degree although I replaced it with many other things but but it was worth it and so I would say but in comparably worth so you know you have to make sacrifices in your life and that's fine then and because you have to prioritize and that means that you have to make sacrifices and I decided that I wanted to see what I was capable of doing and that meant that I had to eradicate everything that was in the way that was interfering with me discovering that so I would say if you're young you should try"
+    ],
+    [
+      0.9785117506980896,
+      " five or six things that are way outside your domain of confidence and and you should try to hit at least one of those as hard as you've ever hit anything at with as much dedication as you can possibly muster and push yourself beyond the limits of your capability so that you can find out what those limits are and then pull back enough so that you can sustain that level of intensity across a very long. Of time and then you have a a life that you might regard as worth having and and there's and you have to make mistakes while you do that because in order to push yourself Beyond Your Capacity you have to push yourself too far and so then you have to find out what too far is and there's error in that but that's there's always error you know"
+    ],
+    [
+      0.9509440660476685,
+      " what are the things that's really useful to know I always told my my clients this are very often they were in a tough position I said I see what what your situation is you're screwed no matter what you do"
+    ],
+    [
+      0.9586336016654968,
+      " that is so useful to know that it sometimes in your life which is that you don't like there's no good option here you can have this auction and it's hard and difficult or you can have this option and it's also hard and difficult and that's all you've got and that's really useful to know sometimes cuz otherwise you would talk to yourself about the fact that you can't see your way clear sometimes you don't have that luxury at least then you get to pick your poison and I think a large part of having a successful life is exactly that it's like pick your pathway to Doom you know where you're headed that way anyways and so you might as well pick one that's worth having and and and and that's back to calf this point is well it's like look you're all in in life"
+    ],
+    [
+      0.9771695137023926,
+      " so you might as well do something"
+    ],
+    [
+      0.981890082359314,
+      " you might as well do something that's as spectacular as you can manage because"
+    ],
+    [
+      0.9415655732154846,
+      " what are you going to do increase your risk you've already got the full risk of the full risk is there"
+    ],
+    [
+      0.9067416787147522,
+      " it's already upon you the full risk so"
+    ],
+    [
+      0.9687647819519043,
+      " push yourself discipline yourself take your adventures pull back enough so that you can have a life that you can maintain and then see what the hell you can manage and that's that's a very entertaining way to progress through the tragedy of your existence so"
+    ],
+    [
+      0.9460448622703552,
+      " one more"
+    ],
+    [
+      0.9870279431343079,
+      " how does one become more disagreeable"
+    ],
+    [
+      0.6436547040939331,
+      " unless the Roddick"
+    ],
+    [
+      0.8505391478538513,
+      " well that's a good question and it's a good one to two end with"
+    ],
+    [
+      0.9609149098396301,
+      " well the best way to become more disagreeable and if this is part of the integration of your Shadow let's say you're an agreeable person means you're quite suited for taking care of it of dependent creatures because agreeable that suits you for that and it's a necessary ability although it's not so useful when you're not taking care of dependent creatures"
+    ],
+    [
+      0.9438321590423584,
+      " if you're too agreeable then you find it very difficult to negotiate on your own behalf because you tend to sacrifice yourself for the perceived benefit of others"
+    ],
+    [
+      0.9636096954345703,
+      " you are too much on the side of cooperation let's say and not enough on the side of competition so you don't give yourself a fair shake well how can you figure that out what the best way to figure that out I think is to notice your resentment and I often Council my clinical clients to notice their resentment I talked about this a little bit in 12 rules if you're resentful there's basically two reasons one is your whiny and immature and you should just grow the hell up"
+    ],
+    [
+      0.9621430039405823,
+      " and the other is is that you're being taken advantage of or you're allowing yourself to be taken advantage of and those two things functionally aren't different and so you want to sort the first one out maybe by talking to someone that you care about you say why I got this problem I'm kind of resentful here's the problem this is what's driving my resentment do you think I'm just whining and immature and should get on with it and you know it's going to be a bit more sophisticated than that but and then all of us are less mature than we could be so if you want to get the parts of yourself that are still"
+    ],
+    [
+      0.899685800075531,
+      " that have retained that childhood in maturity without any of the childhood charm you want to get that under control"
+    ],
+    [
+      0.9718292951583862,
+      " and then if you find out that it's not immaturity but you are in fact either being taken advantage of or allowing yourself to allowing yourself to be taken advantage of then it's useful to understand that you have a moral obligation to put that to a halt and so then what you need to do is figure out okay well why am I resentful what's the problem that's that's complicated you have to think it through then you have to think while what would a possible solution look like or an array of solutions maybe you're being exploited by your boss maybe you need a new job maybe you have to retype your resume maybe you have to overcome your fear of interviews you know who who knows what it is but you have to come up with a potential solution and then you have to develop a strategy and that strategy might me well first of all at least admitting to the fact that you're not negotiating on your own behalf courageously and truthfully and then set"
+    ],
+    [
+      0.9338913559913635,
+      " turn yourself up"
+    ],
+    [
+      0.942641019821167,
+      " piece by piece so that you can do that so for example if you feel that you're being underpaid at work"
+    ],
+    [
+      0.9276556968688965,
+      " for the first thing you might want to do is investigate whether or not you actually are you knowing and that might take a month or two of concerted digging and thinking but it didn't turn out that you are then you have to ask yourself well"
+    ],
+    [
+      0.9551074504852295,
+      " have you actually asked for a raise because it's very frequently the case that people don't and if they're agreeable they think while I'm working really hard like a nice person would notice all the good things I'm doing and they would just give me a raise it's like good luck with that Siri"
+    ],
+    [
+      0.9678458571434021,
+      " you know first of all if you're doing your job and you're easy to get along with no one even notices you and don't you know what I mean it's like you don't notice things that are going well and you notice things that aren't going well managers spend almost all their time with the tiny fraction of people who torture them to death they spend almost none of the time with the people who are doing a decent job at far less time than they should with the people that are doing a stellar job if you're a manager you should ignore the people who are torturing you to death completely cuz there's no fixing them and you should spend all your time with your excellent people and no one does that so so don't be thinking that you're going to get noticed necessarily if you do a good job you have to call the attention of your Superior to your Stellar performance and say look you know"
+    ],
+    [
+      0.9704028964042664,
+      " here's what I'm doing cuz they might not even know I'm doing this in a really good way of doing this in a really good way of doing this in a really good way and this and this and this and this and I've done it for a long time and here's the benefit is bringing to you and I'm finding that the fact that I haven't been recognized for this is starting to interfere with my motivation in a serious way it's making it harder for me to come to work it's making me more likely to drag my heels and less likely to put 100% in and I've been thinking about how to rectify that because it seems like a really bad long-term solution for me and for you and I figure while like a 25% salary increase over the next three years might go a long way to rectifying that"
+    ],
+    [
+      0.9763152599334717,
+      " and here's why it's a financial benefit to you and here's the whole story that you can take to your boss to justify paying me"
+    ],
+    [
+      0.9519332647323608,
+      " and you know that might work and it might not maybe you'll get 10% or 15% or 2% or maybe the person will come back and say well we can't do that but you know thank you for your service and will certainly promote you and we can consider doing something financially in the in the in the longer-term if you're willing to in a want to cooperate with us a bit and then at the same time you should have a back-up plan which is another job"
+    ],
+    [
+      0.9147862195968628,
+      " really it's like you negotiate and it's like I'm not happy here so what what you going to do about it nothing well then go away"
+    ],
+    [
+      0.9613006711006165,
+      " I got more serious problems than that to deal with"
+    ],
+    [
+      0.9510924220085144,
+      " I'm unhappy here so what what you going to do about it and it's really quite substantive professionally done I've outlined all the wonderful things I've done it this institution for the last 10 years and I've already mailed it to 50 companies three of them Adventure I've have an interview scheduled with three of them"
+    ],
+    [
+      0.9144595861434937,
+      " it's like you're on fire right I got to put you out you're a real problem I better deal with you and the probability Cherry expensive to lose a good employee and hire a new one and so you have to"
+    ],
+    [
+      0.9768170118331909,
+      " figure out what the problem is what's making you resentful and figure out what a solution might be so that you could be thrilled about going to work or at least not dreadfully resentful and miserable but thrilled would be good you might want to come home and have a big party you say Cheese's I just nailed that man I got a promotion I got a raise things are way better and for that things are way better that's the right thing to him for well that'll that'll help you be less agreeable it's like you want to live and resentment of misery while you trudge through your job going downhill with your blood pressure rising and you aging faster than you need to for the next 20 years will you take it out on your family because you don't have enough courage to confront the actual situation is that what you want what do you want to come up with a plan and and get what you need and want which is a high probability I've seen this happen to people over and over I got lots of clients who tripled their salary in 3 or 4 years"
+    ],
+    [
+      0.9532606601715088,
+      " and it worked out it man it was no joke they weren't they put their damn hours in they put out their hundreds of resumes they filled in the gaps in their education but like if you make it a priority and you're willing to make the proper sacrifices then you radically increase the probability that you will succeed and so that's"
+    ],
+    [
+      0.901714563369751,
+      " what is the strategies for becoming less disagreeable neurotic and so that'll solve that problem too"
+    ],
+    [
+      0.9662303328514099,
+      " thank you very much if you want this conversation meaningful you might think about picking up Dad's books maps of meaning the architecture of belief or is newer best seller 12 rules for life an antidote to chaos both of these Works Del much deeper into the topics covered in the Jordan B Peterson podcast see Jordan B Peterson. Com for audio ebook and text length or pick up the books your favorite book Cellar I hope you enjoy this podcast as much as I did if your dad please leave a rating at Apple podcasts a comment to review or share this episode with a friend thanks for tuning in talk to you next week at Jordan B Peterson on Facebook at dr. Jordan B Peterson and an Instagram at Jordan. B. Peterson information about my tour dates and other events at my list of recommended books can be found on my website Jordan B Peterson dark call my online writing programs designed to help people"
+    ],
+    [
+      0.9343900680541992,
+      " straighten out their past understand themselves in the present and develop a sophisticated vision and strategy for the future can be found it self authoring. Com that's self authoring., from the Westwood One podcast Network"
+    ]
+  ]
+}
