@@ -1,1 +1,422 @@
-{'Stats': {'PodcastID': '1464919521.mp3', 'DownloadTime': 1, 'AudioLength': 2494.537167, 'OriginalFileSize': 29978682, 'FlacFileSize': 220926999, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 885.7622756958008, 'DownloadSuccessful': '14.874179124832153'}, 'Transcripts': [[0.9164520502090454, "I found him slang married couldn't feel a pulse I don't know anybody who had that much hate in their heart to commit the crime like that"], [0.880977213382721, " they determined that it was a murder somebody can one minute takes his life you've stolen my child"], [0.9163263440132141, " we had this piece of a costume we didn't know what it was looking for a subject that was dressed as a penguin someone dressed as the Joker from Batman someone wearing just a yellow colored sweatshirt with a hood where's your costume with my gospel by cost you only threw it away because it was full of blood"], [0.9152172207832336, ' I was terrified of the people who were covering up their own involvement I do'], [0.935032308101654, ' evil exists'], [0.780500590801239, ' evil dwells in people'], [0.9868211150169373, " it's the one time when everyone pretends to be someone else"], [0.9592337012290955, ' when being two-faced is part of the deal'], [0.9539604187011719, " maybe the rules don't apply and the during those moonlit hours we all have license to eat drink and be scary Halloween has morphed from our national salute to Sugar into a Coast-to-Coast alcohol-fueled party and nowhere is that more true than in the Rough Riders state of North Dakota"], [0.9236945509910583, ' buck in October of 2007 several lives would Collide under that Halloween moon at least one person may have used a costume to try to hide his true identity a murderer'], [0.9597224593162537, " that weekend before Halloween here in Grand Forks Heather resling and her boyfriend Joel lovelien we're putting on costumes getting ready to go out with friends dressed up as a hockey fan wearing his favorite green jersey like I said a mechanic's outfit a friend of mine text me and said meet us at the broken drum the broken drum have Casino half bar Heather and Joel had a lot to celebrate she had just moved here from Texas after dating long-distance it was nearly love at first sight I want to go out with you before you realize this is the guy"], [0.9538252949714661, " a week that's it yeah he was taking back when I told him I said I'm going to marry you that's what's going to happen here and he wasn't really ready for me to say something like that to him but I was ready to say something like that that's how sure I was Jewel the divorce guy who love gulf fishing at his friends would soon be ready for marriage to just ten months after they met this smart Hospital computer IT Tech proposed to this 31 year old elementary school teacher in front of about 200 Texas dance hall two-steppers the following year"], [0.970638632774353, " but that evening inside the broken drum they were completely unprepared for the most frightening night of their lives it all started when a bus with partygoers arrived at the bar Heather watched as they started piling into the broken drum the party is were mostly well-oiled 20-somethings on an all-night pub crawl and they've been fueled by an estimated 325 jello shots that were on board that bus Heather and Joel were suddenly in the midst of people in Halloween costumes as this security video shows there was a clown with a bright rainbow colored Ativan there was also a cowboy a hunter a lion a Gangster and a woman who won is Paris Hilton Joel in his green hockey jersey was enjoying a rare cigar"], [0.9507003426551819, " play Blackjack next woman dressed as I was going at one point he had to take a call that was too loud inside so we had gone outside to to take the call while Jewel was outside on the phone. Pretty bus was getting ready to go on to the next bar but suddenly someone from that bus needed help tell a comeback in the front door and said somebody got left by the bus I'm going to go check on him he kissed me and went outside a few minutes someone else would come running into the broken drum yelling to call 911 non emergency for the person Joel went to help it was for Joel"], [0.7764370441436768, ' on the cars and found him on a grill'], [0.8133965730667114, ' doll was laying there'], [0.9401305317878723, ' with blood all over the cement nearest head'], [0.9661035537719727, " Heather says that when she got outside she didn't see the party bus or any of the people in costumes but Joel the Good Samaritan who going to help a stranger had himself been the victim of a Savage beating"], [0.9184263944625854, " remember hearing the ambulance is coming in the cops coming there's sirens in the same hospital where he worked as a computer tech and the doctors came in, they did everything they could"], [0.6566451191902161, ' the joint'], [0.9230344295501709, " 800 miles away in Montana Joel's mom and stepfather received the most terrible news parents can hear you raise your children and the things you do to protect them"], [0.8742603063583374, ' and somebody end'], [0.8485167026519775, ' one minute'], [0.9478879570960999, " Texas life like you've stolen my child just 38 Left Behind not only his family and fiance but also a daughter Alexa from his first marriage quicker there's an accident you know you think that it's something that can be"], [0.9048052430152893, " text Hangouts I went to the hospital thinking you know he's hurt not then later Jools stepdad learn more about the horrible details Grand Forks Police Department call this they determined that it was a murder"], [0.8031673431396484, " who'd want to hurt him I don't know anybody who had"], [0.9187057018280029, ' that would take their heart to commit a crime like that with bad luck be in the parking lot at the wrong time wrong person'], [0.9747843146324158, ' evil exists'], [0.9654243588447571, ' evil dwells in people and it comes out and things like this happened what evil had killed Joe lovely for Grand Forks Police the answer lies somewhere on a long list of potential suspects and maybe one of them had left a calling card something found at the scene of bloody piece of a Halloween costume police thought it might be the key to unmasking a killer'], [0.7996580004692078, ' a Roundup of possible suspect Begins the Clown'], [0.9421859979629517, " a night of Halloween drinking in Grand Forks North Dakota and some out ended with Jewel lovely police were trying to figure out use their fists to beat Joel Wildside the broken drum bar in a fight that apparently no one witnessed and Joel's fiance Heather was trying just as hard to understand what happened to the man she loved inconceivable that he picked a fight with somebody else and feed into anger like some in wood"], [0.9541354775428772, ' Jewel was so badly beaten that the coroner could feel and hear the broken bones in his face when she touched it the cause of death Joel choked on his own blood'], [0.9659568071365356, " it was now up to police to find the killer or killers of Joel lovelien in Grand Forks a city that averages about one murdered a year the chief of police was John packing this was probably one of the more challenging cases that we've ever had because of alcohol involved a large crowds people in costume the police interviewed about 80 people still left of the broken drum and here's what they heard the party bus went down town after it left the broken drum and police her descriptions of some costume people last seen near either Joel or that bus a clown a cowboy a penguin a Gangster and a construction worker and while searching for people in costumes sounds almost like it actually helped police Identify some Persons of Interest if the cops could locate them before they took off those costumes so we going to find"], [0.9143839478492737, ' penguin and the Joker I left and then you got to find a pretty quick got to find him pretty quick'], [0.9582741260528564, " also an interesting piece of evidence left behind at the murder scene police thought it was a bird's foot from someone's constant up and it had blood on it Grand Forks Police Sergeant Bill Mackey give me the penguin that point we didn't know how how the foot played into it there or not police swarm Downtown Grand Forks and at another bar they found one of the costume characters they were looking for that same night we found the clown made us wonder why is this guy crying The Tears of a Clown it made police"], [0.9333317279815674, ' what officer reported the clowns hands were shaking from the cold or from something else'], [0.9669885635375977, " by the time the clown was brought to the police station he had dried his tears but he was not cooperative and told police he had nothing to do with any murder and was crying because of a domestic argument that night he explained to us that he had a bad argument with his girlfriend that's not real clear and convincing to us police say the clown then ask for a lawyer"], [0.9578617811203003, " what police just let him go pick up the clown who's crying who is belligerent and who asked for a lawyer and one things that could say to me is maybe I saw something terrible happened like I said something to get beaten nearly to death but that didn't try any of your investigators as anything other than what we said he's probably drunk yep it's a it's a challenge at one asked to determine whether those tears or of remorse whether they're tears of fear or maybe they had onions for lunch that same night police also found the cowboy but the cowboy gave police a fake name a fake birthday and became physically aggressive police place in handcuffs even though he wasn't arrested and what does the cowboy say the cowboy is very difficult to deal with he wants really nothing to do with us."], [0.933544397354126, ' want to operate with us there is no record of his interview but an investigator says the cowboy asked a very interesting question if the victim was wearing a green shirt with the initials UND on it who was wearing a University of North Dakota sweatshirt that night Joe love playing the victim suggesting that the cowboy witness that fight on face value it would appear like that yes'], [0.9292617440223694, " police also let the cowboy go but soon after they got the break they need it the owner of that bird's foot would come forward police believed it would lead them straight to the murderer"], [0.7462219595909119, ' yellow hooded sweatshirt on I have some pause'], [0.9646041393280029, " Willows First hours and days after the murder of Joe lovely Grand Forks Police had been rounding up the unusual suspects looking for a subject that was dressed as a penguin someone dresses up as the Joker from Batman someone wearing just a yellow colored sweatshirt with the hood those investigators including veteran Detective Mike Shoals were scratching their heads over what appeared to be a bloody Claw from a bird costume that was found near Joel lovelien body what 90% of a bird costume we didn't know what it was all we know is that we had this piece of a costume detectives invited the guys on the party bus we've been so difficult the night of the murder to come back to police headquarters"], [0.938816487789154, " where's the following day they did and this time saying a different to one that seemed to get them all off the hook they told cops they didn't see Joe level murder book told of a fight outside the broken drum earlier that evening between one of their Pals dressed as a hunter and a guy in an odd costume with a yellow sweatshirt who has also been on the bus"], [0.9574774503707886, " because of that fight they told the guy in the yellow outfit he couldn't get back on the bus and then they drove downtown to another bar"], [0.9123966097831726, " lynell sober and Cooperative Cowboy told detectives that he last Saw Joe loveling alive and well happy Harlequin explain that he's clown 2 years were about flashback triggered when he learned about Jewel lovely"], [0.9385569095611572, ' a lot of it on my phone mean while across town the guy who been wearing that yellow costume was just waking up his name was Travis stay a twenty-three-year-old nursing student at the University of North Dakota and today he was nursing the mother of all hangovers because he had so much to drink on the bus and in the bars the previous night but he slept away most of the next day when he awoke one of his friends shared some worrisome news one of my roommates had seen that they were looking for a guy in a yellow sweatshirt so I went down to the police station across from Grand Forks Detectives'], [0.9322729110717773, " antenna went up he suddenly realized it wasn't a bloody bird's foot next to Joel's body but a lion's paw and Travis then confirmed it had a yellow hooded sweatshirt on I have some pause the cops became even more suspicious and asked how he been punched out by the hunter in the parking lot of the broken drop noticed some scrapes on his hands by Dawson wikoff. Scholl's pounced on that new lead"], [0.933307945728302, " Travis gave the cops everything they asked for including a DNA sample and permission to search his apartment where he's lion costume was still in the trash"], [0.9500510096549988, " I gave him everything without them needing to get a search warrant cuz I couldn't remember anything from the time he was punched until the time he got into a cab more than an hour later and on the cops timeline that was the time when Joe loveleen was killed"], [0.821021556854248, ' what you said you were going to go check on Q that was the last place I seen him he was found dead in the parking lot'], [0.8959167003631592, " we don't know you don't know but we appreciate it bloody clothing they were wearing during the murder but actually wear some of it into the police interview one that's probably not too smart"], [0.9906898140907288, " and there's plenty of them"], [0.9177001714706421, " the couch look Travis go home but they weren't by his story he was now a definite Person of Interest and two days later they had more questions for him this time around the questions were more pointed about just what happened while Travis was eating his blackout"], [0.8368656039237976, " Travis I'm not allowed to talk to that man"], [0.8489705920219421, " I can almost guarantee you that because you're thinking of himself come on right remember really is convenient"], [0.9580681324005127, " and then you walk out of the police station and you think what that's the end of it I knew things at that point had you know taking a swing in in the wrong direction and you know we were going to look into getting an attorney trying to stay was about to find out he need a lawyer sooner than he thought"], [0.9324151873588562, ' there was a knock on the door and they said that there was bad news police make an arrest and the case moves into court to destroy families on two sides of a murder just lying there I was screaming his name Adam'], [0.9616611003875732, ' Willie Geist here this week on the Sunday sit-down podcast I had to Waco Texas to get together with Fixer-Upper Stars chip and Joanna Gaines to talk about turning a local business into an Empire get that conversation now for free wherever you download your podcast'], [0.9467239379882812, " in the month after her fiance's murder Heather eastling pain was beyond words to suck the life out of you would"], [0.8681151866912842, " tell your life isn't what you wanted it to me."], [0.9647495150566101, " Your dream life isn't going to happen Grand Forks detectives have been working around the clock to solve this rare murder case and then those DNA tests of Travis's lion costume came back some of that blood on Travis was his own but some of it belonged to Joe lovely and with that police had everything they need it and then one morning there was a knock on the door and you know there was detective Shoals and detective Simon and arrested me for his murder Nova's Travis was a rain from jail via closed-circuit TV Steve versus Travis English and misery is evident in his call home"], [0.9543916583061218, " Travis it's going to be okay and it's going to be okay I know this is difficult for you to get even tougher a little more than a year after his arrest Travis found himself on trial for murder facing the rest of his life Behind Bars prosecutor Nancy I laid out the state's case he's 38 year old man jewelry that would decide Travis's fate Travis brutally beat Joe leveling while he was down on the ground and did not seek help for him afterwards left the scene allowing mr. leveling to choke to death on his own blood fiance Heather and she we live that awful night"], [0.9433826804161072, " Sadie's last person that we believe was seen with mr. loveleen open and shut case with overwhelming physical evidence when we looked at Travis's close it was covered in blood and most importantly none of the other costumes matched the Paw that was left behind at the crime scene for different areas of Travis days sweatshirts three out of the four samples tested positive for Chola plans blood"], [0.9587368369102478, " and prosecutors argued they could prove Travis was there with Joe lovely prior to the murder their eyewitnesses to the guys we've been so sloshed and uncooperative the night of the murder the hunter the gangster and the Cowboy from the party bus Bryce Larson the Cowboys took the stand and told a story both his friends would Echo mr. Larson did you ever witness the murder of Joe left lane"], [0.9754536747932434, " did you ever see him assaulted in the broken drum parking lot when you left that parking lot where was he he was sitting right there at the defense table prosecutors laid out their timeline using security video from the broken drum there's Travis in his lion costume Witch by this point in the evening is little more than a yellow hoodie moments later he's gone outside Joe lovely wearing his green hockey jersey can be seen heading out a little later never to return the tape prosecutor said prove Travis was in the parking lot when Joel was killed and according to the state's Witnesses from the bus it was impossible for any of the other partygoers 2 of Attack Joel because their party bus was gone by the time of the murder"], [0.8488867878913879, ' call Evelyn was murdered'], [0.9669429659843445, " the prosecution argued that Joel's last words to his fiance Heather support of that timeline comments to his girlfriend some guy missed missed his bus I was out there helping them and then he went back out the guy who missed the bus they told the jury was the defendant has his own words against him they played every frame of those police interviews and which Travis claimed not to remember the most critical part of that alcohol sodden Knight you got into the cab jurors heard testimony that later that night Travis was in another fight after Mr leveling was killed Travis Taylor Lofts the broken drama on foot walks to a location in the alleyway where he confronted another individual Batman and missed you then got into a cab and went home"], [0.9399347305297852, ' if prosecutors were to be believed the defendant was a Halloween nightmare come to life just add alcohol and nurse Travis turns into a drunk and dangerous mr. Hyde always bleeding from his face and explain how the slightly built Travis was able to take down and kill the much larger Joel with his bare hands'], [0.9689064621925354, " police also say the fact that Joel and had a few drinks made it easier for Travis he was drunk and so the fact that a little guy comes at him and unsuspecting and he's unstable on his feet because he's intoxicated to makes perfect sense that he could drop him aspiration or the prosecution called its Final witness a blood spatter analyst this is a possible position who used photos to demonstrate that has blood on Travis's clothing was consistent with Travis standing over well beating it Travis was either standing right next to Joel lovelien or straddling Joel of lean as he was punching him in his face"], [0.9615511894226074, " the prosecution's evidence was stacking up against Travis day no question he been in a fight with a hunter before Joel was killed no question he taking a swing at someone else afterwards and now he'd have to explain why there were traces of Joel's blood on his constant which Travis was either unable or unwilling to do because of his suspiciously convenient amnesia"], [0.8964357972145081, ' mob mentality are a recipe for tragedy someone else their own involvement in this I do'], [0.9561767578125, ' all the evidence will show Travis States defense team faced a difficult task prosecutors had portrayed their client as a two-faced killer who change personalities after he had a few drinks in it and who in a blind rage and mercilessly beating Joe lovely to death Travis day is not going Francis opening statement Attorney Peter Wold told jurors will simply impossible the beaten drunken small stumbling Travis stay was not capable of inflicting the multiple brutal injuries along with Joe Friedberg defended Travis their argument to the jury'], [0.9697209596633911, " Travis stay was too slight too drunk and too decent to a Kill Joel lovelien a man who was trying to help Travis Joel they argued was killed by the same Halloween costume party goers he was trying to protect Travis from first Contact a cold-blooded killer prone to alcoholic rages the prosecution's theory which was also the police theory was that Travis became a different person when he was drinking they made that up out a whole are there with her if they had a witness that said that was Travis's history if they could provide anecdotal evidence that that it happened twice before a hundred times before 1 before we never sought we never heard of it he's sitting I'm protected in front of cops 4 hours answering questions without any help without any pot"], [0.8825572729110718, ' without any break and willingly bearing her soul where were you this very important that we try to remember this Travis not remember talking to that man'], [0.9603027701377869, " I think we don't know he was credible a land across in a second interview and said you think it was me we have to be you know it's honest as we can about it next to the fence tried to convince jurors just how improbable it was but the five foot seven Travis could have heard the six-foot-three Joel at all let alone when he was me walking drunk when we read the autopsy and it gave the inches and pounds of the deceased said he had waiting but 75 to 80 pounds was 7 or 8 in bigger then it began to take on kind of a different color and so the defense offered some suspect of its own the first people rounded up the night of the murder that Posse of costume guys on the bus Mamba mentality are a recipe for tragedy"], [0.9632735848426819, " what do you think happened that night I think that the cowboy the gangster and construction worker came back outside and confronted Joel and I didn't get back on the bus and leave us standing in the parking lot I think that's"], [0.9668077230453491, " if they beat us they beat us both on Travis to prove that they conducted a withering cross-examination of the man who was wearing the cowboy costume that night the cowboy admitted he have lied to police the night of the murder about not witnessing the fight between Travis and the Man in the Hunter's costume the defense wanted to know what else he might be lying about what is it that we can look for"], [0.9496097564697266, " that will help us determine when you're telling the truth"], [0.8487402200698853, " if you don't know who does"], [0.9578207731246948, " Warriors strategy was to hammer away at the partygoers shifting stories are you sure under cross-examination that crying clown who cops found weeping and said things had gotten out of hand that night now sit on the stand he didn't remember crying or being upset you where you shake it up remember that I don't remember that they look at your shoes as well and as for that blood detective shows noticed on Travis's shoes during his initial interrogation DNA test proved it was Travis's not yours I guess when possible to help Joe not heard it appears somebody other than the photos an ER Doctor Who examined Travis took the stand and concluded Travis's hands we've been far more battered and Scott"], [0.960422933101654, ' if you use them to beat Joel do you find the injuries to mister stays hands consistent or inconsistent with having delivered the blows that did that damage the inconsistent prosecutors had argued that the Freddy bus along with all those theoretical Suspects on it was long gone at the time of Jones murder but the defense counter that the broken drum security tape prove just the opposite on that same tape was something important that they claim police and prosecutors discounted the clown everyone agrees the clown was on the bus when it left but here he is still in the bar after Joe leaves'], [0.986046314239502, ' which means as long as the clown was in the bar'], [0.9208553433418274, ' plus was still in the parking lot'], [0.9411134123802185, ' you can see Jolie the bar absolutely and you can see the cloud leave the bar Noto 3 and 1/2 minutes later right plenty of time for any of the people in that crowd to of confronting an attack Joel and and we know the cowboy that gangster the construction worker had already gone out and the bus was still there it was forced to concede the police timeline was flawed we know that they have 3 and 1/2 minutes to do that have this face off'], [0.9606038928031921, " and be back on the bus right plenty of time for plenty of people other than trying to stay to murder Joel Travis never took the stand leaving open the question of what the jury would make of his Amnesia during the most important power in his young life YouTube lost your memory before right because of alcohol every time you want but it was I didn't drink all that often but when I did go out I I drank hard but your personality change when you were drunk and my friends usually described me is a happy-go-lucky happy-go-lucky or a heartless murderer seven men and five women would soon decide"], [0.8240982294082642, ' dog blood was found on one person.'], [0.9398883581161499, " Travis today was looking at a real life Halloween nightmare more than 60 years in jail if he was convicted of murdering Joe lovely from 9 day trial jurors began deliberating to show income for them absolutely really even though you're looking at what basically is life in a North Dakota prison if you're convicted nervous but you don't have confident"], [0.9325793981552124, ' Joel fiance Heather was also confident of a guilty verdict it just seemed like okay we have the right guy and yeah done as we spoke with said prosecutors presented their case as if it were open-and-shut I would not say their style was cocky at all they were confident and they felt that they had enough evidence'], [0.9561000466346741, " the jurors began examining the evidence and the testimony 1 key issue was the prosecution's timeline in which the bus had gone by the time Joel was killed the bus was there at the time and had to have been the buses are longer than the prosecution was saying jurors were also troubled by the clown remember he was found crying soon after Joel was murdered and that just struck me as completely awed out of character for a young guy on a Halloween night we were also concerned by what the clown told police that evening it was pretty important that you would actually say things got out of hand together and they questioned why only Travis stays lion costume was tested for what why didn't they examine any of the people's clothes that were on the bus you know why didn't they check if anyone else any anything else"], [0.8468778133392334, ' besides Des lion only about 5 hours to reach a verdict'], [0.9611377120018005, ' my attorney said a quick verdict is a good verdict in this case he was right it was a Vindication Travis what you going to do with your life now'], [0.9071384072303772, " any reaction to the verdict were you surprised and then the verdict comes in read at a stated you'll understand that I still don't understand that I don't know everything"], [0.9575501680374146, " I do know that draws blood was found on one person Detective Mike Schultz you don't think Justice was done here the fact that he's acquitted by jury doesn't mean he's acquitted by me the case is strong the physical evidence is strong there is not one stitch of physical evidence to suggest anybody else was involved other than speculation this case closed and in an unusual move some of the evidence was destroyed they are in contact with the cowboy the gangster and the construction worker who were all on that bus all declined our request for on-camera interviews but told us on the phone that as they maintained from day one they had absolutely nothing to do with Joel Evelyn's murder and they feel they've been unfairly Accused by the defense people talk and when you're accused of something like this I'm sure it has a negative impact on your reputation"], [0.9588174223899841, " since the trial even Joel's parents have been divided over Travis is Gil Jones mom believes he is most likely guilty but you'll step dad thinks Travis didn't do it Travis was so drunk he couldn't hit the ground with his hat so how is it going to be there for 240 lb fellows at six foot three or four when you can hardly stand up himself isn't there people out there who know more than they're saying people other than Travis"], [0.9585793614387512, " somebody know something Joel's daughter Alexa now in her 20s is left with just memories of her dad who would take her outside to taste the snowflakes is kind of like my best friend to make other people laugh after going through the legal system and self he decided to enroll in law school he's since graduated and is now working as a full-time attorney with the public defender's office and he wants to publicly apologize to Joe Loveland family I'm sorry for being a part of the equation that night"], [0.6530599594116211, ' and iiii'], [0.9430773258209229, " drank too much and it was irresponsible that was Reckless it was short-sighted and regrettable but you know I didn't kill Joel"], [0.9597854614257812, ' he was my only friend in the parking lot that night'], [0.9471889138221741, ' the idea behind this night at the end of October is the let fear danger and horror are supposed to be imaginary manufactured for the child living in everyone of us'], [0.9327697157859802, ' of course there is genuine people out there no matter what the calendar says and sadly sometimes the horror of Halloween'], [0.9598482251167297, ' is the real thing'], [0.9515751600265503, ' good evening everyone breaking news Lester Holt are you afraid of Ron is playing with fire two most trusted TV news anchor in America here in Normandy hundreds gather to honor the heroes needs to be American Soldier local NBC station']]}
+{
+  "Stats": {
+    "PodcastID": "1464919521.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 2494.537167,
+    "OriginalFileSize": 29978682,
+    "FlacFileSize": 220926999,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 885.7622756958008,
+    "DownloadSuccessful": 14.874179124832153
+  },
+  "Transcripts": [
+    [
+      0.9164520502090454,
+      "I found him slang married couldn't feel a pulse I don't know anybody who had that much hate in their heart to commit the crime like that"
+    ],
+    [
+      0.880977213382721,
+      " they determined that it was a murder somebody can one minute takes his life you've stolen my child"
+    ],
+    [
+      0.9163263440132141,
+      " we had this piece of a costume we didn't know what it was looking for a subject that was dressed as a penguin someone dressed as the Joker from Batman someone wearing just a yellow colored sweatshirt with a hood where's your costume with my gospel by cost you only threw it away because it was full of blood"
+    ],
+    [
+      0.9152172207832336,
+      " I was terrified of the people who were covering up their own involvement I do"
+    ],
+    [
+      0.935032308101654,
+      " evil exists"
+    ],
+    [
+      0.780500590801239,
+      " evil dwells in people"
+    ],
+    [
+      0.9868211150169373,
+      " it's the one time when everyone pretends to be someone else"
+    ],
+    [
+      0.9592337012290955,
+      " when being two-faced is part of the deal"
+    ],
+    [
+      0.9539604187011719,
+      " maybe the rules don't apply and the during those moonlit hours we all have license to eat drink and be scary Halloween has morphed from our national salute to Sugar into a Coast-to-Coast alcohol-fueled party and nowhere is that more true than in the Rough Riders state of North Dakota"
+    ],
+    [
+      0.9236945509910583,
+      " buck in October of 2007 several lives would Collide under that Halloween moon at least one person may have used a costume to try to hide his true identity a murderer"
+    ],
+    [
+      0.9597224593162537,
+      " that weekend before Halloween here in Grand Forks Heather resling and her boyfriend Joel lovelien we're putting on costumes getting ready to go out with friends dressed up as a hockey fan wearing his favorite green jersey like I said a mechanic's outfit a friend of mine text me and said meet us at the broken drum the broken drum have Casino half bar Heather and Joel had a lot to celebrate she had just moved here from Texas after dating long-distance it was nearly love at first sight I want to go out with you before you realize this is the guy"
+    ],
+    [
+      0.9538252949714661,
+      " a week that's it yeah he was taking back when I told him I said I'm going to marry you that's what's going to happen here and he wasn't really ready for me to say something like that to him but I was ready to say something like that that's how sure I was Jewel the divorce guy who love gulf fishing at his friends would soon be ready for marriage to just ten months after they met this smart Hospital computer IT Tech proposed to this 31 year old elementary school teacher in front of about 200 Texas dance hall two-steppers the following year"
+    ],
+    [
+      0.970638632774353,
+      " but that evening inside the broken drum they were completely unprepared for the most frightening night of their lives it all started when a bus with partygoers arrived at the bar Heather watched as they started piling into the broken drum the party is were mostly well-oiled 20-somethings on an all-night pub crawl and they've been fueled by an estimated 325 jello shots that were on board that bus Heather and Joel were suddenly in the midst of people in Halloween costumes as this security video shows there was a clown with a bright rainbow colored Ativan there was also a cowboy a hunter a lion a Gangster and a woman who won is Paris Hilton Joel in his green hockey jersey was enjoying a rare cigar"
+    ],
+    [
+      0.9507003426551819,
+      " play Blackjack next woman dressed as I was going at one point he had to take a call that was too loud inside so we had gone outside to to take the call while Jewel was outside on the phone. Pretty bus was getting ready to go on to the next bar but suddenly someone from that bus needed help tell a comeback in the front door and said somebody got left by the bus I'm going to go check on him he kissed me and went outside a few minutes someone else would come running into the broken drum yelling to call 911 non emergency for the person Joel went to help it was for Joel"
+    ],
+    [
+      0.7764370441436768,
+      " on the cars and found him on a grill"
+    ],
+    [
+      0.8133965730667114,
+      " doll was laying there"
+    ],
+    [
+      0.9401305317878723,
+      " with blood all over the cement nearest head"
+    ],
+    [
+      0.9661035537719727,
+      " Heather says that when she got outside she didn't see the party bus or any of the people in costumes but Joel the Good Samaritan who going to help a stranger had himself been the victim of a Savage beating"
+    ],
+    [
+      0.9184263944625854,
+      " remember hearing the ambulance is coming in the cops coming there's sirens in the same hospital where he worked as a computer tech and the doctors came in, they did everything they could"
+    ],
+    [
+      0.6566451191902161,
+      " the joint"
+    ],
+    [
+      0.9230344295501709,
+      " 800 miles away in Montana Joel's mom and stepfather received the most terrible news parents can hear you raise your children and the things you do to protect them"
+    ],
+    [
+      0.8742603063583374,
+      " and somebody end"
+    ],
+    [
+      0.8485167026519775,
+      " one minute"
+    ],
+    [
+      0.9478879570960999,
+      " Texas life like you've stolen my child just 38 Left Behind not only his family and fiance but also a daughter Alexa from his first marriage quicker there's an accident you know you think that it's something that can be"
+    ],
+    [
+      0.9048052430152893,
+      " text Hangouts I went to the hospital thinking you know he's hurt not then later Jools stepdad learn more about the horrible details Grand Forks Police Department call this they determined that it was a murder"
+    ],
+    [
+      0.8031673431396484,
+      " who'd want to hurt him I don't know anybody who had"
+    ],
+    [
+      0.9187057018280029,
+      " that would take their heart to commit a crime like that with bad luck be in the parking lot at the wrong time wrong person"
+    ],
+    [
+      0.9747843146324158,
+      " evil exists"
+    ],
+    [
+      0.9654243588447571,
+      " evil dwells in people and it comes out and things like this happened what evil had killed Joe lovely for Grand Forks Police the answer lies somewhere on a long list of potential suspects and maybe one of them had left a calling card something found at the scene of bloody piece of a Halloween costume police thought it might be the key to unmasking a killer"
+    ],
+    [
+      0.7996580004692078,
+      " a Roundup of possible suspect Begins the Clown"
+    ],
+    [
+      0.9421859979629517,
+      " a night of Halloween drinking in Grand Forks North Dakota and some out ended with Jewel lovely police were trying to figure out use their fists to beat Joel Wildside the broken drum bar in a fight that apparently no one witnessed and Joel's fiance Heather was trying just as hard to understand what happened to the man she loved inconceivable that he picked a fight with somebody else and feed into anger like some in wood"
+    ],
+    [
+      0.9541354775428772,
+      " Jewel was so badly beaten that the coroner could feel and hear the broken bones in his face when she touched it the cause of death Joel choked on his own blood"
+    ],
+    [
+      0.9659568071365356,
+      " it was now up to police to find the killer or killers of Joel lovelien in Grand Forks a city that averages about one murdered a year the chief of police was John packing this was probably one of the more challenging cases that we've ever had because of alcohol involved a large crowds people in costume the police interviewed about 80 people still left of the broken drum and here's what they heard the party bus went down town after it left the broken drum and police her descriptions of some costume people last seen near either Joel or that bus a clown a cowboy a penguin a Gangster and a construction worker and while searching for people in costumes sounds almost like it actually helped police Identify some Persons of Interest if the cops could locate them before they took off those costumes so we going to find"
+    ],
+    [
+      0.9143839478492737,
+      " penguin and the Joker I left and then you got to find a pretty quick got to find him pretty quick"
+    ],
+    [
+      0.9582741260528564,
+      " also an interesting piece of evidence left behind at the murder scene police thought it was a bird's foot from someone's constant up and it had blood on it Grand Forks Police Sergeant Bill Mackey give me the penguin that point we didn't know how how the foot played into it there or not police swarm Downtown Grand Forks and at another bar they found one of the costume characters they were looking for that same night we found the clown made us wonder why is this guy crying The Tears of a Clown it made police"
+    ],
+    [
+      0.9333317279815674,
+      " what officer reported the clowns hands were shaking from the cold or from something else"
+    ],
+    [
+      0.9669885635375977,
+      " by the time the clown was brought to the police station he had dried his tears but he was not cooperative and told police he had nothing to do with any murder and was crying because of a domestic argument that night he explained to us that he had a bad argument with his girlfriend that's not real clear and convincing to us police say the clown then ask for a lawyer"
+    ],
+    [
+      0.9578617811203003,
+      " what police just let him go pick up the clown who's crying who is belligerent and who asked for a lawyer and one things that could say to me is maybe I saw something terrible happened like I said something to get beaten nearly to death but that didn't try any of your investigators as anything other than what we said he's probably drunk yep it's a it's a challenge at one asked to determine whether those tears or of remorse whether they're tears of fear or maybe they had onions for lunch that same night police also found the cowboy but the cowboy gave police a fake name a fake birthday and became physically aggressive police place in handcuffs even though he wasn't arrested and what does the cowboy say the cowboy is very difficult to deal with he wants really nothing to do with us."
+    ],
+    [
+      0.933544397354126,
+      " want to operate with us there is no record of his interview but an investigator says the cowboy asked a very interesting question if the victim was wearing a green shirt with the initials UND on it who was wearing a University of North Dakota sweatshirt that night Joe love playing the victim suggesting that the cowboy witness that fight on face value it would appear like that yes"
+    ],
+    [
+      0.9292617440223694,
+      " police also let the cowboy go but soon after they got the break they need it the owner of that bird's foot would come forward police believed it would lead them straight to the murderer"
+    ],
+    [
+      0.7462219595909119,
+      " yellow hooded sweatshirt on I have some pause"
+    ],
+    [
+      0.9646041393280029,
+      " Willows First hours and days after the murder of Joe lovely Grand Forks Police had been rounding up the unusual suspects looking for a subject that was dressed as a penguin someone dresses up as the Joker from Batman someone wearing just a yellow colored sweatshirt with the hood those investigators including veteran Detective Mike Shoals were scratching their heads over what appeared to be a bloody Claw from a bird costume that was found near Joel lovelien body what 90% of a bird costume we didn't know what it was all we know is that we had this piece of a costume detectives invited the guys on the party bus we've been so difficult the night of the murder to come back to police headquarters"
+    ],
+    [
+      0.938816487789154,
+      " where's the following day they did and this time saying a different to one that seemed to get them all off the hook they told cops they didn't see Joe level murder book told of a fight outside the broken drum earlier that evening between one of their Pals dressed as a hunter and a guy in an odd costume with a yellow sweatshirt who has also been on the bus"
+    ],
+    [
+      0.9574774503707886,
+      " because of that fight they told the guy in the yellow outfit he couldn't get back on the bus and then they drove downtown to another bar"
+    ],
+    [
+      0.9123966097831726,
+      " lynell sober and Cooperative Cowboy told detectives that he last Saw Joe loveling alive and well happy Harlequin explain that he's clown 2 years were about flashback triggered when he learned about Jewel lovely"
+    ],
+    [
+      0.9385569095611572,
+      " a lot of it on my phone mean while across town the guy who been wearing that yellow costume was just waking up his name was Travis stay a twenty-three-year-old nursing student at the University of North Dakota and today he was nursing the mother of all hangovers because he had so much to drink on the bus and in the bars the previous night but he slept away most of the next day when he awoke one of his friends shared some worrisome news one of my roommates had seen that they were looking for a guy in a yellow sweatshirt so I went down to the police station across from Grand Forks Detectives"
+    ],
+    [
+      0.9322729110717773,
+      " antenna went up he suddenly realized it wasn't a bloody bird's foot next to Joel's body but a lion's paw and Travis then confirmed it had a yellow hooded sweatshirt on I have some pause the cops became even more suspicious and asked how he been punched out by the hunter in the parking lot of the broken drop noticed some scrapes on his hands by Dawson wikoff. Scholl's pounced on that new lead"
+    ],
+    [
+      0.933307945728302,
+      " Travis gave the cops everything they asked for including a DNA sample and permission to search his apartment where he's lion costume was still in the trash"
+    ],
+    [
+      0.9500510096549988,
+      " I gave him everything without them needing to get a search warrant cuz I couldn't remember anything from the time he was punched until the time he got into a cab more than an hour later and on the cops timeline that was the time when Joe loveleen was killed"
+    ],
+    [
+      0.821021556854248,
+      " what you said you were going to go check on Q that was the last place I seen him he was found dead in the parking lot"
+    ],
+    [
+      0.8959167003631592,
+      " we don't know you don't know but we appreciate it bloody clothing they were wearing during the murder but actually wear some of it into the police interview one that's probably not too smart"
+    ],
+    [
+      0.9906898140907288,
+      " and there's plenty of them"
+    ],
+    [
+      0.9177001714706421,
+      " the couch look Travis go home but they weren't by his story he was now a definite Person of Interest and two days later they had more questions for him this time around the questions were more pointed about just what happened while Travis was eating his blackout"
+    ],
+    [
+      0.8368656039237976,
+      " Travis I'm not allowed to talk to that man"
+    ],
+    [
+      0.8489705920219421,
+      " I can almost guarantee you that because you're thinking of himself come on right remember really is convenient"
+    ],
+    [
+      0.9580681324005127,
+      " and then you walk out of the police station and you think what that's the end of it I knew things at that point had you know taking a swing in in the wrong direction and you know we were going to look into getting an attorney trying to stay was about to find out he need a lawyer sooner than he thought"
+    ],
+    [
+      0.9324151873588562,
+      " there was a knock on the door and they said that there was bad news police make an arrest and the case moves into court to destroy families on two sides of a murder just lying there I was screaming his name Adam"
+    ],
+    [
+      0.9616611003875732,
+      " Willie Geist here this week on the Sunday sit-down podcast I had to Waco Texas to get together with Fixer-Upper Stars chip and Joanna Gaines to talk about turning a local business into an Empire get that conversation now for free wherever you download your podcast"
+    ],
+    [
+      0.9467239379882812,
+      " in the month after her fiance's murder Heather eastling pain was beyond words to suck the life out of you would"
+    ],
+    [
+      0.8681151866912842,
+      " tell your life isn't what you wanted it to me."
+    ],
+    [
+      0.9647495150566101,
+      " Your dream life isn't going to happen Grand Forks detectives have been working around the clock to solve this rare murder case and then those DNA tests of Travis's lion costume came back some of that blood on Travis was his own but some of it belonged to Joe lovely and with that police had everything they need it and then one morning there was a knock on the door and you know there was detective Shoals and detective Simon and arrested me for his murder Nova's Travis was a rain from jail via closed-circuit TV Steve versus Travis English and misery is evident in his call home"
+    ],
+    [
+      0.9543916583061218,
+      " Travis it's going to be okay and it's going to be okay I know this is difficult for you to get even tougher a little more than a year after his arrest Travis found himself on trial for murder facing the rest of his life Behind Bars prosecutor Nancy I laid out the state's case he's 38 year old man jewelry that would decide Travis's fate Travis brutally beat Joe leveling while he was down on the ground and did not seek help for him afterwards left the scene allowing mr. leveling to choke to death on his own blood fiance Heather and she we live that awful night"
+    ],
+    [
+      0.9433826804161072,
+      " Sadie's last person that we believe was seen with mr. loveleen open and shut case with overwhelming physical evidence when we looked at Travis's close it was covered in blood and most importantly none of the other costumes matched the Paw that was left behind at the crime scene for different areas of Travis days sweatshirts three out of the four samples tested positive for Chola plans blood"
+    ],
+    [
+      0.9587368369102478,
+      " and prosecutors argued they could prove Travis was there with Joe lovely prior to the murder their eyewitnesses to the guys we've been so sloshed and uncooperative the night of the murder the hunter the gangster and the Cowboy from the party bus Bryce Larson the Cowboys took the stand and told a story both his friends would Echo mr. Larson did you ever witness the murder of Joe left lane"
+    ],
+    [
+      0.9754536747932434,
+      " did you ever see him assaulted in the broken drum parking lot when you left that parking lot where was he he was sitting right there at the defense table prosecutors laid out their timeline using security video from the broken drum there's Travis in his lion costume Witch by this point in the evening is little more than a yellow hoodie moments later he's gone outside Joe lovely wearing his green hockey jersey can be seen heading out a little later never to return the tape prosecutor said prove Travis was in the parking lot when Joel was killed and according to the state's Witnesses from the bus it was impossible for any of the other partygoers 2 of Attack Joel because their party bus was gone by the time of the murder"
+    ],
+    [
+      0.8488867878913879,
+      " call Evelyn was murdered"
+    ],
+    [
+      0.9669429659843445,
+      " the prosecution argued that Joel's last words to his fiance Heather support of that timeline comments to his girlfriend some guy missed missed his bus I was out there helping them and then he went back out the guy who missed the bus they told the jury was the defendant has his own words against him they played every frame of those police interviews and which Travis claimed not to remember the most critical part of that alcohol sodden Knight you got into the cab jurors heard testimony that later that night Travis was in another fight after Mr leveling was killed Travis Taylor Lofts the broken drama on foot walks to a location in the alleyway where he confronted another individual Batman and missed you then got into a cab and went home"
+    ],
+    [
+      0.9399347305297852,
+      " if prosecutors were to be believed the defendant was a Halloween nightmare come to life just add alcohol and nurse Travis turns into a drunk and dangerous mr. Hyde always bleeding from his face and explain how the slightly built Travis was able to take down and kill the much larger Joel with his bare hands"
+    ],
+    [
+      0.9689064621925354,
+      " police also say the fact that Joel and had a few drinks made it easier for Travis he was drunk and so the fact that a little guy comes at him and unsuspecting and he's unstable on his feet because he's intoxicated to makes perfect sense that he could drop him aspiration or the prosecution called its Final witness a blood spatter analyst this is a possible position who used photos to demonstrate that has blood on Travis's clothing was consistent with Travis standing over well beating it Travis was either standing right next to Joel lovelien or straddling Joel of lean as he was punching him in his face"
+    ],
+    [
+      0.9615511894226074,
+      " the prosecution's evidence was stacking up against Travis day no question he been in a fight with a hunter before Joel was killed no question he taking a swing at someone else afterwards and now he'd have to explain why there were traces of Joel's blood on his constant which Travis was either unable or unwilling to do because of his suspiciously convenient amnesia"
+    ],
+    [
+      0.8964357972145081,
+      " mob mentality are a recipe for tragedy someone else their own involvement in this I do"
+    ],
+    [
+      0.9561767578125,
+      " all the evidence will show Travis States defense team faced a difficult task prosecutors had portrayed their client as a two-faced killer who change personalities after he had a few drinks in it and who in a blind rage and mercilessly beating Joe lovely to death Travis day is not going Francis opening statement Attorney Peter Wold told jurors will simply impossible the beaten drunken small stumbling Travis stay was not capable of inflicting the multiple brutal injuries along with Joe Friedberg defended Travis their argument to the jury"
+    ],
+    [
+      0.9697209596633911,
+      " Travis stay was too slight too drunk and too decent to a Kill Joel lovelien a man who was trying to help Travis Joel they argued was killed by the same Halloween costume party goers he was trying to protect Travis from first Contact a cold-blooded killer prone to alcoholic rages the prosecution's theory which was also the police theory was that Travis became a different person when he was drinking they made that up out a whole are there with her if they had a witness that said that was Travis's history if they could provide anecdotal evidence that that it happened twice before a hundred times before 1 before we never sought we never heard of it he's sitting I'm protected in front of cops 4 hours answering questions without any help without any pot"
+    ],
+    [
+      0.8825572729110718,
+      " without any break and willingly bearing her soul where were you this very important that we try to remember this Travis not remember talking to that man"
+    ],
+    [
+      0.9603027701377869,
+      " I think we don't know he was credible a land across in a second interview and said you think it was me we have to be you know it's honest as we can about it next to the fence tried to convince jurors just how improbable it was but the five foot seven Travis could have heard the six-foot-three Joel at all let alone when he was me walking drunk when we read the autopsy and it gave the inches and pounds of the deceased said he had waiting but 75 to 80 pounds was 7 or 8 in bigger then it began to take on kind of a different color and so the defense offered some suspect of its own the first people rounded up the night of the murder that Posse of costume guys on the bus Mamba mentality are a recipe for tragedy"
+    ],
+    [
+      0.9632735848426819,
+      " what do you think happened that night I think that the cowboy the gangster and construction worker came back outside and confronted Joel and I didn't get back on the bus and leave us standing in the parking lot I think that's"
+    ],
+    [
+      0.9668077230453491,
+      " if they beat us they beat us both on Travis to prove that they conducted a withering cross-examination of the man who was wearing the cowboy costume that night the cowboy admitted he have lied to police the night of the murder about not witnessing the fight between Travis and the Man in the Hunter's costume the defense wanted to know what else he might be lying about what is it that we can look for"
+    ],
+    [
+      0.9496097564697266,
+      " that will help us determine when you're telling the truth"
+    ],
+    [
+      0.8487402200698853,
+      " if you don't know who does"
+    ],
+    [
+      0.9578207731246948,
+      " Warriors strategy was to hammer away at the partygoers shifting stories are you sure under cross-examination that crying clown who cops found weeping and said things had gotten out of hand that night now sit on the stand he didn't remember crying or being upset you where you shake it up remember that I don't remember that they look at your shoes as well and as for that blood detective shows noticed on Travis's shoes during his initial interrogation DNA test proved it was Travis's not yours I guess when possible to help Joe not heard it appears somebody other than the photos an ER Doctor Who examined Travis took the stand and concluded Travis's hands we've been far more battered and Scott"
+    ],
+    [
+      0.960422933101654,
+      " if you use them to beat Joel do you find the injuries to mister stays hands consistent or inconsistent with having delivered the blows that did that damage the inconsistent prosecutors had argued that the Freddy bus along with all those theoretical Suspects on it was long gone at the time of Jones murder but the defense counter that the broken drum security tape prove just the opposite on that same tape was something important that they claim police and prosecutors discounted the clown everyone agrees the clown was on the bus when it left but here he is still in the bar after Joe leaves"
+    ],
+    [
+      0.986046314239502,
+      " which means as long as the clown was in the bar"
+    ],
+    [
+      0.9208553433418274,
+      " plus was still in the parking lot"
+    ],
+    [
+      0.9411134123802185,
+      " you can see Jolie the bar absolutely and you can see the cloud leave the bar Noto 3 and 1/2 minutes later right plenty of time for any of the people in that crowd to of confronting an attack Joel and and we know the cowboy that gangster the construction worker had already gone out and the bus was still there it was forced to concede the police timeline was flawed we know that they have 3 and 1/2 minutes to do that have this face off"
+    ],
+    [
+      0.9606038928031921,
+      " and be back on the bus right plenty of time for plenty of people other than trying to stay to murder Joel Travis never took the stand leaving open the question of what the jury would make of his Amnesia during the most important power in his young life YouTube lost your memory before right because of alcohol every time you want but it was I didn't drink all that often but when I did go out I I drank hard but your personality change when you were drunk and my friends usually described me is a happy-go-lucky happy-go-lucky or a heartless murderer seven men and five women would soon decide"
+    ],
+    [
+      0.8240982294082642,
+      " dog blood was found on one person."
+    ],
+    [
+      0.9398883581161499,
+      " Travis today was looking at a real life Halloween nightmare more than 60 years in jail if he was convicted of murdering Joe lovely from 9 day trial jurors began deliberating to show income for them absolutely really even though you're looking at what basically is life in a North Dakota prison if you're convicted nervous but you don't have confident"
+    ],
+    [
+      0.9325793981552124,
+      " Joel fiance Heather was also confident of a guilty verdict it just seemed like okay we have the right guy and yeah done as we spoke with said prosecutors presented their case as if it were open-and-shut I would not say their style was cocky at all they were confident and they felt that they had enough evidence"
+    ],
+    [
+      0.9561000466346741,
+      " the jurors began examining the evidence and the testimony 1 key issue was the prosecution's timeline in which the bus had gone by the time Joel was killed the bus was there at the time and had to have been the buses are longer than the prosecution was saying jurors were also troubled by the clown remember he was found crying soon after Joel was murdered and that just struck me as completely awed out of character for a young guy on a Halloween night we were also concerned by what the clown told police that evening it was pretty important that you would actually say things got out of hand together and they questioned why only Travis stays lion costume was tested for what why didn't they examine any of the people's clothes that were on the bus you know why didn't they check if anyone else any anything else"
+    ],
+    [
+      0.8468778133392334,
+      " besides Des lion only about 5 hours to reach a verdict"
+    ],
+    [
+      0.9611377120018005,
+      " my attorney said a quick verdict is a good verdict in this case he was right it was a Vindication Travis what you going to do with your life now"
+    ],
+    [
+      0.9071384072303772,
+      " any reaction to the verdict were you surprised and then the verdict comes in read at a stated you'll understand that I still don't understand that I don't know everything"
+    ],
+    [
+      0.9575501680374146,
+      " I do know that draws blood was found on one person Detective Mike Schultz you don't think Justice was done here the fact that he's acquitted by jury doesn't mean he's acquitted by me the case is strong the physical evidence is strong there is not one stitch of physical evidence to suggest anybody else was involved other than speculation this case closed and in an unusual move some of the evidence was destroyed they are in contact with the cowboy the gangster and the construction worker who were all on that bus all declined our request for on-camera interviews but told us on the phone that as they maintained from day one they had absolutely nothing to do with Joel Evelyn's murder and they feel they've been unfairly Accused by the defense people talk and when you're accused of something like this I'm sure it has a negative impact on your reputation"
+    ],
+    [
+      0.9588174223899841,
+      " since the trial even Joel's parents have been divided over Travis is Gil Jones mom believes he is most likely guilty but you'll step dad thinks Travis didn't do it Travis was so drunk he couldn't hit the ground with his hat so how is it going to be there for 240 lb fellows at six foot three or four when you can hardly stand up himself isn't there people out there who know more than they're saying people other than Travis"
+    ],
+    [
+      0.9585793614387512,
+      " somebody know something Joel's daughter Alexa now in her 20s is left with just memories of her dad who would take her outside to taste the snowflakes is kind of like my best friend to make other people laugh after going through the legal system and self he decided to enroll in law school he's since graduated and is now working as a full-time attorney with the public defender's office and he wants to publicly apologize to Joe Loveland family I'm sorry for being a part of the equation that night"
+    ],
+    [
+      0.6530599594116211,
+      " and iiii"
+    ],
+    [
+      0.9430773258209229,
+      " drank too much and it was irresponsible that was Reckless it was short-sighted and regrettable but you know I didn't kill Joel"
+    ],
+    [
+      0.9597854614257812,
+      " he was my only friend in the parking lot that night"
+    ],
+    [
+      0.9471889138221741,
+      " the idea behind this night at the end of October is the let fear danger and horror are supposed to be imaginary manufactured for the child living in everyone of us"
+    ],
+    [
+      0.9327697157859802,
+      " of course there is genuine people out there no matter what the calendar says and sadly sometimes the horror of Halloween"
+    ],
+    [
+      0.9598482251167297,
+      " is the real thing"
+    ],
+    [
+      0.9515751600265503,
+      " good evening everyone breaking news Lester Holt are you afraid of Ron is playing with fire two most trusted TV news anchor in America here in Normandy hundreds gather to honor the heroes needs to be American Soldier local NBC station"
+    ]
+  ]
+}

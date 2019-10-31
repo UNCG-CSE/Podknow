@@ -1,1 +1,22 @@
-{'Stats': {'PodcastID': '1454097755.mp3', 'DownloadTime': 1, 'AudioLength': 102.120689, 'OriginalFileSize': 1676299, 'FlacFileSize': 9520464, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 35.97622346878052, 'DownloadSuccessful': '2.469156265258789'}, 'Transcripts': [[0.9769017696380615, "what's a mispriced externality you mentioned that at some point during our podcast and externalities when there's an additional cost that is imposed by whatever product is being produced or consumed that is not accounted for in the price of the product sometimes you can fix that by putting the price back in the product one of the most Ardent ways people attack capitalism these days is that is destroying the environment and if you throw a capitalism because it's destroying the environment than guess what we're all headed back to pre-industrial times is not going to be a good thing so rather there is an externality because the environment is finite the environment is precious and we have to price it properly and fold it back in if people are wasting water or putting hydrocarbons in the atmosphere or polluting things you want to charge them what it cost to clean up that pollution return it to a Christian State perhaps that price has to be very very very high if you raise that price high enough you knock out pollution it's much better than feel good measures where were you"], [0.9650136232376099, "ban plastic bags and going to say don't take showers and Saturdays and Sundays and we're having a drought California likes to run declarations and adds to scare you into not taking showers and times when there's a drought went to BJ's much better to raise the price of freshwater your average consumer my pay a few pennies more for a shower but then the omen farmers who consume a lot of the water will cut back on using fresh water and almond farming may move to a part of the country where water is more abundant properly pricing externalities can save resources and in tremendous weight is a good framework to think about how to be effective when you want to do things like save the environment right and then feel good things that don't actually amount to anything"]]}
+{
+  "Stats": {
+    "PodcastID": "1454097755.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 102.120689,
+    "OriginalFileSize": 1676299,
+    "FlacFileSize": 9520464,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 35.97622346878052,
+    "DownloadSuccessful": 2.469156265258789
+  },
+  "Transcripts": [
+    [
+      0.9769017696380615,
+      "what's a mispriced externality you mentioned that at some point during our podcast and externalities when there's an additional cost that is imposed by whatever product is being produced or consumed that is not accounted for in the price of the product sometimes you can fix that by putting the price back in the product one of the most Ardent ways people attack capitalism these days is that is destroying the environment and if you throw a capitalism because it's destroying the environment than guess what we're all headed back to pre-industrial times is not going to be a good thing so rather there is an externality because the environment is finite the environment is precious and we have to price it properly and fold it back in if people are wasting water or putting hydrocarbons in the atmosphere or polluting things you want to charge them what it cost to clean up that pollution return it to a Christian State perhaps that price has to be very very very high if you raise that price high enough you knock out pollution it's much better than feel good measures where were you"
+    ],
+    [
+      0.9650136232376099,
+      "ban plastic bags and going to say don't take showers and Saturdays and Sundays and we're having a drought California likes to run declarations and adds to scare you into not taking showers and times when there's a drought went to BJ's much better to raise the price of freshwater your average consumer my pay a few pennies more for a shower but then the omen farmers who consume a lot of the water will cut back on using fresh water and almond farming may move to a part of the country where water is more abundant properly pricing externalities can save resources and in tremendous weight is a good framework to think about how to be effective when you want to do things like save the environment right and then feel good things that don't actually amount to anything"
+    ]
+  ]
+}

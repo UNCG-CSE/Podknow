@@ -1,1 +1,546 @@
-{'Stats': {'PodcastID': '1460320573.mp3', 'DownloadTime': 1, 'AudioLength': 2857.795878, 'OriginalFileSize': 68627202, 'FlacFileSize': 241657298, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 965.1522424221039, 'DownloadSuccessful': '40.412389039993286'}, 'Transcripts': [[0.8776907920837402, 'G13 Originals'], [0.9086567163467407, ' I was in high school getting ready to apply to college it was one school I wanted to go to'], [0.9861395359039307, ' I kind of felt like'], [0.955989420413971, ' if I got into my dream school that was a Finish Line and then everything would be okay'], [0.9469826221466064, " and I remember waking up the morning I was supposed to take that say cheese cuz I was going to keep the cover up for my parent I got up at 8:30 and I'm off to take the test"], [0.9717634916305542, ' okay good luck'], [0.9488496780395508, ' and it was a beautiful day out Sunshine the birds were singing and I was painting this mural with my friend'], [0.926776647567749, ' I was actually on Campus High School'], [0.8130771517753601, ' and I never just looking up at all the classrooms surrounding me and everyone else was inside taking this God awful.'], [0.9876290559768677, ' and I just felt'], [0.6501593589782715, ' bright'], [0.9117502570152283, " I never think I'm like wow I could be in their suffering under this test and look at where I am now here I'm enjoying myself and make it hard"], [0.8853942155838013, " and as you're doing it I'm getting the 1400"], [0.7228792905807495, " number to Scotts Lawn to myself they aren't wow I'm getting away with this"], [0.9632658362388611, " That's Mike you may remember him telling the story at the very beginning of the Season Mike had a fake ID made and paid someone else to get him a 1400 on his sat which got Mike into his dream School"], [0.9721318483352661, ' I said back then the kids cheating to help get themselves into college and hiding it from their parents was nothing new but parents cheating to get their kids in and not telling them was an entirely different story'], [0.9656721949577332, " but no matter who's doing the cheating there's always a price to pay no matter how big or how small the scam"], [0.8341462016105652, " here's Mike"], [0.9191717505455017, " really I was just doing whatever it takes to get you somewhere is important but at the same time there's the flip side of if you're cutting Corners it's going to snap back on you in some way"], [0.940021812915802, ' there is a karmic debt and it might not be obvious and it might not even be huge but something is going to come back and slap you in the face'], [0.9424000382423401, " the first time I realized this list freshman year call it I was in an economics class and I was I was not doing very well my time management was not if they're staying and I just I wasn't doing well cuz I wasn't prioritizing the class and I remember talking to my mom on the phone and thank you know I think I really dropped the ball on this one class I really screwed up with finals coming up and I'm really far behind I think I might flunk this test and she said well you know honey"], [0.890356183052063, ' remember how nervous you worry about the SATs and look how great you did on that test'], [0.8708357214927673, " and I thought oh yeah well that's how I deserve that you know"], [0.8746585249900818, " she had no idea and I realized I didn't get off scot-free even if you got a different School even if never got caught"], [0.9354078769683838, " you're still a price to be paid"], [0.9054371118545532, ' dear parents it is the loss of dignity humanity and morality of Home Run helped the wealthiest families in the US get their kids in school if you had one issue I mean'], [0.879948079586029, " I'm Andrew Jenks and this is Gangster capitalism season 1 the college admissions scandal"], [0.9689339399337769, " pretty good to come out of the college admissions Scandal there has to be an open and honest dialogue about problems and solutions we've tried to provide a forum for that since our last episode A lot has happened so we wanted to revisit this story and to bring things full circle we've come back to Mike who happens to be a friend of mine Mike's karmic debt realization about cheating came to him early in his freshman year of college but in the context of both this Scandal and this podcast I asked Mike now several years removed from college if the very notion of a dream school was even worth it I was surprised by his answer"], [0.9351434707641602, " took me awhile to learn was that it's a mistake to entirely put your faith into institution in the sent that even if you get into a great school it's still all on you you know I kind of felt like what if I got into my dream school like that was a Finish Line"], [0.8561805486679077, " the sense of it was there was this chair to reach an at if you got in the club you'd be golden"], [0.927986741065979, " China Cottage my preschool I would have been fine I would have probably lick my wounds for a while and maybe he has a slight chip on my shoulder but gave you it's going to feel good it's going to feel like you're in a lot of a club but at the end of the day you know it's not going to make or break you might feel that way but it's it's not going to be the determining Factor find a way that they're going to keep going"], [0.9418854117393494, ' that sense of building resilience and agency is what guests of this podcast have said that the parents involved in this Scandal have stolen from their kids'], [0.9627584218978882, ' how does parents been able to look past the sense of status associated with a handful of top schools they may have learned that studies show that school rankings have no correlation to Future earnings and more importantly how is student engages in their college has a much larger effect than the school itself'], [0.948218584060669, " what is a little past the status symbol and now there's a real tangible price to be paid this story first broke back on March 12th and now finally sentences are starting to be handed out beginning with the most high-profile one"], [0.9535317420959473, ' breaking news late today actress Felicity Huffman sentenced to 14 days in prison for the cottage cheese can find you 250 hours of community service on Full House star Lori Loughlin you take a plea tomorrow case is much more serious than how big is the biggest law firm in the world which is the federal government facing up to 40 years in prison'], [0.9427244067192078, ' on September 13th actress Felicity Huffman was the first of more than 30 parents charged in Rick Singer scheme to be sentenced Huffman paid $15,000 to singer to have his accomplished take the SAT for her daughter'], [0.9611523747444153, " and for that she'll spend 14 days in prison former state and federal prosecutor and current CNN legal analyst Elie honig says Hoffman sentence sets the bar for the other parents"], [0.9567083716392517, " we're still fairly early in this case at the moment only a handful of those charged defendants have pled guilty what lies ahead this decision time they have to decide whether they're going to take a guilty plea or whether they're going to push their luck and go to trial"], [0.7451513409614563, " Aldo's route they're fairly fraud"], [0.9728786945343018, " as a prosecutor when you're looking at a big takedown like this when you have a couple dozen defendants you have to at least sort of put them in different tiers different groupings and you want to make sure that the end sentences reflect the seriousness of the condo for each of those groupings you want to make sure you have proportionality and looking at this case husband to me would seem to be on the low in the Farlow and of things for for a couple of reasons it's worse to bribe University that it is to pay a proctor to look the other way on an SAT neither of them is okay but if I'm evaluating which contact is working for listen to help his contact fell on the lower end of that second of all the money amounts here and the federal sentencing guidelines are driven in large part by the dollar amount Felicity Huffman paid a $15,000 bribe other people in this case paid hundreds of thousands of dollars millions of dollars so she's on the Farlow that and then third Felicity Huffman fully accepted responsibility and she did it quickly she took a quick play she didn't challenge the prosecutors she didn't protest in the media"], [0.8958421945571899, ' what you waiting for sentencing she made what seemed to me to be a fairly legitimate sincere statement about her own culpability in the lesson she learned and then that makes it different so even with all of those factors working in our favor and still got to get the 14 days'], [0.9622707962989807, " the sentence that the judge imposed on Felicity Huffman I think was a message sent it's because it is for such a short amount of time 14 days is almost unheard of but I think what the judge was saying here is you do need to go behind bars you do need to be punished in some way more than probation and it's I think a message to society in general Felicity Huffman sentence is bad news for everybody else in this case they pretty much means they're all going to jail unless they go to trial and get acquitted which almost never happens in the federal system"], [0.9750705361366272, " all right well this is going to be interesting now you know getting older can feel like a downer but I said that for a reason cuz it's back forty percent of men by age 40 struggle from not being able to you know get and maintain an erection so you could get expensive pills injections where no man wants an injection that sort of thing to go to forhims.com a one-stop-shop for hair loss skin care sexual Wellness for men thanks to science Edie can be optional it's one heck of a line thanks to science Edie can be optional not unlike climate change we have the science and everything hymns connects you with real license doctors and FDA approved pharmaceutical products to treat ed02 worry about multiple in office doctor visits and those painful injections this is quite easy you can go to forhims.com and chat with a doctor for confidential review and get"], [0.9515361785888672, " questions answered try hims today by starting out with a free online visit go to 4hims.com gangster that's for hims.com gangster forhims.com gangster prescription products are subject to doctor approval and require an online consultation with a physician will determine if a prescription is appropriate see website for full details and safety information this could cost hundreds if you want in-person to the doctor's office or Pharmacy remember that's forhims.com gangster"], [0.9701433181762695, " now more than ever we have options to run a business sufficiently it sound like the only way to send the product is through the post office unless your nana so for instance if you're selling something online or sending a gift and Anna shipstation.com is the place to go seriously shipstation.com is the fastest easiest and most affordable way to manage and ship your orders now no matter where you're selling Amazon at see your own website shipstation brings all your orders into one simple interface making them really easy to manage from any device even your cell phone shipstation helps you get orders out quickly save money on shipping costs and keep your customers happy shipstation works with all the major carriers including USPS FedEx UPS even Amazon Fulfillment don't even know what that is so you can compare and shoes the best shipping solution for you and your customer it's no wonder shipstation is the number one choice of online sellers deal Shipman"], [0.9602638483047485, " in less time with the best rates available and right now all of you the great gangster capitalism listeners can try shipstation free for 60 days when you use the offer code gangster there's absolutely no risk you can start your free trial without even entering your credit card info so the Russians won't hack it just visit shipstation.com click on the microphone at the top of the homepage and type in Gangstar best pro could ever that shipstation.com then enter offer code gangster shipstation.com make ship"], [0.934930682182312, " Rick Singer song opportunity to capitalize on Wealthy parents store looking for every Advantage tell their children get into Elite College it's already turned it into a business that Federal prosecutors say generated 25 million dollars"], [0.9516573548316956, ' when it all came crashing down singer became commonly referred to as a con man'], [0.9656941294670105, " back in episode 6 we heard from Los Angeles to fence attorney Alan Eisner who made a strong case that the parents who plead not guilty will likely argue that they were taken advantage of by singer that they didn't realize they were doing anything wrong normally a con man xploitz unknowing marks in this case the parents were in on the scheme but Maria konnikova the New York Times bestselling author of the book The Confidence Game explains that despite the parents having the knowledge that they were doing wrong singer reel them in using the same steps of any good con"], [0.9596871733665466, " so the original use of the word confidence man came from William Thompson from The Trial of William Thompson in New York in the 1800's and he was a man who would dress in the three piece suit file chain the whole nine yards and walk up to other Dapper Gentleman on the streets of New York and say excuse me have you the confidence in me to lend me your watch until tomorrow"], [0.9617617726325989, " and I just really caught people off guard because it's not give me your watch or will you give me your watch it's have you the confidence in me so that means what world are we living in how do you see your fellow man how do you say Humanity do you think that we live in a world where you can trust a gentleman off the street and by the time he was caught he had dozens of watches in his apartment because people would give them to him and hence the term confidence man"], [0.9630618691444397, " and so in this particular instance to parents who came to Rick knew what they were coming for they knew that they were here to get their kids into college through the side door so when he's talking to the co-conspirators it was just such a classic con artist technique because you can actually see that some of the parents have legitimate concerns that their voice so obviously they went through with it anyway and they knew they were going to go through with it but you could see him basically saying that their concerns aren't legitimate delegitimizing them right away and saying oh well know the only way anyone's going to find out is if you tell are you going to tell no I've never been caught in 20 years are you insane why would you ever think that this is foolproof"], [0.9659801721572876, " let me ask you straight up you've never had an issue with this no one has ever gotten in trouble with this had an issue with anybody for this to get back to my daughter or the family I mean this comes out I want to know what you got"], [0.9331122636795044, " somebody catches this what happens the only one who can catch it and have you guys tell somebody to be honest and not worry about the moral issue here I'm worried about the she's caught doing that you know she's finished"], [0.900467038154602, ' how do I get this done with you or do I need to do'], [0.9554996490478516, " when people start seeing red flags in a car and I'm in this is a little bit different because they're co-conspirators they're not marks the way that typical victims of con artists are but in a sense here he is slowing them into a story into this narrative that it's okay and they are pointing at red flags and he say no no these aren't red flags and here's why"], [0.9671886563301086, " to the first step the put up it's the moment where the con artist basically steaks out the mark and builds a psychological profile of the mark and tries to figure out okay what are your hopes what are your fears what motivates you what are your weaknesses what are the things you believe in what is the world that you want to live in what's the story that you've been telling yourself because I'm going to tell you that story I'm going to mirror your version of reality back to you that's how I'm going to get you"], [0.9251219034194946, " tell simple it is he doesn't know nobody knows what happened it happened she feels great about herself and I also need to tell your daughter when she gets tested to be is to be stupid not to be as smart as she is the goal is to be slow to be not as bright all that so we showed discrepancies where I know it does I know it does but we can get the score and we have choices to be saying okay I'll take all my kids"], [0.9365234375, " Farrakhan even starts con artist know us better than we know ourselves because we hardly ever take the time to sit down with ourselves and ask ourselves that question what are my fears we don't do that it takes a lot of time micardis do that for us"], [0.9557511806488037, " second step is I am going to tell you a story and get you emotionally involved in it that's actually what a con artist wants to do as early as possible"], [0.9773359894752502, " because when we're trying to be objective when we're trying to really evaluate pros and cons in a hard minded way we can't do that if we're emotionally involved"], [0.9013352990150452, " moment you're emotionally involved in something you stopping at Jack's if you start being subjective"], [0.9401683211326599, " your mind because now I can manipulate the story and your reasoning faculties aren't 100% so you're not going to be able to see the holes in my argument"], [0.880720853805542, ' hey so you got an NFL punter yes you are perfect'], [0.9493618607521057, " hilarious so they asked me what sport can we put them through and I said well I don't want it out cuz your school doesn't have football ZZ cuz I can say cuz they have all these kicking camps in these kickers always get picked up outside of the school a perfect perfect so I'm going to make him a kicker absolutely I actually turn him into something I love it I know I had a boy last year I made him a Long Snapper in the hundred forty five pounds Long Snapper I love it I love it"], [0.9533714652061462, " so now I've got you on board I could have got you emotionally involved you are now not an outside Observer you're now part of the story"], [0.9824148416519165, " the breakdown is a part of the kind where things start to go wrong and you actually start seeing red flags and you would think that at this point the victim would walk away and would say this is a con I need to stop but what ends up happening is that they often recommit themselves they become even more attached to the con because they describe the inconsistency by saying oh if there weren't any red flags then it would be a con but because all of these things are going wrong this person is genuine this person wants to help me the story is legitimate and we're in this together so it becomes almost like the obstacles unite you and make story even stronger as opposed to say oh this is something that I need to step away from and so this is actually the moment where people often times become even more irrevocably committed to the fraud as a whole as opposed to the moment where they were"], [0.9453273415565491, ' the way'], [0.9622564911842346, " I'm just thinking oh my God because you're thinking is this role into something where you know if they going to do the meat and potatoes is this going to be the front page story with everyone the person who'd be on the front garage but if a yes they went the mean potatoes of it which is what which it which I would love to have is it so hard for these kids to get in college and look what's going on behind the scenes and then you know the the embarrassment to everyone in the communities oh my God it would just be lit yeah"], [0.8879227638244629, " I think I'll definitely pay cash this time and not not the not run it through the other way"], [0.9618340730667114, " after the breakdown we have a moment which we call the send and in the sentence this is really could have the recommitment process where the con artist and you will reunite to pull off this Khan together and so this is when the con is actually coming to fruition this is where you can no longer get out because this is where everything is actually happening and the con comes to the point of no return but you're there together because you've already invested so much"], [0.9145581126213074, " yeah I noticed equation as I know it is and then you can figure out a way to boost your husband out they treat you well you're treated better that's impossible that's impossible but you know peace in the Middle East and you know Harvard the rest of it I have faith"], [0.9758403897285461, ' so this is really where we say you know what'], [0.9859079122543335, " we are committed to this we're in this together and"], [0.8869214057922363, " we're ready for the touch which has the moment in the car and where the cotton comes to its fruition the victim is completely taken in and the con is done"], [0.9417860507965088, " I just wanted to make sure I touch base because I didn't want you to all the sudden blood like yeah what's this call coming from it's not anyone from UFC it's the IRS that is correct okay"], [0.9728258848190308, " that last voice you heard was a reading of actress Lori loughlin's words with singer"], [0.9639325141906738, " if Felicity Huffman's 14-day prison sentence is at one end of the Spectrum in this case Lori Loughlin and her husband Mossimo giannulli may end up at the other end of the spectrum they paid $250,000 for each of their daughters to not only have their entrance exams taken for them but to also have fake athletic profiles made to help get them admitted to USC as rowing team recruits and they've entered a plea of not guilty"], [0.9341363310813904, ' are CNN legal analyst Elie honig'], [0.8882830142974854, " Felicity Huffman is over and done she's already pled guilty she's already accepted responsibility is going down a very dangerous path here"], [0.9726719260215759, " generally speaking as a prosecutor long or someone plays you out in the system the worst that we offer gets the rule that we always try to force his prosecutors is the first plea offers the best playoff for because if you think about it if you did it the other way it would reward people who strung out there chasing you want people to plead guilty quickly and get it over with so Lori Loughlin it as as not plead guilty the prosecutors have since added new charges against her and her husband including money laundering which car is pretty heavy hit so they're not looking at additional charges and really Laughlin and her husband have only two options at this point one of which is to take a plea but it's going to be a tough play it's going to call for several years in prison or two is go to trial but going to trial in federal system is a very dangerous proposition for a defendant conservatively speaking 80% of federal trials wind up in connection some years that takes up to 90% but you don't want to get tried in federal court the odds are stacked against you and if you do get convicted at trial that's that's a worst-case scenario for sentencing"], [0.9219256639480591, " Laughlin dogs go down that road at her husband and I expect they will get convicted and they're going to be sentenced to I believe multiple years in prison if that's how it plays out"], [0.9201736450195312, ' the evidence against them seems very very strong did the prosecutors in that case of the most powerful kind of evidence that you can have in a criminal case which is tapes at when I was prosecuted when I went to a new case to do a rest smart defense lawyers would come up to be the first thing they would say is is this a tape case or not'], [0.9372217059135437, " the one thing that I'm most curious about in this case is Hell on Earth is Lori Loughlin going to defend yourself"], [0.975165069103241, " the fact that she's not taking a plea yet it seems to me like they are gearing up for trial"], [0.9507794976234436, ' the big question at least for me is will any of these sentences move the needle and how parents of means game the college admissions system'], [0.9579343199729919, " this was a message sentence of a sort to Felicity Huffman but also brought her message under our law one of the legitimate purposes of sentencing is what we call deterrence and one there specific deterrence you want to make sure as a judge at this person in front of you this particular defendant does not commit any crime ever again and learn from this lesson I don't think that's really an issue with Felicity I don't think they would look at her thinks she's going to be a recidivist she's going to do this or some other crime in the message it's making sure that other people out there understand that these crimes will be punished and trying to prevent other people who may be considering committing crimes are committed crimes as well so I think most of these pretend to be sick without a case"], [0.9745663404464722, " we left off episode 6 with a note that if there's an Antiquated system in place somebody's out there right now gaming it and news out of the suburbs of Chicago proves just that a recent article and propublica uncovered the story that parents some of them doctors and lawyers have been giving up guardianship of their children to relatives and friends so those children could declare themselves financially independent and once they did that they qualified for need-based financial aid and scholarships they otherwise wouldn't be eligible for the University of Illinois alone has identified 14 applicants who did this and yes those kids are taking away opportunities from those who really need them"], [0.9593315720558167, " for those of you who've been following along this season you've heard various tips we've received relating to the story we've gotten several tips about Elite Independent high schools across the country this wasn't much of a surprise nor coincidence most of the parents indicted in this scandal at children enrolled in top-tier private school stay acted without the knowledge of those schools but one tip from a former teacher at a large and well-known elite private school suggest that it some institutions there's complicity between administrators and parents"], [0.9453511834144592, ' I can tell you that this starts very early on the school to ministration gave me directives that kids in the schools do not fail the parents are clients expect a certain level of customer service and one point I was told to give us student the test questions and answers I lasted all of eight months until I met by administrator and had asked I asked him point-blank how they could possibly not see that what they did was completely wrong and teachers are essentially bullied into doing what they want one teacher told me that when you were here'], [0.9556771516799927, " Defector integrity at the door it considered Untouchable because the kids cannot do any wrong or get anything less than a day and I told her she needed to change the gray everything I've heard in the podcast is dead on for the part of a lot of people don't get is that it starts much earlier than the college admissions process this is embedded in the school's culture and everyone just goes along with it it's crazy"], [0.9315788149833679, ' I want to emphasize that examples like this one seem to be the exception rather than the rule the many schools like the one just described to have one thing in common they are incentivized to have their students perform well High rankings equals money no matter what level the school is that'], [0.9567163586616516, " here's a little inside baseball for your true story 10 years ago maybe a little longer I'm having a conversation with the director of admission at one of the most highly selective universities in the country"], [0.9627190232276917, " that's marked as yard in the Headmaster at the st. John's School in Houston st. John's is regarded as one of the top independent K through 12 schools in the country and Mark describes an encounter he had with a top university official and I happen to be there just wanted to learn a little bit more about some of the work they were doing an engineering and I had a tour of the engineering department which was great and I just did a drive-by and happened to catch the director of admission who I had a previous relationship with at a different Institution"], [0.9563900828361511, " I caught him on his last day of work so let's just say he was very free with his opinion so wow you know you've been here for a relatively short time you're you're out the gate now what's going on"], [0.9801828265190125, ' he was told by the trustees'], [0.9311718344688416, ' then through the trickle down to the present in the University that they needed to get a certain SAT score average for their incoming class because they were going to go out in the bond market and they were going to borrow an enormous amount of money to do some major building campaigns'], [0.9606234431266785, ' and getting X number of increases in the SAT score was going to result in a better bond rate'], [0.934497058391571, " and so is he said I spent my spring taking kids who had great test scores and lousy characters and I just didn't feel good about it"], [0.9585732221603394, " there's a business side to the higher education and these rankings really start to become something that institutions drive to try to meet director of admissions will get fired and president's jobs will be in Jeopardy if the benchmarks in US News & World Report doesn't hit certmetrics that's just not good it starts to become a vicious cycle at the end of the day you talk about gangster capitalism they are businesses and their operating as businesses and they're going to do what's in their best interest"], [0.9872158169746399, " anybody that doesn't think that is not living in reality"], [0.9662516713142395, " Mark says that the mythology surrounding the college rankings set spin artificially inflated from Outlets such as usnewsandworldreport can me more money for the school and misguided parents become hyper focused on these rankings and so he's doing what he can in his school to change the conversation I'm going to be a pessimist here and I'm going to say that you cannot reform the college admissions industrial complex it is too big to fail there are too many incentives for them to continue to do what they've always done"], [0.9448803663253784, " and so I think the secret is going to be if there's going to be a pendulum change it really has to come from"], [0.985122799873352, ' parents who just say this is enough'], [0.8120914697647095, ' what time does exercise within our community'], [0.9618248343467712, " because we view parents as an important partner and we want to help educate parents on the type of anxiety that kids are feeling and so will meet separately with the kids and we'll get his their hand ask them the following question raise your hand if you feel pressure to look at a college not because you're interested in it but because you want to make your parents happy and invariably 80 90% of the of the hands go up and then we have the parents will ask them and raise your raise your hand if you think that your child is under pressure to"], [0.9416862726211548, " explore options that are only being done to make you happy and get a 10% of the parents are honest and we actually talk to your kids and about 90% of them raise their hand I think that's a conversation that you should have around your dinner table tonight"], [0.953750729560852, " it's not where I want my child to be for the next four years after they're 18 but what kind of adult do I want them to be at the age of 40"], [0.9677632451057434, " we want them to be good spouses we wanted to be good parents we don't want them to sacrifice their ethics for their morals we want them to use their gifts to make the world around them a better place so I think this is how we begin to change the The Narrative of the conversation and if the parents are out there that are listening to this if you stop and ask that question that is a game-changing type of conversation"], [0.9710650444030762, " parents often reach out to Mark to ask him what the best possible summer internship would be for their child and his advice probably isn't what you'd expect from someone in his position"], [0.9508529901504517, " there's this tendency of parents in my generation I'm 54 to I call it resume sculpt and started at age 12 and 13 is to be very strategic and targeted about what type of experience is kids can have in order to build a brand and boy that puts a lot of pressure on kids because do they really want to do this right do they get a sense of joy and self satisfaction from the work they're doing and it reminds me of my first job when I was 12 years old I had a lawn business"], [0.96884685754776, " and I'll never forget the first one I cut and the first time that money was put in my hand for a job done and the self-satisfaction that I got from that transaction and I think putting kids in situations particularly when they're when they're young and we seen this there's a crisis of summer jobs kids don't do summer jobs anymore and I think doing difficult tasks I think being held accountable for being at a job on time and doing a job and even though it may not fit into some larger"], [0.9710864424705505, " in the larger scheme of thumb becoming a hedge fund manager what we're getting to a particular c-suite I think he would talk to people you know myself included my life experiences have been made much better by being in a position of understanding and appreciating what it what it's like to to work and into work not with an in-store to means just work to put money in your pocket work because it's in our teaching you responsibility and I think that parents am I generation of sort of has lost that lost that opportunity by focusing just on these on these internships and I think it really Rob's kids an opportunity to build grit to build resiliency and to learn some very important lifelong lessons"], [0.9279946088790894, " sometimes when they ask me for advice that in one of the best things that their kid can do to really differentiate themselves is hold a job go work at McDonald's"], [0.8822754621505737, ' essentially what marks suggest character over brand is the exact opposite of Rick singers advice'], [0.9827339053153992, " so I'm listening to your podcast"], [0.950196385383606, " and particularly the segment on Rick Singer and listening to how he started impressing upon parents the importance of kids having a brand and owning that brand and that's the only way that they're going to distinguish himself"], [0.9576238393783569, " your Brands can take you to places you've never dreamed make sure you bring your brand there with you wherever you go whatever you do remember your elevator pitch"], [0.9541438817977905, ' tell me what shop aha moment for me because about 12 years ago I started to get phone calls'], [0.9587098360061646, " from parents asking me what are we doing to make sure that we're branding kids and making sure there's our kids have a distinctive brand and what are we doing to make sure that our our kids are standing out and of course I think the interesting thing is if you talk to the"], [0.9490666389465332, " people who on the other end who are reading admission files on their tell you that they're looking for authenticity that's something that's really important for them is this individual that were reading about or are they really an individual that truly believes and all the things that you know I'm reading on this in on this application and I think that their BS detectors are are pretty pretty stout and actually one of the worst things that I think you can do for for kids is is the brand them in some you know an authentic way"], [0.9201744794845581, ' so anyway I was amazed at singers ability'], [0.9074205160140991, ' 2-0 win and Target this fear and anxiety are these parents and have a message that just move the needle so far'], [0.9522188901901245, ' way back in episode 1 of this series I confronted Rick singer in the parking lot of a public pool Club in St Petersburg Florida no comment'], [0.9541212320327759, " singer Tandon shirtless with a hat on backwards didn't have anything to say as he got into his Porsche SUV with two paddle boards on the roof"], [0.9717850685119629, ' we spent the next several episodes trying to figure out who Rick Singer was and how did he become The Mastermind of the Scandal'], [0.9353927373886108, ' we met some people who were close with him the truth is I love the guy and I say to myself what happened to my friend'], [0.9672214984893799, ' somewhere along the way Rick Singer took a turn and saw that he can make money exploiting the system filled with anxious parents obsessed with status'], [0.9474281072616577, " he wrote books about branding yourself as a student Brands can be replaced Brands can be rebuilt Brands can be changed and framed himself as the only person who could work magic I can make scores happen and nobody on the planet and gets worse to have it the rich singer that always claimed that his main interest was helping underprivileged kids get into college this was part of his own branding before the first episode aired we got in touch with Rick singers attorney we said that In fairness we'd like to give an opportunity for those who held singer in high regard to speak on his behalf the attorney said he consider putting us in touch with some of the kids singer had helped who would be able to speak to the other side of Rick Singer"], [0.9574184417724609, " Hunter to follow up switch went unanswered we finally received an email response which reads in part quote your podcasts Define your moral values as well as your sponsor Hawking I will not provide any information to you regarding this matter now or anytime Integrity is the stock-in-trade of legitimate journalist you failed the test the other side of Rick Singer will be eventually well-documented in my sentencing memorandum and quote will look forward to hearing more about the other side of Rick Singer when he's sentenced"], [0.9317998886108398, " thanks again for listening to gangster capitalism season 1 the College admission Scandal we've begun production on season 2 and will be announcing the topic after the new year"], [0.9433441758155823, " if you've enjoyed the show please rate and review us on Apple podcasts"], [0.9565134644508362, " gangster capitalism is a production of c-13 Originals it's written and directed by me Andrew Jenks and Zack Leavitt executive produced by me Chris Corcoran and Zach Love It produced by Lloyd Lockridge Perry Crowell and Terrence malagon editing by Perry Crowell and Zack Lovett mixing and mastering by Bill Schultz or work in design is biker Courtney original score is by Joel Goodman and a theme song is your sins will find you out by Eli Paperboy Reed for more information go to Gangstar capitalism.com send any tips to tips at gangster capitalism.com and follow us on Instagram at gangster capitalism or on Twitter at gangster Capital you can always follow me on Twitter and Instagram at Andrew Jenks"]]}
+{
+  "Stats": {
+    "PodcastID": "1460320573.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 2857.795878,
+    "OriginalFileSize": 68627202,
+    "FlacFileSize": 241657298,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 965.1522424221039,
+    "DownloadSuccessful": 40.412389039993286
+  },
+  "Transcripts": [
+    [
+      0.8776907920837402,
+      "G13 Originals"
+    ],
+    [
+      0.9086567163467407,
+      " I was in high school getting ready to apply to college it was one school I wanted to go to"
+    ],
+    [
+      0.9861395359039307,
+      " I kind of felt like"
+    ],
+    [
+      0.955989420413971,
+      " if I got into my dream school that was a Finish Line and then everything would be okay"
+    ],
+    [
+      0.9469826221466064,
+      " and I remember waking up the morning I was supposed to take that say cheese cuz I was going to keep the cover up for my parent I got up at 8:30 and I'm off to take the test"
+    ],
+    [
+      0.9717634916305542,
+      " okay good luck"
+    ],
+    [
+      0.9488496780395508,
+      " and it was a beautiful day out Sunshine the birds were singing and I was painting this mural with my friend"
+    ],
+    [
+      0.926776647567749,
+      " I was actually on Campus High School"
+    ],
+    [
+      0.8130771517753601,
+      " and I never just looking up at all the classrooms surrounding me and everyone else was inside taking this God awful."
+    ],
+    [
+      0.9876290559768677,
+      " and I just felt"
+    ],
+    [
+      0.6501593589782715,
+      " bright"
+    ],
+    [
+      0.9117502570152283,
+      " I never think I'm like wow I could be in their suffering under this test and look at where I am now here I'm enjoying myself and make it hard"
+    ],
+    [
+      0.8853942155838013,
+      " and as you're doing it I'm getting the 1400"
+    ],
+    [
+      0.7228792905807495,
+      " number to Scotts Lawn to myself they aren't wow I'm getting away with this"
+    ],
+    [
+      0.9632658362388611,
+      " That's Mike you may remember him telling the story at the very beginning of the Season Mike had a fake ID made and paid someone else to get him a 1400 on his sat which got Mike into his dream School"
+    ],
+    [
+      0.9721318483352661,
+      " I said back then the kids cheating to help get themselves into college and hiding it from their parents was nothing new but parents cheating to get their kids in and not telling them was an entirely different story"
+    ],
+    [
+      0.9656721949577332,
+      " but no matter who's doing the cheating there's always a price to pay no matter how big or how small the scam"
+    ],
+    [
+      0.8341462016105652,
+      " here's Mike"
+    ],
+    [
+      0.9191717505455017,
+      " really I was just doing whatever it takes to get you somewhere is important but at the same time there's the flip side of if you're cutting Corners it's going to snap back on you in some way"
+    ],
+    [
+      0.940021812915802,
+      " there is a karmic debt and it might not be obvious and it might not even be huge but something is going to come back and slap you in the face"
+    ],
+    [
+      0.9424000382423401,
+      " the first time I realized this list freshman year call it I was in an economics class and I was I was not doing very well my time management was not if they're staying and I just I wasn't doing well cuz I wasn't prioritizing the class and I remember talking to my mom on the phone and thank you know I think I really dropped the ball on this one class I really screwed up with finals coming up and I'm really far behind I think I might flunk this test and she said well you know honey"
+    ],
+    [
+      0.890356183052063,
+      " remember how nervous you worry about the SATs and look how great you did on that test"
+    ],
+    [
+      0.8708357214927673,
+      " and I thought oh yeah well that's how I deserve that you know"
+    ],
+    [
+      0.8746585249900818,
+      " she had no idea and I realized I didn't get off scot-free even if you got a different School even if never got caught"
+    ],
+    [
+      0.9354078769683838,
+      " you're still a price to be paid"
+    ],
+    [
+      0.9054371118545532,
+      " dear parents it is the loss of dignity humanity and morality of Home Run helped the wealthiest families in the US get their kids in school if you had one issue I mean"
+    ],
+    [
+      0.879948079586029,
+      " I'm Andrew Jenks and this is Gangster capitalism season 1 the college admissions scandal"
+    ],
+    [
+      0.9689339399337769,
+      " pretty good to come out of the college admissions Scandal there has to be an open and honest dialogue about problems and solutions we've tried to provide a forum for that since our last episode A lot has happened so we wanted to revisit this story and to bring things full circle we've come back to Mike who happens to be a friend of mine Mike's karmic debt realization about cheating came to him early in his freshman year of college but in the context of both this Scandal and this podcast I asked Mike now several years removed from college if the very notion of a dream school was even worth it I was surprised by his answer"
+    ],
+    [
+      0.9351434707641602,
+      " took me awhile to learn was that it's a mistake to entirely put your faith into institution in the sent that even if you get into a great school it's still all on you you know I kind of felt like what if I got into my dream school like that was a Finish Line"
+    ],
+    [
+      0.8561805486679077,
+      " the sense of it was there was this chair to reach an at if you got in the club you'd be golden"
+    ],
+    [
+      0.927986741065979,
+      " China Cottage my preschool I would have been fine I would have probably lick my wounds for a while and maybe he has a slight chip on my shoulder but gave you it's going to feel good it's going to feel like you're in a lot of a club but at the end of the day you know it's not going to make or break you might feel that way but it's it's not going to be the determining Factor find a way that they're going to keep going"
+    ],
+    [
+      0.9418854117393494,
+      " that sense of building resilience and agency is what guests of this podcast have said that the parents involved in this Scandal have stolen from their kids"
+    ],
+    [
+      0.9627584218978882,
+      " how does parents been able to look past the sense of status associated with a handful of top schools they may have learned that studies show that school rankings have no correlation to Future earnings and more importantly how is student engages in their college has a much larger effect than the school itself"
+    ],
+    [
+      0.948218584060669,
+      " what is a little past the status symbol and now there's a real tangible price to be paid this story first broke back on March 12th and now finally sentences are starting to be handed out beginning with the most high-profile one"
+    ],
+    [
+      0.9535317420959473,
+      " breaking news late today actress Felicity Huffman sentenced to 14 days in prison for the cottage cheese can find you 250 hours of community service on Full House star Lori Loughlin you take a plea tomorrow case is much more serious than how big is the biggest law firm in the world which is the federal government facing up to 40 years in prison"
+    ],
+    [
+      0.9427244067192078,
+      " on September 13th actress Felicity Huffman was the first of more than 30 parents charged in Rick Singer scheme to be sentenced Huffman paid $15,000 to singer to have his accomplished take the SAT for her daughter"
+    ],
+    [
+      0.9611523747444153,
+      " and for that she'll spend 14 days in prison former state and federal prosecutor and current CNN legal analyst Elie honig says Hoffman sentence sets the bar for the other parents"
+    ],
+    [
+      0.9567083716392517,
+      " we're still fairly early in this case at the moment only a handful of those charged defendants have pled guilty what lies ahead this decision time they have to decide whether they're going to take a guilty plea or whether they're going to push their luck and go to trial"
+    ],
+    [
+      0.7451513409614563,
+      " Aldo's route they're fairly fraud"
+    ],
+    [
+      0.9728786945343018,
+      " as a prosecutor when you're looking at a big takedown like this when you have a couple dozen defendants you have to at least sort of put them in different tiers different groupings and you want to make sure that the end sentences reflect the seriousness of the condo for each of those groupings you want to make sure you have proportionality and looking at this case husband to me would seem to be on the low in the Farlow and of things for for a couple of reasons it's worse to bribe University that it is to pay a proctor to look the other way on an SAT neither of them is okay but if I'm evaluating which contact is working for listen to help his contact fell on the lower end of that second of all the money amounts here and the federal sentencing guidelines are driven in large part by the dollar amount Felicity Huffman paid a $15,000 bribe other people in this case paid hundreds of thousands of dollars millions of dollars so she's on the Farlow that and then third Felicity Huffman fully accepted responsibility and she did it quickly she took a quick play she didn't challenge the prosecutors she didn't protest in the media"
+    ],
+    [
+      0.8958421945571899,
+      " what you waiting for sentencing she made what seemed to me to be a fairly legitimate sincere statement about her own culpability in the lesson she learned and then that makes it different so even with all of those factors working in our favor and still got to get the 14 days"
+    ],
+    [
+      0.9622707962989807,
+      " the sentence that the judge imposed on Felicity Huffman I think was a message sent it's because it is for such a short amount of time 14 days is almost unheard of but I think what the judge was saying here is you do need to go behind bars you do need to be punished in some way more than probation and it's I think a message to society in general Felicity Huffman sentence is bad news for everybody else in this case they pretty much means they're all going to jail unless they go to trial and get acquitted which almost never happens in the federal system"
+    ],
+    [
+      0.9750705361366272,
+      " all right well this is going to be interesting now you know getting older can feel like a downer but I said that for a reason cuz it's back forty percent of men by age 40 struggle from not being able to you know get and maintain an erection so you could get expensive pills injections where no man wants an injection that sort of thing to go to forhims.com a one-stop-shop for hair loss skin care sexual Wellness for men thanks to science Edie can be optional it's one heck of a line thanks to science Edie can be optional not unlike climate change we have the science and everything hymns connects you with real license doctors and FDA approved pharmaceutical products to treat ed02 worry about multiple in office doctor visits and those painful injections this is quite easy you can go to forhims.com and chat with a doctor for confidential review and get"
+    ],
+    [
+      0.9515361785888672,
+      " questions answered try hims today by starting out with a free online visit go to 4hims.com gangster that's for hims.com gangster forhims.com gangster prescription products are subject to doctor approval and require an online consultation with a physician will determine if a prescription is appropriate see website for full details and safety information this could cost hundreds if you want in-person to the doctor's office or Pharmacy remember that's forhims.com gangster"
+    ],
+    [
+      0.9701433181762695,
+      " now more than ever we have options to run a business sufficiently it sound like the only way to send the product is through the post office unless your nana so for instance if you're selling something online or sending a gift and Anna shipstation.com is the place to go seriously shipstation.com is the fastest easiest and most affordable way to manage and ship your orders now no matter where you're selling Amazon at see your own website shipstation brings all your orders into one simple interface making them really easy to manage from any device even your cell phone shipstation helps you get orders out quickly save money on shipping costs and keep your customers happy shipstation works with all the major carriers including USPS FedEx UPS even Amazon Fulfillment don't even know what that is so you can compare and shoes the best shipping solution for you and your customer it's no wonder shipstation is the number one choice of online sellers deal Shipman"
+    ],
+    [
+      0.9602638483047485,
+      " in less time with the best rates available and right now all of you the great gangster capitalism listeners can try shipstation free for 60 days when you use the offer code gangster there's absolutely no risk you can start your free trial without even entering your credit card info so the Russians won't hack it just visit shipstation.com click on the microphone at the top of the homepage and type in Gangstar best pro could ever that shipstation.com then enter offer code gangster shipstation.com make ship"
+    ],
+    [
+      0.934930682182312,
+      " Rick Singer song opportunity to capitalize on Wealthy parents store looking for every Advantage tell their children get into Elite College it's already turned it into a business that Federal prosecutors say generated 25 million dollars"
+    ],
+    [
+      0.9516573548316956,
+      " when it all came crashing down singer became commonly referred to as a con man"
+    ],
+    [
+      0.9656941294670105,
+      " back in episode 6 we heard from Los Angeles to fence attorney Alan Eisner who made a strong case that the parents who plead not guilty will likely argue that they were taken advantage of by singer that they didn't realize they were doing anything wrong normally a con man xploitz unknowing marks in this case the parents were in on the scheme but Maria konnikova the New York Times bestselling author of the book The Confidence Game explains that despite the parents having the knowledge that they were doing wrong singer reel them in using the same steps of any good con"
+    ],
+    [
+      0.9596871733665466,
+      " so the original use of the word confidence man came from William Thompson from The Trial of William Thompson in New York in the 1800's and he was a man who would dress in the three piece suit file chain the whole nine yards and walk up to other Dapper Gentleman on the streets of New York and say excuse me have you the confidence in me to lend me your watch until tomorrow"
+    ],
+    [
+      0.9617617726325989,
+      " and I just really caught people off guard because it's not give me your watch or will you give me your watch it's have you the confidence in me so that means what world are we living in how do you see your fellow man how do you say Humanity do you think that we live in a world where you can trust a gentleman off the street and by the time he was caught he had dozens of watches in his apartment because people would give them to him and hence the term confidence man"
+    ],
+    [
+      0.9630618691444397,
+      " and so in this particular instance to parents who came to Rick knew what they were coming for they knew that they were here to get their kids into college through the side door so when he's talking to the co-conspirators it was just such a classic con artist technique because you can actually see that some of the parents have legitimate concerns that their voice so obviously they went through with it anyway and they knew they were going to go through with it but you could see him basically saying that their concerns aren't legitimate delegitimizing them right away and saying oh well know the only way anyone's going to find out is if you tell are you going to tell no I've never been caught in 20 years are you insane why would you ever think that this is foolproof"
+    ],
+    [
+      0.9659801721572876,
+      " let me ask you straight up you've never had an issue with this no one has ever gotten in trouble with this had an issue with anybody for this to get back to my daughter or the family I mean this comes out I want to know what you got"
+    ],
+    [
+      0.9331122636795044,
+      " somebody catches this what happens the only one who can catch it and have you guys tell somebody to be honest and not worry about the moral issue here I'm worried about the she's caught doing that you know she's finished"
+    ],
+    [
+      0.900467038154602,
+      " how do I get this done with you or do I need to do"
+    ],
+    [
+      0.9554996490478516,
+      " when people start seeing red flags in a car and I'm in this is a little bit different because they're co-conspirators they're not marks the way that typical victims of con artists are but in a sense here he is slowing them into a story into this narrative that it's okay and they are pointing at red flags and he say no no these aren't red flags and here's why"
+    ],
+    [
+      0.9671886563301086,
+      " to the first step the put up it's the moment where the con artist basically steaks out the mark and builds a psychological profile of the mark and tries to figure out okay what are your hopes what are your fears what motivates you what are your weaknesses what are the things you believe in what is the world that you want to live in what's the story that you've been telling yourself because I'm going to tell you that story I'm going to mirror your version of reality back to you that's how I'm going to get you"
+    ],
+    [
+      0.9251219034194946,
+      " tell simple it is he doesn't know nobody knows what happened it happened she feels great about herself and I also need to tell your daughter when she gets tested to be is to be stupid not to be as smart as she is the goal is to be slow to be not as bright all that so we showed discrepancies where I know it does I know it does but we can get the score and we have choices to be saying okay I'll take all my kids"
+    ],
+    [
+      0.9365234375,
+      " Farrakhan even starts con artist know us better than we know ourselves because we hardly ever take the time to sit down with ourselves and ask ourselves that question what are my fears we don't do that it takes a lot of time micardis do that for us"
+    ],
+    [
+      0.9557511806488037,
+      " second step is I am going to tell you a story and get you emotionally involved in it that's actually what a con artist wants to do as early as possible"
+    ],
+    [
+      0.9773359894752502,
+      " because when we're trying to be objective when we're trying to really evaluate pros and cons in a hard minded way we can't do that if we're emotionally involved"
+    ],
+    [
+      0.9013352990150452,
+      " moment you're emotionally involved in something you stopping at Jack's if you start being subjective"
+    ],
+    [
+      0.9401683211326599,
+      " your mind because now I can manipulate the story and your reasoning faculties aren't 100% so you're not going to be able to see the holes in my argument"
+    ],
+    [
+      0.880720853805542,
+      " hey so you got an NFL punter yes you are perfect"
+    ],
+    [
+      0.9493618607521057,
+      " hilarious so they asked me what sport can we put them through and I said well I don't want it out cuz your school doesn't have football ZZ cuz I can say cuz they have all these kicking camps in these kickers always get picked up outside of the school a perfect perfect so I'm going to make him a kicker absolutely I actually turn him into something I love it I know I had a boy last year I made him a Long Snapper in the hundred forty five pounds Long Snapper I love it I love it"
+    ],
+    [
+      0.9533714652061462,
+      " so now I've got you on board I could have got you emotionally involved you are now not an outside Observer you're now part of the story"
+    ],
+    [
+      0.9824148416519165,
+      " the breakdown is a part of the kind where things start to go wrong and you actually start seeing red flags and you would think that at this point the victim would walk away and would say this is a con I need to stop but what ends up happening is that they often recommit themselves they become even more attached to the con because they describe the inconsistency by saying oh if there weren't any red flags then it would be a con but because all of these things are going wrong this person is genuine this person wants to help me the story is legitimate and we're in this together so it becomes almost like the obstacles unite you and make story even stronger as opposed to say oh this is something that I need to step away from and so this is actually the moment where people often times become even more irrevocably committed to the fraud as a whole as opposed to the moment where they were"
+    ],
+    [
+      0.9453273415565491,
+      " the way"
+    ],
+    [
+      0.9622564911842346,
+      " I'm just thinking oh my God because you're thinking is this role into something where you know if they going to do the meat and potatoes is this going to be the front page story with everyone the person who'd be on the front garage but if a yes they went the mean potatoes of it which is what which it which I would love to have is it so hard for these kids to get in college and look what's going on behind the scenes and then you know the the embarrassment to everyone in the communities oh my God it would just be lit yeah"
+    ],
+    [
+      0.8879227638244629,
+      " I think I'll definitely pay cash this time and not not the not run it through the other way"
+    ],
+    [
+      0.9618340730667114,
+      " after the breakdown we have a moment which we call the send and in the sentence this is really could have the recommitment process where the con artist and you will reunite to pull off this Khan together and so this is when the con is actually coming to fruition this is where you can no longer get out because this is where everything is actually happening and the con comes to the point of no return but you're there together because you've already invested so much"
+    ],
+    [
+      0.9145581126213074,
+      " yeah I noticed equation as I know it is and then you can figure out a way to boost your husband out they treat you well you're treated better that's impossible that's impossible but you know peace in the Middle East and you know Harvard the rest of it I have faith"
+    ],
+    [
+      0.9758403897285461,
+      " so this is really where we say you know what"
+    ],
+    [
+      0.9859079122543335,
+      " we are committed to this we're in this together and"
+    ],
+    [
+      0.8869214057922363,
+      " we're ready for the touch which has the moment in the car and where the cotton comes to its fruition the victim is completely taken in and the con is done"
+    ],
+    [
+      0.9417860507965088,
+      " I just wanted to make sure I touch base because I didn't want you to all the sudden blood like yeah what's this call coming from it's not anyone from UFC it's the IRS that is correct okay"
+    ],
+    [
+      0.9728258848190308,
+      " that last voice you heard was a reading of actress Lori loughlin's words with singer"
+    ],
+    [
+      0.9639325141906738,
+      " if Felicity Huffman's 14-day prison sentence is at one end of the Spectrum in this case Lori Loughlin and her husband Mossimo giannulli may end up at the other end of the spectrum they paid $250,000 for each of their daughters to not only have their entrance exams taken for them but to also have fake athletic profiles made to help get them admitted to USC as rowing team recruits and they've entered a plea of not guilty"
+    ],
+    [
+      0.9341363310813904,
+      " are CNN legal analyst Elie honig"
+    ],
+    [
+      0.8882830142974854,
+      " Felicity Huffman is over and done she's already pled guilty she's already accepted responsibility is going down a very dangerous path here"
+    ],
+    [
+      0.9726719260215759,
+      " generally speaking as a prosecutor long or someone plays you out in the system the worst that we offer gets the rule that we always try to force his prosecutors is the first plea offers the best playoff for because if you think about it if you did it the other way it would reward people who strung out there chasing you want people to plead guilty quickly and get it over with so Lori Loughlin it as as not plead guilty the prosecutors have since added new charges against her and her husband including money laundering which car is pretty heavy hit so they're not looking at additional charges and really Laughlin and her husband have only two options at this point one of which is to take a plea but it's going to be a tough play it's going to call for several years in prison or two is go to trial but going to trial in federal system is a very dangerous proposition for a defendant conservatively speaking 80% of federal trials wind up in connection some years that takes up to 90% but you don't want to get tried in federal court the odds are stacked against you and if you do get convicted at trial that's that's a worst-case scenario for sentencing"
+    ],
+    [
+      0.9219256639480591,
+      " Laughlin dogs go down that road at her husband and I expect they will get convicted and they're going to be sentenced to I believe multiple years in prison if that's how it plays out"
+    ],
+    [
+      0.9201736450195312,
+      " the evidence against them seems very very strong did the prosecutors in that case of the most powerful kind of evidence that you can have in a criminal case which is tapes at when I was prosecuted when I went to a new case to do a rest smart defense lawyers would come up to be the first thing they would say is is this a tape case or not"
+    ],
+    [
+      0.9372217059135437,
+      " the one thing that I'm most curious about in this case is Hell on Earth is Lori Loughlin going to defend yourself"
+    ],
+    [
+      0.975165069103241,
+      " the fact that she's not taking a plea yet it seems to me like they are gearing up for trial"
+    ],
+    [
+      0.9507794976234436,
+      " the big question at least for me is will any of these sentences move the needle and how parents of means game the college admissions system"
+    ],
+    [
+      0.9579343199729919,
+      " this was a message sentence of a sort to Felicity Huffman but also brought her message under our law one of the legitimate purposes of sentencing is what we call deterrence and one there specific deterrence you want to make sure as a judge at this person in front of you this particular defendant does not commit any crime ever again and learn from this lesson I don't think that's really an issue with Felicity I don't think they would look at her thinks she's going to be a recidivist she's going to do this or some other crime in the message it's making sure that other people out there understand that these crimes will be punished and trying to prevent other people who may be considering committing crimes are committed crimes as well so I think most of these pretend to be sick without a case"
+    ],
+    [
+      0.9745663404464722,
+      " we left off episode 6 with a note that if there's an Antiquated system in place somebody's out there right now gaming it and news out of the suburbs of Chicago proves just that a recent article and propublica uncovered the story that parents some of them doctors and lawyers have been giving up guardianship of their children to relatives and friends so those children could declare themselves financially independent and once they did that they qualified for need-based financial aid and scholarships they otherwise wouldn't be eligible for the University of Illinois alone has identified 14 applicants who did this and yes those kids are taking away opportunities from those who really need them"
+    ],
+    [
+      0.9593315720558167,
+      " for those of you who've been following along this season you've heard various tips we've received relating to the story we've gotten several tips about Elite Independent high schools across the country this wasn't much of a surprise nor coincidence most of the parents indicted in this scandal at children enrolled in top-tier private school stay acted without the knowledge of those schools but one tip from a former teacher at a large and well-known elite private school suggest that it some institutions there's complicity between administrators and parents"
+    ],
+    [
+      0.9453511834144592,
+      " I can tell you that this starts very early on the school to ministration gave me directives that kids in the schools do not fail the parents are clients expect a certain level of customer service and one point I was told to give us student the test questions and answers I lasted all of eight months until I met by administrator and had asked I asked him point-blank how they could possibly not see that what they did was completely wrong and teachers are essentially bullied into doing what they want one teacher told me that when you were here"
+    ],
+    [
+      0.9556771516799927,
+      " Defector integrity at the door it considered Untouchable because the kids cannot do any wrong or get anything less than a day and I told her she needed to change the gray everything I've heard in the podcast is dead on for the part of a lot of people don't get is that it starts much earlier than the college admissions process this is embedded in the school's culture and everyone just goes along with it it's crazy"
+    ],
+    [
+      0.9315788149833679,
+      " I want to emphasize that examples like this one seem to be the exception rather than the rule the many schools like the one just described to have one thing in common they are incentivized to have their students perform well High rankings equals money no matter what level the school is that"
+    ],
+    [
+      0.9567163586616516,
+      " here's a little inside baseball for your true story 10 years ago maybe a little longer I'm having a conversation with the director of admission at one of the most highly selective universities in the country"
+    ],
+    [
+      0.9627190232276917,
+      " that's marked as yard in the Headmaster at the st. John's School in Houston st. John's is regarded as one of the top independent K through 12 schools in the country and Mark describes an encounter he had with a top university official and I happen to be there just wanted to learn a little bit more about some of the work they were doing an engineering and I had a tour of the engineering department which was great and I just did a drive-by and happened to catch the director of admission who I had a previous relationship with at a different Institution"
+    ],
+    [
+      0.9563900828361511,
+      " I caught him on his last day of work so let's just say he was very free with his opinion so wow you know you've been here for a relatively short time you're you're out the gate now what's going on"
+    ],
+    [
+      0.9801828265190125,
+      " he was told by the trustees"
+    ],
+    [
+      0.9311718344688416,
+      " then through the trickle down to the present in the University that they needed to get a certain SAT score average for their incoming class because they were going to go out in the bond market and they were going to borrow an enormous amount of money to do some major building campaigns"
+    ],
+    [
+      0.9606234431266785,
+      " and getting X number of increases in the SAT score was going to result in a better bond rate"
+    ],
+    [
+      0.934497058391571,
+      " and so is he said I spent my spring taking kids who had great test scores and lousy characters and I just didn't feel good about it"
+    ],
+    [
+      0.9585732221603394,
+      " there's a business side to the higher education and these rankings really start to become something that institutions drive to try to meet director of admissions will get fired and president's jobs will be in Jeopardy if the benchmarks in US News & World Report doesn't hit certmetrics that's just not good it starts to become a vicious cycle at the end of the day you talk about gangster capitalism they are businesses and their operating as businesses and they're going to do what's in their best interest"
+    ],
+    [
+      0.9872158169746399,
+      " anybody that doesn't think that is not living in reality"
+    ],
+    [
+      0.9662516713142395,
+      " Mark says that the mythology surrounding the college rankings set spin artificially inflated from Outlets such as usnewsandworldreport can me more money for the school and misguided parents become hyper focused on these rankings and so he's doing what he can in his school to change the conversation I'm going to be a pessimist here and I'm going to say that you cannot reform the college admissions industrial complex it is too big to fail there are too many incentives for them to continue to do what they've always done"
+    ],
+    [
+      0.9448803663253784,
+      " and so I think the secret is going to be if there's going to be a pendulum change it really has to come from"
+    ],
+    [
+      0.985122799873352,
+      " parents who just say this is enough"
+    ],
+    [
+      0.8120914697647095,
+      " what time does exercise within our community"
+    ],
+    [
+      0.9618248343467712,
+      " because we view parents as an important partner and we want to help educate parents on the type of anxiety that kids are feeling and so will meet separately with the kids and we'll get his their hand ask them the following question raise your hand if you feel pressure to look at a college not because you're interested in it but because you want to make your parents happy and invariably 80 90% of the of the hands go up and then we have the parents will ask them and raise your raise your hand if you think that your child is under pressure to"
+    ],
+    [
+      0.9416862726211548,
+      " explore options that are only being done to make you happy and get a 10% of the parents are honest and we actually talk to your kids and about 90% of them raise their hand I think that's a conversation that you should have around your dinner table tonight"
+    ],
+    [
+      0.953750729560852,
+      " it's not where I want my child to be for the next four years after they're 18 but what kind of adult do I want them to be at the age of 40"
+    ],
+    [
+      0.9677632451057434,
+      " we want them to be good spouses we wanted to be good parents we don't want them to sacrifice their ethics for their morals we want them to use their gifts to make the world around them a better place so I think this is how we begin to change the The Narrative of the conversation and if the parents are out there that are listening to this if you stop and ask that question that is a game-changing type of conversation"
+    ],
+    [
+      0.9710650444030762,
+      " parents often reach out to Mark to ask him what the best possible summer internship would be for their child and his advice probably isn't what you'd expect from someone in his position"
+    ],
+    [
+      0.9508529901504517,
+      " there's this tendency of parents in my generation I'm 54 to I call it resume sculpt and started at age 12 and 13 is to be very strategic and targeted about what type of experience is kids can have in order to build a brand and boy that puts a lot of pressure on kids because do they really want to do this right do they get a sense of joy and self satisfaction from the work they're doing and it reminds me of my first job when I was 12 years old I had a lawn business"
+    ],
+    [
+      0.96884685754776,
+      " and I'll never forget the first one I cut and the first time that money was put in my hand for a job done and the self-satisfaction that I got from that transaction and I think putting kids in situations particularly when they're when they're young and we seen this there's a crisis of summer jobs kids don't do summer jobs anymore and I think doing difficult tasks I think being held accountable for being at a job on time and doing a job and even though it may not fit into some larger"
+    ],
+    [
+      0.9710864424705505,
+      " in the larger scheme of thumb becoming a hedge fund manager what we're getting to a particular c-suite I think he would talk to people you know myself included my life experiences have been made much better by being in a position of understanding and appreciating what it what it's like to to work and into work not with an in-store to means just work to put money in your pocket work because it's in our teaching you responsibility and I think that parents am I generation of sort of has lost that lost that opportunity by focusing just on these on these internships and I think it really Rob's kids an opportunity to build grit to build resiliency and to learn some very important lifelong lessons"
+    ],
+    [
+      0.9279946088790894,
+      " sometimes when they ask me for advice that in one of the best things that their kid can do to really differentiate themselves is hold a job go work at McDonald's"
+    ],
+    [
+      0.8822754621505737,
+      " essentially what marks suggest character over brand is the exact opposite of Rick singers advice"
+    ],
+    [
+      0.9827339053153992,
+      " so I'm listening to your podcast"
+    ],
+    [
+      0.950196385383606,
+      " and particularly the segment on Rick Singer and listening to how he started impressing upon parents the importance of kids having a brand and owning that brand and that's the only way that they're going to distinguish himself"
+    ],
+    [
+      0.9576238393783569,
+      " your Brands can take you to places you've never dreamed make sure you bring your brand there with you wherever you go whatever you do remember your elevator pitch"
+    ],
+    [
+      0.9541438817977905,
+      " tell me what shop aha moment for me because about 12 years ago I started to get phone calls"
+    ],
+    [
+      0.9587098360061646,
+      " from parents asking me what are we doing to make sure that we're branding kids and making sure there's our kids have a distinctive brand and what are we doing to make sure that our our kids are standing out and of course I think the interesting thing is if you talk to the"
+    ],
+    [
+      0.9490666389465332,
+      " people who on the other end who are reading admission files on their tell you that they're looking for authenticity that's something that's really important for them is this individual that were reading about or are they really an individual that truly believes and all the things that you know I'm reading on this in on this application and I think that their BS detectors are are pretty pretty stout and actually one of the worst things that I think you can do for for kids is is the brand them in some you know an authentic way"
+    ],
+    [
+      0.9201744794845581,
+      " so anyway I was amazed at singers ability"
+    ],
+    [
+      0.9074205160140991,
+      " 2-0 win and Target this fear and anxiety are these parents and have a message that just move the needle so far"
+    ],
+    [
+      0.9522188901901245,
+      " way back in episode 1 of this series I confronted Rick singer in the parking lot of a public pool Club in St Petersburg Florida no comment"
+    ],
+    [
+      0.9541212320327759,
+      " singer Tandon shirtless with a hat on backwards didn't have anything to say as he got into his Porsche SUV with two paddle boards on the roof"
+    ],
+    [
+      0.9717850685119629,
+      " we spent the next several episodes trying to figure out who Rick Singer was and how did he become The Mastermind of the Scandal"
+    ],
+    [
+      0.9353927373886108,
+      " we met some people who were close with him the truth is I love the guy and I say to myself what happened to my friend"
+    ],
+    [
+      0.9672214984893799,
+      " somewhere along the way Rick Singer took a turn and saw that he can make money exploiting the system filled with anxious parents obsessed with status"
+    ],
+    [
+      0.9474281072616577,
+      " he wrote books about branding yourself as a student Brands can be replaced Brands can be rebuilt Brands can be changed and framed himself as the only person who could work magic I can make scores happen and nobody on the planet and gets worse to have it the rich singer that always claimed that his main interest was helping underprivileged kids get into college this was part of his own branding before the first episode aired we got in touch with Rick singers attorney we said that In fairness we'd like to give an opportunity for those who held singer in high regard to speak on his behalf the attorney said he consider putting us in touch with some of the kids singer had helped who would be able to speak to the other side of Rick Singer"
+    ],
+    [
+      0.9574184417724609,
+      " Hunter to follow up switch went unanswered we finally received an email response which reads in part quote your podcasts Define your moral values as well as your sponsor Hawking I will not provide any information to you regarding this matter now or anytime Integrity is the stock-in-trade of legitimate journalist you failed the test the other side of Rick Singer will be eventually well-documented in my sentencing memorandum and quote will look forward to hearing more about the other side of Rick Singer when he's sentenced"
+    ],
+    [
+      0.9317998886108398,
+      " thanks again for listening to gangster capitalism season 1 the College admission Scandal we've begun production on season 2 and will be announcing the topic after the new year"
+    ],
+    [
+      0.9433441758155823,
+      " if you've enjoyed the show please rate and review us on Apple podcasts"
+    ],
+    [
+      0.9565134644508362,
+      " gangster capitalism is a production of c-13 Originals it's written and directed by me Andrew Jenks and Zack Leavitt executive produced by me Chris Corcoran and Zach Love It produced by Lloyd Lockridge Perry Crowell and Terrence malagon editing by Perry Crowell and Zack Lovett mixing and mastering by Bill Schultz or work in design is biker Courtney original score is by Joel Goodman and a theme song is your sins will find you out by Eli Paperboy Reed for more information go to Gangstar capitalism.com send any tips to tips at gangster capitalism.com and follow us on Instagram at gangster capitalism or on Twitter at gangster Capital you can always follow me on Twitter and Instagram at Andrew Jenks"
+    ]
+  ]
+}

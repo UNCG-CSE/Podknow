@@ -1,1 +1,338 @@
-{'Stats': {'PodcastID': '1334878780.mp3', 'DownloadTime': 1, 'AudioLength': 1843.304478, 'OriginalFileSize': 73790494, 'FlacFileSize': 164354502, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 662.0440957546234, 'DownloadSuccessful': '26.264992237091064'}, 'Transcripts': [[0.9693353772163391, 'you listening to Comedy Central'], [0.9694836735725403, ' October 29th 2019'], [0.8999759554862976, ' restart trolls World News headquarters in New York this is The Daily Show with Trevor Noah ears Edition'], [0.8798927068710327, " what's the temperature today"], [0.886745810508728, ' just tonight, guess what I is a wrap-up and a poet who just started a new book club no name is joining us on the show everybody is going to be a great conversation'], [0.9412763714790344, " also on tonight's show how to watch twice as many Netflix shows in half the time why your underwear could get you killed and there's a spy in the white house so let's catch up on today's headlines"], [0.9707821011543274, " let's kick it off with Netflix streaming Giants and the murder of Blockbuster the streaming service is not revolutionising time some backlash Netflix is getting from Hollywood director so yesterday the streaming service said it plans to test a new feature to allow viewers to either speed up or slow down a movie on their smartphones while director Judd Apatow thinks it is a terrible idea he tweeted no Netflix no don't make me have to call every director and show crater on Earth to fight you on this Netflix released a statement saying we're always experimenting with new ways to help members use Netflix Netflix is launching a new feature that will allow users to watch content at a faster speed which I think is great because not only take 3 hours to get through an Avengers movie which is wonderful"], [0.8962512612342834, " and I can't wait to watch 9 Years a Slave it's not as bad as anymore"], [0.9847491979598999, " it's not as bad"], [0.9510562419891357, " but this is a big move for Netflix and then responds HBO says they going to introduce a button that lets you completely skip the final season of Game of Thrones it's raining it's going to increase the experience you're laughing Netflix needs though I didn't introduce a with my parents button so you can push it and then it skipped all the sex scenes that you don't know the movie will just be like you ready yeah I'm ready for a good morning"], [0.9791263937950134, " today we learned new details about the raid that took out Isis leader al-baghdadi and some of the details were very intimate details of the death of the World's Most Wanted terrorists killed in Syria this weekend in the raid by us Commandos Muslim company told us his intelligence service had a top Isis informant passing information on to the Kurds which they passed to the CIA was not an easy target but the Spy was still able to collect Vital Information that informant had a piece of Daddy's underwear and US forces were able to use it to get a DNA sample to be ready to make a positive identification when Big Daddy died"], [0.8853984475135803, ' play Oh hellos they found albaghdady because an informant stole his underwear'], [0.9018667936325073, " I feel like the informant just had a weird underwear fetish and the Army walked in on him one day and he was like I'm spying for you yeah"], [0.9061536192893982, " also did you see how Big Daddy's house the United States does not mess around they'll kill you and destroy your entire house and get the security deposit back from the landlord don't want anymore but we vacuumed come and meet us halfway"], [0.9366560578346252, " finally there's a fun story from the World of Sports The Landmark advancement in professional sports the Flyers have open a rage room in Wells Fargo Arena at the place where fans can unleash their anger it allows fans to go in and just smash stuff inside the disassembly room at the first-ever rage room in professional sports get your rage out it's called hockey"], [0.8943668007850647, " I'm going to be kind of crazy concept but at least now we know how they destroyed albaghdady is house this is probably what it was"], [0.6361519694328308, ' still pissed'], [0.8382101655006409, ' Jacob Rutherford idea'], [0.9301357269287109, " friends of sports games in Philadelphia can go to your room and then smash things to release their Rage which is actually pretty cool except for the fan who's going to walk into the wrong room at the stadium"], [0.9031127691268921, " second on the left oh my bad my bad I'm I'm so sorry I will tell you this but this room wouldn't work if you let an African Uncle into the room yeah cuz then I'm going to smash anything uncle was just take stuff home with him be like I'm going to take that that I can take that has the weather for sure you have to destroy it okay I was just trying this TV by watching Netflix top story"], [0.9534948468208313, " impeachments it's democracies one-star Yelp review have been an avalanche of bombshell development since we last checked in on the impeachment inquiry American diplomats on Ukraine butala devastating testimony that Trump demanded a quid pro quo from Ukraine Andrew Giuliani Trump personal lawyer and man with bipolar cheat but then she left a voicemail talking about how he needed cash and of course on the big stories 41 House Republicans protested not being allowed to participate in closed-door hearing even though 13 of them are allowed to participate in the hearing which is ridiculous"], [0.9087461829185486, " storming the McDonald's that you work at the sex and you left me in your shift standing start an hour ago Jerry just walk in"], [0.908936083316803, " show me this is a definition of impeachment developments and today was no different so let's catch up on all the latest and I want doing segment the magical wonderful road to impeachment"], [0.8739451766014099, ' presidential harassment'], [0.9627469778060913, " the very beginning of Trumps Ukraine Scandal his Defenders have relied on one keeps walking point to muddy the waters none of the witnesses at actually heard the Ukraine call Phil have second hand information but none of them have actually heard the call Will today all of that change will testify to Congress today the first White House official on that phone call between President Trump and Ukraine's leader to sound the alarm has name is Lieutenant Colonel Alexander according to his opening statement obtained by ABC News Benjamin will tell investigators I did not think it was proper to demand that a foreign government investigate a US citizen and I was worried about the implications for the u.s. government support of Ukraine insisting it is my sacred Duty and honor to advance and defend our country irrespective of party or politics latest person to testify against Trump"], [0.9277148246765137, " is Colonel Alexander Benjamin which means two things one there was more and more evidence piling up against the president and to Trump has finally met the colonel he doesn't like"], [0.9357998371124268, " testimony is not good for Trump not only did he sound the alarm about what was happening with Ukraine but the guy is a decorated Iraq war veteran with a purple heart the only American with more impressive resume on Becky's daughter you know yeah she was killing it yo"], [0.9365208148956299, " Shakira truck Defender how are you going to argue that this guy isn't trustworthy instead of focusing on the more than two decades he served America you could focus on the way he's ran from the from the Soviet Union the emigrated here and has Infinity to the the Ukrainian people"], [0.9724491238594055, " the official who is advising Ukraine while working inside the White House apparently against the president's interest isn't that kind of an interesting angle on this story"], [0.9039708971977234, " find that astounding and in need of some people might call that Espionage the new angle on Fox is that America concert trust this purple heart recipient because he moved here from Ukraine now mind you he was 3 years old when he came to the US so he didn't move here he was moved here by his parents"], [0.9072703719139099, ' how to make it seem like he was like a double agent for Ukraine like what kind of baby spy Thriller you guys watching huh his little toddler was just out in these streets wrecking the ship is that what you think'], [0.9496245384216309, " the three older Russian spy you think it's planning Russian like on Ukraine was like I will join US military and then when time is right they will make up story about quid pro quo for Mother Russia excellent, that the baby and when your mission is complete you can watch extra episode of Peppa Pig"], [0.9713066816329956, " and it's not just Fox it's not this fox discrediting Colonel vement know Sean Duffy a former Republican Congressman was on CNN questioning where the Colonel's loyalties lie he is a former Ukrainian he wants to make sure the taxpayer money goes to military agent start why is it titled remember an American who was awarded the Purple Heart I still love the Irish and he has an affinity for his homeland an epic cell phone because in an effort to undermine Colonel venneman Sean Duffy over has just made it sound like he would sell out America to another country have an affinity for Ireland and if you get one potato and me there's no telling what I'll do"], [0.8303350210189819, ' job was make sense of this new twist in the Ukraine impeachment Saga we turn now to someone whose live at the White House our very own where would you and everybody'], [0.9317241907119751, " silver is a decorated war hero and yet Trump's Defenders are not just challenging his credibility but they're questioning his patriotism what is the sole mean people right do the straight out the Soviet Union look man I haven't seen all the James Bonds all the Jason Bourne movie several times and theaters by myself"], [0.9004160761833191, ' Eastern Europe is full of spots America when he was three'], [0.9521121382713318, " Graham and didn't even know it until one day I went to Popeye's and hurt my activation phrase sorry we're out of spicy but I blacked out and woke up"], [0.9543300867080688, " hook up 4 hours later covered in bruises and buffalo sauce the guy who was born in Ukraine but he's just one of many officials testifying the scroll was improper like Abu Taylor he's a Vietnam vet and a career Diplomat who has served over for administration's you don't trust Bill Taylor never trust anyone with two first names"], [0.9553043842315674, ' I went to school with a dude named Bobby Keith and he was shady as hell you know what he did he bought drugs from me'], [0.880985677242279, " wait what you sow drug that's not what we're talkin about right now the point is can a 2 first name snitch like Bill Taylor be trusted especially knowing he might let me sell them trucks"], [0.8994670510292053, " okay that's fine fine then what about John Bolton to be his National Security advisor even he thinks this whole thing is Shady John Bolton"], [0.977048397064209, " are you going to trust a man who won't even let us see his upper lip"], [0.9187365174293518, " Chrissie Hynde number that she wants to look both and don't even know what to look that if you can't see the lip you must acquit or whenever you have a signed picture of John Bolton actually don't even need Witnesses when you think about it we have the transcript of the Ukraine call itself I know what it says because I read it with my own eyes your eyes"], [0.9164811968803406, " no I was only good for Spartan to things apartheid in line so no I'm not going to trust your immigrant eyes over the word of President Donald Trump trump himself said he wants dirt on Joe Biden entrust Donald Trump"], [0.8142112493515015, ' you ever watch The Daily Show'], [0.9075007438659668, " okay so at least you trust this show why you can't trust this show the host has two first names and one of his correspondence so drugs"], [0.5715889930725098, ' show me'], [0.9360021948814392, " so we shouldn't trust Carnival Noble Taylor John Bolton Trump or ourselves if there's no truth to anything at all this is pointless then why do you insist that we fly you all the way to DC automakers this only Popeyes I'm not banned from I was good like I hope that I don't respect you work with you"], [0.962995707988739, " there's a piece of humanity I think where you're never satisfied like why isn't the Moon far enough we got to go to Mars now smart cheap presents Laird Hamilton world-renowned big wave surfer and co-founder of Laird superfood on the can-do spirit I think there's a human condition where we just always trying to push further and push the limit further and further if you love The Pursuit then you have to set yourself up to be in a Pursuit constantly and that means that the goal has to move just Out Of Reach so that way you're always in Pursuit and it's the the ride not the destination I believe that the essence of achieving is to always have something that you're pursuing express your can-do spirit with smartsheet the Enterprise platform that helps everyone achieve more"], [0.9186469316482544, " if you want talk about cheap men's try to do something that's making a difference in people's lives making people feel better that's the Pinnacle of accomplishments find out more at smartsheet.com"], [0.9557579159736633, " recommendation talk about fire it keeps us warm cook sour food it's how we show our appreciation for thirst traps in California right now fire is ruining people's lives in season affect across several areas of California tonight leaving hundreds of thousands of people this place before Sunrise fire exploded across the hills of Southern California in the mountains as a wall of flames tour into Hillside neighborhoods"], [0.9581562876701355, " of this Walk Alone several homes incinerated in Minute Miracle say firefighters everyone got out Ally the Kincaid fire the largest in the state doubling in size this weekend The Blaze now bigger than Boston at times the fire move so quickly it burn the area of a football field every 3 seconds if you're in a mandatory evacuation Zone and you're still there watching this you're an idiot get the hell out damned if I was probably looking at this dude like I thought I was doing the roasting wow"], [0.967636227607727, " what feels right I don't people want to fight some people always think about this in the disaster but people are fools to not evacuate in a moment like this and you might be thinking who doesn't want to escape a fire when disaster strikes people do some pretty weird things despite the terrifying conditions in one country does newlywed couple was given a picture perfect moment during their photo shoot I was thinking of American Gothic the 1930s painting that was the regular normal of American Life at the time and all of a sudden in a very strange way this has become our new normal okay that is a couple who while watching The Purge"], [0.9569695591926575, " and they may not have been in danger but there are people who think fire is the best time to stay at home by the best time to what people have to understand these fires are serious and firefighters need everybody out of the way so they can fight the fires especially know it's Halloween it makes it even worse that it's Halloween because of firefighters have to search through the smoke wondering if there's a victim over there or skeleton from Walgreens is just like what is that are you okay"], [0.7924633622169495, " plus it's the one year when everyone dresses up like firefighters which means going to be chaos thank God your God damn it"], [0.9635624289512634, " requires a dangerous and they're spreading all over California like Nature's version of Scientology and the state is doing everything it can to stop them on the ground and from the are more than 500 Personnel in a coordinated attack against the Flames throughout the morning playing known as the super scooper later dropping water with laser Precision know what I love about firefighters because their job is dangerous than with time to be pretentious with fancy names yeah that's a pole at the fire truck at the super scooper okay as simple as that I don't like scientist with two large ugly can come up with fantasy words with busy a hydrogen peroxide with just be cold fizzy fizzy"], [0.910507082939148, " what's particularly interesting about these fires"], [0.977077305316925, ' is even though hundreds of thousands of people have been displaced in California if you watch the news you would think that this disaster is only affecting VIPs firefighters desperately trying to keep Flames from burning'], [0.951776385307312, " expensive homes in Southern California homes of celebrities like NBA Store LeBron James $5000000 Cliffside home fire is dangerously close Kate Hudson was behind the wheel in This SUV evacuated also forced to flee Arnold Schwarzenegger if you are in an evacuation Zone don't screw around get out he tweeted okay actually I think the proper way to read that tweet is don't screw around get out"], [0.9633945822715759, ' get out now'], [0.9275431036949158, " I'm not going to lie I would be so confused if I was there and Arnold showed up to save me he be like come with me if you want to live"], [0.9488304853439331, " what is a thing like I watch this on the news all the time and I've spoken to people think this guy's it's not just celebrities were being displaced in fact they make up like nothing percent of the people who are losing their homes please remember the vast majority of the victims are real people not Terminators that so please if you want and can help them all you have to do is go to the link at the bottom of the screen and you can donate whatever you can we'll be right back"], [0.9664428234100342, " comedycentral has your new favorite podcast and it's called stand up with Chris DeStefano every week Chris and his producer will be listening to And discussing some of the greatest stand-up of all time from Classic Bits at a comedy Central's library to jokes from today's hottest up-and-coming comedians don't unpack their favorite jokes discuss the comedy scene call up other comedians in generally get into everything comedy subscribe and listen to new episodes of stand up with Chris DeStefano every Thursday wherever you listen to your podcasts"], [0.9345327019691467, ' what recommendation is a critically acclaimed independent rapper who recently founded no names book club and online and in-person Community featuring Progressive work from lgbtq office and writers of color please welcome no name'], [0.9581260681152344, " Play Welcome to the show the question that has been plaguing me the people in the building and like random people I speak to about the show your name your rap name no no name it confuses a lot of people because they see no name and then people be like wait who's the guest"], [0.9556335806846619, " and they be like when you get the guests name and I'm like that's no name and then like yeah but who's who's the name the name is me I am I am the name it's a really terrible name I couldn't think of anything clever like the baby or the stallion or whatever and I'm not sure who you are you an independent artist you know I've noticed like none of your clothing I've ever seen has any labels or anything on it is that like your Vibe you try not to promote any brand outside of myself because I know I know I'm not giving money to ice and other things that people find it's easier this way it's like animal"], [0.9356833100318909, " you compliment me I like these things okay I wonder if you ever going to have to be like the artist known as no name or like if you'd look like a bit of a like a sing the head of it you know the rapper known as no-name no-name that is completely unique you're an independent artist right before we go to the book let's talk about that has it become easier to become to be an independent artist in today's age of like SoundCloud and everything absolutely I think that's on my SoundCloud anymore but I think because of the internet because of social media it's a lot easier if you can figure out a way to like galvanized people in your in your local area and create a local fan bases try did extremely helpful but yeah you you can directly contact your your fan base and I think that's what helps"], [0.9364086389541626, " Mouse for me and what other reasons why yeah I think that's about it the book club right was it really organic beginning of a book club you use reading a book in this book called cooperation Jackson about like cooperatives specifically one in in in Jackson Mississippi and someone treating me like I'm book and then I was high and I just I possibly look like so yeah"], [0.928600549697876, ' I created a book club'], [0.9650623798370361, " thank you. I smoked a lot of weeks but no yeah so that's how it happened and I I like I kind of pulled it on my on my page will be into it and I thought that sweet I like 5,000 retweets and I was like okay well maybe maybe at least half of these people will follow the account thousands more Were You Like Rappers I feel like this is this is a beautiful Journey for you to be on because your mom has a history with books as well like a really intimate relationship with books right is it was called Afrocentric bookstore and so I spent a lot of my time and theirs is program in this Library call you media and I was able to start recording and then wrapping their butt but yeah I know she is kind of"], [0.9542418718338013, " why I'm I'm still doing it like it started as an Impulse but then as I was going there was so many other reasons to keep it going one thing that we're trying to do is incentivize people to shop locally so yes you can participate in the book club online but we really encourage our readers to shop at these POC owned bookstores that we that we have in so it's like it's a little bit of a few to Amazon and kind of you to like the FBI a little bit on some"], [0.9699904918670654, " you know what I mean we're not like I like you know Colin sopro they what they what they did to lie destroy black book stores in schitt's wipes for your back I mean there was there was a little like a wave and and like I guess the newness when it came to the bookstore ownership among African-Americans and like the 90s like that's what my mom opened every story that was wildly successful because my political rap was was really in and people are very conscious and everyone was like now it's like we're just going to order these things on Amazon which is cool but I think it's like it's important to be in the space you don't think that's something that you feel like crap me to get a little bit more off again it's just that I did like reading being cool"], [0.9574662446975708, " cuz we're like oh I read this and I read this and I know Eminem the rapper it was like nah I'm as well it's all in the head man I don't read and it feels like now maybe you you're not you're part of a generation is going like no no coming back to reading again I would even take a step further and be like it's not I would have specifically put it on the closer like I don't think it's rappers I think generally people are just not reading and I think specifically there's been communities that have been targeted when it comes to the lack thereof either book stores or schools that are actively like allowed on their kids to to compete and put it into the completely be literate I think most people in the communities that I am in and that I come from they don't really have a choice because of the way that they're surrounding Community is so that's when it comes to reading so yes it's kind of like you know rather than on us really promoting books but no one I think really is promoting books and Alexa"], [0.8834040760993958, ' yeah you got the book club and you got the rap going'], [0.9492714405059814, ' combination of all of this is you need to start rapping the books or wrapping the book club thing no'], [0.8954157829284668, ' once upon'], [0.9445217251777649, " and then that's all I remember from the book for now but I'll I'll work on that so we have different people I will do that yeah I will be the homie that picks thank you so much for being on the show"], [0.86944180727005, " where can I buy women's book club checkout no names book.com"], [0.9511844515800476, ' Daily Show with Trevor Noah ears edition of The Daily Show weeknights at 11:10 Central on Comedy Central and The Comedy Central app watch full episodes videos on Twitter and Instagram and subscribe to The Daily Show on YouTube for the exclusive content and more'], [0.9756155014038086, ' this is been a Comedy Central Podcast'], [0.9675229787826538, " hey what's up I'm Kristen Stefano AKA Christie podcast and I got a new podcast that's out right now it's cold to stand up with Chris DeStefano hashtag sucked I'm a stand-up and I like listening to stand up and have my producer going to call Chris absolutely She's a Lesbian, straight white male so it's great that's probably why I'm bringing you this podcast it's all about stand-up Comedy Central Library which lets me crystal freaking clear is the best library for pets discuss jokes talk about the comedy scene when you get your haircut Village Cuts on West I got to go there but only I know we just mentioned haircuts real quick but we're also going to talk about Santa and will write a joke about a haircut start face beautiful every Thursday wherever you listen here podcast"]]}
+{
+  "Stats": {
+    "PodcastID": "1334878780.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 1843.304478,
+    "OriginalFileSize": 73790494,
+    "FlacFileSize": 164354502,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 662.0440957546234,
+    "DownloadSuccessful": 26.264992237091064
+  },
+  "Transcripts": [
+    [
+      0.9693353772163391,
+      "you listening to Comedy Central"
+    ],
+    [
+      0.9694836735725403,
+      " October 29th 2019"
+    ],
+    [
+      0.8999759554862976,
+      " restart trolls World News headquarters in New York this is The Daily Show with Trevor Noah ears Edition"
+    ],
+    [
+      0.8798927068710327,
+      " what's the temperature today"
+    ],
+    [
+      0.886745810508728,
+      " just tonight, guess what I is a wrap-up and a poet who just started a new book club no name is joining us on the show everybody is going to be a great conversation"
+    ],
+    [
+      0.9412763714790344,
+      " also on tonight's show how to watch twice as many Netflix shows in half the time why your underwear could get you killed and there's a spy in the white house so let's catch up on today's headlines"
+    ],
+    [
+      0.9707821011543274,
+      " let's kick it off with Netflix streaming Giants and the murder of Blockbuster the streaming service is not revolutionising time some backlash Netflix is getting from Hollywood director so yesterday the streaming service said it plans to test a new feature to allow viewers to either speed up or slow down a movie on their smartphones while director Judd Apatow thinks it is a terrible idea he tweeted no Netflix no don't make me have to call every director and show crater on Earth to fight you on this Netflix released a statement saying we're always experimenting with new ways to help members use Netflix Netflix is launching a new feature that will allow users to watch content at a faster speed which I think is great because not only take 3 hours to get through an Avengers movie which is wonderful"
+    ],
+    [
+      0.8962512612342834,
+      " and I can't wait to watch 9 Years a Slave it's not as bad as anymore"
+    ],
+    [
+      0.9847491979598999,
+      " it's not as bad"
+    ],
+    [
+      0.9510562419891357,
+      " but this is a big move for Netflix and then responds HBO says they going to introduce a button that lets you completely skip the final season of Game of Thrones it's raining it's going to increase the experience you're laughing Netflix needs though I didn't introduce a with my parents button so you can push it and then it skipped all the sex scenes that you don't know the movie will just be like you ready yeah I'm ready for a good morning"
+    ],
+    [
+      0.9791263937950134,
+      " today we learned new details about the raid that took out Isis leader al-baghdadi and some of the details were very intimate details of the death of the World's Most Wanted terrorists killed in Syria this weekend in the raid by us Commandos Muslim company told us his intelligence service had a top Isis informant passing information on to the Kurds which they passed to the CIA was not an easy target but the Spy was still able to collect Vital Information that informant had a piece of Daddy's underwear and US forces were able to use it to get a DNA sample to be ready to make a positive identification when Big Daddy died"
+    ],
+    [
+      0.8853984475135803,
+      " play Oh hellos they found albaghdady because an informant stole his underwear"
+    ],
+    [
+      0.9018667936325073,
+      " I feel like the informant just had a weird underwear fetish and the Army walked in on him one day and he was like I'm spying for you yeah"
+    ],
+    [
+      0.9061536192893982,
+      " also did you see how Big Daddy's house the United States does not mess around they'll kill you and destroy your entire house and get the security deposit back from the landlord don't want anymore but we vacuumed come and meet us halfway"
+    ],
+    [
+      0.9366560578346252,
+      " finally there's a fun story from the World of Sports The Landmark advancement in professional sports the Flyers have open a rage room in Wells Fargo Arena at the place where fans can unleash their anger it allows fans to go in and just smash stuff inside the disassembly room at the first-ever rage room in professional sports get your rage out it's called hockey"
+    ],
+    [
+      0.8943668007850647,
+      " I'm going to be kind of crazy concept but at least now we know how they destroyed albaghdady is house this is probably what it was"
+    ],
+    [
+      0.6361519694328308,
+      " still pissed"
+    ],
+    [
+      0.8382101655006409,
+      " Jacob Rutherford idea"
+    ],
+    [
+      0.9301357269287109,
+      " friends of sports games in Philadelphia can go to your room and then smash things to release their Rage which is actually pretty cool except for the fan who's going to walk into the wrong room at the stadium"
+    ],
+    [
+      0.9031127691268921,
+      " second on the left oh my bad my bad I'm I'm so sorry I will tell you this but this room wouldn't work if you let an African Uncle into the room yeah cuz then I'm going to smash anything uncle was just take stuff home with him be like I'm going to take that that I can take that has the weather for sure you have to destroy it okay I was just trying this TV by watching Netflix top story"
+    ],
+    [
+      0.9534948468208313,
+      " impeachments it's democracies one-star Yelp review have been an avalanche of bombshell development since we last checked in on the impeachment inquiry American diplomats on Ukraine butala devastating testimony that Trump demanded a quid pro quo from Ukraine Andrew Giuliani Trump personal lawyer and man with bipolar cheat but then she left a voicemail talking about how he needed cash and of course on the big stories 41 House Republicans protested not being allowed to participate in closed-door hearing even though 13 of them are allowed to participate in the hearing which is ridiculous"
+    ],
+    [
+      0.9087461829185486,
+      " storming the McDonald's that you work at the sex and you left me in your shift standing start an hour ago Jerry just walk in"
+    ],
+    [
+      0.908936083316803,
+      " show me this is a definition of impeachment developments and today was no different so let's catch up on all the latest and I want doing segment the magical wonderful road to impeachment"
+    ],
+    [
+      0.8739451766014099,
+      " presidential harassment"
+    ],
+    [
+      0.9627469778060913,
+      " the very beginning of Trumps Ukraine Scandal his Defenders have relied on one keeps walking point to muddy the waters none of the witnesses at actually heard the Ukraine call Phil have second hand information but none of them have actually heard the call Will today all of that change will testify to Congress today the first White House official on that phone call between President Trump and Ukraine's leader to sound the alarm has name is Lieutenant Colonel Alexander according to his opening statement obtained by ABC News Benjamin will tell investigators I did not think it was proper to demand that a foreign government investigate a US citizen and I was worried about the implications for the u.s. government support of Ukraine insisting it is my sacred Duty and honor to advance and defend our country irrespective of party or politics latest person to testify against Trump"
+    ],
+    [
+      0.9277148246765137,
+      " is Colonel Alexander Benjamin which means two things one there was more and more evidence piling up against the president and to Trump has finally met the colonel he doesn't like"
+    ],
+    [
+      0.9357998371124268,
+      " testimony is not good for Trump not only did he sound the alarm about what was happening with Ukraine but the guy is a decorated Iraq war veteran with a purple heart the only American with more impressive resume on Becky's daughter you know yeah she was killing it yo"
+    ],
+    [
+      0.9365208148956299,
+      " Shakira truck Defender how are you going to argue that this guy isn't trustworthy instead of focusing on the more than two decades he served America you could focus on the way he's ran from the from the Soviet Union the emigrated here and has Infinity to the the Ukrainian people"
+    ],
+    [
+      0.9724491238594055,
+      " the official who is advising Ukraine while working inside the White House apparently against the president's interest isn't that kind of an interesting angle on this story"
+    ],
+    [
+      0.9039708971977234,
+      " find that astounding and in need of some people might call that Espionage the new angle on Fox is that America concert trust this purple heart recipient because he moved here from Ukraine now mind you he was 3 years old when he came to the US so he didn't move here he was moved here by his parents"
+    ],
+    [
+      0.9072703719139099,
+      " how to make it seem like he was like a double agent for Ukraine like what kind of baby spy Thriller you guys watching huh his little toddler was just out in these streets wrecking the ship is that what you think"
+    ],
+    [
+      0.9496245384216309,
+      " the three older Russian spy you think it's planning Russian like on Ukraine was like I will join US military and then when time is right they will make up story about quid pro quo for Mother Russia excellent, that the baby and when your mission is complete you can watch extra episode of Peppa Pig"
+    ],
+    [
+      0.9713066816329956,
+      " and it's not just Fox it's not this fox discrediting Colonel vement know Sean Duffy a former Republican Congressman was on CNN questioning where the Colonel's loyalties lie he is a former Ukrainian he wants to make sure the taxpayer money goes to military agent start why is it titled remember an American who was awarded the Purple Heart I still love the Irish and he has an affinity for his homeland an epic cell phone because in an effort to undermine Colonel venneman Sean Duffy over has just made it sound like he would sell out America to another country have an affinity for Ireland and if you get one potato and me there's no telling what I'll do"
+    ],
+    [
+      0.8303350210189819,
+      " job was make sense of this new twist in the Ukraine impeachment Saga we turn now to someone whose live at the White House our very own where would you and everybody"
+    ],
+    [
+      0.9317241907119751,
+      " silver is a decorated war hero and yet Trump's Defenders are not just challenging his credibility but they're questioning his patriotism what is the sole mean people right do the straight out the Soviet Union look man I haven't seen all the James Bonds all the Jason Bourne movie several times and theaters by myself"
+    ],
+    [
+      0.9004160761833191,
+      " Eastern Europe is full of spots America when he was three"
+    ],
+    [
+      0.9521121382713318,
+      " Graham and didn't even know it until one day I went to Popeye's and hurt my activation phrase sorry we're out of spicy but I blacked out and woke up"
+    ],
+    [
+      0.9543300867080688,
+      " hook up 4 hours later covered in bruises and buffalo sauce the guy who was born in Ukraine but he's just one of many officials testifying the scroll was improper like Abu Taylor he's a Vietnam vet and a career Diplomat who has served over for administration's you don't trust Bill Taylor never trust anyone with two first names"
+    ],
+    [
+      0.9553043842315674,
+      " I went to school with a dude named Bobby Keith and he was shady as hell you know what he did he bought drugs from me"
+    ],
+    [
+      0.880985677242279,
+      " wait what you sow drug that's not what we're talkin about right now the point is can a 2 first name snitch like Bill Taylor be trusted especially knowing he might let me sell them trucks"
+    ],
+    [
+      0.8994670510292053,
+      " okay that's fine fine then what about John Bolton to be his National Security advisor even he thinks this whole thing is Shady John Bolton"
+    ],
+    [
+      0.977048397064209,
+      " are you going to trust a man who won't even let us see his upper lip"
+    ],
+    [
+      0.9187365174293518,
+      " Chrissie Hynde number that she wants to look both and don't even know what to look that if you can't see the lip you must acquit or whenever you have a signed picture of John Bolton actually don't even need Witnesses when you think about it we have the transcript of the Ukraine call itself I know what it says because I read it with my own eyes your eyes"
+    ],
+    [
+      0.9164811968803406,
+      " no I was only good for Spartan to things apartheid in line so no I'm not going to trust your immigrant eyes over the word of President Donald Trump trump himself said he wants dirt on Joe Biden entrust Donald Trump"
+    ],
+    [
+      0.8142112493515015,
+      " you ever watch The Daily Show"
+    ],
+    [
+      0.9075007438659668,
+      " okay so at least you trust this show why you can't trust this show the host has two first names and one of his correspondence so drugs"
+    ],
+    [
+      0.5715889930725098,
+      " show me"
+    ],
+    [
+      0.9360021948814392,
+      " so we shouldn't trust Carnival Noble Taylor John Bolton Trump or ourselves if there's no truth to anything at all this is pointless then why do you insist that we fly you all the way to DC automakers this only Popeyes I'm not banned from I was good like I hope that I don't respect you work with you"
+    ],
+    [
+      0.962995707988739,
+      " there's a piece of humanity I think where you're never satisfied like why isn't the Moon far enough we got to go to Mars now smart cheap presents Laird Hamilton world-renowned big wave surfer and co-founder of Laird superfood on the can-do spirit I think there's a human condition where we just always trying to push further and push the limit further and further if you love The Pursuit then you have to set yourself up to be in a Pursuit constantly and that means that the goal has to move just Out Of Reach so that way you're always in Pursuit and it's the the ride not the destination I believe that the essence of achieving is to always have something that you're pursuing express your can-do spirit with smartsheet the Enterprise platform that helps everyone achieve more"
+    ],
+    [
+      0.9186469316482544,
+      " if you want talk about cheap men's try to do something that's making a difference in people's lives making people feel better that's the Pinnacle of accomplishments find out more at smartsheet.com"
+    ],
+    [
+      0.9557579159736633,
+      " recommendation talk about fire it keeps us warm cook sour food it's how we show our appreciation for thirst traps in California right now fire is ruining people's lives in season affect across several areas of California tonight leaving hundreds of thousands of people this place before Sunrise fire exploded across the hills of Southern California in the mountains as a wall of flames tour into Hillside neighborhoods"
+    ],
+    [
+      0.9581562876701355,
+      " of this Walk Alone several homes incinerated in Minute Miracle say firefighters everyone got out Ally the Kincaid fire the largest in the state doubling in size this weekend The Blaze now bigger than Boston at times the fire move so quickly it burn the area of a football field every 3 seconds if you're in a mandatory evacuation Zone and you're still there watching this you're an idiot get the hell out damned if I was probably looking at this dude like I thought I was doing the roasting wow"
+    ],
+    [
+      0.967636227607727,
+      " what feels right I don't people want to fight some people always think about this in the disaster but people are fools to not evacuate in a moment like this and you might be thinking who doesn't want to escape a fire when disaster strikes people do some pretty weird things despite the terrifying conditions in one country does newlywed couple was given a picture perfect moment during their photo shoot I was thinking of American Gothic the 1930s painting that was the regular normal of American Life at the time and all of a sudden in a very strange way this has become our new normal okay that is a couple who while watching The Purge"
+    ],
+    [
+      0.9569695591926575,
+      " and they may not have been in danger but there are people who think fire is the best time to stay at home by the best time to what people have to understand these fires are serious and firefighters need everybody out of the way so they can fight the fires especially know it's Halloween it makes it even worse that it's Halloween because of firefighters have to search through the smoke wondering if there's a victim over there or skeleton from Walgreens is just like what is that are you okay"
+    ],
+    [
+      0.7924633622169495,
+      " plus it's the one year when everyone dresses up like firefighters which means going to be chaos thank God your God damn it"
+    ],
+    [
+      0.9635624289512634,
+      " requires a dangerous and they're spreading all over California like Nature's version of Scientology and the state is doing everything it can to stop them on the ground and from the are more than 500 Personnel in a coordinated attack against the Flames throughout the morning playing known as the super scooper later dropping water with laser Precision know what I love about firefighters because their job is dangerous than with time to be pretentious with fancy names yeah that's a pole at the fire truck at the super scooper okay as simple as that I don't like scientist with two large ugly can come up with fantasy words with busy a hydrogen peroxide with just be cold fizzy fizzy"
+    ],
+    [
+      0.910507082939148,
+      " what's particularly interesting about these fires"
+    ],
+    [
+      0.977077305316925,
+      " is even though hundreds of thousands of people have been displaced in California if you watch the news you would think that this disaster is only affecting VIPs firefighters desperately trying to keep Flames from burning"
+    ],
+    [
+      0.951776385307312,
+      " expensive homes in Southern California homes of celebrities like NBA Store LeBron James $5000000 Cliffside home fire is dangerously close Kate Hudson was behind the wheel in This SUV evacuated also forced to flee Arnold Schwarzenegger if you are in an evacuation Zone don't screw around get out he tweeted okay actually I think the proper way to read that tweet is don't screw around get out"
+    ],
+    [
+      0.9633945822715759,
+      " get out now"
+    ],
+    [
+      0.9275431036949158,
+      " I'm not going to lie I would be so confused if I was there and Arnold showed up to save me he be like come with me if you want to live"
+    ],
+    [
+      0.9488304853439331,
+      " what is a thing like I watch this on the news all the time and I've spoken to people think this guy's it's not just celebrities were being displaced in fact they make up like nothing percent of the people who are losing their homes please remember the vast majority of the victims are real people not Terminators that so please if you want and can help them all you have to do is go to the link at the bottom of the screen and you can donate whatever you can we'll be right back"
+    ],
+    [
+      0.9664428234100342,
+      " comedycentral has your new favorite podcast and it's called stand up with Chris DeStefano every week Chris and his producer will be listening to And discussing some of the greatest stand-up of all time from Classic Bits at a comedy Central's library to jokes from today's hottest up-and-coming comedians don't unpack their favorite jokes discuss the comedy scene call up other comedians in generally get into everything comedy subscribe and listen to new episodes of stand up with Chris DeStefano every Thursday wherever you listen to your podcasts"
+    ],
+    [
+      0.9345327019691467,
+      " what recommendation is a critically acclaimed independent rapper who recently founded no names book club and online and in-person Community featuring Progressive work from lgbtq office and writers of color please welcome no name"
+    ],
+    [
+      0.9581260681152344,
+      " Play Welcome to the show the question that has been plaguing me the people in the building and like random people I speak to about the show your name your rap name no no name it confuses a lot of people because they see no name and then people be like wait who's the guest"
+    ],
+    [
+      0.9556335806846619,
+      " and they be like when you get the guests name and I'm like that's no name and then like yeah but who's who's the name the name is me I am I am the name it's a really terrible name I couldn't think of anything clever like the baby or the stallion or whatever and I'm not sure who you are you an independent artist you know I've noticed like none of your clothing I've ever seen has any labels or anything on it is that like your Vibe you try not to promote any brand outside of myself because I know I know I'm not giving money to ice and other things that people find it's easier this way it's like animal"
+    ],
+    [
+      0.9356833100318909,
+      " you compliment me I like these things okay I wonder if you ever going to have to be like the artist known as no name or like if you'd look like a bit of a like a sing the head of it you know the rapper known as no-name no-name that is completely unique you're an independent artist right before we go to the book let's talk about that has it become easier to become to be an independent artist in today's age of like SoundCloud and everything absolutely I think that's on my SoundCloud anymore but I think because of the internet because of social media it's a lot easier if you can figure out a way to like galvanized people in your in your local area and create a local fan bases try did extremely helpful but yeah you you can directly contact your your fan base and I think that's what helps"
+    ],
+    [
+      0.9364086389541626,
+      " Mouse for me and what other reasons why yeah I think that's about it the book club right was it really organic beginning of a book club you use reading a book in this book called cooperation Jackson about like cooperatives specifically one in in in Jackson Mississippi and someone treating me like I'm book and then I was high and I just I possibly look like so yeah"
+    ],
+    [
+      0.928600549697876,
+      " I created a book club"
+    ],
+    [
+      0.9650623798370361,
+      " thank you. I smoked a lot of weeks but no yeah so that's how it happened and I I like I kind of pulled it on my on my page will be into it and I thought that sweet I like 5,000 retweets and I was like okay well maybe maybe at least half of these people will follow the account thousands more Were You Like Rappers I feel like this is this is a beautiful Journey for you to be on because your mom has a history with books as well like a really intimate relationship with books right is it was called Afrocentric bookstore and so I spent a lot of my time and theirs is program in this Library call you media and I was able to start recording and then wrapping their butt but yeah I know she is kind of"
+    ],
+    [
+      0.9542418718338013,
+      " why I'm I'm still doing it like it started as an Impulse but then as I was going there was so many other reasons to keep it going one thing that we're trying to do is incentivize people to shop locally so yes you can participate in the book club online but we really encourage our readers to shop at these POC owned bookstores that we that we have in so it's like it's a little bit of a few to Amazon and kind of you to like the FBI a little bit on some"
+    ],
+    [
+      0.9699904918670654,
+      " you know what I mean we're not like I like you know Colin sopro they what they what they did to lie destroy black book stores in schitt's wipes for your back I mean there was there was a little like a wave and and like I guess the newness when it came to the bookstore ownership among African-Americans and like the 90s like that's what my mom opened every story that was wildly successful because my political rap was was really in and people are very conscious and everyone was like now it's like we're just going to order these things on Amazon which is cool but I think it's like it's important to be in the space you don't think that's something that you feel like crap me to get a little bit more off again it's just that I did like reading being cool"
+    ],
+    [
+      0.9574662446975708,
+      " cuz we're like oh I read this and I read this and I know Eminem the rapper it was like nah I'm as well it's all in the head man I don't read and it feels like now maybe you you're not you're part of a generation is going like no no coming back to reading again I would even take a step further and be like it's not I would have specifically put it on the closer like I don't think it's rappers I think generally people are just not reading and I think specifically there's been communities that have been targeted when it comes to the lack thereof either book stores or schools that are actively like allowed on their kids to to compete and put it into the completely be literate I think most people in the communities that I am in and that I come from they don't really have a choice because of the way that they're surrounding Community is so that's when it comes to reading so yes it's kind of like you know rather than on us really promoting books but no one I think really is promoting books and Alexa"
+    ],
+    [
+      0.8834040760993958,
+      " yeah you got the book club and you got the rap going"
+    ],
+    [
+      0.9492714405059814,
+      " combination of all of this is you need to start rapping the books or wrapping the book club thing no"
+    ],
+    [
+      0.8954157829284668,
+      " once upon"
+    ],
+    [
+      0.9445217251777649,
+      " and then that's all I remember from the book for now but I'll I'll work on that so we have different people I will do that yeah I will be the homie that picks thank you so much for being on the show"
+    ],
+    [
+      0.86944180727005,
+      " where can I buy women's book club checkout no names book.com"
+    ],
+    [
+      0.9511844515800476,
+      " Daily Show with Trevor Noah ears edition of The Daily Show weeknights at 11:10 Central on Comedy Central and The Comedy Central app watch full episodes videos on Twitter and Instagram and subscribe to The Daily Show on YouTube for the exclusive content and more"
+    ],
+    [
+      0.9756155014038086,
+      " this is been a Comedy Central Podcast"
+    ],
+    [
+      0.9675229787826538,
+      " hey what's up I'm Kristen Stefano AKA Christie podcast and I got a new podcast that's out right now it's cold to stand up with Chris DeStefano hashtag sucked I'm a stand-up and I like listening to stand up and have my producer going to call Chris absolutely She's a Lesbian, straight white male so it's great that's probably why I'm bringing you this podcast it's all about stand-up Comedy Central Library which lets me crystal freaking clear is the best library for pets discuss jokes talk about the comedy scene when you get your haircut Village Cuts on West I got to go there but only I know we just mentioned haircuts real quick but we're also going to talk about Santa and will write a joke about a haircut start face beautiful every Thursday wherever you listen here podcast"
+    ]
+  ]
+}
