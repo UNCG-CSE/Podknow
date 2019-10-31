@@ -28,6 +28,20 @@ My second task included the gathering of the top 10 occurrences of certain bigra
 
 **Jamie Weathers**
 Tasks: 
+Transcript Collector Application
+Approx 20 hours
+-The Collector app is vital for outputting valuable data points for the project.
+-Many hours spent debugging and figuring out how to overcome limitations, ie. Among many issues, using pydub to convert an audio file results in memory overflow, so calling an external application such as ffmpeg to handle it received no errors
+-This includes the time it takes to transcribe podcasts, the length of each podcast, the download status, file sizes before and after conversion of audio formats, and confidence scores. 
+-These points are important because from a business perspective it would allow us to project and predict how much time and money is being spent on certain tasks.
+
+Confidence Score Analysis
+Approx 6 hours
+-An attempt was made to find an explanation for why confidence scores were higher than others.
+-First clue was that I noticed many shorter phrases had a lower confidence score in the data output.
+-Taking the mean of the confidence scores for each podcast and plotting them along side the length of the audio file demonstrated little relation.
+-Breaking the transcripts down further and introducing a word count for each transcript with their associated confidence score produced better results.
+-When this was graphed, a clear exponential relation was evident.
 
 **Christopher Edgecombe**
 Tasks: 
