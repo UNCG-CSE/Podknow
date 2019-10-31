@@ -1,0 +1,54 @@
+{
+  "Stats": {
+    "PodcastID": "1465334342.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 342.543625,
+    "OriginalFileSize": 6330000,
+    "FlacFileSize": 13896936,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 146.33260846138,
+    "DownloadSuccessful": 1
+  },
+  "Transcripts": [
+    [
+      0.9729896187782288,
+      "every day hundreds of thousands of people in the US have to make decisions about their health treating diseases managing pain it can be scary and a can be life-changing but what happens if you're offered a supposed miracle cure and you end up worse off than before in wonder he's doctor death you heard about 33 patients in Texas who went in for surgery and had their lives forever changed by an incompetent doctor host and reporter Laura Beil broke that story open and now she's reporting on another important story stem cell therapy and a bad batch that gave a group of patients disastrous results"
+    ],
+    [
+      0.9400039315223694,
+      "bad batch will investigate the multimillion-dollar under regulated industry of stem cell therapy for corporate greed and patient desperation Collide it's an industry that claims to treat pain autoimmune diseases infections and even autism it's a cautionary tale and an important lesson you're about to hear a preview of bad batch while you're listening go subscribe to bad batch on Apple podcast Spotify or wherever you're listening now there's also a link in the episode notes that will take you there"
+    ],
+    [
+      0.9622164368629456,
+      "in the fall of 2015 John Kasich Sharon's mother called him with some worrying news well you know my mom my mom calls me with you what happened to me today I'm not feeling well and so is she send me pictures of her hand and she said all you know I burn today I burnt my hand and it's really bad dad will the gate on their Farm in Wisconsin she was holding that gate and he dropped a glove the glass fell into a pile of leaves the hold the torch up and away from the ground as he leaned over to pick up the glove wouldn't take but just a flash in in proximity and it's going to burn it almost to the Bone and bandaged the wound herself at the time she didn't sound overly concerned"
+    ],
+    [
+      0.9398800730705261,
+      "Anna first John wasn't worried either he grew up on the farm and he knows it injuries are just a part of life in the country but over the next few days Lois started texting her son the photos I still have the entire series of pictures it's crazy and the pictures literally went from it look like wrinkled skin to the skin got blisters to the skin came off"
+    ],
+    [
+      0.9686071872711182,
+      " until it you know it was really looking like the first three four five layers of skin had come off its painful a constant searing pain that won't go away finally his mom went to see a burn specialist and then burn doctor at Madison was saying you're probably going to lose his hand because his dad is it is there is no way you're going to be able to keep infection out there then John had an idea a few years earlier Johnna tried a new kind of treatment to help healing knee injury I didn't work great for him so we thought maybe Louis should try it for her hand she was willing to give it a go you get so desperate you'll do anything at any cost to try to live John Lewis mother to California he brought her to a clinic where she was hooked up to an IV and given stem cells"
+    ],
+    [
+      0.9533076286315918,
+      " and just like that her hand started to get better and not just her hand should had arthritis for years but after the stem cell treatments that started to get better to take a medication she stopped taking pain pills she was able to walk she had a garden she had we know watch the grandkids"
+    ],
+    [
+      0.9691129326820374,
+      " she can answer her phone and type on the smartphone across the country in Texas Elaine Dilly tried to help her mother with stem cells just like John had done my husband and I would do anything to help her she would not be so lucky the doctor came in and he tell me that we've got to airlifter her kidneys are shutting down six and have a heart attack and I'm just kind of stunned were you afraid that you were going to lose her I knew I was going to lose her John and Elaine would both do anything for their mothers they both Place their hopes in the promise of a miracle cure"
+    ],
+    [
+      0.9656475186347961,
+      " but that's not the only way they would come to be connected I'm going to say that wherever there's opportunity there's greed and wherever there's money there's greed greed gets involved bad things happen anymore earlier that you preferred not to use your name in this podcast"
+    ],
+    [
+      0.9809958338737488,
+      " can you tell me why"
+    ],
+    [
+      0.9058417677879333,
+      " that was just a preview of bad batch to listen to the rest subscribe to bad batch on Apple podcasts Spotify or wherever your listing right now"
+    ]
+  ]
+}
