@@ -1,1 +1,1262 @@
-{'Stats': {'PodcastID': '275699983.mp3', 'DownloadTime': 1, 'AudioLength': 3228.05551, 'OriginalFileSize': 77358066, 'FlacFileSize': 271699046, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 1021.9445066452026, 'DownloadSuccessful': '84.27553081512451'}, 'Transcripts': [[0.9702836871147156, "3.8 million kids in the US don't have a music teacher the music box is putting one in your pocket from Louisville Public Media and PR ex the music box is a podcast specifically created for classrooms and families to learn music together hosted by musician and educator Jacory Arthur season 2 covers musical elements like beat Rhythm pitch and Timbre separate episodes cater to three different grade levels for each topic and on music box pod. Org you'll find a general music resource Hub complete with interactive podcast printable lesson plans and more check out season 2 of the music box out now in the 1970s and 80s dozens of women went to an Indianapolis Fertility clinic in the hopes of getting pregnant the doctor said he could help but what happened in his office wasn't what the women had signed up for decades later their children uncovered the doctors terrible secret sick is a podcast about what goes wrong in the place is meant to keep us healthy and season 1 reporters Lauren Davis and Jake Harper take"], [0.9711817502975464, "hard look at the fertility industry a doctor's abuse of power the generations of lives he affected new episodes out Tuesdays starting October 15th subscribe wherever you get your podcast has a mom story ever opened your heart or made you see the world in a new and different way if the answer is yes then we invite you to join the moth Hall of Fame by making a monthly sustaining gift of $1 3 dollars $5 or more to join simply text flame to 41444 and thinks you'll be invited to the digital porch and online Forum where you can chat with storytellers staff and other ma supporters please text claim to 41444 to join the Hall of Fame and help sustain the moth with your monthly gift today"], [0.9296732544898987, "from PRX this is The Moth Radio Hour I'm egg bowls and in this hour will have three stories that will take us from an Uptown neighborhood in Chicago to the Navajo Nation and then across the ocean to behind the scenes of the Tour de France"], [0.9230570197105408, ' our first ride comes from Shannon Cason he told him at the Historic Site irion theater in New Bedford Massachusetts hear Shannon Cason live at the mall'], [0.9301021695137024, ' we were coming down the stairs when they were coming in a new family have moved into the 3 flat building we lived in in Chicago'], [0.9416765570640564, " there are moving into the basement apartment which is really small for a family I stopped talk to the husband my wife talked to the wife and our two year old daughter's introduce themselves on the porch they had a two-year-old and we had a two-year-old me and the father smile looking at a little girls kids have to do some cells by what they have like this is Midol with this is my bear"], [0.9408259987831116, ' the father said that they were moving from the shelter down the street and happy to have a place to call home I told him I know how it is man if you need anything just give a knock upstairs anything we love and it went inside'], [0.9876289963722229, ' the very next day I get a knock at the door'], [0.9553260803222656, " it's the father he's asking for money for train fare to go downtown I told him it's no problem I'm headed downtown myself to go to work we can just walk together I swipe you through"], [0.8885828852653503, " we walk down the sidewalk and it's a long line of three flat buildings like ours and across the street has his big apartment building"], [0.9334767460823059, ' the Uptown neighborhood in Chicago superdude versus Asians Africans Europeans and Americans all of us you can get Starbucks coffee from one building a fifth of Henny from the next building or Mexican food thai food Ethiopian food on some Flamin Hot Cheetos all on your way to the train'], [0.8417689800262451, ' the song with walking on has this'], [0.9366881251335144, " big shelter with a big church with a shelter in the basement and then it's the corner store in his guys who hang outside at the corner there's been some shootings at the corner guys on the corner"], [0.9746512174606323, " they sell drugs on the corners is gangs in Chicago if you hadn't heard I don't know"], [0.9424933791160583, " I'm from Detroit so I'm not clueless I know like if you not from a certain area is best just to keep your eyes open but going scene they ignore me I ain't got nothing to do with what they doing is none of my business I was a little concerned that my new neighbor new or the guys on the corner really well"], [0.7801003456115723, ' but we talked on the train last he was a cool guy his name is Jesse'], [0.9631847739219666, " so one night I get a knock at the door is after midnight my wife works late she wasn't home it was the mother from downstairs she was asking to borrow $20 with some baby diapers"], [0.9113620519638062, " first off it's after midnight baby should be sleeping the store is closed the other thing I guess you forgot that we have a two-year-old to so when I gave her a few baby diapers to make it through the night she look disappointed"], [0.7848103046417236, ' baby suspicious'], [0.9534138441085815, " doesn't matter get another knock at the door after midnight and my wife went home it was the mother and she had her daughter in our arms and she just passes our daughter over to me and she says it's an emergency she's in a frantic and says if you could just watch her for the night and I got her daughter in my arms and she didn't wait wait for an answer she just leaves"], [0.9165814518928528, ' I go to the window and I could see the mother get in the car with this guy who was in Jesse and drive off'], [0.9560645222663879, " I knew it was drugs. Which I knew was crack meth something nothing you ain't that type of that early in the morning or late at night unless it's drugs or the pursuit of some drugs the thing is like I have a heart towards people with addictions I got some of my own is not drugs but I'm not a stranger to community rec rooms in church basements myself"], [0.9453004598617554, ' in the morning my wife Cindy she makes breakfast for everybody in the girls they play in the living room and my daughter Zoe she brought every toy she ever got into the living room you know kids are like show-offs you know'], [0.8689274787902832, ' how tall is Zoe which toy you going to let Ashley have his old give me that look like what'], [0.927642285823822, " but Zoe is generous she give her this dial better than I expected this is little doll with a bonnet and pigtails coming out of the Bonnet my wife Cindy she calls Ashley's mom and tell her that we'll just keep the girls another night because it just having the girls are having fun and that evening is share the bed and I'll talk them into the Dora the Explorer covers"], [0.9277132153511047, " so one night I'm coming home from work from the train and I passed by the corner store in the corners are empty is kind of nice like a regular neighborhood I passed by the big church with the Shelf in the basement the big apartment building across the street I get to my place"], [0.9585455656051636, ' and all the guys who would normally be at the corner sitting on my porch smoking with Jesse'], [0.967284619808197, " I just stood there for a sec I can't ignore it now and I ain't got nothing against a little puff puff pass but not on my porch the thing is is like I grew up first neighborhoods in this Uptown Chicago neighborhood this is nice this is great. I was at work my ass off to get to this point in life I'll be damned my family grew up around the same drugs and violence that I saw growing up this at a distance at the corner but not on my porch"], [0.9092952013015747, " but I don't see anything I just do inside"], [0.9598227143287659, " they have been smoking in the basement apartment and it was seeping up into our place and my wife she is in as a passive s me she went straight downstairs banged on the door like the police so y'all got to stop smoking down here my daughter in the house Kaufman they just went outside to the porch I went downstairs to talk to Jesse I'm like what's up man he just shook his head I'm like how many people you got a living down here now he said it was just them but the guys from the corner will come in and out but they hard to get rid of it like"], [0.9128477573394775, " I told him are y'all going to have a tough time there cuz my wife hates roaches"], [0.9235792756080627, " Cindy I saw some guys from the corner selling drugs in front of our house and she yelled out the window to him if I see it again I'm going to call the police"], [0.9443525075912476, " she told me when I got home from work like baby you can't just go yelling out the window to a bunch of drug dealers and gang members that you will call the police if they get caught Julio point it you smarter than that baby she was just frustrated"], [0.9771235585212708, ' Cindy saw some guys selling drugs again and she told me she was going to call the police'], [0.7368035912513733, ' a stop'], [0.6906601786613464, ' Ian call the police'], [0.935045063495636, " I grew up in Detroit in the 80s crack their I got this program and in my mind you don't call the police versus a distrust of the police actually doing something to help the situation and other thing is like retaliation from the people that you're telling on snitches get stitches"], [0.9916466474533081, ' but then I thought about that little girl'], [0.9404678344726562, ' Northern men coming out of this small basement apartment in the days look on her face when I see her'], [0.9526341557502747, " how was she stayed with us she didn't want to go home"], [0.931014895439148, " I got to confront this stupid way of thinking I just can't ignore it"], [0.9459325075149536, " so another night I get a knock at the door after midnight I'm frustrated now it's the mother or father from downstairs I open the door and it's the police they tell me to go back inside lock the door I can see them all in the little foyer in their vesting here and one of the officers has a battering ram I go back inside"], [0.9511368870735168, " I can hear a bust down the door boom I can hear wrestling a scuffling Down Below I hear the police yelling and cussing I go in to check on my daughter cuz my wife wasn't home and she was still sleep she didn't even know anything was happening but I can hear the guys from the corner downstairs screaming at the police and then it just goes silent"], [0.9442982077598572, ' I go to the window and I can see the police car and all the guys from the corner out to a wagon and then I see the family Jesse his wife and Ashley'], [0.8751980662345886, " one of the officers is Karen Ashley and she's in her pink pajamas against his dark blues and black and she has that little daughter Zoe gave her with the body and in the pigtails"], [0.9830767512321472, ' and I want to go out'], [0.9512718915939331, " until the officer that we could just keep Ashley until all this is taken care of but I don't want to go out in the officer think I'm with everybody else we all look the same to the police I go"], [0.9560958743095398, " and now I'm arrested in my daughter is in some officers arms is best for me just to stay where I am"], [0.987254798412323, ' none of my business'], [0.8893730640411377, ' for the next few days the corners and no smoking or apartment no people sitting on our porch'], [0.7801463603973389, ' good bye week after that same guys on the corner'], [0.8001970648765564, " don't say anything to me"], [0.9117404222488403, " I ignored him and ignore me we live in two different worlds least we've it sounds good but I don't know if that's true"], [0.9823611378669739, ' I get to my place'], [0.9101729989051819, " and I can hear the landlord downstairs so I go down there and see if he go discount my rent for all this stuff we've been putting up with"], [0.9426756501197815, " and I'm shocked to see the landlord with the family Jesse his wife and Ashley"], [0.7737727761268616, " me and Jesse talk on the porch while daughter's play"], [0.8251030445098877, " Jesse said you didn't have to call the police man"], [0.7798944711685181, " that's only my dick"], [0.9730571508407593, ' and I did'], [0.742362916469574, ' call the police'], [0.8938711881637573, " I can't be a part of putting more black men in prison as stupid as that may sound the song but I don't call the police"], [0.9114381074905396, ' but I told him I said I did something bad cuz you need help'], [0.6954854130744934, ' he nodded'], [0.9040102362632751, ' he said they had the mood and pay rent for like a year'], [0.9198832511901855, " I asked him what he was going to do he didn't know he has if we can keep Ashley just till he got his self together I wanted to say yeah but we can't just take the little girl I mean we struggling to make it ourselves it don't work like that"], [0.9369902014732361, ' we looked at a little girls playing on the porch'], [0.9537115097045898, ' I looked him in the eyes'], [0.9133087992668152, ' I said man whatever it takes take care of that little girl'], [0.9775382280349731, ' whatever it takes'], [0.9000833630561829, ' I gave you my number'], [0.9480661749839783, ' I said if you need anyting'], [0.9876290559768677, ' give me a call'], [0.6485602259635925, ' anyting'], [0.9831565022468567, ' thank you'], [0.9592186808586121, " Shannon Cason has never heard from Jesse again but he says even though addiction can be a powerful and debilitating thing he wants to believe that in Jesse's case addiction didn't win he could see in his eyes how much he loved his daughter"], [0.9302675724029541, ' you can hear more of Shannon stories by checking out his podcast Shannon Cassens homemade stories that he produces with WBEZ in Chicago coming up artist Melanie Yazzie share stories from a childhood spent on the Navajo Nation when The Moth Radio Hour continues'], [0.9706804752349854, " The Moth Radio Hour is produced by Atlantic public media in Woods Hole Massachusetts and presented by PRX Hood Cancer Center designed to deliver the best possible care to even more patients with cancer and blood disorders with dedicated play spaces for kids and teens positive pressure ventilation that keeps every room cleaner to prevent infections and physical and occupational therapy on the same floor the center lets kids be kids to promote better recovery Stanford Children's Health Access to Excellence at Stanford Children's. Org each year people can't wait for Sam Adams to brew their very first batch of Sam Adams Octoberfest neither can we Sam Adams Octoberfest is everything you love about fall in one step with its unique blend of caramel roasted malts it's sweet smooth and delicious Savory this season with a fall favorite Sam Adams Octoberfest Boston Beer Company Boston Mass Save a responsible"], [0.9634567499160767, " this is The Moth Radio Hour from PRX I'm Nick Foles the most produces main stage events across the country and we make a point of inviting people from the local communities to take the stage and share their stories I'm at our next Storyteller Melanie Yazzie when I was directing a main stage in Boulder Colorado and when Melanie took the stage that night she was adorned and all this incredible turquoise and silver jewelry and she had a beautiful Quiet Energy that completely transfixed the audience you could literally hear a pin drop here's Melanie Yazzie night at the month"], [0.9623804092407227, ' when I was little I grew up on the Navajo reservation and my parents were Educators they taught Headstart and because they both were working I spent a lot of time with my grandparents'], [0.9696909785270691, " they lived in a very virile area and these were my mom's parents"], [0.9549422264099121, " we would be out in the middle of nowhere that you were dirt roads and this is the time. When some people had cars but a lot of people still had wagons and horses and that's how they got around"], [0.979339063167572, ' I remember waking up early in the morning and hearing my grandfather pumping the kerosene lamps to get them started'], [0.9356395602226257, ' is there is no electricity and I would smell bacon and eggs and my grandmother would be making'], [0.927137017250061, ' tortillas and potatoes for us to eat my grandfather would be getting ready to go take the Sheep out'], [0.9407074451446533, ' and I remember just thinking this is a really beautiful time and'], [0.9876289963722229, ' we would have breakfast together'], [0.9593491554260254, ' this cold air would come in in the morning and we would be just being with each other my grandfather would go out to the Corral and'], [0.9685259461402893, " I would done help my my grandmother mix milk for the lamps and we would mix up this milk and put them in these large containers of coke and 7UP and put the nipples on to go out to the Corral and feed the Lambs and I also remember part of my job was to siphon out the water cuz we didn't have running water and I would take that hose and siphon out water for the dogs and our dog dish was a tire that my grandfather cut in half and we put the food in there and all the dogs would come running and they always had really weird names I was trying to remember some of the names like mop bucket and Daisy boots what's your name"], [0.9633439779281616, " those were really their names it was really strange but they'd all come and eat out of this this trough and after that then we would go inside and in the one room where we all slept there was a bad where my grandma and grandpa slept like a queen bed and they would we fix that and then my uncle's one of my uncles bags was off the side was a twin bed and all of that the rest of us slept on mattresses and cushions on the floor so we would get all those cushions together and fold them up and put them against the wall to to get this face cleaned up and this room that we slept in all together was then transformed into"], [0.9651691913604736, " my grandmother Studio she is a traditional Navajo Weaver and we would get that space ready there were two windows on either side of the room and the light would be coming in in the morning and in between the two windows with her Loom and I remember we used to sew these flowers that's together to make these like by sheets that would go over the loom and the rug to keep it clean and then we would lay out the cushions in front of the Loom for my grandmother and a sheepskin for me to sit with her because my job was to be with her and be her companion and help her and she would be carding wool or spinning and there were times when she would make the yarn into these balls and part of my job was to stand there with my hands out"], [0.9308637380599976, ' and she would wrap the yarn around my hands'], [0.9636659026145935, " and you know I get tired of the kid and I would just bend over and lay on my back and transfer the yard over to my feet every laying on my back and I feel like touching her skirt and just smelling my grandmother and like often people would ask me like it would remind you of your grandmother and I said you know it's been gay I smell that because she's always saying she ate that she would wear that and I just like every time I would smell it I would think of her and joy be with her and she would be talking with me and as my feet were in the air she would pet my feet and say beautiful things to me and just encourage me to be a good person"], [0.9700490236282349, " one day we were driving to off the reservation and it's like an hour to get to a town from home and we get there and I remember being really little and all the adults were talking in the car dealership and"], [0.9532615542411804, ' I looked over and they were traveling and rolling out this rug across the hood of the truck and my grandmother'], [0.925523579120636, ' was there talking with a car dealer man and'], [0.9458525776863098, " you know they were going on and I was just you know you're supposed to be good and sit there so we're later driving back home in a brand new truck"], [0.9382913708686829, ' remember my grandpa leaving leaning towards me and say see how important her weaving is'], [0.9716725945472717, ' she supported us in many ways and it was really beautiful'], [0.9404826760292053, " as I started to get older I started getting into art making and I love making heart and I started making prints in high school. Into printmaking and an undergraduate school and this question would always come up from people cuz I'd say you're an artist and I'd say yes so they say your Navajo and I'd say yeah they take so you must be a traditional Navajo Weaver and I'd say no"], [0.9868178367614746, ' you must make jewelry'], [0.9157537221908569, " no and they look at what I'm making just sometimes people would be disappointed that I wasn't carrying on the tradition and so at one point I asked my grandmother"], [0.9550008773803711, " what do you think of what I'm doing and what I'm making sometimes I think I should be leaving like you"], [0.9259543418884277, ' and my grandmother said'], [0.8981592655181885, " I didn't grow up going to school early learning English and she's speaking in Navajo land"], [0.9503107070922852, ' she says'], [0.9868763089179993, ' but the way I see it'], [0.9650655388832092, " you're weaving thoughts and ideas and these designs in a different way something like I can't do"], [0.9385643601417542, ' and in that way I see you as a traditional waiver'], [0.9712647795677185, " it's really amazing to hear that from my grandmother and gave me strength to move forward with with what I do"], [0.9020211100578308, ' I move forward in my life making our and thinking about and remembering what this strength she gave me'], [0.9701952934265137, ' as I move forward in my life I kept going through this this questioning and I was teaching at different universities and I ended up coming to this University here in Boulder'], [0.9812350273132324, ' and I remember there was always this question of should I be here I really should be back home my parents are educators'], [0.9700295925140381, " they've given up everything to be there should I be there too and this weight of like"], [0.9876290559768677, ' where should I be what should I be doing'], [0.9412404298782349, ' was always inside me'], [0.8324185013771057, " my grandmother's had since passed and"], [0.9642485976219177, ' I was asked to help with a project at the University at the Natural History Museum it turns out our Natural History Museum on campus has one of the largest Navajo rug collections in the US and I help with this project and all the time I was looking in the database for Thelma Baldwin'], [0.8869999647140503, ' looking for her bags and nothing would come up'], [0.955574631690979, " so the exhibit comes and I called my parents and my uncle and tell them you should come to Boulder and see this exhibit that I helped put together it's really beautiful and there's some rugs from where our people are from and and he should come see them so my parents came and I was really excited and we are coming into this room with all of these rugs on the wall balls and on platforms"], [0.9622870087623596, ' my mom got really quiet and I have said I started to point but before I even showed her she said'], [0.9508398771286011, " that's my Mom's rug that's your grandmother's rug"], [0.9597684144973755, ' I stopped how you look at it'], [0.9397876262664795, ' I said mom how do you know and she says'], [0.9178507924079895, ' because I was carrying you I was pregnant with you when she was weaving that rug'], [0.9824784398078918, ' we woke up to the rug and look at the label'], [0.9609437584877014, ' and the label says mrs. Tom Baldwin'], [0.9840796589851379, ' because during that time women were'], [0.9549112319946289, ' known by their husbands names and all my life I was told to be a strong Navajo woman and always keeping my name'], [0.9555827975273132, ' and it was amazing to find her rugs there and then my uncle found some other drugs that belong to her and then off to the side I see my dad like getting a little emotional'], [0.9684813022613525, " and I said Dad are you okay what's wrong and he said"], [0.9761154651641846, " this is my Mom's rug"], [0.88826584815979, " we are just like a maze because my my dad's mom didn't leave a lot of rugs we look at the label by her rug and it says anonymous"], [0.9549175500869751, ' we call the people at the Museum and tell them the story'], [0.9064061045646667, " nursing we're so glad that you could share this"], [0.9623793363571167, " and then I tell myself this is where I'm supposed to be there here and I'm here"], [0.9831474423408508, ' thank you'], [0.9626373052597046, ' that was Melanie Yazzie Melanie is a printmaker painter and sculptor and teaches at the University of Colorado Boulder'], [0.976058304309845, " am I work with the moth I have the privilege of meeting and working with some Fascinating People and you really do become bonded with them when you listen to their stories but I was in Boulder Melanie invited me to her house where we sat at her dining room table working on her story and before I left she gave me this beautiful Navajo necklace made of stones turquoise Agate White marble and they're carved into animals called fetishes and she believes they start his protectors to keep one company while they travel through life she told me how much the experience of working on her story had meant to her and then she looked me in the eye and she told me that by helping people share their stories that made me a story guide and she gave me this gift so that I would have these beautiful animals to care for me and to protect me while doing this important work I'm not going to lie I got a little choked up a literally had a huge lump in my throat on the surface The Moth is entertainment it's storytelling but many of the people we work with are not entertainers they're just regular people like you and me and"], [0.963894784450531, " it's a big deal for them to get on a stage and share their story in front of a sold-out audience it takes a lot of guts and that necklace is now kind of a reminder of that I travel around with it and it's become a bit of a good luck charm with every mainstage idirect in fact as a record this time on the road and it's in my suitcase"], [0.9641740322113037, ' coming up an Insider story on one of the greatest sports scandals of our time when The Moth Radio Hour continues'], [0.953725278377533, " The Moth Radio Hour is produced by Atlantic public media in Woods Hole Massachusetts and presented by PRX support for the LegalZoom trademark tax law changes and reviewing contracts puts you at an advantage don't get distracted by legal hurdles and business questions as the year wines down go to legalzoom.com and save more with the code moth moth at check out this is the most radio hour from PRX I'm egg bowls in our last story comes from author and journalist David Walsh he told the story of the show be produced in London at the beautiful Union Chapel the theme of the night was Leaf of faith"], [0.9523916244506836, ' I first encountered Lance Armstrong at the Tour de France he was there a 21 year old ride in the race for the first time'], [0.879331111907959, " I was at 38 eurosport's Riser Rising his first book in the tour"], [0.9070746302604675, ' I had this idea that my book would be like a sporting Canterbury Tales'], [0.8717820048332214, ' I know grandiose'], [0.9754421710968018, " I'd always been a dreamer"], [0.8777788281440735, ' I was going to interview 1314 people on this three-wheeled three-week pilgrimage to Paris they would tell me their stories'], [0.9475351572036743, ' I would write their stories and then that way I would tell the story of the Tour de France'], [0.7898475527763367, ' I meant lands at the Chateau De La Bella commentary'], [0.932504415512085, ' a beautiful hotel 10 miles south of Grenoble where he and his teammates were saying'], [0.9302771687507629, ' we sat down and we spoke for 3 hours'], [0.9700538516044617, ' I liked him and I think he likes me'], [0.9148482084274292, " I was sure that I say young 20 when you're roasting Texas he had to be overall it by this enormous sporting Epic on the old continent he said no was it like that for him"], [0.9371169805526733, " I said come on you know you're here to learn right and he said no I'm here to win"], [0.9311011433601379, " of course he knew that he couldn't win the race you know the overall Victory but he felt he could win one leggers"], [0.9319755434989929, ' I thought that the stretching is'], [0.8726174831390381, ' 4 days later he did win I like about you is Tour de France'], [0.9054663777351379, ' he laid it out for me who he was'], [0.9645407199859619, ' he said he had this desire it almost felt like a rage'], [0.8531454801559448, ' and when he got to the end of the race he was shaped like Matt heafy Les harpies go up to 200 beats a minute'], [0.9183219075202942, " I thought moment he said he often thought about his mother Linda would had him when she was aged 17 who'd raised and more or less as a single parent"], [0.9724708795547485, ' and he felt'], [0.8875643014907837, " she didn't raise a quitter on the matter what happened he wasn't going to quit and he looked at me then stood and he said that's not physical this isn't good legs or lungs"], [0.8739174604415894, " he said man this is heart it's Soul it's just pure guts"], [0.8837217688560486, ' and I listened to him and I talked wow 21 years of age'], [0.9863736629486084, " we're going to hear about this guy"], [0.8941288590431213, ' two years later I was coming home from the trip because Sports Rogers we traveling off one month here at the Tour de France the next month it might be the Olympics the next month it might be something else'], [0.9556199908256531, " this time I was coming home from the Rugby World Cup I've been in South Africa South Africa for 4 weeks"], [0.9516037106513977, ' go to the airport in Dublin was driving home as I turned into our house'], [0.8158060908317566, ' I looked into our front garden'], [0.8171624541282654, " I'm so lost for Neighbors"], [0.918973982334137, ' I saw some of the school teachers that are kids sad with six kids'], [0.851028561592102, ' how to show the parish priest'], [0.9162176251411438, ' and I just knew that something terrible had happened'], [0.9216804504394531, ' I knew that once I opened the doors a car and spoke to somebody my life would change forever'], [0.7712364196777344, ' I open the door'], [0.9624322652816772, " and someone I don't remember who"], [0.9000810384750366, ' told me the channel 12 year old son I wrote this boy had been killed off his bicycle coming from the foot Gaelic football match an hour before'], [0.9163445830345154, ' you can imagine how shattering devastating horrible that was for all of us life we go on but it would be a lesser life without John'], [0.859951376914978, ' we shot down as a family'], [0.9037883281707764, ' and we talked how do we try to deal with this'], [0.9164943099021912, " my life is of the view that we would talk about John as much as we couldn't we would keep his memory fresh we would try as best we could not not to have to subject a hidden forbidden subject"], [0.9394717812538147, ' and I went and spoke to people who know and John Doe friends parents of it off his friends his rugby coach is Gaelic football coach his teacher has one story stood out'], [0.9348634481430054, " when is John's teachers at kindergarten optional School in the Midlands of Ireland said to me that she remember John for something that happened when John was six or seven and she was reading the story of the nativity"], [0.9331366419792175, ' you know Mary and Joseph I come to bed lemon soda place in the end but all the Ainsworth Rollin they ended up in the stable and it was there that baby Jesus was born and the Shepherds came and then to three wise men came and they brought gifts of gold frankincense and myrrh'], [0.9419043064117432, " how did Mary and Joseph went went back to where they came from and they lived a very modest life because Joseph is just a humble Carpenter and they didn't have very much"], [0.8305147886276245, ' Jones hand went up'], [0.829216480255127, ' and this is to meet his teacher said yes John and he said'], [0.942252516746521, " miss you say that Mary and Joseph didn't have very much what did they do with the gold that is free wise men brought"], [0.8735427260398865, ' and she said'], [0.9632030129432678, " I've been reading the story for 33 years"], [0.8718777298927307, ' and nobody has ever asked me that question'], [0.9317692518234253, " and the honest answer is I don't know"], [0.9409633278846741, " and I said Mrs to me that's the most beautiful story"], [0.9611005783081055, " because for me it's the most pertinent question"], [0.9489684104919434, " in that journalism which is my profession that's if she's in a nutshell what did Mary and Joseph do with the gold you ask the obvious question"], [0.8758805990219116, " keeping my love with you people may think you're an idiot but that doesn't deter you if you're unsure you ask"], [0.7124069333076477, ' I like toast'], [0.9594783186912537, ' going on in my journalistic career'], [0.8779979348182678, ' I just going to take that with me'], [0.8347906470298767, " I meant I'm so I'm Sprung again at the 99 Tour de France this was six years after that first interview and granola"], [0.924489438533783, ' we had both changed since that first meeting'], [0.8972412943840027, ' I was not one more inquiring journalists a little bit harder in my Approach may be a guy listen trying to believe in fairytales'], [0.9199314713478088, ' Lance to a changed he been diagnosed with testicular cancer stage 3 the ultimate form doctor said he had a 50% chance of surviving'], [0.8499756455421448, ' but he comes first changed'], [0.9042297601699829, " what what what had happened was that he came close to losing his life and coming back he decided he wasn't going to get so close to losing again"], [0.9017632603645325, ' that sure was a'], [0.7953272461891174, ' famous maybe now Infamous to her'], [0.927665650844574, ' because Lance'], [0.7856995463371277, " I'd written this race four times"], [0.8428220152854919, ' he never been a Tour de France Rider his best racing was 36th'], [0.9580614566802979, " he didn't like the big mountains he couldn't do the time trials the stuff you have to do to win the Tour de France then he gets cancer life threatening he spends 2 years out of the sport he comes back and he's the dominant rider in the race he wins everything everybody applauds because this is the most life-affirming story you've ever heard back from cancer winning the Tour de France"], [0.7869892120361328, " and I'm sad I stood at the side of the road and I felt emotionally Flash"], [0.8607617616653442, " this was a story I just didn't believe how could it be that a man is transformed into a super Champion by a 2-year illness"], [0.9566640853881836, " people said but after all he's been through he would never go and take drugs Woody and I thought"], [0.9240301251411438, " if he's come back to make sure that he achieves what he wanted to achieve it might very well be the thing he would do so I watched and watched him very skeptic play everything I saw convinced me"], [0.8757423162460327, ' that he was using performance-enhancing drugs which were pretty widespread in dysport'], [0.8874703049659729, ' I remember on the day he won his first Tour de France I wrote my first seriously questioning piece in the Tour de in the Sunday Times'], [0.9388603568077087, ' it was a sentence that said'], [0.9050301909446716, " there are times in life when it's right to appeal the champion tell her other occasions when you'd be better advised to Keep Your Arms by your sides"], [0.9748727679252625, ' this is an occasion for keeping our Arms by our sides because what we need here is not activation of the new champion'], [0.9455651044845581, ' but an inquiry'], [0.7342805862426758, ' that story'], [0.9148456454277039, " I'm not the most patriotic negative reaction to any story I've ever done in 38 years of Journalism"], [0.9292363524436951, " every reader who wrote our emails disapproved of what I've written"], [0.8997198939323425, ' Keith Miller from Glasgow wrote me a letter that said Mr Walsh you have the worst cancer of all kinds of disparage'], [0.7974110841751099, " that's what I got. Passed my exterior walls"], [0.9513775110244751, ' I had a problem now and that basically I had said Lance Armstrong was a fraud innuendo you could say no real proof I had to find some proof'], [0.9652289748191833, " I went looking for witnesses to Lance's doping who would become my sources"], [0.9102773070335388, ' I spent two years on the trail and I ended up with three people Stephen Schwartz from New Zealand ml Riley from Dublin and Betsy Andrea from Michigan in the US'], [0.8561906218528748, ' all of the captain on the inside at one time'], [0.8977960348129272, " swore to former teammates and former worker in Lance's team Betsy Andreu wife of Lantus former best friend they all told me you don't they gave me a certain State witness stated that got drugs for a date herders"], [0.9323364496231079, ' Betsy Andreu turned out to be the most interesting of all she and her husband have been great friends of Lance they visited him during his cancer treatment in Indiana University Hospital while they stood in a room'], [0.8781501650810242, ' they heard lunch tell his doctor that he had used performance-enhancing drugs she knew what she heard'], [0.9324860572814941, " I wrote the story I'm told but I breaking would be substantial proof and that and that it would end for lunch"], [0.907524585723877, " it didn't work out like that through those early years land said it one time looked at me in the press conference inside"], [0.7874513268470764, ' Mister wash'], [0.8906158804893494, " extraordinary accusations must be followed up by extraordinary proof and you haven't come up with next door to reprove"], [0.9510542750358582, ' I kind of wondered'], [0.8500676155090332, ' why was ordinary proof not enough'], [0.9748094081878662, ' but I do'], [0.9032127857208252, ' lunch was an icon to the concert Community he was a demigod in the sports worked different rules apply to him'], [0.8858861923217773, ' sponsors'], [0.9334477782249451, ' race organizers there was a Sports Authorities they were television broadcasters they were journalists and pretty much all of them were looking the other way'], [0.9860506057739258, ' this was a story a life-affirming story'], [0.9591649770736694, ' so good that nobody wants you to consider it might be a fraud even if the evidence was obvious'], [0.9663781523704529, ' I became easily the most unpopular journalists at the Tour de France'], [0.8124444484710693, " I drew comfort from an old line of Marge Simpson's"], [0.8401732444763184, " yes she even said there's no shame in being the pariah"], [0.794721782207489, ' and honestly'], [0.9700390696525574, " I didn't"], [0.9731569290161133, " I didn't feel ashamed"], [0.7110486626625061, ' Christian radio became'], [0.9023365378379822, " by my eye sports editor from had a really she would bring me and she'd say did you see that story of the Seattle Times and I might say no she said read it and follow it up"], [0.9688541889190674, ' we would we would speak on the phone lots and lots of times and she was always there like my inspiration'], [0.9822529554367065, ' I never wanted it'], [0.9594261646270752, ' to be personal'], [0.9641606211662292, " I mean I understood why Lance Armstrong joked he felt it was only it was his only way to win and he wasn't prepared to walk away and he wasn't prepared to lose I got that I still felt it was wrong and that I had every right to question him and I never wanted it to be personal he nicknamed me the little fucking troll"], [0.8731740117073059, " I don't think I'm really popular with all the journalists to refer to me as that"], [0.9153332114219666, ' he called Betsy to Crazy Bitch'], [0.9118243455886841, " and Betsy and I used we used to laugh about this and when I emailed her I'd say hi crazy bitch how are you today and she say I'm good how are you"], [0.934213399887085, ' only once did Lance get under my skin'], [0.9050491452217102, " I was in the bookstore and I was leafing through the latest Lansbrook Armstrong's War by Daniel Coyle you know you go to the index look for your name see the pages and I start reading this section"], [0.9297027587890625, ' where Lance Armstrong is discussing in very derogatory terms my relationship with our son John who was killed'], [0.9326742887496948, " he had heard that I described John as a favorite son and he said how can you describe him as a favorite son that's sick"], [0.49647241830825806, ' how do you set up other things'], [0.8769320845603943, ' I knew Daniel Coyle and I got out of that job'], [0.9064513444900513, " I called on you and I said how could you everything that in the book and he said if you were if you're that you're that upset I said I on this Obsession he said I shouldn't have Rick Nash"], [0.8950051665306091, ' and he said all I can say to you is that'], [0.7709953188896179, ' Lance said a lot of things'], [0.9477383494377136, ' about your relationship with John'], [0.8313267230987549, " and I didn't put in the worst"], [0.9005589485168457, " and that didn't make me feel a lot better and I went to way and time passed and I thought"], [0.91159987449646, " you know what I'm glad I knew call put that piece in his book because it's there now between two covers"], [0.9687827229499817, ' I want it does'], [0.906387984752655, ' is that a giant a pretty bright light on the darker side of Lance Armstrong'], [0.9027098417282104, ' in the end'], [0.833380937576294, ' the shapes got involved in the US are not like journalist'], [0.9259360432624817, ' dating and things like subpoenas and affidavits'], [0.8500697612762451, " and you can't sue them"], [0.829373300075531, ' undefeated say to you if you lie to us is pretty.'], [0.8941614627838135, " I need you to commit perjury will make sure you go to prison that's why Mary and Jones ended up in prison she perjured herself with us guys"], [0.889953076839447, ' they had 26 with Misses all of them'], [0.7631449699401855, ' Chad Lance Armstrong with cheese'], [0.6814544796943665, ' 11 Austin'], [0.942070484161377, ' what former teammates'], [0.8191080093383789, ' Lance Armstrong at Edge'], [0.9815900921821594, ' you must have extraordinary proof'], [0.9003915786743164, " If you're going to bring me down"], [0.8303262591362, ' this was extraordinary proof'], [0.9782694578170776, ' it all ended for lunch officially on October 22nd 2012'], [0.9244135618209839, " I'm just driving on the M25 round London I knew it was a press conference in Switzerland and I decided"], [0.8291495442390442, ' that I had to hear it but I call it into a Starbucks cafe and one of them services off the in 25'], [0.8301653265953064, ' plug my computer into the international got the press conference 97 titles given a lifetime ban'], [0.8805383443832397, ' from cycling and never saying he deserve to be forgotten'], [0.9000539779663086, ' I feel strangely flash anticlimactic almost'], [0.8201548457145691, " Arirang Betsy Andreu how to set Betsy how you feeling you've seen the press conference E I have she said"], [0.9147799015045166, " she said I just feel anticlimactic about it now and maybe when we both didn't realize at that time was that the hunting life is always better than the kale"], [0.9216421842575073, ' I said to Betsy'], [0.9664254188537598, " you know today is John's birthday October 22nd he would have been 30 today and Betsy said"], [0.959205687046051, ' she said maybe this is his little birthday gift to you on his birthday'], [0.8094627857208252, " all right. Betsy that's a nice Josh"], [0.960443913936615, ' afterwards in the days and weeks and years that followed'], [0.885098934173584, ' people said you must feel Vindicated'], [0.9788172245025635, ' about the way this turned out and I said no'], [0.9654042720794678, " I don't feel any sense of indication"], [0.9727603793144226, " because I've known from the very first"], [0.9272218346595764, ' thought I was on the side of Truth and even in the darkest moments that was enough thank you very much'], [0.9654306769371033, " David Walsh of cheap sports writer with the Sunday Times in the UK in 2012 he was Judge journalist of the year in the UK for his 13-year campaign to show that Lance Armstrong was not a true champion but an athlete who cheated lost wrote three books about Armstrong including the best seller seven deadly sins after David wrote the first article accusing Lance Armstrong of using performance-enhancing drugs Armstrong sued the Sunday Times to the tune of 1 million pounds taking damages from David and Allen English it was in the deputy sports editor the Sunday Times was forced to pay Armstrong three hundred thousand pounds but after his confession the paper Monster High Corbin to have that money paid back in full plus expenses they ultimately reached a confidential settlement that's it for this episode we hope you'll join us again next time for The Moth Radio Hour"], [0.9684190154075623, ' your Hostess hour was make bowls Meg also directed the stories in the show the rest of the most directorial staff includes Catherine Burns Sarah Haberman Sarah Austin jenness and Jennifer Hickson production support from moods 280mah stories are true as remembered and affirmed by the storytellers moth events are recorded by argot studios in New York City supervised by Paul Rue West Paris themed music is by the drift other music in this hour from Julian Lodge and Stellwagen symphonette you can find links to all the music we use at our website The Moth is produced for radio by me Jay Allison with Vicky Merrick at Atlantic public media in Woods Hole Massachusetts this hour was produced with funds from the Corporation for Public Broadcasting the National Endowment for the Arts and the John D & Catherine T MacArthur Foundation committed to building a more just verdant and peaceful world The Moth Radio Hour is presented by PRX for more about our podcast'], [0.9632880687713623, ' information on pitching your own story and everything else go to our website dumb off. Org']]}
+{
+  "Stats": {
+    "PodcastID": "275699983.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 3228.05551,
+    "OriginalFileSize": 77358066,
+    "FlacFileSize": 271699046,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1021.9445066452026,
+    "DownloadSuccessful": 84.27553081512451
+  },
+  "Transcripts": [
+    [
+      0.9702836871147156,
+      "3.8 million kids in the US don't have a music teacher the music box is putting one in your pocket from Louisville Public Media and PR ex the music box is a podcast specifically created for classrooms and families to learn music together hosted by musician and educator Jacory Arthur season 2 covers musical elements like beat Rhythm pitch and Timbre separate episodes cater to three different grade levels for each topic and on music box pod. Org you'll find a general music resource Hub complete with interactive podcast printable lesson plans and more check out season 2 of the music box out now in the 1970s and 80s dozens of women went to an Indianapolis Fertility clinic in the hopes of getting pregnant the doctor said he could help but what happened in his office wasn't what the women had signed up for decades later their children uncovered the doctors terrible secret sick is a podcast about what goes wrong in the place is meant to keep us healthy and season 1 reporters Lauren Davis and Jake Harper take"
+    ],
+    [
+      0.9711817502975464,
+      "hard look at the fertility industry a doctor's abuse of power the generations of lives he affected new episodes out Tuesdays starting October 15th subscribe wherever you get your podcast has a mom story ever opened your heart or made you see the world in a new and different way if the answer is yes then we invite you to join the moth Hall of Fame by making a monthly sustaining gift of $1 3 dollars $5 or more to join simply text flame to 41444 and thinks you'll be invited to the digital porch and online Forum where you can chat with storytellers staff and other ma supporters please text claim to 41444 to join the Hall of Fame and help sustain the moth with your monthly gift today"
+    ],
+    [
+      0.9296732544898987,
+      "from PRX this is The Moth Radio Hour I'm egg bowls and in this hour will have three stories that will take us from an Uptown neighborhood in Chicago to the Navajo Nation and then across the ocean to behind the scenes of the Tour de France"
+    ],
+    [
+      0.9230570197105408,
+      " our first ride comes from Shannon Cason he told him at the Historic Site irion theater in New Bedford Massachusetts hear Shannon Cason live at the mall"
+    ],
+    [
+      0.9301021695137024,
+      " we were coming down the stairs when they were coming in a new family have moved into the 3 flat building we lived in in Chicago"
+    ],
+    [
+      0.9416765570640564,
+      " there are moving into the basement apartment which is really small for a family I stopped talk to the husband my wife talked to the wife and our two year old daughter's introduce themselves on the porch they had a two-year-old and we had a two-year-old me and the father smile looking at a little girls kids have to do some cells by what they have like this is Midol with this is my bear"
+    ],
+    [
+      0.9408259987831116,
+      " the father said that they were moving from the shelter down the street and happy to have a place to call home I told him I know how it is man if you need anything just give a knock upstairs anything we love and it went inside"
+    ],
+    [
+      0.9876289963722229,
+      " the very next day I get a knock at the door"
+    ],
+    [
+      0.9553260803222656,
+      " it's the father he's asking for money for train fare to go downtown I told him it's no problem I'm headed downtown myself to go to work we can just walk together I swipe you through"
+    ],
+    [
+      0.8885828852653503,
+      " we walk down the sidewalk and it's a long line of three flat buildings like ours and across the street has his big apartment building"
+    ],
+    [
+      0.9334767460823059,
+      " the Uptown neighborhood in Chicago superdude versus Asians Africans Europeans and Americans all of us you can get Starbucks coffee from one building a fifth of Henny from the next building or Mexican food thai food Ethiopian food on some Flamin Hot Cheetos all on your way to the train"
+    ],
+    [
+      0.8417689800262451,
+      " the song with walking on has this"
+    ],
+    [
+      0.9366881251335144,
+      " big shelter with a big church with a shelter in the basement and then it's the corner store in his guys who hang outside at the corner there's been some shootings at the corner guys on the corner"
+    ],
+    [
+      0.9746512174606323,
+      " they sell drugs on the corners is gangs in Chicago if you hadn't heard I don't know"
+    ],
+    [
+      0.9424933791160583,
+      " I'm from Detroit so I'm not clueless I know like if you not from a certain area is best just to keep your eyes open but going scene they ignore me I ain't got nothing to do with what they doing is none of my business I was a little concerned that my new neighbor new or the guys on the corner really well"
+    ],
+    [
+      0.7801003456115723,
+      " but we talked on the train last he was a cool guy his name is Jesse"
+    ],
+    [
+      0.9631847739219666,
+      " so one night I get a knock at the door is after midnight my wife works late she wasn't home it was the mother from downstairs she was asking to borrow $20 with some baby diapers"
+    ],
+    [
+      0.9113620519638062,
+      " first off it's after midnight baby should be sleeping the store is closed the other thing I guess you forgot that we have a two-year-old to so when I gave her a few baby diapers to make it through the night she look disappointed"
+    ],
+    [
+      0.7848103046417236,
+      " baby suspicious"
+    ],
+    [
+      0.9534138441085815,
+      " doesn't matter get another knock at the door after midnight and my wife went home it was the mother and she had her daughter in our arms and she just passes our daughter over to me and she says it's an emergency she's in a frantic and says if you could just watch her for the night and I got her daughter in my arms and she didn't wait wait for an answer she just leaves"
+    ],
+    [
+      0.9165814518928528,
+      " I go to the window and I could see the mother get in the car with this guy who was in Jesse and drive off"
+    ],
+    [
+      0.9560645222663879,
+      " I knew it was drugs. Which I knew was crack meth something nothing you ain't that type of that early in the morning or late at night unless it's drugs or the pursuit of some drugs the thing is like I have a heart towards people with addictions I got some of my own is not drugs but I'm not a stranger to community rec rooms in church basements myself"
+    ],
+    [
+      0.9453004598617554,
+      " in the morning my wife Cindy she makes breakfast for everybody in the girls they play in the living room and my daughter Zoe she brought every toy she ever got into the living room you know kids are like show-offs you know"
+    ],
+    [
+      0.8689274787902832,
+      " how tall is Zoe which toy you going to let Ashley have his old give me that look like what"
+    ],
+    [
+      0.927642285823822,
+      " but Zoe is generous she give her this dial better than I expected this is little doll with a bonnet and pigtails coming out of the Bonnet my wife Cindy she calls Ashley's mom and tell her that we'll just keep the girls another night because it just having the girls are having fun and that evening is share the bed and I'll talk them into the Dora the Explorer covers"
+    ],
+    [
+      0.9277132153511047,
+      " so one night I'm coming home from work from the train and I passed by the corner store in the corners are empty is kind of nice like a regular neighborhood I passed by the big church with the Shelf in the basement the big apartment building across the street I get to my place"
+    ],
+    [
+      0.9585455656051636,
+      " and all the guys who would normally be at the corner sitting on my porch smoking with Jesse"
+    ],
+    [
+      0.967284619808197,
+      " I just stood there for a sec I can't ignore it now and I ain't got nothing against a little puff puff pass but not on my porch the thing is is like I grew up first neighborhoods in this Uptown Chicago neighborhood this is nice this is great. I was at work my ass off to get to this point in life I'll be damned my family grew up around the same drugs and violence that I saw growing up this at a distance at the corner but not on my porch"
+    ],
+    [
+      0.9092952013015747,
+      " but I don't see anything I just do inside"
+    ],
+    [
+      0.9598227143287659,
+      " they have been smoking in the basement apartment and it was seeping up into our place and my wife she is in as a passive s me she went straight downstairs banged on the door like the police so y'all got to stop smoking down here my daughter in the house Kaufman they just went outside to the porch I went downstairs to talk to Jesse I'm like what's up man he just shook his head I'm like how many people you got a living down here now he said it was just them but the guys from the corner will come in and out but they hard to get rid of it like"
+    ],
+    [
+      0.9128477573394775,
+      " I told him are y'all going to have a tough time there cuz my wife hates roaches"
+    ],
+    [
+      0.9235792756080627,
+      " Cindy I saw some guys from the corner selling drugs in front of our house and she yelled out the window to him if I see it again I'm going to call the police"
+    ],
+    [
+      0.9443525075912476,
+      " she told me when I got home from work like baby you can't just go yelling out the window to a bunch of drug dealers and gang members that you will call the police if they get caught Julio point it you smarter than that baby she was just frustrated"
+    ],
+    [
+      0.9771235585212708,
+      " Cindy saw some guys selling drugs again and she told me she was going to call the police"
+    ],
+    [
+      0.7368035912513733,
+      " a stop"
+    ],
+    [
+      0.6906601786613464,
+      " Ian call the police"
+    ],
+    [
+      0.935045063495636,
+      " I grew up in Detroit in the 80s crack their I got this program and in my mind you don't call the police versus a distrust of the police actually doing something to help the situation and other thing is like retaliation from the people that you're telling on snitches get stitches"
+    ],
+    [
+      0.9916466474533081,
+      " but then I thought about that little girl"
+    ],
+    [
+      0.9404678344726562,
+      " Northern men coming out of this small basement apartment in the days look on her face when I see her"
+    ],
+    [
+      0.9526341557502747,
+      " how was she stayed with us she didn't want to go home"
+    ],
+    [
+      0.931014895439148,
+      " I got to confront this stupid way of thinking I just can't ignore it"
+    ],
+    [
+      0.9459325075149536,
+      " so another night I get a knock at the door after midnight I'm frustrated now it's the mother or father from downstairs I open the door and it's the police they tell me to go back inside lock the door I can see them all in the little foyer in their vesting here and one of the officers has a battering ram I go back inside"
+    ],
+    [
+      0.9511368870735168,
+      " I can hear a bust down the door boom I can hear wrestling a scuffling Down Below I hear the police yelling and cussing I go in to check on my daughter cuz my wife wasn't home and she was still sleep she didn't even know anything was happening but I can hear the guys from the corner downstairs screaming at the police and then it just goes silent"
+    ],
+    [
+      0.9442982077598572,
+      " I go to the window and I can see the police car and all the guys from the corner out to a wagon and then I see the family Jesse his wife and Ashley"
+    ],
+    [
+      0.8751980662345886,
+      " one of the officers is Karen Ashley and she's in her pink pajamas against his dark blues and black and she has that little daughter Zoe gave her with the body and in the pigtails"
+    ],
+    [
+      0.9830767512321472,
+      " and I want to go out"
+    ],
+    [
+      0.9512718915939331,
+      " until the officer that we could just keep Ashley until all this is taken care of but I don't want to go out in the officer think I'm with everybody else we all look the same to the police I go"
+    ],
+    [
+      0.9560958743095398,
+      " and now I'm arrested in my daughter is in some officers arms is best for me just to stay where I am"
+    ],
+    [
+      0.987254798412323,
+      " none of my business"
+    ],
+    [
+      0.8893730640411377,
+      " for the next few days the corners and no smoking or apartment no people sitting on our porch"
+    ],
+    [
+      0.7801463603973389,
+      " good bye week after that same guys on the corner"
+    ],
+    [
+      0.8001970648765564,
+      " don't say anything to me"
+    ],
+    [
+      0.9117404222488403,
+      " I ignored him and ignore me we live in two different worlds least we've it sounds good but I don't know if that's true"
+    ],
+    [
+      0.9823611378669739,
+      " I get to my place"
+    ],
+    [
+      0.9101729989051819,
+      " and I can hear the landlord downstairs so I go down there and see if he go discount my rent for all this stuff we've been putting up with"
+    ],
+    [
+      0.9426756501197815,
+      " and I'm shocked to see the landlord with the family Jesse his wife and Ashley"
+    ],
+    [
+      0.7737727761268616,
+      " me and Jesse talk on the porch while daughter's play"
+    ],
+    [
+      0.8251030445098877,
+      " Jesse said you didn't have to call the police man"
+    ],
+    [
+      0.7798944711685181,
+      " that's only my dick"
+    ],
+    [
+      0.9730571508407593,
+      " and I did"
+    ],
+    [
+      0.742362916469574,
+      " call the police"
+    ],
+    [
+      0.8938711881637573,
+      " I can't be a part of putting more black men in prison as stupid as that may sound the song but I don't call the police"
+    ],
+    [
+      0.9114381074905396,
+      " but I told him I said I did something bad cuz you need help"
+    ],
+    [
+      0.6954854130744934,
+      " he nodded"
+    ],
+    [
+      0.9040102362632751,
+      " he said they had the mood and pay rent for like a year"
+    ],
+    [
+      0.9198832511901855,
+      " I asked him what he was going to do he didn't know he has if we can keep Ashley just till he got his self together I wanted to say yeah but we can't just take the little girl I mean we struggling to make it ourselves it don't work like that"
+    ],
+    [
+      0.9369902014732361,
+      " we looked at a little girls playing on the porch"
+    ],
+    [
+      0.9537115097045898,
+      " I looked him in the eyes"
+    ],
+    [
+      0.9133087992668152,
+      " I said man whatever it takes take care of that little girl"
+    ],
+    [
+      0.9775382280349731,
+      " whatever it takes"
+    ],
+    [
+      0.9000833630561829,
+      " I gave you my number"
+    ],
+    [
+      0.9480661749839783,
+      " I said if you need anyting"
+    ],
+    [
+      0.9876290559768677,
+      " give me a call"
+    ],
+    [
+      0.6485602259635925,
+      " anyting"
+    ],
+    [
+      0.9831565022468567,
+      " thank you"
+    ],
+    [
+      0.9592186808586121,
+      " Shannon Cason has never heard from Jesse again but he says even though addiction can be a powerful and debilitating thing he wants to believe that in Jesse's case addiction didn't win he could see in his eyes how much he loved his daughter"
+    ],
+    [
+      0.9302675724029541,
+      " you can hear more of Shannon stories by checking out his podcast Shannon Cassens homemade stories that he produces with WBEZ in Chicago coming up artist Melanie Yazzie share stories from a childhood spent on the Navajo Nation when The Moth Radio Hour continues"
+    ],
+    [
+      0.9706804752349854,
+      " The Moth Radio Hour is produced by Atlantic public media in Woods Hole Massachusetts and presented by PRX Hood Cancer Center designed to deliver the best possible care to even more patients with cancer and blood disorders with dedicated play spaces for kids and teens positive pressure ventilation that keeps every room cleaner to prevent infections and physical and occupational therapy on the same floor the center lets kids be kids to promote better recovery Stanford Children's Health Access to Excellence at Stanford Children's. Org each year people can't wait for Sam Adams to brew their very first batch of Sam Adams Octoberfest neither can we Sam Adams Octoberfest is everything you love about fall in one step with its unique blend of caramel roasted malts it's sweet smooth and delicious Savory this season with a fall favorite Sam Adams Octoberfest Boston Beer Company Boston Mass Save a responsible"
+    ],
+    [
+      0.9634567499160767,
+      " this is The Moth Radio Hour from PRX I'm Nick Foles the most produces main stage events across the country and we make a point of inviting people from the local communities to take the stage and share their stories I'm at our next Storyteller Melanie Yazzie when I was directing a main stage in Boulder Colorado and when Melanie took the stage that night she was adorned and all this incredible turquoise and silver jewelry and she had a beautiful Quiet Energy that completely transfixed the audience you could literally hear a pin drop here's Melanie Yazzie night at the month"
+    ],
+    [
+      0.9623804092407227,
+      " when I was little I grew up on the Navajo reservation and my parents were Educators they taught Headstart and because they both were working I spent a lot of time with my grandparents"
+    ],
+    [
+      0.9696909785270691,
+      " they lived in a very virile area and these were my mom's parents"
+    ],
+    [
+      0.9549422264099121,
+      " we would be out in the middle of nowhere that you were dirt roads and this is the time. When some people had cars but a lot of people still had wagons and horses and that's how they got around"
+    ],
+    [
+      0.979339063167572,
+      " I remember waking up early in the morning and hearing my grandfather pumping the kerosene lamps to get them started"
+    ],
+    [
+      0.9356395602226257,
+      " is there is no electricity and I would smell bacon and eggs and my grandmother would be making"
+    ],
+    [
+      0.927137017250061,
+      " tortillas and potatoes for us to eat my grandfather would be getting ready to go take the Sheep out"
+    ],
+    [
+      0.9407074451446533,
+      " and I remember just thinking this is a really beautiful time and"
+    ],
+    [
+      0.9876289963722229,
+      " we would have breakfast together"
+    ],
+    [
+      0.9593491554260254,
+      " this cold air would come in in the morning and we would be just being with each other my grandfather would go out to the Corral and"
+    ],
+    [
+      0.9685259461402893,
+      " I would done help my my grandmother mix milk for the lamps and we would mix up this milk and put them in these large containers of coke and 7UP and put the nipples on to go out to the Corral and feed the Lambs and I also remember part of my job was to siphon out the water cuz we didn't have running water and I would take that hose and siphon out water for the dogs and our dog dish was a tire that my grandfather cut in half and we put the food in there and all the dogs would come running and they always had really weird names I was trying to remember some of the names like mop bucket and Daisy boots what's your name"
+    ],
+    [
+      0.9633439779281616,
+      " those were really their names it was really strange but they'd all come and eat out of this this trough and after that then we would go inside and in the one room where we all slept there was a bad where my grandma and grandpa slept like a queen bed and they would we fix that and then my uncle's one of my uncles bags was off the side was a twin bed and all of that the rest of us slept on mattresses and cushions on the floor so we would get all those cushions together and fold them up and put them against the wall to to get this face cleaned up and this room that we slept in all together was then transformed into"
+    ],
+    [
+      0.9651691913604736,
+      " my grandmother Studio she is a traditional Navajo Weaver and we would get that space ready there were two windows on either side of the room and the light would be coming in in the morning and in between the two windows with her Loom and I remember we used to sew these flowers that's together to make these like by sheets that would go over the loom and the rug to keep it clean and then we would lay out the cushions in front of the Loom for my grandmother and a sheepskin for me to sit with her because my job was to be with her and be her companion and help her and she would be carding wool or spinning and there were times when she would make the yarn into these balls and part of my job was to stand there with my hands out"
+    ],
+    [
+      0.9308637380599976,
+      " and she would wrap the yarn around my hands"
+    ],
+    [
+      0.9636659026145935,
+      " and you know I get tired of the kid and I would just bend over and lay on my back and transfer the yard over to my feet every laying on my back and I feel like touching her skirt and just smelling my grandmother and like often people would ask me like it would remind you of your grandmother and I said you know it's been gay I smell that because she's always saying she ate that she would wear that and I just like every time I would smell it I would think of her and joy be with her and she would be talking with me and as my feet were in the air she would pet my feet and say beautiful things to me and just encourage me to be a good person"
+    ],
+    [
+      0.9700490236282349,
+      " one day we were driving to off the reservation and it's like an hour to get to a town from home and we get there and I remember being really little and all the adults were talking in the car dealership and"
+    ],
+    [
+      0.9532615542411804,
+      " I looked over and they were traveling and rolling out this rug across the hood of the truck and my grandmother"
+    ],
+    [
+      0.925523579120636,
+      " was there talking with a car dealer man and"
+    ],
+    [
+      0.9458525776863098,
+      " you know they were going on and I was just you know you're supposed to be good and sit there so we're later driving back home in a brand new truck"
+    ],
+    [
+      0.9382913708686829,
+      " remember my grandpa leaving leaning towards me and say see how important her weaving is"
+    ],
+    [
+      0.9716725945472717,
+      " she supported us in many ways and it was really beautiful"
+    ],
+    [
+      0.9404826760292053,
+      " as I started to get older I started getting into art making and I love making heart and I started making prints in high school. Into printmaking and an undergraduate school and this question would always come up from people cuz I'd say you're an artist and I'd say yes so they say your Navajo and I'd say yeah they take so you must be a traditional Navajo Weaver and I'd say no"
+    ],
+    [
+      0.9868178367614746,
+      " you must make jewelry"
+    ],
+    [
+      0.9157537221908569,
+      " no and they look at what I'm making just sometimes people would be disappointed that I wasn't carrying on the tradition and so at one point I asked my grandmother"
+    ],
+    [
+      0.9550008773803711,
+      " what do you think of what I'm doing and what I'm making sometimes I think I should be leaving like you"
+    ],
+    [
+      0.9259543418884277,
+      " and my grandmother said"
+    ],
+    [
+      0.8981592655181885,
+      " I didn't grow up going to school early learning English and she's speaking in Navajo land"
+    ],
+    [
+      0.9503107070922852,
+      " she says"
+    ],
+    [
+      0.9868763089179993,
+      " but the way I see it"
+    ],
+    [
+      0.9650655388832092,
+      " you're weaving thoughts and ideas and these designs in a different way something like I can't do"
+    ],
+    [
+      0.9385643601417542,
+      " and in that way I see you as a traditional waiver"
+    ],
+    [
+      0.9712647795677185,
+      " it's really amazing to hear that from my grandmother and gave me strength to move forward with with what I do"
+    ],
+    [
+      0.9020211100578308,
+      " I move forward in my life making our and thinking about and remembering what this strength she gave me"
+    ],
+    [
+      0.9701952934265137,
+      " as I move forward in my life I kept going through this this questioning and I was teaching at different universities and I ended up coming to this University here in Boulder"
+    ],
+    [
+      0.9812350273132324,
+      " and I remember there was always this question of should I be here I really should be back home my parents are educators"
+    ],
+    [
+      0.9700295925140381,
+      " they've given up everything to be there should I be there too and this weight of like"
+    ],
+    [
+      0.9876290559768677,
+      " where should I be what should I be doing"
+    ],
+    [
+      0.9412404298782349,
+      " was always inside me"
+    ],
+    [
+      0.8324185013771057,
+      " my grandmother's had since passed and"
+    ],
+    [
+      0.9642485976219177,
+      " I was asked to help with a project at the University at the Natural History Museum it turns out our Natural History Museum on campus has one of the largest Navajo rug collections in the US and I help with this project and all the time I was looking in the database for Thelma Baldwin"
+    ],
+    [
+      0.8869999647140503,
+      " looking for her bags and nothing would come up"
+    ],
+    [
+      0.955574631690979,
+      " so the exhibit comes and I called my parents and my uncle and tell them you should come to Boulder and see this exhibit that I helped put together it's really beautiful and there's some rugs from where our people are from and and he should come see them so my parents came and I was really excited and we are coming into this room with all of these rugs on the wall balls and on platforms"
+    ],
+    [
+      0.9622870087623596,
+      " my mom got really quiet and I have said I started to point but before I even showed her she said"
+    ],
+    [
+      0.9508398771286011,
+      " that's my Mom's rug that's your grandmother's rug"
+    ],
+    [
+      0.9597684144973755,
+      " I stopped how you look at it"
+    ],
+    [
+      0.9397876262664795,
+      " I said mom how do you know and she says"
+    ],
+    [
+      0.9178507924079895,
+      " because I was carrying you I was pregnant with you when she was weaving that rug"
+    ],
+    [
+      0.9824784398078918,
+      " we woke up to the rug and look at the label"
+    ],
+    [
+      0.9609437584877014,
+      " and the label says mrs. Tom Baldwin"
+    ],
+    [
+      0.9840796589851379,
+      " because during that time women were"
+    ],
+    [
+      0.9549112319946289,
+      " known by their husbands names and all my life I was told to be a strong Navajo woman and always keeping my name"
+    ],
+    [
+      0.9555827975273132,
+      " and it was amazing to find her rugs there and then my uncle found some other drugs that belong to her and then off to the side I see my dad like getting a little emotional"
+    ],
+    [
+      0.9684813022613525,
+      " and I said Dad are you okay what's wrong and he said"
+    ],
+    [
+      0.9761154651641846,
+      " this is my Mom's rug"
+    ],
+    [
+      0.88826584815979,
+      " we are just like a maze because my my dad's mom didn't leave a lot of rugs we look at the label by her rug and it says anonymous"
+    ],
+    [
+      0.9549175500869751,
+      " we call the people at the Museum and tell them the story"
+    ],
+    [
+      0.9064061045646667,
+      " nursing we're so glad that you could share this"
+    ],
+    [
+      0.9623793363571167,
+      " and then I tell myself this is where I'm supposed to be there here and I'm here"
+    ],
+    [
+      0.9831474423408508,
+      " thank you"
+    ],
+    [
+      0.9626373052597046,
+      " that was Melanie Yazzie Melanie is a printmaker painter and sculptor and teaches at the University of Colorado Boulder"
+    ],
+    [
+      0.976058304309845,
+      " am I work with the moth I have the privilege of meeting and working with some Fascinating People and you really do become bonded with them when you listen to their stories but I was in Boulder Melanie invited me to her house where we sat at her dining room table working on her story and before I left she gave me this beautiful Navajo necklace made of stones turquoise Agate White marble and they're carved into animals called fetishes and she believes they start his protectors to keep one company while they travel through life she told me how much the experience of working on her story had meant to her and then she looked me in the eye and she told me that by helping people share their stories that made me a story guide and she gave me this gift so that I would have these beautiful animals to care for me and to protect me while doing this important work I'm not going to lie I got a little choked up a literally had a huge lump in my throat on the surface The Moth is entertainment it's storytelling but many of the people we work with are not entertainers they're just regular people like you and me and"
+    ],
+    [
+      0.963894784450531,
+      " it's a big deal for them to get on a stage and share their story in front of a sold-out audience it takes a lot of guts and that necklace is now kind of a reminder of that I travel around with it and it's become a bit of a good luck charm with every mainstage idirect in fact as a record this time on the road and it's in my suitcase"
+    ],
+    [
+      0.9641740322113037,
+      " coming up an Insider story on one of the greatest sports scandals of our time when The Moth Radio Hour continues"
+    ],
+    [
+      0.953725278377533,
+      " The Moth Radio Hour is produced by Atlantic public media in Woods Hole Massachusetts and presented by PRX support for the LegalZoom trademark tax law changes and reviewing contracts puts you at an advantage don't get distracted by legal hurdles and business questions as the year wines down go to legalzoom.com and save more with the code moth moth at check out this is the most radio hour from PRX I'm egg bowls in our last story comes from author and journalist David Walsh he told the story of the show be produced in London at the beautiful Union Chapel the theme of the night was Leaf of faith"
+    ],
+    [
+      0.9523916244506836,
+      " I first encountered Lance Armstrong at the Tour de France he was there a 21 year old ride in the race for the first time"
+    ],
+    [
+      0.879331111907959,
+      " I was at 38 eurosport's Riser Rising his first book in the tour"
+    ],
+    [
+      0.9070746302604675,
+      " I had this idea that my book would be like a sporting Canterbury Tales"
+    ],
+    [
+      0.8717820048332214,
+      " I know grandiose"
+    ],
+    [
+      0.9754421710968018,
+      " I'd always been a dreamer"
+    ],
+    [
+      0.8777788281440735,
+      " I was going to interview 1314 people on this three-wheeled three-week pilgrimage to Paris they would tell me their stories"
+    ],
+    [
+      0.9475351572036743,
+      " I would write their stories and then that way I would tell the story of the Tour de France"
+    ],
+    [
+      0.7898475527763367,
+      " I meant lands at the Chateau De La Bella commentary"
+    ],
+    [
+      0.932504415512085,
+      " a beautiful hotel 10 miles south of Grenoble where he and his teammates were saying"
+    ],
+    [
+      0.9302771687507629,
+      " we sat down and we spoke for 3 hours"
+    ],
+    [
+      0.9700538516044617,
+      " I liked him and I think he likes me"
+    ],
+    [
+      0.9148482084274292,
+      " I was sure that I say young 20 when you're roasting Texas he had to be overall it by this enormous sporting Epic on the old continent he said no was it like that for him"
+    ],
+    [
+      0.9371169805526733,
+      " I said come on you know you're here to learn right and he said no I'm here to win"
+    ],
+    [
+      0.9311011433601379,
+      " of course he knew that he couldn't win the race you know the overall Victory but he felt he could win one leggers"
+    ],
+    [
+      0.9319755434989929,
+      " I thought that the stretching is"
+    ],
+    [
+      0.8726174831390381,
+      " 4 days later he did win I like about you is Tour de France"
+    ],
+    [
+      0.9054663777351379,
+      " he laid it out for me who he was"
+    ],
+    [
+      0.9645407199859619,
+      " he said he had this desire it almost felt like a rage"
+    ],
+    [
+      0.8531454801559448,
+      " and when he got to the end of the race he was shaped like Matt heafy Les harpies go up to 200 beats a minute"
+    ],
+    [
+      0.9183219075202942,
+      " I thought moment he said he often thought about his mother Linda would had him when she was aged 17 who'd raised and more or less as a single parent"
+    ],
+    [
+      0.9724708795547485,
+      " and he felt"
+    ],
+    [
+      0.8875643014907837,
+      " she didn't raise a quitter on the matter what happened he wasn't going to quit and he looked at me then stood and he said that's not physical this isn't good legs or lungs"
+    ],
+    [
+      0.8739174604415894,
+      " he said man this is heart it's Soul it's just pure guts"
+    ],
+    [
+      0.8837217688560486,
+      " and I listened to him and I talked wow 21 years of age"
+    ],
+    [
+      0.9863736629486084,
+      " we're going to hear about this guy"
+    ],
+    [
+      0.8941288590431213,
+      " two years later I was coming home from the trip because Sports Rogers we traveling off one month here at the Tour de France the next month it might be the Olympics the next month it might be something else"
+    ],
+    [
+      0.9556199908256531,
+      " this time I was coming home from the Rugby World Cup I've been in South Africa South Africa for 4 weeks"
+    ],
+    [
+      0.9516037106513977,
+      " go to the airport in Dublin was driving home as I turned into our house"
+    ],
+    [
+      0.8158060908317566,
+      " I looked into our front garden"
+    ],
+    [
+      0.8171624541282654,
+      " I'm so lost for Neighbors"
+    ],
+    [
+      0.918973982334137,
+      " I saw some of the school teachers that are kids sad with six kids"
+    ],
+    [
+      0.851028561592102,
+      " how to show the parish priest"
+    ],
+    [
+      0.9162176251411438,
+      " and I just knew that something terrible had happened"
+    ],
+    [
+      0.9216804504394531,
+      " I knew that once I opened the doors a car and spoke to somebody my life would change forever"
+    ],
+    [
+      0.7712364196777344,
+      " I open the door"
+    ],
+    [
+      0.9624322652816772,
+      " and someone I don't remember who"
+    ],
+    [
+      0.9000810384750366,
+      " told me the channel 12 year old son I wrote this boy had been killed off his bicycle coming from the foot Gaelic football match an hour before"
+    ],
+    [
+      0.9163445830345154,
+      " you can imagine how shattering devastating horrible that was for all of us life we go on but it would be a lesser life without John"
+    ],
+    [
+      0.859951376914978,
+      " we shot down as a family"
+    ],
+    [
+      0.9037883281707764,
+      " and we talked how do we try to deal with this"
+    ],
+    [
+      0.9164943099021912,
+      " my life is of the view that we would talk about John as much as we couldn't we would keep his memory fresh we would try as best we could not not to have to subject a hidden forbidden subject"
+    ],
+    [
+      0.9394717812538147,
+      " and I went and spoke to people who know and John Doe friends parents of it off his friends his rugby coach is Gaelic football coach his teacher has one story stood out"
+    ],
+    [
+      0.9348634481430054,
+      " when is John's teachers at kindergarten optional School in the Midlands of Ireland said to me that she remember John for something that happened when John was six or seven and she was reading the story of the nativity"
+    ],
+    [
+      0.9331366419792175,
+      " you know Mary and Joseph I come to bed lemon soda place in the end but all the Ainsworth Rollin they ended up in the stable and it was there that baby Jesus was born and the Shepherds came and then to three wise men came and they brought gifts of gold frankincense and myrrh"
+    ],
+    [
+      0.9419043064117432,
+      " how did Mary and Joseph went went back to where they came from and they lived a very modest life because Joseph is just a humble Carpenter and they didn't have very much"
+    ],
+    [
+      0.8305147886276245,
+      " Jones hand went up"
+    ],
+    [
+      0.829216480255127,
+      " and this is to meet his teacher said yes John and he said"
+    ],
+    [
+      0.942252516746521,
+      " miss you say that Mary and Joseph didn't have very much what did they do with the gold that is free wise men brought"
+    ],
+    [
+      0.8735427260398865,
+      " and she said"
+    ],
+    [
+      0.9632030129432678,
+      " I've been reading the story for 33 years"
+    ],
+    [
+      0.8718777298927307,
+      " and nobody has ever asked me that question"
+    ],
+    [
+      0.9317692518234253,
+      " and the honest answer is I don't know"
+    ],
+    [
+      0.9409633278846741,
+      " and I said Mrs to me that's the most beautiful story"
+    ],
+    [
+      0.9611005783081055,
+      " because for me it's the most pertinent question"
+    ],
+    [
+      0.9489684104919434,
+      " in that journalism which is my profession that's if she's in a nutshell what did Mary and Joseph do with the gold you ask the obvious question"
+    ],
+    [
+      0.8758805990219116,
+      " keeping my love with you people may think you're an idiot but that doesn't deter you if you're unsure you ask"
+    ],
+    [
+      0.7124069333076477,
+      " I like toast"
+    ],
+    [
+      0.9594783186912537,
+      " going on in my journalistic career"
+    ],
+    [
+      0.8779979348182678,
+      " I just going to take that with me"
+    ],
+    [
+      0.8347906470298767,
+      " I meant I'm so I'm Sprung again at the 99 Tour de France this was six years after that first interview and granola"
+    ],
+    [
+      0.924489438533783,
+      " we had both changed since that first meeting"
+    ],
+    [
+      0.8972412943840027,
+      " I was not one more inquiring journalists a little bit harder in my Approach may be a guy listen trying to believe in fairytales"
+    ],
+    [
+      0.9199314713478088,
+      " Lance to a changed he been diagnosed with testicular cancer stage 3 the ultimate form doctor said he had a 50% chance of surviving"
+    ],
+    [
+      0.8499756455421448,
+      " but he comes first changed"
+    ],
+    [
+      0.9042297601699829,
+      " what what what had happened was that he came close to losing his life and coming back he decided he wasn't going to get so close to losing again"
+    ],
+    [
+      0.9017632603645325,
+      " that sure was a"
+    ],
+    [
+      0.7953272461891174,
+      " famous maybe now Infamous to her"
+    ],
+    [
+      0.927665650844574,
+      " because Lance"
+    ],
+    [
+      0.7856995463371277,
+      " I'd written this race four times"
+    ],
+    [
+      0.8428220152854919,
+      " he never been a Tour de France Rider his best racing was 36th"
+    ],
+    [
+      0.9580614566802979,
+      " he didn't like the big mountains he couldn't do the time trials the stuff you have to do to win the Tour de France then he gets cancer life threatening he spends 2 years out of the sport he comes back and he's the dominant rider in the race he wins everything everybody applauds because this is the most life-affirming story you've ever heard back from cancer winning the Tour de France"
+    ],
+    [
+      0.7869892120361328,
+      " and I'm sad I stood at the side of the road and I felt emotionally Flash"
+    ],
+    [
+      0.8607617616653442,
+      " this was a story I just didn't believe how could it be that a man is transformed into a super Champion by a 2-year illness"
+    ],
+    [
+      0.9566640853881836,
+      " people said but after all he's been through he would never go and take drugs Woody and I thought"
+    ],
+    [
+      0.9240301251411438,
+      " if he's come back to make sure that he achieves what he wanted to achieve it might very well be the thing he would do so I watched and watched him very skeptic play everything I saw convinced me"
+    ],
+    [
+      0.8757423162460327,
+      " that he was using performance-enhancing drugs which were pretty widespread in dysport"
+    ],
+    [
+      0.8874703049659729,
+      " I remember on the day he won his first Tour de France I wrote my first seriously questioning piece in the Tour de in the Sunday Times"
+    ],
+    [
+      0.9388603568077087,
+      " it was a sentence that said"
+    ],
+    [
+      0.9050301909446716,
+      " there are times in life when it's right to appeal the champion tell her other occasions when you'd be better advised to Keep Your Arms by your sides"
+    ],
+    [
+      0.9748727679252625,
+      " this is an occasion for keeping our Arms by our sides because what we need here is not activation of the new champion"
+    ],
+    [
+      0.9455651044845581,
+      " but an inquiry"
+    ],
+    [
+      0.7342805862426758,
+      " that story"
+    ],
+    [
+      0.9148456454277039,
+      " I'm not the most patriotic negative reaction to any story I've ever done in 38 years of Journalism"
+    ],
+    [
+      0.9292363524436951,
+      " every reader who wrote our emails disapproved of what I've written"
+    ],
+    [
+      0.8997198939323425,
+      " Keith Miller from Glasgow wrote me a letter that said Mr Walsh you have the worst cancer of all kinds of disparage"
+    ],
+    [
+      0.7974110841751099,
+      " that's what I got. Passed my exterior walls"
+    ],
+    [
+      0.9513775110244751,
+      " I had a problem now and that basically I had said Lance Armstrong was a fraud innuendo you could say no real proof I had to find some proof"
+    ],
+    [
+      0.9652289748191833,
+      " I went looking for witnesses to Lance's doping who would become my sources"
+    ],
+    [
+      0.9102773070335388,
+      " I spent two years on the trail and I ended up with three people Stephen Schwartz from New Zealand ml Riley from Dublin and Betsy Andrea from Michigan in the US"
+    ],
+    [
+      0.8561906218528748,
+      " all of the captain on the inside at one time"
+    ],
+    [
+      0.8977960348129272,
+      " swore to former teammates and former worker in Lance's team Betsy Andreu wife of Lantus former best friend they all told me you don't they gave me a certain State witness stated that got drugs for a date herders"
+    ],
+    [
+      0.9323364496231079,
+      " Betsy Andreu turned out to be the most interesting of all she and her husband have been great friends of Lance they visited him during his cancer treatment in Indiana University Hospital while they stood in a room"
+    ],
+    [
+      0.8781501650810242,
+      " they heard lunch tell his doctor that he had used performance-enhancing drugs she knew what she heard"
+    ],
+    [
+      0.9324860572814941,
+      " I wrote the story I'm told but I breaking would be substantial proof and that and that it would end for lunch"
+    ],
+    [
+      0.907524585723877,
+      " it didn't work out like that through those early years land said it one time looked at me in the press conference inside"
+    ],
+    [
+      0.7874513268470764,
+      " Mister wash"
+    ],
+    [
+      0.8906158804893494,
+      " extraordinary accusations must be followed up by extraordinary proof and you haven't come up with next door to reprove"
+    ],
+    [
+      0.9510542750358582,
+      " I kind of wondered"
+    ],
+    [
+      0.8500676155090332,
+      " why was ordinary proof not enough"
+    ],
+    [
+      0.9748094081878662,
+      " but I do"
+    ],
+    [
+      0.9032127857208252,
+      " lunch was an icon to the concert Community he was a demigod in the sports worked different rules apply to him"
+    ],
+    [
+      0.8858861923217773,
+      " sponsors"
+    ],
+    [
+      0.9334477782249451,
+      " race organizers there was a Sports Authorities they were television broadcasters they were journalists and pretty much all of them were looking the other way"
+    ],
+    [
+      0.9860506057739258,
+      " this was a story a life-affirming story"
+    ],
+    [
+      0.9591649770736694,
+      " so good that nobody wants you to consider it might be a fraud even if the evidence was obvious"
+    ],
+    [
+      0.9663781523704529,
+      " I became easily the most unpopular journalists at the Tour de France"
+    ],
+    [
+      0.8124444484710693,
+      " I drew comfort from an old line of Marge Simpson's"
+    ],
+    [
+      0.8401732444763184,
+      " yes she even said there's no shame in being the pariah"
+    ],
+    [
+      0.794721782207489,
+      " and honestly"
+    ],
+    [
+      0.9700390696525574,
+      " I didn't"
+    ],
+    [
+      0.9731569290161133,
+      " I didn't feel ashamed"
+    ],
+    [
+      0.7110486626625061,
+      " Christian radio became"
+    ],
+    [
+      0.9023365378379822,
+      " by my eye sports editor from had a really she would bring me and she'd say did you see that story of the Seattle Times and I might say no she said read it and follow it up"
+    ],
+    [
+      0.9688541889190674,
+      " we would we would speak on the phone lots and lots of times and she was always there like my inspiration"
+    ],
+    [
+      0.9822529554367065,
+      " I never wanted it"
+    ],
+    [
+      0.9594261646270752,
+      " to be personal"
+    ],
+    [
+      0.9641606211662292,
+      " I mean I understood why Lance Armstrong joked he felt it was only it was his only way to win and he wasn't prepared to walk away and he wasn't prepared to lose I got that I still felt it was wrong and that I had every right to question him and I never wanted it to be personal he nicknamed me the little fucking troll"
+    ],
+    [
+      0.8731740117073059,
+      " I don't think I'm really popular with all the journalists to refer to me as that"
+    ],
+    [
+      0.9153332114219666,
+      " he called Betsy to Crazy Bitch"
+    ],
+    [
+      0.9118243455886841,
+      " and Betsy and I used we used to laugh about this and when I emailed her I'd say hi crazy bitch how are you today and she say I'm good how are you"
+    ],
+    [
+      0.934213399887085,
+      " only once did Lance get under my skin"
+    ],
+    [
+      0.9050491452217102,
+      " I was in the bookstore and I was leafing through the latest Lansbrook Armstrong's War by Daniel Coyle you know you go to the index look for your name see the pages and I start reading this section"
+    ],
+    [
+      0.9297027587890625,
+      " where Lance Armstrong is discussing in very derogatory terms my relationship with our son John who was killed"
+    ],
+    [
+      0.9326742887496948,
+      " he had heard that I described John as a favorite son and he said how can you describe him as a favorite son that's sick"
+    ],
+    [
+      0.49647241830825806,
+      " how do you set up other things"
+    ],
+    [
+      0.8769320845603943,
+      " I knew Daniel Coyle and I got out of that job"
+    ],
+    [
+      0.9064513444900513,
+      " I called on you and I said how could you everything that in the book and he said if you were if you're that you're that upset I said I on this Obsession he said I shouldn't have Rick Nash"
+    ],
+    [
+      0.8950051665306091,
+      " and he said all I can say to you is that"
+    ],
+    [
+      0.7709953188896179,
+      " Lance said a lot of things"
+    ],
+    [
+      0.9477383494377136,
+      " about your relationship with John"
+    ],
+    [
+      0.8313267230987549,
+      " and I didn't put in the worst"
+    ],
+    [
+      0.9005589485168457,
+      " and that didn't make me feel a lot better and I went to way and time passed and I thought"
+    ],
+    [
+      0.91159987449646,
+      " you know what I'm glad I knew call put that piece in his book because it's there now between two covers"
+    ],
+    [
+      0.9687827229499817,
+      " I want it does"
+    ],
+    [
+      0.906387984752655,
+      " is that a giant a pretty bright light on the darker side of Lance Armstrong"
+    ],
+    [
+      0.9027098417282104,
+      " in the end"
+    ],
+    [
+      0.833380937576294,
+      " the shapes got involved in the US are not like journalist"
+    ],
+    [
+      0.9259360432624817,
+      " dating and things like subpoenas and affidavits"
+    ],
+    [
+      0.8500697612762451,
+      " and you can't sue them"
+    ],
+    [
+      0.829373300075531,
+      " undefeated say to you if you lie to us is pretty."
+    ],
+    [
+      0.8941614627838135,
+      " I need you to commit perjury will make sure you go to prison that's why Mary and Jones ended up in prison she perjured herself with us guys"
+    ],
+    [
+      0.889953076839447,
+      " they had 26 with Misses all of them"
+    ],
+    [
+      0.7631449699401855,
+      " Chad Lance Armstrong with cheese"
+    ],
+    [
+      0.6814544796943665,
+      " 11 Austin"
+    ],
+    [
+      0.942070484161377,
+      " what former teammates"
+    ],
+    [
+      0.8191080093383789,
+      " Lance Armstrong at Edge"
+    ],
+    [
+      0.9815900921821594,
+      " you must have extraordinary proof"
+    ],
+    [
+      0.9003915786743164,
+      " If you're going to bring me down"
+    ],
+    [
+      0.8303262591362,
+      " this was extraordinary proof"
+    ],
+    [
+      0.9782694578170776,
+      " it all ended for lunch officially on October 22nd 2012"
+    ],
+    [
+      0.9244135618209839,
+      " I'm just driving on the M25 round London I knew it was a press conference in Switzerland and I decided"
+    ],
+    [
+      0.8291495442390442,
+      " that I had to hear it but I call it into a Starbucks cafe and one of them services off the in 25"
+    ],
+    [
+      0.8301653265953064,
+      " plug my computer into the international got the press conference 97 titles given a lifetime ban"
+    ],
+    [
+      0.8805383443832397,
+      " from cycling and never saying he deserve to be forgotten"
+    ],
+    [
+      0.9000539779663086,
+      " I feel strangely flash anticlimactic almost"
+    ],
+    [
+      0.8201548457145691,
+      " Arirang Betsy Andreu how to set Betsy how you feeling you've seen the press conference E I have she said"
+    ],
+    [
+      0.9147799015045166,
+      " she said I just feel anticlimactic about it now and maybe when we both didn't realize at that time was that the hunting life is always better than the kale"
+    ],
+    [
+      0.9216421842575073,
+      " I said to Betsy"
+    ],
+    [
+      0.9664254188537598,
+      " you know today is John's birthday October 22nd he would have been 30 today and Betsy said"
+    ],
+    [
+      0.959205687046051,
+      " she said maybe this is his little birthday gift to you on his birthday"
+    ],
+    [
+      0.8094627857208252,
+      " all right. Betsy that's a nice Josh"
+    ],
+    [
+      0.960443913936615,
+      " afterwards in the days and weeks and years that followed"
+    ],
+    [
+      0.885098934173584,
+      " people said you must feel Vindicated"
+    ],
+    [
+      0.9788172245025635,
+      " about the way this turned out and I said no"
+    ],
+    [
+      0.9654042720794678,
+      " I don't feel any sense of indication"
+    ],
+    [
+      0.9727603793144226,
+      " because I've known from the very first"
+    ],
+    [
+      0.9272218346595764,
+      " thought I was on the side of Truth and even in the darkest moments that was enough thank you very much"
+    ],
+    [
+      0.9654306769371033,
+      " David Walsh of cheap sports writer with the Sunday Times in the UK in 2012 he was Judge journalist of the year in the UK for his 13-year campaign to show that Lance Armstrong was not a true champion but an athlete who cheated lost wrote three books about Armstrong including the best seller seven deadly sins after David wrote the first article accusing Lance Armstrong of using performance-enhancing drugs Armstrong sued the Sunday Times to the tune of 1 million pounds taking damages from David and Allen English it was in the deputy sports editor the Sunday Times was forced to pay Armstrong three hundred thousand pounds but after his confession the paper Monster High Corbin to have that money paid back in full plus expenses they ultimately reached a confidential settlement that's it for this episode we hope you'll join us again next time for The Moth Radio Hour"
+    ],
+    [
+      0.9684190154075623,
+      " your Hostess hour was make bowls Meg also directed the stories in the show the rest of the most directorial staff includes Catherine Burns Sarah Haberman Sarah Austin jenness and Jennifer Hickson production support from moods 280mah stories are true as remembered and affirmed by the storytellers moth events are recorded by argot studios in New York City supervised by Paul Rue West Paris themed music is by the drift other music in this hour from Julian Lodge and Stellwagen symphonette you can find links to all the music we use at our website The Moth is produced for radio by me Jay Allison with Vicky Merrick at Atlantic public media in Woods Hole Massachusetts this hour was produced with funds from the Corporation for Public Broadcasting the National Endowment for the Arts and the John D & Catherine T MacArthur Foundation committed to building a more just verdant and peaceful world The Moth Radio Hour is presented by PRX for more about our podcast"
+    ],
+    [
+      0.9632880687713623,
+      " information on pitching your own story and everything else go to our website dumb off. Org"
+    ]
+  ]
+}
