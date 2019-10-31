@@ -1,1 +1,26 @@
-{'Stats': {'PodcastID': '1461511691.mp3', 'DownloadTime': 1, 'AudioLength': 66.459375, 'OriginalFileSize': 1068520, 'FlacFileSize': 5793233, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 37.90402793884277, 'DownloadSuccessful': '2.2926559448242188'}, 'Transcripts': [[0.9752715229988098, "as promised here's a sneak peek trailer of the new series we were alive Goldrush it's a super fun end of the world comedy adventure to recover a billion dollars in gold in the middle of the Apocalypse travel across the wastelands of high-speed chase scenes battles against the infected Horrors heroics love triangles and of course gold if you like what you hear listen to the audio drama that started it all and be transported into the theater for the mind with we're alive Gold Rush from Wayland Productions and podcastone the full first episode is also available now on Apple podcasts and podcastone.com new episodes drop every Tuesday I think the map and the gold it's real how well you know the story of Survivor coming soon from Wayland Productions your mom was a very secretive person"], [0.865924060344696, 'she left out details we just never turned into German'], [0.8886224031448364, ' all I can think about was the cold and it was like a drug a dream and incredible rush we are a lot like you by podcastone']]}
+{
+  "Stats": {
+    "PodcastID": "1461511691.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 66.459375,
+    "OriginalFileSize": 1068520,
+    "FlacFileSize": 5793233,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 37.90402793884277,
+    "DownloadSuccessful": 2.2926559448242188
+  },
+  "Transcripts": [
+    [
+      0.9752715229988098,
+      "as promised here's a sneak peek trailer of the new series we were alive Goldrush it's a super fun end of the world comedy adventure to recover a billion dollars in gold in the middle of the Apocalypse travel across the wastelands of high-speed chase scenes battles against the infected Horrors heroics love triangles and of course gold if you like what you hear listen to the audio drama that started it all and be transported into the theater for the mind with we're alive Gold Rush from Wayland Productions and podcastone the full first episode is also available now on Apple podcasts and podcastone.com new episodes drop every Tuesday I think the map and the gold it's real how well you know the story of Survivor coming soon from Wayland Productions your mom was a very secretive person"
+    ],
+    [
+      0.865924060344696,
+      "she left out details we just never turned into German"
+    ],
+    [
+      0.8886224031448364,
+      " all I can think about was the cold and it was like a drug a dream and incredible rush we are a lot like you by podcastone"
+    ]
+  ]
+}

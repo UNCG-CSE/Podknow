@@ -1,1 +1,50 @@
-{'Stats': {'PodcastID': '1272970334.mp3', 'DownloadTime': 1, 'AudioLength': 325.041625, 'OriginalFileSize': 5717712, 'FlacFileSize': 30058760, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 166.87046480178833, 'DownloadSuccessful': '6.472540378570557'}, 'Transcripts': [[0.9692620038986206, "intertie John we saw the links that people will go to to protect their loved ones now imagine someone you love with a life-threatening illness or unbearable pain you would do anything in your power to see them well again what happens if they are offered supposed miracle cure what ended up much worse than before in a new podcast from wondery called bad batch post and reporter Laura Beil investigates an important story in medicine stem cell therapy the bad batch to give a group of patients disastrous results bad batch reports on the multimillion-dollar on regulated industry of stem cell therapy an industry that claims to treat pain autoimmune diseases infections need an Autism into cautionary Tale in an important listen you're about to hear a preview of bad batch while you're listening go subscribe to bad batch on Apple podcast Spotify or wherever you're listening now there's also a link in the episode. That'll take you there"], [0.9688640236854553, "in the fall of 2015 John Kasich Sharon's mother called him with some worrying news well you know my mom my mom calls me with you what happened to me today I'm not feeling well and so is she send me pictures of her hand and she said all you know I burn today I burnt my hand and it's really bad dad well the gate on their Farm in Wisconsin that she was holding that gate and he dropped his glove fell into a pile of leaves the hold the torch up and away from the ground as he leaned over to pick up the glove and a blue flame degrees so it doesn't take but just a flash in in proximity and it's going to burn it almost to the Bone at the time she didn't sound overly concerned"], [0.9519627690315247, "the first John wasn't worried either he grew up on the farm and he knows that injuries are just a part of life in the country but over the next few days Lois started texting her son the photos I still have the entire series of pictures that's crazy and the pictures literally went from it look like wrinkled skin to the skin got blisters to the skin came off"], [0.9658913612365723, " until it you know it was really looking like the first three four five layers of skin had come off it painful a constant searing pain that won't go away finally his mom went to see a burn specialist and then burn doctor at Madison was saying you're probably going to lose his hand because as bad as it is there is no way you're going to be able to keep infection out of there then John had an idea a few years earlier Johnna tried a new kind of treatment to help heal a knee injury I didn't work great for him so we thought maybe Louis should try it for her hand she was willing to give it a go you get so desperate you'll do anything at any cost to try to live John Lewis mother to California he brought her to a clinic where she was hooked up to an IV and given stem cells"], [0.9513647556304932, ' and just like that her hand started to get better and not just her hand should had arthritis for years but after the stem cell treatments that started to get better to take a medication she stopped taking pain pills she was able to walk she had a garden she had we know watch the grandkids'], [0.9674049019813538, " she can answer her phone and type on the smartphone across the country in Texas Elaine Dilly tried to help her mother with stem cells just like John and done by husband and I would do anything to help her she would not be so lucky the doctor came in and he tell me that we've got to airlifter her kidneys are shutting down six and have a heart attack and I'm just kind of stunned were you afraid that you were going to lose her I knew I was going to lose her John and Elaine would both do anything for their mothers they both Place their hopes in the promise of a miracle cure"], [0.9568707942962646, " but that's not the only way they would come to be connected but I'm going to say that wherever there's opportunity there's greed and wherever there's money there's greed greed gets involved bad things happen anymore now you tell me earlier that you preferred not to use your name in this podcast"], [0.9796528220176697, ' can you tell me why'], [0.9155532121658325, ' that was just a preview of bad batch to listen to the rest subscribe to bad batch on Apple podcasts Spotify or wherever your listing right now']]}
+{
+  "Stats": {
+    "PodcastID": "1272970334.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 325.041625,
+    "OriginalFileSize": 5717712,
+    "FlacFileSize": 30058760,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 166.87046480178833,
+    "DownloadSuccessful": 6.472540378570557
+  },
+  "Transcripts": [
+    [
+      0.9692620038986206,
+      "intertie John we saw the links that people will go to to protect their loved ones now imagine someone you love with a life-threatening illness or unbearable pain you would do anything in your power to see them well again what happens if they are offered supposed miracle cure what ended up much worse than before in a new podcast from wondery called bad batch post and reporter Laura Beil investigates an important story in medicine stem cell therapy the bad batch to give a group of patients disastrous results bad batch reports on the multimillion-dollar on regulated industry of stem cell therapy an industry that claims to treat pain autoimmune diseases infections need an Autism into cautionary Tale in an important listen you're about to hear a preview of bad batch while you're listening go subscribe to bad batch on Apple podcast Spotify or wherever you're listening now there's also a link in the episode. That'll take you there"
+    ],
+    [
+      0.9688640236854553,
+      "in the fall of 2015 John Kasich Sharon's mother called him with some worrying news well you know my mom my mom calls me with you what happened to me today I'm not feeling well and so is she send me pictures of her hand and she said all you know I burn today I burnt my hand and it's really bad dad well the gate on their Farm in Wisconsin that she was holding that gate and he dropped his glove fell into a pile of leaves the hold the torch up and away from the ground as he leaned over to pick up the glove and a blue flame degrees so it doesn't take but just a flash in in proximity and it's going to burn it almost to the Bone at the time she didn't sound overly concerned"
+    ],
+    [
+      0.9519627690315247,
+      "the first John wasn't worried either he grew up on the farm and he knows that injuries are just a part of life in the country but over the next few days Lois started texting her son the photos I still have the entire series of pictures that's crazy and the pictures literally went from it look like wrinkled skin to the skin got blisters to the skin came off"
+    ],
+    [
+      0.9658913612365723,
+      " until it you know it was really looking like the first three four five layers of skin had come off it painful a constant searing pain that won't go away finally his mom went to see a burn specialist and then burn doctor at Madison was saying you're probably going to lose his hand because as bad as it is there is no way you're going to be able to keep infection out of there then John had an idea a few years earlier Johnna tried a new kind of treatment to help heal a knee injury I didn't work great for him so we thought maybe Louis should try it for her hand she was willing to give it a go you get so desperate you'll do anything at any cost to try to live John Lewis mother to California he brought her to a clinic where she was hooked up to an IV and given stem cells"
+    ],
+    [
+      0.9513647556304932,
+      " and just like that her hand started to get better and not just her hand should had arthritis for years but after the stem cell treatments that started to get better to take a medication she stopped taking pain pills she was able to walk she had a garden she had we know watch the grandkids"
+    ],
+    [
+      0.9674049019813538,
+      " she can answer her phone and type on the smartphone across the country in Texas Elaine Dilly tried to help her mother with stem cells just like John and done by husband and I would do anything to help her she would not be so lucky the doctor came in and he tell me that we've got to airlifter her kidneys are shutting down six and have a heart attack and I'm just kind of stunned were you afraid that you were going to lose her I knew I was going to lose her John and Elaine would both do anything for their mothers they both Place their hopes in the promise of a miracle cure"
+    ],
+    [
+      0.9568707942962646,
+      " but that's not the only way they would come to be connected but I'm going to say that wherever there's opportunity there's greed and wherever there's money there's greed greed gets involved bad things happen anymore now you tell me earlier that you preferred not to use your name in this podcast"
+    ],
+    [
+      0.9796528220176697,
+      " can you tell me why"
+    ],
+    [
+      0.9155532121658325,
+      " that was just a preview of bad batch to listen to the rest subscribe to bad batch on Apple podcasts Spotify or wherever your listing right now"
+    ]
+  ]
+}

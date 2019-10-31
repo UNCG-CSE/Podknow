@@ -1,1 +1,178 @@
-{'Stats': {'PodcastID': '1140596919.mp3', 'DownloadTime': 1, 'AudioLength': 805.537938, 'OriginalFileSize': 25829958, 'FlacFileSize': 65232533, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 280.61273097991943, 'DownloadSuccessful': '10.016175746917725'}, 'Transcripts': [[0.9438192248344421, "hi this is Meredith from Tenderfoot TV I'd like to tell you about a new podcast from to chado Media the heads of Sierra Blanca if you're an avid consumer of crime and shocking storytelling with a Twist this podcast is for you beware it's something a little different and it's not for the faint-hearted here's host Magdalena Silas to tell you more"], [0.9567400217056274, ' hey up and vanished listeners this is my villainous Alice host of the new podcast the heads of Sierra Blanca in 2007 a serial killer emerge that was influenced by Rube Goldberg machines they murdered load Ana Salas Carlos aniceto and Ana Nunez in Sierra Blanca Texas in a matter of months then vanished never to be seen again'], [0.9770721197128296, ' since then authorities have written off the killings as cartel violence spilling over from Mexico'], [0.9610202312469482, " but I didn't buy that story load Ana Salas was my aunt and I just know that isn't the truth on the heads of Sierra Blanca I will take you in real time on my journey to find out what really happened to my Tia and find the culprit as promised here is a clip and while you listen search for the heads of Sierra Blanca in your podcast app And subscribe not your typical pillar there's something much more impersonal behind this than anything I've ever seen in my career sending code 37 year old Lorena Salas found dead in her home the killer believed to have drugged her this set up an elaborate Contraption around her home which ended in her decapitation"], [0.9852348566055298, ' this is the heads of Sierra Blanca'], [0.9691557884216309, " welcome to the heads of Sierra Blanca my name is Monica Rodriguez and I magallanes Alice but you can call me Lena I'm a former El Paso County police detective and current private investigator with over 20 years experience in the field I've known Monica for half my life she's been a close friend of mine and my family's for as long as I can remember when Little's Aunt Lorena first moved to Sierra Blanca we were best friends I might even go as far as saying we were inseparable that being said Monica and I came together to make this podcast because we both wanted to reinvestigate a case that changed our lives forever the roof deck murders for those of you that don't know the Ruben rube deck stands for Rube Goldberg machine"], [0.9340949654579163, " a Rube Goldberg machine is a device that performs a simple task in a complicated way like a ball rolls and hits into some Domino's which then knocks over a vase"], [0.8434622287750244, " I'm usually at the end of the sequence if a phone is an important task"], [0.9522899985313416, " I just turning the page in a newspaper the killer would construct a similar device accept his climactic ending involved the decapitation of his victims that's the deck do understand the crimes it is important to have some general knowledge of the history of the region before I moved 2 hours North to Seattle Blanca I grew up fearing for my life this wasn't just because a killer could show up at my doorstep at any time but because if they did no one would even care that was just life in C without a Cuates"], [0.9201340079307556, " it is undoubtedly one of the most dangerous places on the time Planet Play by drug wolf after the mysterious violent deaths of hundreds of women and girls since the early nineties CNN Paris it's just across the border from the US city of El Paso Texas once the thousands killed over rule whatever 300 women the young girls have died since 1993 local groups believe in Good Will numbers to be a federal investigation but still unable to identify most of the killers read an established wrong motives"], [0.974643349647522, " these were Independent Women mostly abducted on their way to work like your mom my mother was the Sole Provider of our family and labor to weigh at the same maquiladoras as so many of these victims when I talk about it talk about economic balance a lot of them work in transnational corporations that are along the border their pay very low wages and end all of these jobs are predominantly held by women they're making maybe $80 a week and also relates to to the sex trade he was also pretty clear who was behind most of us this is what journalist Johann Hari had to say about it on The Joe Rogan Experience he's most well-known for his book covering the War on Drugs called chasing the scream if you remember the searches about time in Juarez has two production of the drug gangs to spice them you own the site right you have if if I could trust 70% of the economy you have more money than the government right to the police work tomorrow it's going to be worse audio he said the police would would come with me"], [0.9515483379364014, " dispose of the puppy so my mom my aunt and I packed up and left 15 years ago we came across the border to build a new life in Seattle Blanca I was 10 years old and although it was only 80 miles from Juarez it felt like a different planet life seems peaceful and away and never had before cheer tumbleweeds outnumbered people a thousand to one and there are only two restaurants in town El Sierra Blanca is so small there isn't even a grocery store for many years do you have a blank has most infamous incidents of crime was this"], [0.9697715640068054, " why you heard that red headed stranger Willie Nelson was arrested Friday at a Sierra Blanca Texas border checkpoint he was charged with possessing 6 oz of the deadly double weed marijuana but that all changed in 2007 my aunt Loretta's got a job waitressing at delfina's Sierra Blanca is only Mexican restaurant she started making great money on tips and moved out of our spot to her very own house for her that was everything and as a family we were excited to celebrate it on the night of March 26th Thea was supposed to come over for dinner mom and I made homemade tortillas chilaquiles the works"], [0.9788883924484253, ' after waiting an hour we called her and it went straight to voicemail'], [0.9886590242385864, " at that point it didn't seem all that strange no alarm Bells were ringing"], [0.9873098731040955, ' we called again an hour later'], [0.9757394194602966, " still nothing we waited by the phone but something didn't feel right it wasn't like the out to just blow off her own family we just knew something that happened so Mom and I decided to stop by her house and make sure she was okay"], [0.9451013207435608, " she wasn't this just in Sierra Blanca Texas 37 year old Lorena Salas found dead in her home in the late hours of the evil the killer believed to have drugged her this set up an elaborate Contraption around her home which ended in her decapitation the perpetrator also appears to have been live streaming the entire chain of events hudspeth County Sheriff's Department examining the footage as we speak on behalf of punch with County and the Salas Family to find Justice for this heinous crime we have no additional comment at this time"], [0.962054967880249, " I couldn't believe it the whole event was unconscionable I remember watching my mother cry herself to sleep night after night is if there was something she could have done to stop it I couldn't conceal her she was completely numb and capable of letting this new reality sinking and Lena how did you feel I remember stopping at the lafiness everyday on my walk home from school it was 10 minutes out of the way but I didn't care"], [0.9582788944244385, ' as it approached the restaurant I get a little jolt of hope that maybe just maybe'], [0.9165661931037903, " she be there that I'd look through the window and she be pouring coffee that she was just working this whole time and that all of it was just some sort of messed up dream"], [0.977091908454895, " but of course that wasn't true"], [0.9692988991737366, " the police had virtually no incriminating evidence and no potential suspects it was a media frenzy with the same handful of fact circulating endlessly going nowhere we had a chance to sit down with the sheriff to discuss it could you introduce yourself for the tape please Sheriff I'm sure Barbara Gardner Gardner from hudspeth County Jairo was born here and Sierra Blanca and I'm living in this town almost my whole life and how long have you been working for the force anime in 1975 and then worked in Hidalgo County as a deputy for a little bit until returning and in 1980"], [0.9321842193603516, " very 99jamz Lincoln hudspeth County Sheriff so in total up serve this County damn near forty years so if you aren't that tough experience how do you normally investigate a case like this and what were your first thoughts"], [0.9552024602890015, " usually during a homicide investigation you died deep into the victim's life you talk to their family friends co-workers significant others try to find leads from there you know nine times out of 10 when someone wants up dead the purple someone they knew your aunt though she she kept to herself she got up early and went to work spend time with family and she had no extra professional relationships with co-workers or customers no significant others week we couldn't find any reasonable motive for anyone who knew her what did you learn from the video"], [0.9271491169929504, " not your typical killer there's something much more impersonal on this than anything I've ever seen in my career"], [0.9543222188949585, " something colder unfortunately to best understand the roof deck killer I think it's important to play some Snippets of the audio the video starts off with an alarm"], [0.8077489137649536, ' Lorena was tied down'], [0.903059720993042, ' her mouth gags'], [0.9553567171096802, ' the chair was Nails into the ground which prevented her from gaining any sort of traction'], [0.9104824066162109, ' it was a plate balance on her head with a string tied against it'], [0.6318496465682983, ' darn'], [0.9061532616615295, " you're useless exist"], [0.8819690346717834, ' you will find'], [0.9147441387176514, " no matter how many times I listen to that I still don't understand what that means mean either though we'll get back to that later"], [0.9533581137657166, ' Mirena then Stood Still for 45 minutes even though she was gagged you could see her running through the full gamut of thoughts and emotions the first she began to cry frantically and her eyes were bloodshot'], [0.9619833827018738, ' starting around the room looking for any opportunity to save her life'], [0.9071767330169678, " after exhausting every thought it seemed as if she deflated into a sense of definitely, this it was almost like she came to the realization she couldn't find it forever"], [0.8641873002052307, " but she didn't have control"], [0.7647653818130493, " it'll finally know. I let her head drop"], [0.9696893095970154, ' thanks for listening the rest of the first episode and the second episode of the heads of Sierra Blanca are available now so subscribe now to the heads of Sierra Blanca on Apple podcast Spotify or wherever you listen to podcasts']]}
+{
+  "Stats": {
+    "PodcastID": "1140596919.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 805.537938,
+    "OriginalFileSize": 25829958,
+    "FlacFileSize": 65232533,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 280.61273097991943,
+    "DownloadSuccessful": 10.016175746917725
+  },
+  "Transcripts": [
+    [
+      0.9438192248344421,
+      "hi this is Meredith from Tenderfoot TV I'd like to tell you about a new podcast from to chado Media the heads of Sierra Blanca if you're an avid consumer of crime and shocking storytelling with a Twist this podcast is for you beware it's something a little different and it's not for the faint-hearted here's host Magdalena Silas to tell you more"
+    ],
+    [
+      0.9567400217056274,
+      " hey up and vanished listeners this is my villainous Alice host of the new podcast the heads of Sierra Blanca in 2007 a serial killer emerge that was influenced by Rube Goldberg machines they murdered load Ana Salas Carlos aniceto and Ana Nunez in Sierra Blanca Texas in a matter of months then vanished never to be seen again"
+    ],
+    [
+      0.9770721197128296,
+      " since then authorities have written off the killings as cartel violence spilling over from Mexico"
+    ],
+    [
+      0.9610202312469482,
+      " but I didn't buy that story load Ana Salas was my aunt and I just know that isn't the truth on the heads of Sierra Blanca I will take you in real time on my journey to find out what really happened to my Tia and find the culprit as promised here is a clip and while you listen search for the heads of Sierra Blanca in your podcast app And subscribe not your typical pillar there's something much more impersonal behind this than anything I've ever seen in my career sending code 37 year old Lorena Salas found dead in her home the killer believed to have drugged her this set up an elaborate Contraption around her home which ended in her decapitation"
+    ],
+    [
+      0.9852348566055298,
+      " this is the heads of Sierra Blanca"
+    ],
+    [
+      0.9691557884216309,
+      " welcome to the heads of Sierra Blanca my name is Monica Rodriguez and I magallanes Alice but you can call me Lena I'm a former El Paso County police detective and current private investigator with over 20 years experience in the field I've known Monica for half my life she's been a close friend of mine and my family's for as long as I can remember when Little's Aunt Lorena first moved to Sierra Blanca we were best friends I might even go as far as saying we were inseparable that being said Monica and I came together to make this podcast because we both wanted to reinvestigate a case that changed our lives forever the roof deck murders for those of you that don't know the Ruben rube deck stands for Rube Goldberg machine"
+    ],
+    [
+      0.9340949654579163,
+      " a Rube Goldberg machine is a device that performs a simple task in a complicated way like a ball rolls and hits into some Domino's which then knocks over a vase"
+    ],
+    [
+      0.8434622287750244,
+      " I'm usually at the end of the sequence if a phone is an important task"
+    ],
+    [
+      0.9522899985313416,
+      " I just turning the page in a newspaper the killer would construct a similar device accept his climactic ending involved the decapitation of his victims that's the deck do understand the crimes it is important to have some general knowledge of the history of the region before I moved 2 hours North to Seattle Blanca I grew up fearing for my life this wasn't just because a killer could show up at my doorstep at any time but because if they did no one would even care that was just life in C without a Cuates"
+    ],
+    [
+      0.9201340079307556,
+      " it is undoubtedly one of the most dangerous places on the time Planet Play by drug wolf after the mysterious violent deaths of hundreds of women and girls since the early nineties CNN Paris it's just across the border from the US city of El Paso Texas once the thousands killed over rule whatever 300 women the young girls have died since 1993 local groups believe in Good Will numbers to be a federal investigation but still unable to identify most of the killers read an established wrong motives"
+    ],
+    [
+      0.974643349647522,
+      " these were Independent Women mostly abducted on their way to work like your mom my mother was the Sole Provider of our family and labor to weigh at the same maquiladoras as so many of these victims when I talk about it talk about economic balance a lot of them work in transnational corporations that are along the border their pay very low wages and end all of these jobs are predominantly held by women they're making maybe $80 a week and also relates to to the sex trade he was also pretty clear who was behind most of us this is what journalist Johann Hari had to say about it on The Joe Rogan Experience he's most well-known for his book covering the War on Drugs called chasing the scream if you remember the searches about time in Juarez has two production of the drug gangs to spice them you own the site right you have if if I could trust 70% of the economy you have more money than the government right to the police work tomorrow it's going to be worse audio he said the police would would come with me"
+    ],
+    [
+      0.9515483379364014,
+      " dispose of the puppy so my mom my aunt and I packed up and left 15 years ago we came across the border to build a new life in Seattle Blanca I was 10 years old and although it was only 80 miles from Juarez it felt like a different planet life seems peaceful and away and never had before cheer tumbleweeds outnumbered people a thousand to one and there are only two restaurants in town El Sierra Blanca is so small there isn't even a grocery store for many years do you have a blank has most infamous incidents of crime was this"
+    ],
+    [
+      0.9697715640068054,
+      " why you heard that red headed stranger Willie Nelson was arrested Friday at a Sierra Blanca Texas border checkpoint he was charged with possessing 6 oz of the deadly double weed marijuana but that all changed in 2007 my aunt Loretta's got a job waitressing at delfina's Sierra Blanca is only Mexican restaurant she started making great money on tips and moved out of our spot to her very own house for her that was everything and as a family we were excited to celebrate it on the night of March 26th Thea was supposed to come over for dinner mom and I made homemade tortillas chilaquiles the works"
+    ],
+    [
+      0.9788883924484253,
+      " after waiting an hour we called her and it went straight to voicemail"
+    ],
+    [
+      0.9886590242385864,
+      " at that point it didn't seem all that strange no alarm Bells were ringing"
+    ],
+    [
+      0.9873098731040955,
+      " we called again an hour later"
+    ],
+    [
+      0.9757394194602966,
+      " still nothing we waited by the phone but something didn't feel right it wasn't like the out to just blow off her own family we just knew something that happened so Mom and I decided to stop by her house and make sure she was okay"
+    ],
+    [
+      0.9451013207435608,
+      " she wasn't this just in Sierra Blanca Texas 37 year old Lorena Salas found dead in her home in the late hours of the evil the killer believed to have drugged her this set up an elaborate Contraption around her home which ended in her decapitation the perpetrator also appears to have been live streaming the entire chain of events hudspeth County Sheriff's Department examining the footage as we speak on behalf of punch with County and the Salas Family to find Justice for this heinous crime we have no additional comment at this time"
+    ],
+    [
+      0.962054967880249,
+      " I couldn't believe it the whole event was unconscionable I remember watching my mother cry herself to sleep night after night is if there was something she could have done to stop it I couldn't conceal her she was completely numb and capable of letting this new reality sinking and Lena how did you feel I remember stopping at the lafiness everyday on my walk home from school it was 10 minutes out of the way but I didn't care"
+    ],
+    [
+      0.9582788944244385,
+      " as it approached the restaurant I get a little jolt of hope that maybe just maybe"
+    ],
+    [
+      0.9165661931037903,
+      " she be there that I'd look through the window and she be pouring coffee that she was just working this whole time and that all of it was just some sort of messed up dream"
+    ],
+    [
+      0.977091908454895,
+      " but of course that wasn't true"
+    ],
+    [
+      0.9692988991737366,
+      " the police had virtually no incriminating evidence and no potential suspects it was a media frenzy with the same handful of fact circulating endlessly going nowhere we had a chance to sit down with the sheriff to discuss it could you introduce yourself for the tape please Sheriff I'm sure Barbara Gardner Gardner from hudspeth County Jairo was born here and Sierra Blanca and I'm living in this town almost my whole life and how long have you been working for the force anime in 1975 and then worked in Hidalgo County as a deputy for a little bit until returning and in 1980"
+    ],
+    [
+      0.9321842193603516,
+      " very 99jamz Lincoln hudspeth County Sheriff so in total up serve this County damn near forty years so if you aren't that tough experience how do you normally investigate a case like this and what were your first thoughts"
+    ],
+    [
+      0.9552024602890015,
+      " usually during a homicide investigation you died deep into the victim's life you talk to their family friends co-workers significant others try to find leads from there you know nine times out of 10 when someone wants up dead the purple someone they knew your aunt though she she kept to herself she got up early and went to work spend time with family and she had no extra professional relationships with co-workers or customers no significant others week we couldn't find any reasonable motive for anyone who knew her what did you learn from the video"
+    ],
+    [
+      0.9271491169929504,
+      " not your typical killer there's something much more impersonal on this than anything I've ever seen in my career"
+    ],
+    [
+      0.9543222188949585,
+      " something colder unfortunately to best understand the roof deck killer I think it's important to play some Snippets of the audio the video starts off with an alarm"
+    ],
+    [
+      0.8077489137649536,
+      " Lorena was tied down"
+    ],
+    [
+      0.903059720993042,
+      " her mouth gags"
+    ],
+    [
+      0.9553567171096802,
+      " the chair was Nails into the ground which prevented her from gaining any sort of traction"
+    ],
+    [
+      0.9104824066162109,
+      " it was a plate balance on her head with a string tied against it"
+    ],
+    [
+      0.6318496465682983,
+      " darn"
+    ],
+    [
+      0.9061532616615295,
+      " you're useless exist"
+    ],
+    [
+      0.8819690346717834,
+      " you will find"
+    ],
+    [
+      0.9147441387176514,
+      " no matter how many times I listen to that I still don't understand what that means mean either though we'll get back to that later"
+    ],
+    [
+      0.9533581137657166,
+      " Mirena then Stood Still for 45 minutes even though she was gagged you could see her running through the full gamut of thoughts and emotions the first she began to cry frantically and her eyes were bloodshot"
+    ],
+    [
+      0.9619833827018738,
+      " starting around the room looking for any opportunity to save her life"
+    ],
+    [
+      0.9071767330169678,
+      " after exhausting every thought it seemed as if she deflated into a sense of definitely, this it was almost like she came to the realization she couldn't find it forever"
+    ],
+    [
+      0.8641873002052307,
+      " but she didn't have control"
+    ],
+    [
+      0.7647653818130493,
+      " it'll finally know. I let her head drop"
+    ],
+    [
+      0.9696893095970154,
+      " thanks for listening the rest of the first episode and the second episode of the heads of Sierra Blanca are available now so subscribe now to the heads of Sierra Blanca on Apple podcast Spotify or wherever you listen to podcasts"
+    ]
+  ]
+}

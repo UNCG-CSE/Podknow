@@ -1,1 +1,726 @@
-{'Stats': {'PodcastID': '1089216339.mp3', 'DownloadTime': 1, 'AudioLength': 1683.226122, 'OriginalFileSize': 27188371, 'FlacFileSize': 136363740, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 582.1304783821106, 'DownloadSuccessful': '17.252115488052368'}, 'Transcripts': [[0.9243294596672058, "one Saturday morning in June 1999 15 year old Charmaine Ananda Val disappeared and never came home no one has ever been charged with her murder but there was a suspect never ever, I met a man like him this season on uncover I don't recall what you told me uncover sharmini available now wherever you get your podcast"], [0.9066831469535828, 'this is a CBC podcast'], [0.7476892471313477, ' play a Flo Rida cry'], [0.9430921673774719, " I'll get a Diet Coke please with fries and what do you want"], [0.939696192741394, ' give me a kiss for summer'], [0.9091057181358337, ' you should lot of people stopping on you'], [0.8901392817497253, ' not really'], [0.9173183441162109, " you don't know what is it"], [0.6942971348762512, ' I my brother long enough'], [0.8658515810966492, ' friends on the right pick up a 19 for 19 years old Clinton from here'], [0.8541199564933777, ' I did a load them in the trunk of a car'], [0.7404124736785889, ' control cross the river'], [0.9810798168182373, ' oh my gosh'], [0.9602365493774414, ' you are listening to someone know something from CBC podcasts and season 3 David ridgen teams up with Thomas More to investigate the murders of Charles Moore and Henry D who were killed by the Ku Klux Klan in 1964 as a result of their investigation clansmen James Ford seale was convicted of the crime and later died in prison'], [0.957273542881012, " in this episode some of which was recorded during a live presentation in June David and Thomas reflect on their search for justice and what they've learned in the years since this is a season 3 bonus return to Mississippi"], [0.8077163696289062, " I think you're talking about Tara"], [0.6147316694259644, ' Pierre Robin Taylor'], [0.6840941905975342, ' all my days'], [0.9776585102081299, " thanks very much for coming everybody so many people you know I'm usually in the dark talking on my own into a mic I'm not usually in front of a whole bunch of people like this but I kind of like it do you always ask me the question what made you get into investigation and the seeking of honesty became one of my life. I'm driving forces and I speak to you in a way that makes it appear as if I know where a bean and I where I'm going but I'm not going to pretend my opinion is that we never really know why we do most things everything else is the story filling in the space between two me the empty space always feeling his face was Story the empty space is what drives everything human how we feel it how we make it make meaning for us and the definition of honesty and Truth well problematic but let's agree that seeking honesty starts with being honest about ourselves starts with the understanding that the act of telling others truth can offer up a kind of release some people brand themselves with authenticity to make money cuz I can't Issa T cells but it's not the same as truth authenticity is the blush"], [0.976851761341095, ' once you find it you know it and it will change you'], [0.9587891697883606, " I was change my work on this case with Thomas More the 1964 murder of Henry Dee and Charles Moore by the white Knights of the Ku Klux Klan in Mississippi and today we're all fortunate to have Thomas here with us one of my greatest friends to one of the smartest people I've ever met"], [0.8274477124214172, ' Thomas More'], [0.8992164134979248, ' again I want to thank everyone for coming here and putting over David and I'], [0.9547523856163025, ' I wish I had the time to tell you how I feel over him'], [0.8012901544570923, ' and he had to put up with me 2005'], [0.9366660118103027, ' I retired from the military'], [0.9039798974990845, ' Outland living a good life'], [0.9668909311294556, ' I became comfortable'], [0.9307684898376465, ' thinking about Charles Moore'], [0.9231014251708984, ' never knowing the facts who what when why how'], [0.7618836164474487, ' living on rumors'], [0.7381258606910706, ' David Richard contacted me like I was actually sometimes you picked up'], [0.9256176948547363, ' finally I sent him a FedEx letter because I thought something wrong with the owner'], [0.9513742923736572, ' so what was going on with that well it seems like every year someone will contact me Los Angeles time ABC news they asked me to give them some details about the case'], [0.8999941349029541, " I said he'll I don't know nothing about the case I let you know I never seen a document"], [0.814854085445404, " me and my mom didn't want to talk about it but I just got tired of people asking me what happened"], [0.9117452502250671, " I just stopped answering phones and David help me to call and then I went up on the mountain please and got that letter that he wrote several months ago and I plan to come from Colorado Springs to meet with me and this guy is a clam but I'm not but then you showed up with his wife and this song"], [0.8571177124977112, ' not so well I think I can take them all out if I have to'], [0.9121319651603699, ' so they were going to tell me what his plan was to go to Mississippi with him to try to find out something I asked'], [0.9540367722511292, ' what can I expect to get out of this trip'], [0.8164934515953064, " we'll get a little bit of Truth"], [0.8830435276031494, " and that's totally Jonah but I think of him totally different"], [0.937295138835907, ' are going to have a bad day'], [0.9003636837005615, ' I think about what Dave and I was able to do'], [0.8570902347564697, " am I dating around I often ask myself and I'll talk to David a minute minute time"], [0.9289554953575134, ' what if'], [0.8873938918113708, " but David asked me to go to Mississippi and 2005 what if I had said no I'm used to living in pain what if I then I wouldn't be standing here today"], [0.957632303237915, " because I'm free as got some justice"], [0.9373892545700073, " please drive to highlighted route what do you think of this lady not knowing anything about the memorial it's about 40 feet from her front door I've taken for granted they don't they don't want to know"], [0.8474888205528259, ' I guess gold it look'], [0.8554983139038086, " there's somebody going across look right now"], [0.944567859172821, " 556 I'm surprised that she never took the time to look at what's right across that mean you can't look at that front window that staring at the thing the whole time."], [0.9436750411987305, ' the day we roll down this road going to Franklin County'], [0.9570562243461609, ' who do we know within 20 miles of where we are right now'], [0.6226896047592163, ' where would we told the giant bull Shield still alive'], [0.7679839134216309, ' resume the truth'], [0.6525214910507202, ' so we can look for'], [0.6037957668304443, " but there's no volume"], [0.9516708254814148, " this is a picture of Thomas and I standing next to one of several Memorial signs be put up in and around me Bill it's changed since then several iterations some of them were ripped down there remember child more Heavy D in such a way that so many people have forgotten about I didn't want to come to the realization that we build handmade Memorial"], [0.8424630761146545, ' Eva long time until 2007 there was no pictures of Henry D and reduce family just split up'], [0.8313490152359009, " without him we'd be pissing so we put it up"], [0.8751651048660278, ' alarm in speeches to people that I continue to do I tell them that looked at Memorial Day reliabilt is not for child no one here has D is for you to remind you every time you bought a spot at this crowd'], [0.8863875865936279, ' another friend of mine 2 months ago invited me on a tour and the Civil Rights Museum in Montgomery and she has worked so hard to get a steak'], [0.7604496479034424, ' Memorial built to honor a child Motrin every day'], [0.8018637895584106, ' places right by the one that David output up'], [0.9581228494644165, " this this is the site where the memorial is where energy and Charles Moore were hitchhiking on May 2nd 1964 Charles and Henry were murdered by members of the white Knights of the Ku Klux Klan on May 2nd my feeling is the sum of the sort of the more Insidious aspects of racism still exist in the South and in the north I don't know if you've changed much since we left I think there has been some change"], [0.9342737793922424, " the people that want it to chance they have made some change but not nearly enough the David I was going running around over 20 times in Mississippi nobody invited us to hell with hamburger lunch they wanted to stay away I think that's still feel and look at look at America right now we still separate"], [0.7839870452880859, ' you have the blacks over here the other whites over here'], [0.9380495548248291, ' I still have the little small cup that Mama used to put in your purse'], [0.9195237755775452, " Neverwinter to Meadville to get some water from the fountain what is that color that white they don't have that now"], [0.9353572726249695, ' but that still separation'], [0.8092946410179138, " and will never change I don't know"], [0.8312405943870544, " will travel the road but Aaron didn't know it was in the car with you then"], [0.6576946973800659, ' who played in the hill to the left'], [0.7922740578651428, ' County Fairgrounds'], [0.7650951743125916, ' the first time I ever made out with my girl right back there'], [0.8200234770774841, ' I usually play with new family that live over here just the hospital over to the right and they moved that old tanks'], [0.7487406730651855, " are we going to do my play it wasn't cool been poisoned tank because everybody"], [0.6729859113693237, ' my plan Google pull up the damn thing'], [0.9591350555419922, ' will we we supposed to downtown'], [0.7226094603538513, ' meet you at Mississippi'], [0.8794629573822021, ' the last day of job more life he walked on down here'], [0.7825143933296204, ' trouble starting'], [0.906457781791687, ' roll up in Meadville at the time my dad I would dad died when I was two and a half years old child movie 1/2 and Mom had to get on the welfare'], [0.9008093476295471, ' in the match that we received when I was 18 with $12 a month'], [0.8181087970733643, " it's a can with a real life every time I left home I leave the walking a little red wagon"], [0.8024755716323853, ' people fighting pictures'], [0.8603764772415161, " but I'm so glad in my wall"], [0.9091495871543884, ' Rachel Morgan how to respect each other and respect what she did for us'], [0.8723580241203308, ' you want to talk a little bit about your experiences me Bill growing up'], [0.8058986663818359, ' reply guards for David I find out later was action cleanse'], [0.9298374056816101, ' and if it was lunch time we ply their Garden they invited us in D dump when we went into the table we leave with them they brought us in the back what they had collard green cornbread chicken everything that has black people there'], [0.9195376634597778, " but I didn't know what they were planning on"], [0.8033813238143921, ' I laid all I am convinced that'], [0.8789324164390564, ' everyone in Franklin County black and white new what happened'], [0.6436000466346741, ' and they were these a plasma'], [0.8583121299743652, ' sympathizer afraid of the clan that was Franklin County'], [0.8624193072319031, ' bulshit'], [0.8851463198661804, ' this all was open and the house was like sitting right here facing that way with Mama could look and see all the way up all this was over'], [0.8452309370040894, ' is she up to the road and that what she thought you walk dinosaurs'], [0.8350935578346252, " I told Mom he he won't come back"], [0.9000779986381531, " but that's what she died April 29th"], [0.9327082633972168, ' 1977'], [0.8818761706352234, " I'll come in I didn't know what you would did"], [0.6473428606987, ' Hydro diners Rewards'], [0.7894189953804016, ' girls out porch want to see the house I seen it to three cars parked over there have been told you sick'], [0.8387743234634399, " and I'll come and see what I could do to the hospital"], [0.7770808339118958, ' spoke to everybody and I have to have my phone was doing'], [0.6901941299438477, " she's a boy your mama did"], [0.9650664329528809, ' we got to the church'], [0.8614635467529297, ' I have my uniform all for her funeral'], [0.9316710233688354, ' and I walked in front of her casket'], [0.8694367408752441, ' into the church'], [0.9580327272415161, " so from working on this has to be cold case with Thomas I developed all the Hallmarks that would become part of my later work investigating murder I learned much of what I know from this case your case really have transferred it into any of the other work I've done for SKS so first family must form the main pillar of any investigation entegral meaningful family involvement can be proof against exploitation cuz it's awesome level two podcasters like me that you're just explaining cases to make millions I'll tell out my sardines that I brought on my trip with me and to some extent I see family and their confrontation of darkness and potentially killing that make a note of this is the main reason to do this I don't really do it cuz it's true crime or whatever"], [0.9296064972877502, " orange Justice can only take you so far once you're suspect is convicted and everyone goes home still have that empty space and Bill Wright how do you feel about the experience working with me on this, it's not a lot of cars and I didn't I mean I'm not we didn't plan this question"], [0.8456891179084778, ' I never will be able to express'], [0.9710869193077087, ' the friendship'], [0.8858087062835693, ' the way of the bail amount of fact I told him that'], [0.659800112247467, ' Pinterest take the place of child more'], [0.8049626350402832, ' they got were walking this morning I hear this Mockingbird singing'], [0.9111679196357727, ' tool is amazing that all the time that we came down there I never will peaceful minded enough to hear about a person'], [0.8717140555381775, ' the peaceful medicine incompletion now you can listen to the Mockingbird say'], [0.9193085432052612, " they don't know me David know what to say and when it said David kept this picture of Charles Moore skull for years after we met until he will convince"], [0.9223546981811523, " but I had made a chance they would make sure that when we went to Mississippi I didn't have that 3030 a 12 gauge shotgun"], [0.951397716999054, ' David knew what he was getting to the point of pissing me off'], [0.8391488790512085, " David I'll see you in a minute time"], [0.8314620852470398, ' but I want to stand here today and tell you that I am but you help for do and helping me find a shoe you protect yourself did it go'], [0.805191695690155, ' what you think of that crimecon tank common interview'], [0.9372462630271912, ' nothing great thing I think these kind of coffee is always good to thank you for telling me about how to how people find Justice and Truth for themselves but the different kind of way of looking at allegedly True Crime now'], [0.5027411580085754, ' can you record'], [0.9279260635375977, " these days you get more comfortable by dr. King said only jail in Alabama negro Hampshire how does it feel in Alabama so well said they still throwing stones at but I learn how to do so you don't get over this"], [0.9789207577705383, ' drive to highlighted route'], [0.9371610879898071, ' we talked about'], [0.791225016117096, ' meeting you at 2005 and'], [0.8331873416900635, ' was able to go out and do as I was able to throw experience knowledge confidence and all that that case'], [0.893055260181427, ' did for your personal life'], [0.8516047596931458, ' new outlook on life'], [0.9875748753547668, ' the most important thing for me is'], [0.9189783334732056, ' does the guy was able to make something happen that there was something that I did that had some Ripple effects Beyond us as well right so with other cases other people'], [0.9682643413543701, ' other journalists other families made me feel like there was a wave that we had formed that kind of splashed against a lot of different Shores you know'], [0.9478824734687805, " that's what's important to me"], [0.9649158716201782, " people wanted me to do more True Crime that's for sure but the personal satisfaction of actually helping people like yourself and other family members is what makes me interested in these cases even though they are taxing as you know for your own reasons but for my reasons they're taxing as well because they never kind of end right whatever but it has been a great job"], [0.8849520683288574, ' but it does have a sense of finality to the strip'], [0.8222012519836426, ' got flowers in the back'], [0.9258502721786499, ' never coming into this graveyard many times'], [0.6555340886116028, ' no wheel minute time'], [0.8442466855049133, ' will you be stepping all over Graves'], [0.8018528819084167, ' bet it was Brad behind here mama was bad over there so Charles Moore should be over there'], [0.9446306228637695, " I don't know"], [0.8029066324234009, ' make sure he should be buried right here'], [0.5964647531509399, ' stop dog.'], [0.9806763529777527, ' Okay well'], [0.6657331585884094, ' call tree guy'], [0.9573490023612976, ' I hope'], [0.8141555786132812, " it's your guys are looking down on me"], [0.7845255732536316, " I can't find those calls that I'll continue to press on"], [0.9460691213607788, " I'm at peace"], [0.8814949989318848, " I'm at peace"], [0.9572019577026367, ' I just hope you all rest in peace'], [0.7148792147636414, ' special you Char mobile car'], [0.7648198008537292, ' your life with cutaway so short'], [0.8963505625724792, ' Charlie'], [0.8708804845809937, ' lot of good work out come out of your Dell'], [0.9769466519355774, " so I'll be back"], [0.8552212119102478, " I'll come back I'm on I'm having fever come up here and show me the trees showing little boys down to sew"], [0.7943973541259766, ' Tom Wolfe Memorial being built'], [0.8307344317436218, " no one's already there but I know and then put up that through"], [0.8660717606544495, ' remember you'], [0.7078798413276672, ' sushi on The High Ground'], [0.9175736308097839, ' okay babe see you tomorrow'], [0.961023211479187, ' you have been listening to a season 3 bonus return to Mississippi this episode was recorded live at crimecon 2019 visit cbc.ca SKS to hear how the D and more case unfolded and to see images from the investigation and subscribe to SKS on your favorite podcast app someone knows something is hosted written and produced by David ridgen the series is mixed by Cecil Fernandez and produced by Chris Oak Eunice Kim and Makayla Rihanna Tanya Springer is our senior producer or executive producer is RF noorani are theme song it terrorized by Willie King call about 10'], [0.7478876113891602, " I think you're talking about Tara"], [0.560416579246521, ' Viva pintail wrasse'], [0.9430578947067261, ' all my days'], [0.8736853003501892, ' all my days'], [0.885349452495575, ' Lord you call me from a mighty long way somebody long will thank you thank you thank you I had to cry song time'], [0.9277981519699097, ' pretty good sergeant major'], [0.9192350506782532, ' four more CBC original podcasts go to cbc.ca original podcasts']]}
+{
+  "Stats": {
+    "PodcastID": "1089216339.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 1683.226122,
+    "OriginalFileSize": 27188371,
+    "FlacFileSize": 136363740,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 582.1304783821106,
+    "DownloadSuccessful": 17.252115488052368
+  },
+  "Transcripts": [
+    [
+      0.9243294596672058,
+      "one Saturday morning in June 1999 15 year old Charmaine Ananda Val disappeared and never came home no one has ever been charged with her murder but there was a suspect never ever, I met a man like him this season on uncover I don't recall what you told me uncover sharmini available now wherever you get your podcast"
+    ],
+    [
+      0.9066831469535828,
+      "this is a CBC podcast"
+    ],
+    [
+      0.7476892471313477,
+      " play a Flo Rida cry"
+    ],
+    [
+      0.9430921673774719,
+      " I'll get a Diet Coke please with fries and what do you want"
+    ],
+    [
+      0.939696192741394,
+      " give me a kiss for summer"
+    ],
+    [
+      0.9091057181358337,
+      " you should lot of people stopping on you"
+    ],
+    [
+      0.8901392817497253,
+      " not really"
+    ],
+    [
+      0.9173183441162109,
+      " you don't know what is it"
+    ],
+    [
+      0.6942971348762512,
+      " I my brother long enough"
+    ],
+    [
+      0.8658515810966492,
+      " friends on the right pick up a 19 for 19 years old Clinton from here"
+    ],
+    [
+      0.8541199564933777,
+      " I did a load them in the trunk of a car"
+    ],
+    [
+      0.7404124736785889,
+      " control cross the river"
+    ],
+    [
+      0.9810798168182373,
+      " oh my gosh"
+    ],
+    [
+      0.9602365493774414,
+      " you are listening to someone know something from CBC podcasts and season 3 David ridgen teams up with Thomas More to investigate the murders of Charles Moore and Henry D who were killed by the Ku Klux Klan in 1964 as a result of their investigation clansmen James Ford seale was convicted of the crime and later died in prison"
+    ],
+    [
+      0.957273542881012,
+      " in this episode some of which was recorded during a live presentation in June David and Thomas reflect on their search for justice and what they've learned in the years since this is a season 3 bonus return to Mississippi"
+    ],
+    [
+      0.8077163696289062,
+      " I think you're talking about Tara"
+    ],
+    [
+      0.6147316694259644,
+      " Pierre Robin Taylor"
+    ],
+    [
+      0.6840941905975342,
+      " all my days"
+    ],
+    [
+      0.9776585102081299,
+      " thanks very much for coming everybody so many people you know I'm usually in the dark talking on my own into a mic I'm not usually in front of a whole bunch of people like this but I kind of like it do you always ask me the question what made you get into investigation and the seeking of honesty became one of my life. I'm driving forces and I speak to you in a way that makes it appear as if I know where a bean and I where I'm going but I'm not going to pretend my opinion is that we never really know why we do most things everything else is the story filling in the space between two me the empty space always feeling his face was Story the empty space is what drives everything human how we feel it how we make it make meaning for us and the definition of honesty and Truth well problematic but let's agree that seeking honesty starts with being honest about ourselves starts with the understanding that the act of telling others truth can offer up a kind of release some people brand themselves with authenticity to make money cuz I can't Issa T cells but it's not the same as truth authenticity is the blush"
+    ],
+    [
+      0.976851761341095,
+      " once you find it you know it and it will change you"
+    ],
+    [
+      0.9587891697883606,
+      " I was change my work on this case with Thomas More the 1964 murder of Henry Dee and Charles Moore by the white Knights of the Ku Klux Klan in Mississippi and today we're all fortunate to have Thomas here with us one of my greatest friends to one of the smartest people I've ever met"
+    ],
+    [
+      0.8274477124214172,
+      " Thomas More"
+    ],
+    [
+      0.8992164134979248,
+      " again I want to thank everyone for coming here and putting over David and I"
+    ],
+    [
+      0.9547523856163025,
+      " I wish I had the time to tell you how I feel over him"
+    ],
+    [
+      0.8012901544570923,
+      " and he had to put up with me 2005"
+    ],
+    [
+      0.9366660118103027,
+      " I retired from the military"
+    ],
+    [
+      0.9039798974990845,
+      " Outland living a good life"
+    ],
+    [
+      0.9668909311294556,
+      " I became comfortable"
+    ],
+    [
+      0.9307684898376465,
+      " thinking about Charles Moore"
+    ],
+    [
+      0.9231014251708984,
+      " never knowing the facts who what when why how"
+    ],
+    [
+      0.7618836164474487,
+      " living on rumors"
+    ],
+    [
+      0.7381258606910706,
+      " David Richard contacted me like I was actually sometimes you picked up"
+    ],
+    [
+      0.9256176948547363,
+      " finally I sent him a FedEx letter because I thought something wrong with the owner"
+    ],
+    [
+      0.9513742923736572,
+      " so what was going on with that well it seems like every year someone will contact me Los Angeles time ABC news they asked me to give them some details about the case"
+    ],
+    [
+      0.8999941349029541,
+      " I said he'll I don't know nothing about the case I let you know I never seen a document"
+    ],
+    [
+      0.814854085445404,
+      " me and my mom didn't want to talk about it but I just got tired of people asking me what happened"
+    ],
+    [
+      0.9117452502250671,
+      " I just stopped answering phones and David help me to call and then I went up on the mountain please and got that letter that he wrote several months ago and I plan to come from Colorado Springs to meet with me and this guy is a clam but I'm not but then you showed up with his wife and this song"
+    ],
+    [
+      0.8571177124977112,
+      " not so well I think I can take them all out if I have to"
+    ],
+    [
+      0.9121319651603699,
+      " so they were going to tell me what his plan was to go to Mississippi with him to try to find out something I asked"
+    ],
+    [
+      0.9540367722511292,
+      " what can I expect to get out of this trip"
+    ],
+    [
+      0.8164934515953064,
+      " we'll get a little bit of Truth"
+    ],
+    [
+      0.8830435276031494,
+      " and that's totally Jonah but I think of him totally different"
+    ],
+    [
+      0.937295138835907,
+      " are going to have a bad day"
+    ],
+    [
+      0.9003636837005615,
+      " I think about what Dave and I was able to do"
+    ],
+    [
+      0.8570902347564697,
+      " am I dating around I often ask myself and I'll talk to David a minute minute time"
+    ],
+    [
+      0.9289554953575134,
+      " what if"
+    ],
+    [
+      0.8873938918113708,
+      " but David asked me to go to Mississippi and 2005 what if I had said no I'm used to living in pain what if I then I wouldn't be standing here today"
+    ],
+    [
+      0.957632303237915,
+      " because I'm free as got some justice"
+    ],
+    [
+      0.9373892545700073,
+      " please drive to highlighted route what do you think of this lady not knowing anything about the memorial it's about 40 feet from her front door I've taken for granted they don't they don't want to know"
+    ],
+    [
+      0.8474888205528259,
+      " I guess gold it look"
+    ],
+    [
+      0.8554983139038086,
+      " there's somebody going across look right now"
+    ],
+    [
+      0.944567859172821,
+      " 556 I'm surprised that she never took the time to look at what's right across that mean you can't look at that front window that staring at the thing the whole time."
+    ],
+    [
+      0.9436750411987305,
+      " the day we roll down this road going to Franklin County"
+    ],
+    [
+      0.9570562243461609,
+      " who do we know within 20 miles of where we are right now"
+    ],
+    [
+      0.6226896047592163,
+      " where would we told the giant bull Shield still alive"
+    ],
+    [
+      0.7679839134216309,
+      " resume the truth"
+    ],
+    [
+      0.6525214910507202,
+      " so we can look for"
+    ],
+    [
+      0.6037957668304443,
+      " but there's no volume"
+    ],
+    [
+      0.9516708254814148,
+      " this is a picture of Thomas and I standing next to one of several Memorial signs be put up in and around me Bill it's changed since then several iterations some of them were ripped down there remember child more Heavy D in such a way that so many people have forgotten about I didn't want to come to the realization that we build handmade Memorial"
+    ],
+    [
+      0.8424630761146545,
+      " Eva long time until 2007 there was no pictures of Henry D and reduce family just split up"
+    ],
+    [
+      0.8313490152359009,
+      " without him we'd be pissing so we put it up"
+    ],
+    [
+      0.8751651048660278,
+      " alarm in speeches to people that I continue to do I tell them that looked at Memorial Day reliabilt is not for child no one here has D is for you to remind you every time you bought a spot at this crowd"
+    ],
+    [
+      0.8863875865936279,
+      " another friend of mine 2 months ago invited me on a tour and the Civil Rights Museum in Montgomery and she has worked so hard to get a steak"
+    ],
+    [
+      0.7604496479034424,
+      " Memorial built to honor a child Motrin every day"
+    ],
+    [
+      0.8018637895584106,
+      " places right by the one that David output up"
+    ],
+    [
+      0.9581228494644165,
+      " this this is the site where the memorial is where energy and Charles Moore were hitchhiking on May 2nd 1964 Charles and Henry were murdered by members of the white Knights of the Ku Klux Klan on May 2nd my feeling is the sum of the sort of the more Insidious aspects of racism still exist in the South and in the north I don't know if you've changed much since we left I think there has been some change"
+    ],
+    [
+      0.9342737793922424,
+      " the people that want it to chance they have made some change but not nearly enough the David I was going running around over 20 times in Mississippi nobody invited us to hell with hamburger lunch they wanted to stay away I think that's still feel and look at look at America right now we still separate"
+    ],
+    [
+      0.7839870452880859,
+      " you have the blacks over here the other whites over here"
+    ],
+    [
+      0.9380495548248291,
+      " I still have the little small cup that Mama used to put in your purse"
+    ],
+    [
+      0.9195237755775452,
+      " Neverwinter to Meadville to get some water from the fountain what is that color that white they don't have that now"
+    ],
+    [
+      0.9353572726249695,
+      " but that still separation"
+    ],
+    [
+      0.8092946410179138,
+      " and will never change I don't know"
+    ],
+    [
+      0.8312405943870544,
+      " will travel the road but Aaron didn't know it was in the car with you then"
+    ],
+    [
+      0.6576946973800659,
+      " who played in the hill to the left"
+    ],
+    [
+      0.7922740578651428,
+      " County Fairgrounds"
+    ],
+    [
+      0.7650951743125916,
+      " the first time I ever made out with my girl right back there"
+    ],
+    [
+      0.8200234770774841,
+      " I usually play with new family that live over here just the hospital over to the right and they moved that old tanks"
+    ],
+    [
+      0.7487406730651855,
+      " are we going to do my play it wasn't cool been poisoned tank because everybody"
+    ],
+    [
+      0.6729859113693237,
+      " my plan Google pull up the damn thing"
+    ],
+    [
+      0.9591350555419922,
+      " will we we supposed to downtown"
+    ],
+    [
+      0.7226094603538513,
+      " meet you at Mississippi"
+    ],
+    [
+      0.8794629573822021,
+      " the last day of job more life he walked on down here"
+    ],
+    [
+      0.7825143933296204,
+      " trouble starting"
+    ],
+    [
+      0.906457781791687,
+      " roll up in Meadville at the time my dad I would dad died when I was two and a half years old child movie 1/2 and Mom had to get on the welfare"
+    ],
+    [
+      0.9008093476295471,
+      " in the match that we received when I was 18 with $12 a month"
+    ],
+    [
+      0.8181087970733643,
+      " it's a can with a real life every time I left home I leave the walking a little red wagon"
+    ],
+    [
+      0.8024755716323853,
+      " people fighting pictures"
+    ],
+    [
+      0.8603764772415161,
+      " but I'm so glad in my wall"
+    ],
+    [
+      0.9091495871543884,
+      " Rachel Morgan how to respect each other and respect what she did for us"
+    ],
+    [
+      0.8723580241203308,
+      " you want to talk a little bit about your experiences me Bill growing up"
+    ],
+    [
+      0.8058986663818359,
+      " reply guards for David I find out later was action cleanse"
+    ],
+    [
+      0.9298374056816101,
+      " and if it was lunch time we ply their Garden they invited us in D dump when we went into the table we leave with them they brought us in the back what they had collard green cornbread chicken everything that has black people there"
+    ],
+    [
+      0.9195376634597778,
+      " but I didn't know what they were planning on"
+    ],
+    [
+      0.8033813238143921,
+      " I laid all I am convinced that"
+    ],
+    [
+      0.8789324164390564,
+      " everyone in Franklin County black and white new what happened"
+    ],
+    [
+      0.6436000466346741,
+      " and they were these a plasma"
+    ],
+    [
+      0.8583121299743652,
+      " sympathizer afraid of the clan that was Franklin County"
+    ],
+    [
+      0.8624193072319031,
+      " bulshit"
+    ],
+    [
+      0.8851463198661804,
+      " this all was open and the house was like sitting right here facing that way with Mama could look and see all the way up all this was over"
+    ],
+    [
+      0.8452309370040894,
+      " is she up to the road and that what she thought you walk dinosaurs"
+    ],
+    [
+      0.8350935578346252,
+      " I told Mom he he won't come back"
+    ],
+    [
+      0.9000779986381531,
+      " but that's what she died April 29th"
+    ],
+    [
+      0.9327082633972168,
+      1977
+    ],
+    [
+      0.8818761706352234,
+      " I'll come in I didn't know what you would did"
+    ],
+    [
+      0.6473428606987,
+      " Hydro diners Rewards"
+    ],
+    [
+      0.7894189953804016,
+      " girls out porch want to see the house I seen it to three cars parked over there have been told you sick"
+    ],
+    [
+      0.8387743234634399,
+      " and I'll come and see what I could do to the hospital"
+    ],
+    [
+      0.7770808339118958,
+      " spoke to everybody and I have to have my phone was doing"
+    ],
+    [
+      0.6901941299438477,
+      " she's a boy your mama did"
+    ],
+    [
+      0.9650664329528809,
+      " we got to the church"
+    ],
+    [
+      0.8614635467529297,
+      " I have my uniform all for her funeral"
+    ],
+    [
+      0.9316710233688354,
+      " and I walked in front of her casket"
+    ],
+    [
+      0.8694367408752441,
+      " into the church"
+    ],
+    [
+      0.9580327272415161,
+      " so from working on this has to be cold case with Thomas I developed all the Hallmarks that would become part of my later work investigating murder I learned much of what I know from this case your case really have transferred it into any of the other work I've done for SKS so first family must form the main pillar of any investigation entegral meaningful family involvement can be proof against exploitation cuz it's awesome level two podcasters like me that you're just explaining cases to make millions I'll tell out my sardines that I brought on my trip with me and to some extent I see family and their confrontation of darkness and potentially killing that make a note of this is the main reason to do this I don't really do it cuz it's true crime or whatever"
+    ],
+    [
+      0.9296064972877502,
+      " orange Justice can only take you so far once you're suspect is convicted and everyone goes home still have that empty space and Bill Wright how do you feel about the experience working with me on this, it's not a lot of cars and I didn't I mean I'm not we didn't plan this question"
+    ],
+    [
+      0.8456891179084778,
+      " I never will be able to express"
+    ],
+    [
+      0.9710869193077087,
+      " the friendship"
+    ],
+    [
+      0.8858087062835693,
+      " the way of the bail amount of fact I told him that"
+    ],
+    [
+      0.659800112247467,
+      " Pinterest take the place of child more"
+    ],
+    [
+      0.8049626350402832,
+      " they got were walking this morning I hear this Mockingbird singing"
+    ],
+    [
+      0.9111679196357727,
+      " tool is amazing that all the time that we came down there I never will peaceful minded enough to hear about a person"
+    ],
+    [
+      0.8717140555381775,
+      " the peaceful medicine incompletion now you can listen to the Mockingbird say"
+    ],
+    [
+      0.9193085432052612,
+      " they don't know me David know what to say and when it said David kept this picture of Charles Moore skull for years after we met until he will convince"
+    ],
+    [
+      0.9223546981811523,
+      " but I had made a chance they would make sure that when we went to Mississippi I didn't have that 3030 a 12 gauge shotgun"
+    ],
+    [
+      0.951397716999054,
+      " David knew what he was getting to the point of pissing me off"
+    ],
+    [
+      0.8391488790512085,
+      " David I'll see you in a minute time"
+    ],
+    [
+      0.8314620852470398,
+      " but I want to stand here today and tell you that I am but you help for do and helping me find a shoe you protect yourself did it go"
+    ],
+    [
+      0.805191695690155,
+      " what you think of that crimecon tank common interview"
+    ],
+    [
+      0.9372462630271912,
+      " nothing great thing I think these kind of coffee is always good to thank you for telling me about how to how people find Justice and Truth for themselves but the different kind of way of looking at allegedly True Crime now"
+    ],
+    [
+      0.5027411580085754,
+      " can you record"
+    ],
+    [
+      0.9279260635375977,
+      " these days you get more comfortable by dr. King said only jail in Alabama negro Hampshire how does it feel in Alabama so well said they still throwing stones at but I learn how to do so you don't get over this"
+    ],
+    [
+      0.9789207577705383,
+      " drive to highlighted route"
+    ],
+    [
+      0.9371610879898071,
+      " we talked about"
+    ],
+    [
+      0.791225016117096,
+      " meeting you at 2005 and"
+    ],
+    [
+      0.8331873416900635,
+      " was able to go out and do as I was able to throw experience knowledge confidence and all that that case"
+    ],
+    [
+      0.893055260181427,
+      " did for your personal life"
+    ],
+    [
+      0.8516047596931458,
+      " new outlook on life"
+    ],
+    [
+      0.9875748753547668,
+      " the most important thing for me is"
+    ],
+    [
+      0.9189783334732056,
+      " does the guy was able to make something happen that there was something that I did that had some Ripple effects Beyond us as well right so with other cases other people"
+    ],
+    [
+      0.9682643413543701,
+      " other journalists other families made me feel like there was a wave that we had formed that kind of splashed against a lot of different Shores you know"
+    ],
+    [
+      0.9478824734687805,
+      " that's what's important to me"
+    ],
+    [
+      0.9649158716201782,
+      " people wanted me to do more True Crime that's for sure but the personal satisfaction of actually helping people like yourself and other family members is what makes me interested in these cases even though they are taxing as you know for your own reasons but for my reasons they're taxing as well because they never kind of end right whatever but it has been a great job"
+    ],
+    [
+      0.8849520683288574,
+      " but it does have a sense of finality to the strip"
+    ],
+    [
+      0.8222012519836426,
+      " got flowers in the back"
+    ],
+    [
+      0.9258502721786499,
+      " never coming into this graveyard many times"
+    ],
+    [
+      0.6555340886116028,
+      " no wheel minute time"
+    ],
+    [
+      0.8442466855049133,
+      " will you be stepping all over Graves"
+    ],
+    [
+      0.8018528819084167,
+      " bet it was Brad behind here mama was bad over there so Charles Moore should be over there"
+    ],
+    [
+      0.9446306228637695,
+      " I don't know"
+    ],
+    [
+      0.8029066324234009,
+      " make sure he should be buried right here"
+    ],
+    [
+      0.5964647531509399,
+      " stop dog."
+    ],
+    [
+      0.9806763529777527,
+      " Okay well"
+    ],
+    [
+      0.6657331585884094,
+      " call tree guy"
+    ],
+    [
+      0.9573490023612976,
+      " I hope"
+    ],
+    [
+      0.8141555786132812,
+      " it's your guys are looking down on me"
+    ],
+    [
+      0.7845255732536316,
+      " I can't find those calls that I'll continue to press on"
+    ],
+    [
+      0.9460691213607788,
+      " I'm at peace"
+    ],
+    [
+      0.8814949989318848,
+      " I'm at peace"
+    ],
+    [
+      0.9572019577026367,
+      " I just hope you all rest in peace"
+    ],
+    [
+      0.7148792147636414,
+      " special you Char mobile car"
+    ],
+    [
+      0.7648198008537292,
+      " your life with cutaway so short"
+    ],
+    [
+      0.8963505625724792,
+      " Charlie"
+    ],
+    [
+      0.8708804845809937,
+      " lot of good work out come out of your Dell"
+    ],
+    [
+      0.9769466519355774,
+      " so I'll be back"
+    ],
+    [
+      0.8552212119102478,
+      " I'll come back I'm on I'm having fever come up here and show me the trees showing little boys down to sew"
+    ],
+    [
+      0.7943973541259766,
+      " Tom Wolfe Memorial being built"
+    ],
+    [
+      0.8307344317436218,
+      " no one's already there but I know and then put up that through"
+    ],
+    [
+      0.8660717606544495,
+      " remember you"
+    ],
+    [
+      0.7078798413276672,
+      " sushi on The High Ground"
+    ],
+    [
+      0.9175736308097839,
+      " okay babe see you tomorrow"
+    ],
+    [
+      0.961023211479187,
+      " you have been listening to a season 3 bonus return to Mississippi this episode was recorded live at crimecon 2019 visit cbc.ca SKS to hear how the D and more case unfolded and to see images from the investigation and subscribe to SKS on your favorite podcast app someone knows something is hosted written and produced by David ridgen the series is mixed by Cecil Fernandez and produced by Chris Oak Eunice Kim and Makayla Rihanna Tanya Springer is our senior producer or executive producer is RF noorani are theme song it terrorized by Willie King call about 10"
+    ],
+    [
+      0.7478876113891602,
+      " I think you're talking about Tara"
+    ],
+    [
+      0.560416579246521,
+      " Viva pintail wrasse"
+    ],
+    [
+      0.9430578947067261,
+      " all my days"
+    ],
+    [
+      0.8736853003501892,
+      " all my days"
+    ],
+    [
+      0.885349452495575,
+      " Lord you call me from a mighty long way somebody long will thank you thank you thank you I had to cry song time"
+    ],
+    [
+      0.9277981519699097,
+      " pretty good sergeant major"
+    ],
+    [
+      0.9192350506782532,
+      " four more CBC original podcasts go to cbc.ca original podcasts"
+    ]
+  ]
+}

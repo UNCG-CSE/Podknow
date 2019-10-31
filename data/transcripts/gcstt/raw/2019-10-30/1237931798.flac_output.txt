@@ -1,1 +1,1122 @@
-{'Stats': {'PodcastID': '1237931798.mp3', 'DownloadTime': 1, 'AudioLength': 2904.894625, 'OriginalFileSize': 70093354, 'FlacFileSize': 234531447, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 945.5227689743042, 'DownloadSuccessful': '78.49307346343994'}, 'Transcripts': [[0.9626513123512268, "this episode of where should we begin is brought to you by Stitch fix Stitch fix is a personal styling service that delivers clothes shoes and accessories right to your door sign up in just a few minutes. Perry with a stylus to a Pick 5 items just for you based on your preferred bit budget and lifestyle you can try it at home keep what you love and send back the rest returns are free and easy and Stitch fix is always on your terms there's no subscription required and ever to get started had to stitchfix.com"], [0.9601810574531555, 'best audible original series contains mature themes listener discretion is advised our ongoing clients of Esther perel for the purposes of maintaining their confidentiality names and some identifiable characteristics have been removed but their voices and their stories are real'], [0.8357630372047424, ' couple to a small town affair'], [0.9530894756317139, ' many people told me that I was the last person on Earth they thought would ever do something like that and my dad was a Serial cheater and I promised myself I would never follow in his footsteps but I did'], [0.855556845664978, " you know I saw another someone that's what happened I mean I fell in love and I was in a sexless dead marriage and I fell in love and I was happier than I've been in my entire left yet"], [0.8983813524246216, " I'm being shunned you know I felt like the start a letter I should be a on my chest and everyone's like he's a cheater and he is toxic I think an affair in a small town if it gets out that gives people something to talk about"], [0.9130949378013611, ' what does copper wrote to me in advance of the session'], [0.7356658577919006, ' was the tea leaves in a small town'], [0.945778489112854, ' that they both had been married both had a child from their first marriage that they had had an affair and we kissed and it was just like that was it'], [0.8940824866294861, ' over the next nine months were like just you know having sex everywhere and outside skinny dipping'], [0.9032197594642639, ' that summer was like we felt like we were High School'], [0.9660947322845459, ' it was all kind of a blur but there was so much passion and so much fire and so much hope and promise of what could come of this'], [0.9379510283470154, " did then broke up didn't have different partners on whom they then cheated in an affair with each other again and in effect they have cheated on each other and with each other now that was a red flag that I thought I'm different this is so different I mean he left his marriage for this this is big"], [0.9530543088912964, " no one's ever called me out on you know my lies and deception like I could do anything"], [0.7724204659461975, ' and I did'], [0.9813989996910095, ' despite the brute reality of all those lies her dominant question was can I trust this man and do we have a chance to start all over this is where should we begin with Esther perel'], [0.9091094732284546, " I want to feel like we are both on the same page and equally committed to doing whatever it's going to take to rebuild our mutual trust in her third of a family where did it go for you after window but why"], [0.9523778557777405, ' he broke it how he lies how'], [0.9288063049316406, ' about what'], [0.8082408905029297, ' breathing'], [0.9541324973106384, ' dishonesty I think he hides things from me and from others than that was very painful when we were together the first go-round'], [0.9066469669342041, ' afraid of that a lot of hidden things and leading to more hidden things in more lies and do you have any sense as to where she learned is fantastic to it now'], [0.9657520651817322, ' do you have some ideas'], [0.9019213914871216, " my grandfather that's three generations with my parents as a long time ago my grandfather was a"], [0.9239578247070312, " drunk alcoholic philanderer had many women on the side traumatize my mother and you know he was Charming Charming Robert Mitchum looking kind of guy and he man that's a good model Renaissance middle and handsome and charming and I never saw the other side's you know of him being"], [0.8496994972229004, ' this philanderer alcoholic so when you watched your grandfather you registered it as'], [0.9243618249893188, ' liar who can seduce anybody and gets away with it and the real man'], [0.943179190158844, ' is not the good guy the sweet guy you can either be a good man or a real man and you pick the real man'], [0.8870936632156372, " I guess so yeah my dad's a good man but you don't have nearly as much as your grandfather"], [0.8578269481658936, " I didn't"], [0.8696988821029663, ' I imagine him'], [0.9424797892570496, ' living with that tension inside of him on the one hand and a deep desire to be known and to be seen in to have somebody really answered all the way to the basement and at the same time of deep fear that anybody that will ever really go look there will never want to live in that house'], [0.9449852705001831, " and it's really both ends and I truck boot experiences of him I track his defense which is the liar and I tracked his fear which is the little boy that thinks that if he doesn't invent a big story he will remain so small and he will be completely ignored and overlooked"], [0.8633161187171936, ' it comes into my Tiki job today times and have no idea how it is'], [0.9030265212059021, " I think it away it's to make people happy to please people I don't like letting people down even though which one"], [0.9129796028137207, ' Latin press to press to to make myself seem more educated and worldly in an interesting where is issued self esteem I have my entire life. That was oppression'], [0.8619880080223083, " I think it's trying in some ways I'm trying to mask that or what I feel like as I've gotten older"], [0.9098600745201111, ' now after this things happen the consciously really really trying to'], [0.4406681954860687, ' call Pat'], [0.9158153533935547, ' and stop lying'], [0.9743149280548096, " now I'm putting more thought into my words and have his words affect other people"], [0.9622746706008911, ' my family my daughter person sitting next to me I try to be conscious of it'], [0.9787624478340149, ' can I ask you something'], [0.8561212420463562, ' if you spend your life'], [0.9832557439804077, " trying to be more or other than what you are because you don't think that what you are is enough"], [0.929823100566864, ' and so you can simply inflate yourself and impress yourself as much as others and and fabulous dating and invent things'], [0.9300554394721985, " what would happen to day you actually see yourself within a more realistic framework if you ever had the chance to look at yourself in reality or it's always in idea education"], [0.8794198036193848, ' moments that I weather via therapy'], [0.9427478909492493, " or in conversations or arguments or fights where she will bring up Franklin really horrible things I've done and said and I might am like I would not want to be with me yeah or I wouldn't want to be that person I don't want to be that person for being so kind"], [0.8978291749954224, " it's a strange Cloud you have you think if she was really more"], [0.9133638739585876, ' confident powerful she would already long have send you to the wolves'], [0.9428408741950989, ' I did in seven to the walls for about thank you for being so honest. Because you think if she was really strong powerful and confident she would already have said get the fuck out of here'], [0.7569325566291809, ' should live with the sense of self-loathing'], [0.8705443739891052, " and that you don't feel Worthy"], [0.9539473652839661, ' people who like you must be fools or dumb or blind cuz if they really were smart and insightful and strong and confident they would see what you see and what you see is not particularly likable'], [0.9653109908103943, " that is the Distortion that comes with The Sims loading and so when I say would you respect her more if she had said enough is enough and she put in this I know that it's a mixed statement for him part of him probably appreciates deeply her kindness and part of him looks down upon her kindness"], [0.930957555770874, ' and you have your answer to your question I do'], [0.9491694569587708, ' maybe once at the end of today leave here in a state of faith and trust it so it would be delusional I know you have hopes that that would all be in place I would rather he tell you I like compulsively because it gives me access to the person that I want to be and that I never felt I could be but of course as a result of never being able to become'], [0.9233059883117676, ' that is probably the best you can have him tell you is that he knows what he does and that he would like not to do it but this is not going to disappear just overnight or with a promise'], [0.9858773946762085, ' I know that I know that'], [0.984223484992981, ' I care about you so much though I want to believe that'], [0.8944746255874634, ' so if you want to believe then you could become like him'], [0.8926892280578613, " does he also goes around continuously wanting to believe you're right that's part of why he fabulous the whole time"], [0.8683241009712219, ' no other woman has ever helped me kind of ex wife relationships in the past my mother'], [0.8920283317565918, ' Tamar'], [0.9517595171928406, " no one's ever called me out on my lies and deception my marriage like I can do anything"], [0.9285622835159302, " I did and past relationships by just using silver tongue to kind of get out of stuff for telling a lie so intricately woven that I will begin believe it in with her admitted for elaborate tales that most people wouldn't do that to that cover up a lion and tell him that I lied to cover that up just becomes a Sisyphus Ian"], [0.9363532066345215, " I don't want to do this anymore is exhausting"], [0.7258831262588501, ' but no answer help me accountable'], [0.9171764850616455, ' you know I used to flirt with other women and do things like that in front of everyone in front of all my friends and just you know that no one ever held me accountable for it I mean only a few people in my life ever called me a cheater'], [0.7479432821273804, ' her being one therapist being another room'], [0.931393027305603, " that's it so I have never been I've always been able to get away with it"], [0.9407729506492615, " you know it's interesting because I'm listening to you and I'm thinking of it from a different angle I can hear very well when you say nobody has held me accountable but another way of looking at it is that maybe nobody even bothers telling you cuz I don't even expect anything"], [0.7308596968650818, ' shut up'], [0.9515930414199829, ' why is this different initial reaction is it pisses me off that someone has caught on some I mean she can see like deep inside my psyche and she knows me better than what she grew up with one like you'], [0.9433588981628418, ' takes one to know one'], [0.9510106444358826, " so many things happening in a very short amount of time here in a part of me says to him you know when people don't hold you accountable you may think that it's because you got a way with but sometimes it's because they don't even respect you enough to even expect more from you"], [0.940279483795166, " he has asked why do people let me cheat in front of them while I'm married and why does nobody say anything and it's not because you're so amazing it's sometimes because you're so"], [0.9575563669204712, " low anyway that's why should we even bother asking from you and then she says why is this different and the question is also a way sometimes of asking what is so special about me how am I different than all these other people and he begins by saying it's because you called me out on this because you recognized me and I say yes she does recognize a cheater she grew up with one she actually has known you before she ever met you you are a part of her history to you're not just a part of your own history"], [0.9350929856300354, " no one has ever seen me for who I am or say no one's been able to dig through those onion skins to get down to my core being of"], [0.7861401438713074, ' shity guy'], [0.8364753723144531, ' and'], [0.9384641051292419, ' I realize that more and more and more these days that I am not being a good person the other day I was thinking there more people on this Earth who dislike me even like me'], [0.9383094906806946, " because of things I've done"], [0.7617251873016357, ' telling me feel horrible I mean stopping my tracks'], [0.8993327617645264, " I didn't feel guilt about what I did in the past but that scraping in more and more and more in my life these days"], [0.9654163718223572, " I'm ashamed of what I've done"], [0.9469299912452698, " I wouldn't wish that upon anyone what I've done to her and others"], [0.8794723749160767, " and where would he exists instead she don't have to deal with"], [0.9305400848388672, " what would exist I don't know every reality that I feel that I have to accept who I am and accept my limitation accept accept my flaws but a liar a cheater I have incredibly low self-esteem I mean it means I don't like myself younger is more for physical reasons I cannot call you know I was never the best athlete and"], [0.8035463094711304, ' you know you can put the fun out for things like that and'], [0.8657180666923523, ' a little or a lot a little'], [0.7297655344009399, ' Winthrop college with police'], [0.9055285453796387, ' you know'], [0.9529626965522766, " and how how did you square it I'll show you I'll be back you think you have one up on me"], [0.9868927001953125, ' and do you know'], [0.9171790480613708, " I didn't even fight back and let him say it and let it seep in and keep me up at night"], [0.9573538303375244, " it's easy to see the bad guy it's more difficult to see the wounded boy when he says he was bullied a little but then he tells me the next sentence that it went all the way to college I know that what that little is not nearly as little as he would like it to think and I can just see how he condensed years and years of suffering into this little sentence that is meant to just go unnoticed but that holds weed in it"], [0.9795124530792236, ' Decades of pain and humiliation'], [0.9581969976425171, " so I guess in a sense that I was like all right if I can't be a big guy physically I'm going to try to be a big guy other ways"], [0.6662850379943848, ' deflate'], [0.8785329461097717, " second baby can size I'll be big in lies and stories and I played myself"], [0.8932464718818665, ' it makes a lot of sense I never put those together until I heard words'], [0.8710465431213379, " my my this is an interesting competition between us and they're what you could do this in English"], [0.9826993942260742, " what happens when you hear things like that from people who don't care about hurting you is that sometimes you stop caring about hurting others"], [0.9277201294898987, " and that's what allows you to say the kind of stuff that you said"], [0.8841876983642578, ' being'], [0.9238954782485962, " tough and I'm able to hurt people two words in the ways that I would never do physically yeah I mean that uses Words As Weapons for sure you know when I"], [0.9392406940460205, ' told her when she is pregnant second time'], [0.7707225680351257, ' I have smothered I raise the kid not me'], [0.9716753959655762, ' I can see now how that would stab her'], [0.9332548379898071, ' by the time I was I was fired up I was fueled I was drunk and I was like angry and I'], [0.945667028427124, " the reason he scared is that he was afraid to lose his daughter from his first marriage and that's it would be a change in the custody Arrangement if he was to have another child with this woman he basically demanded that she have an abortion and she got pregnant again and so as a result not one but two abortions"], [0.9678468108177185, ' it becomes clear that they are two Primary people in his life this woman and his daughter from his previous marriage'], [0.973088800907135, " you were listening to where should we begin with Esther perel I'll be back in a minute"], [0.9715643525123596, " this episode of where should we begin is brought to you by Stitch fix personal stylist it sounds fancy but it doesn't have to be Stitch fix offers personal styling for everyone and delivers clothes shoes and accessories hand-selected Just For You by stylist right to your door you try everything on it home people you love and send back the rest returns are free and easy and when Stitch fix styling for everyone and I mean everyone women including petite maternity sizes men and even kids to get started you can sign up in just a few minutes until Stitch fix about the brands you love and the styles that make you feel great then they Perry with a stylus to fix five items just for you based on your preferred fit budget and lifestyle plus Stitch fix is always on your terms there's no subscription required ever to get started had to stitchfix.com"], [0.9512270092964172, ' now back to where should we begin with Esther perel'], [0.9579179286956787, " I mean I listen to you and all I'm thinking is how lonely you must be"], [0.8220926523208618, ' you know and I have her and I liked it'], [0.886958122253418, ' yeah'], [0.8012182712554932, " what's a good for you to listen to all this"], [0.9445174932479858, " a lot of pictures of most of it but it's nice to hear him be really super open and vulnerable I feel a lot of compassion for him"], [0.9492359757423401, ' terrified still.'], [0.9493427276611328, ' Is it always going to be like this like this this something that can be prepared this Behavior'], [0.9592322707176208, " what does that say about me that I've allowed it to happen"], [0.9025936126708984, " but mostly I feel compassion cuz this can't be easy"], [0.9518030881881714, " I know you're lonely"], [0.7762802243232727, " you're a good friend to me"], [0.9056949019432068, " that mean you're my best friend"], [0.9118632078170776, " I meant to say I hear you say I've struggled my whole life to make myself bigger and since I couldn't do it physically I did it in many other ways"], [0.864202618598938, ' but I have seating that you struggle your whole life and wanting to feel special'], [0.8883818984031677, " and in wanting to see that some that somebody really noticed you and so when he speaks this way it awakens in you like he's too with me"], [0.9537310600280762, " I get to see the side of him that nobody else does weenie he will change I'm going to be the one that's going to give him the Redemptive experience no no"], [0.9807019829750061, " I'd like to be the person"], [0.9753563404083252, " I'd like to help in some way"], [0.9505991339683533, ' I feel like I do hold a mirror'], [0.9449519515037537, ' this is delusional to think that we do have something special and that could be a catalyst for change in both of us'], [0.9356921315193176, " that's the big question right yeah aren't I helping him to see things for what they really are"], [0.9564902186393738, " while it may appear at first that she's weak and I'm sure there is also a real Defiance in her that basically says I know better than all of you what I'm doing cuz I am on a mission that none of you know about and that mission had something deep to do with her own father the story that she grew up in and a promise that she had made herself a long time ago that's was no being played out with this man of which he may not even know"], [0.9123212695121765, ' tell me I have a propensity for chronic lyme and then you tell me I want to trust'], [0.965528130531311, " something doesn't click"], [0.9206968545913696, " forcing hits to probably be I would like to know that he's not lying and then maybe over time I learn to trust but what you wanting with what he's doing"], [0.9573835134506226, " it's a strange thing"], [0.9017882943153381, " meaning it's not it means that it's realistic that you don't trust on what basis would you trust him right I agree it makes sense what you doing why would you trust him"], [0.929223895072937, " and why would you tell him the person who is basically in his more honest than ever maybe telling you how much he's not to be trusted don't do it"], [0.9876289963722229, ' you may have to take the risk'], [0.8766396641731262, " and I'm getting as you take the risk over time he may prove to you that it was a risk worth taking"], [0.9292515516281128, ' but did you want the end at the beginning'], [0.966299295425415, ' do you want to start with the trust'], [0.9338141679763794, " what does you may end up with the trust with the Hem you can start with the trust and not with anything that has happened between the two of you that's the piece that is kind of fantasy thinking"], [0.9807735681533813, ' and you know it'], [0.9539358615875244, " I do not know its you are smart about smart people you know that's your version of telling yourself stories he tells himself stories but you have a version of that"], [0.8984200954437256, " intimate and we travel together we do all this stuff and secret secret as well as we're still a secret no one knows we're here no one knows we hang out"], [0.7880682945251465, ' 2'], [0.9860994815826416, ' they were I lost so many friends over the course of our initial relationship when we were public about it and they were'], [0.9393496513366699, ' she confided in a lot of my close friends over the clearing the painful parts of that and after a while they were some of them were so tired of me sticking it out and not leaving that they left my life and I have since been able to rebuild franchise with most of those people so I guess they think you came back to your senses yeah'], [0.954938530921936, ' but here I am'], [0.9646248817443848, ' I just hear my mom'], [0.9475957155227661, ' can see her to be so worried'], [0.9504457712173462, ' and she says what'], [0.9513232707977295, " I think it was me so many years to finally leave your philandering father I see what you don't see ya"], [0.9818336367607117, " sometimes I feel like she's a little bit ashamed of me but also proud of me similar to my marriage she held everything together"], [0.9262464642524719, ' us she was the one that was at every dance recital and at every concert and my dad kind of came in and out of the picture where his job is pretty demanding'], [0.9065263271331787, ' here he was off doing other things to just I do Cairo yes my first memory of that was when I was in kindergarten'], [0.9556717872619629, ' and that played out in front of me and my brother my mom took us to spy on him and his lady friend running are running at the track together I know he had'], [0.8448848128318787, ' pair with one of his students'], [0.9527431130409241, " score you worked and ended up I didn't know this until years later but it we had to move very suddenly across the state right before I started high school and it was because of that the boss's job was asked to leave"], [0.923443078994751, " I know he had others when I was in high school and Beyond something was the Catalyst for my Mom finally having enough and has about 20 in college out of this remains a secret I think she knows that we know but we've never had a very Frank conversation about it"], [0.9422487616539001, ' when I told my dad that I was I told him into Parts I was leaving the marriage I left that alone for a little while'], [0.9319573640823364, ' and they seem to understand about that he seen understanding and then I told him that I had met someone else and that was a big part of it and he just makes me for months he was so mad'], [0.930070698261261, ' so now I mean it was so mad and so ashamed he told my entire family before I got a chance to tell anyone'], [0.9573981761932373, " most of them don't talk to me now"], [0.9470822811126709, " just ironic but what did you do with him just you just collapsed and go to upset or did you I just told him it was a shame that I didn't get to tell them I don't think I got nearly mad enough I think I was"], [0.8784009218215942, ' I still in like riddled with shame and guilt for hurting husband and my son'], [0.7553338408470154, ' so when you felt ashamed you utilities right I deserve it'], [0.932608425617218, ' and how do you deal with the discrepancy between how you saw yourself and how you act it'], [0.951641857624054, " is this is not just about a type of person that has to do with circumstances of life to so many people the majority of people never thought this would happen to them yeah but what's the story that you tell yourself"], [0.8689682483673096, ' that I was'], [0.9857237339019775, ' wandering aimlessly through my marriage'], [0.9098495841026306, " was really missing intimacy we didn't have any in my marriage"], [0.8882778882980347, ' a baby dead in my marriage to and then we met and it was just like'], [0.7438628077507019, ' inside and in the retraction we opened up there about our'], [0.9119166135787964, " Tumblr longings spoke about that we were intimately emotionally I don't know if I'll ever I think I've been in love maybe once in my life before"], [0.8915647268295288, ' and I was deeply in love and I still am in love with her I was willing to leave everything behind'], [0.9594098925590515, ' wife life telling my kid but then I realized how important it was to me and it really wore me down'], [0.950114369392395, ' you know living with her and her son'], [0.8520678877830505, ' and not having my child'], [0.9427649974822998, ' really messed me up more than I realize at the time'], [0.9418715238571167, ' he threatened to go back home'], [0.9180746674537659, ' cuz I miss my child so much'], [0.9112752676010132, " because I can have my kid why did you need to threaten her I don't know"], [0.7299902439117432, ' sternum'], [0.9471270442008972, ' I know it was misdirected and'], [0.9383324980735779, ' I just think a lot of the way I treated turn the past was because of that is my inner sadness and rage of not having my child for leaving a dead marriage which would have been even more horrible for my kid to to witness'], [0.9300135374069214, " it's wanting to tell her I miss my daughter it's another thing to threaten her because of it. Why do you think the one and only person who was actually right now with you and does not know how to put limits"], [0.9626566767692566, " maybe that's why I cuz I know I can push it"], [0.9644161462783813, ' cuz I know I can get away with whatever and she is there'], [0.8877400755882263, ' to to me this is what you need to work on'], [0.9335254430770874, " limits this is the essence of what goes on here not or the stories around that that's the decor"], [0.8956401944160461, ' but this this this Dynamics limits its limits for you yes'], [0.9404025673866272, " it's like every time he kicks you you come back with the question how can I trust you"], [0.9446223974227905, " I'm like you missing a few steps in between"], [0.8690415024757385, ' why do we why do you do that lets meat'], [0.9183955192565918, " I just met you I don't know I don't question but you seem to be a I am experiencing the angle that you are experiencing something is off I am vicariously experiencing the feelings that you are denied"], [0.8750272989273071, " and I put the words to put limits or it's not just to be a great so so you just a lot of things in this but it it does have something to do with not collapsing"], [0.9004935622215271, " it's like your father does a dirty trick on you and you collapse"], [0.8245605230331421, ' and you hunched over rather than actually say it no'], [0.7547354698181152, ' old people'], [0.9397146701812744, ' you certainly do not have moral Authority here'], [0.9551932215690613, " and don't confuse me with you"], [0.9705251455307007, " and put your shame on me because you think that the Apple didn't fall far from the tree"], [0.9622559547424316, " what I'm trying to understand is is it that you have an independent spirit and you say I don't just go with the herd and I don't just blame and shame people because that's the convention and I can distinguish between having a philandering father and a good father at the same time"], [0.9580628275871277, " which doesn't have to be contradictory may have been a shity husband but he may have been a good father"], [0.9725666046142578, " is it that you think I'm smarter than all the other women they all will come and go and I'll be the one to stay I'm the one constant"], [0.9205052852630615, " and I'm the one that he comes forward and I'm the one who sees through him and I'm in some way I'm the special one in that sense that's my dad you mean yeah"], [0.9762170910835266, ' same here'], [0.656348466873169, ' Seymour'], [0.8594023585319519, ' I have that feels similar with you'], [0.6532208919525146, ' Harrison feel a relationship with'], [0.903300404548645, ' I got in that sense feel similar to my relationship with you'], [0.6538954377174377, ' Seymour'], [0.9842362403869629, ' I feel like I see right through you but I have so much compassion for you'], [0.8854617476463318, " when you don't know why you like him and polygraph can he not listen she's here and she's very good Training she came to my eyes or no"], [0.8406566381454468, " what's it like to live with a human body have"], [0.8992648124694824, ' what I what I do when I feel like that before I felt like I had to be cautious but now I actually really appreciate it'], [0.9242165088653564, " okay so you see you think you have extra powers to the line and you think you have extra powers to bring an attitude. I do feel like actually in a competition with him but we'll see who does it best"], [0.9157101511955261, " the cheapest to come and ask me if you can trust him brother that's. That's kind of almost fake wish because you know the answer is no I have to get up now for sure"], [0.9392101168632507, " but that's not why you with him you with him cuz you you you going to show him your dad and many men"], [0.9100565910339355, " that they are polygraphs who will I do all of them I don't want that I didn't say you wanted I'm saying that that's the scripture in is it that makes you know she the way I see it when she had called me and something she like got satisfaction out of it like she got a ha how to please the right word definitely"], [0.8522656559944153, " seemed satisfied I didn't enjoy I meant I meant you feel Vindicated"], [0.9203400611877441, " and you can ask yourself where do I want to put myself into that kind of a situation I would ask myself that I would bring that question to your therapist too but I'm watching cuz you demean your doesn't tell the food story"], [0.98264080286026, " and I'm looking for what is she after what is she doing"], [0.9880183339118958, " what's the hook for her"], [0.8549168705940247, " besides that he's a Charming smart fun to be with old I did that to that we have so much that bit but these are here entire Community to do so much none of this has moved you"], [0.9307197332382202, " cuz there's a fart inside of you that says I know better than all of you"], [0.8528658747673035, ' it hit that has very little to do with him around tree exists'], [0.9613648056983948, ' my office is in the middle of New York City and that means that I have to contend with Sirens of the fire trucks with jackhammers and today is particularly bad'], [0.9291115999221802, " he didn't know this is about who we got together I told you the total truth about my past"], [0.9061453342437744, " but until I experienced the lies and the limbo of our relationship it didn't I thought that"], [0.9075972437858582, ' Ameritas for each other I thought this was so different yes'], [0.9241858720779419, ' I thought that I was immune to those things that was dumb I mean you told me'], [0.9217501282691956, " after a handful of months being together we had a big fight about something and he said you can never been able to feel empathy you've always lied and I all the red flags when they did nothing about them. They think this is all changing because of me that's what I meant by special I know she thinks it"], [0.8494440913200378, ' car goes to change my name'], [0.8534735441207886, ' to being this empathetic honest devoted compassionate Matt'], [0.8722116947174072, ' a nursing they are but the pressure to change on a dime'], [0.9643052816390991, ' it just makes me'], [0.7939926981925964, " labrys I'm in per se but makes me to be okay hold on I can get us in my own space know I'm going to add a piece to this"], [0.9730846285820007, " you didn't because what you're saying is that you didn't become"], [0.8812284469604492, " chronic liar or you didn't become even sociopathic for no reason"], [0.9201529622077942, " when she pushes you to change like that there was a part of you that feels that she doesn't really have a Compassion or empathy for you"], [0.8679820895195007, " I bet it makes me think that she's doing it for her own reasons"], [0.9610531330108643, " and that you didn't become like that out of no reason that there was plenty of your own pain in your own suffering and your own Boyhood letter you'll be coming this way and that this was the best protection and adaptive Shield you could have"], [0.9660955667495728, " you want to fuck with me I'll fuck you and I won't even have any remorse about it"], [0.9262683391571045, " when you pressure him it's makes him feel that you don't understand the pain that lies underneath"], [0.9002596139907837, " I think you're mean. But that's what I think she reacts to"], [0.9596316814422607, ' the entire time I was with the other man here for the last Almost year'], [0.9588105082511902, " she was a bug in my ear leave him I'm going to change him to do all the work it's going to you're going to see it's going to be different and leave him hanging with me I'm different I'm going to change I left we broke up"], [0.976581871509552, " and now you're like"], [0.9694440960884094, " when I'm ready don't pressure"], [0.8648635149002075, ' a big change of two different circumstances when you weigh with you the man he was taller'], [0.8569574356079102, ' Muse musician band tons of friends'], [0.9589297771453857, " as we were winding down to the end of the session and it became clear to me that I would have to punctuate the possibility for a future together and if so under what terms I began to think that the noises of the city was speaking to us and conspiring to tell this couple that there was an interference that they couldn't overcome"], [0.974672794342041, ' you people should be friends'], [0.9619091749191284, ' you would be tremendous friends for each other'], [0.8943068385124207, " I'm not sure you meant a couple"], [0.8993370532989502, ' sorry. Okay now that I have the truth on any of this but now what you became. For each other if you have a much better chance to make good use of it as friends and if you try to become a family blended family with'], [0.9580550193786621, " I'm not sure"], [0.8939116597175598, ' meaning you want each other in your life you feel that what you call that tattoo thing Let each other in your life'], [0.9108176827430725, ' give a better chance to experience the beauty of all of that but if you stay good friends with a real deep connection with each other than if you try to become a couple'], [0.9118279814720154, ' do you want to preserve the good stuff they have between them they better be friends'], [0.9644498825073242, " that doesn't mean I'm right but since they came asking me do we have a chance can we be a couple do we have a future and so forth I felt that I needed to share my impression with them at 10 which is you have some wonderful things with each other cultivated as friends better chance to stay in each other's lives if you are friends then if you go for the next divorce"], [0.9099496006965637, ' Seth Rollins the author of mating in captivity unlocking erotic intelligence book the State of Affairs rethinking infidelity both are available on Audible'], [0.8865219950675964, ' more episodes of where should we begin to go to audible.com s dare'], [0.8606052994728088, ' where should we begin as an audible original production produced by Olivia net and Eva watch over'], [0.8837460279464722, " produced in sound design by Paul Schneider recorded by Noriko a comic executive producers are at Sarah Pharrell and the Jessie Baker and we couldn't do this without Lindsay Rutkowski and most of all a couple to share their stories with us"], [0.9863964319229126, ' this is Audible'], [0.9591830968856812, " princess is back with a new season but doubt exercise we've heard that exercise he's a great way to lose weight but it's not true it feels right there's truth in those two it to the reset of weight loss and we uncover the benefits of exercise that people just on talking about exercise literally stimulates the birth of brand new brain cells science vs exercise is an September 19th listen on Spotify or wherever you get your plugs"]]}
+{
+  "Stats": {
+    "PodcastID": "1237931798.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 2904.894625,
+    "OriginalFileSize": 70093354,
+    "FlacFileSize": 234531447,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 945.5227689743042,
+    "DownloadSuccessful": 78.49307346343994
+  },
+  "Transcripts": [
+    [
+      0.9626513123512268,
+      "this episode of where should we begin is brought to you by Stitch fix Stitch fix is a personal styling service that delivers clothes shoes and accessories right to your door sign up in just a few minutes. Perry with a stylus to a Pick 5 items just for you based on your preferred bit budget and lifestyle you can try it at home keep what you love and send back the rest returns are free and easy and Stitch fix is always on your terms there's no subscription required and ever to get started had to stitchfix.com"
+    ],
+    [
+      0.9601810574531555,
+      "best audible original series contains mature themes listener discretion is advised our ongoing clients of Esther perel for the purposes of maintaining their confidentiality names and some identifiable characteristics have been removed but their voices and their stories are real"
+    ],
+    [
+      0.8357630372047424,
+      " couple to a small town affair"
+    ],
+    [
+      0.9530894756317139,
+      " many people told me that I was the last person on Earth they thought would ever do something like that and my dad was a Serial cheater and I promised myself I would never follow in his footsteps but I did"
+    ],
+    [
+      0.855556845664978,
+      " you know I saw another someone that's what happened I mean I fell in love and I was in a sexless dead marriage and I fell in love and I was happier than I've been in my entire left yet"
+    ],
+    [
+      0.8983813524246216,
+      " I'm being shunned you know I felt like the start a letter I should be a on my chest and everyone's like he's a cheater and he is toxic I think an affair in a small town if it gets out that gives people something to talk about"
+    ],
+    [
+      0.9130949378013611,
+      " what does copper wrote to me in advance of the session"
+    ],
+    [
+      0.7356658577919006,
+      " was the tea leaves in a small town"
+    ],
+    [
+      0.945778489112854,
+      " that they both had been married both had a child from their first marriage that they had had an affair and we kissed and it was just like that was it"
+    ],
+    [
+      0.8940824866294861,
+      " over the next nine months were like just you know having sex everywhere and outside skinny dipping"
+    ],
+    [
+      0.9032197594642639,
+      " that summer was like we felt like we were High School"
+    ],
+    [
+      0.9660947322845459,
+      " it was all kind of a blur but there was so much passion and so much fire and so much hope and promise of what could come of this"
+    ],
+    [
+      0.9379510283470154,
+      " did then broke up didn't have different partners on whom they then cheated in an affair with each other again and in effect they have cheated on each other and with each other now that was a red flag that I thought I'm different this is so different I mean he left his marriage for this this is big"
+    ],
+    [
+      0.9530543088912964,
+      " no one's ever called me out on you know my lies and deception like I could do anything"
+    ],
+    [
+      0.7724204659461975,
+      " and I did"
+    ],
+    [
+      0.9813989996910095,
+      " despite the brute reality of all those lies her dominant question was can I trust this man and do we have a chance to start all over this is where should we begin with Esther perel"
+    ],
+    [
+      0.9091094732284546,
+      " I want to feel like we are both on the same page and equally committed to doing whatever it's going to take to rebuild our mutual trust in her third of a family where did it go for you after window but why"
+    ],
+    [
+      0.9523778557777405,
+      " he broke it how he lies how"
+    ],
+    [
+      0.9288063049316406,
+      " about what"
+    ],
+    [
+      0.8082408905029297,
+      " breathing"
+    ],
+    [
+      0.9541324973106384,
+      " dishonesty I think he hides things from me and from others than that was very painful when we were together the first go-round"
+    ],
+    [
+      0.9066469669342041,
+      " afraid of that a lot of hidden things and leading to more hidden things in more lies and do you have any sense as to where she learned is fantastic to it now"
+    ],
+    [
+      0.9657520651817322,
+      " do you have some ideas"
+    ],
+    [
+      0.9019213914871216,
+      " my grandfather that's three generations with my parents as a long time ago my grandfather was a"
+    ],
+    [
+      0.9239578247070312,
+      " drunk alcoholic philanderer had many women on the side traumatize my mother and you know he was Charming Charming Robert Mitchum looking kind of guy and he man that's a good model Renaissance middle and handsome and charming and I never saw the other side's you know of him being"
+    ],
+    [
+      0.8496994972229004,
+      " this philanderer alcoholic so when you watched your grandfather you registered it as"
+    ],
+    [
+      0.9243618249893188,
+      " liar who can seduce anybody and gets away with it and the real man"
+    ],
+    [
+      0.943179190158844,
+      " is not the good guy the sweet guy you can either be a good man or a real man and you pick the real man"
+    ],
+    [
+      0.8870936632156372,
+      " I guess so yeah my dad's a good man but you don't have nearly as much as your grandfather"
+    ],
+    [
+      0.8578269481658936,
+      " I didn't"
+    ],
+    [
+      0.8696988821029663,
+      " I imagine him"
+    ],
+    [
+      0.9424797892570496,
+      " living with that tension inside of him on the one hand and a deep desire to be known and to be seen in to have somebody really answered all the way to the basement and at the same time of deep fear that anybody that will ever really go look there will never want to live in that house"
+    ],
+    [
+      0.9449852705001831,
+      " and it's really both ends and I truck boot experiences of him I track his defense which is the liar and I tracked his fear which is the little boy that thinks that if he doesn't invent a big story he will remain so small and he will be completely ignored and overlooked"
+    ],
+    [
+      0.8633161187171936,
+      " it comes into my Tiki job today times and have no idea how it is"
+    ],
+    [
+      0.9030265212059021,
+      " I think it away it's to make people happy to please people I don't like letting people down even though which one"
+    ],
+    [
+      0.9129796028137207,
+      " Latin press to press to to make myself seem more educated and worldly in an interesting where is issued self esteem I have my entire life. That was oppression"
+    ],
+    [
+      0.8619880080223083,
+      " I think it's trying in some ways I'm trying to mask that or what I feel like as I've gotten older"
+    ],
+    [
+      0.9098600745201111,
+      " now after this things happen the consciously really really trying to"
+    ],
+    [
+      0.4406681954860687,
+      " call Pat"
+    ],
+    [
+      0.9158153533935547,
+      " and stop lying"
+    ],
+    [
+      0.9743149280548096,
+      " now I'm putting more thought into my words and have his words affect other people"
+    ],
+    [
+      0.9622746706008911,
+      " my family my daughter person sitting next to me I try to be conscious of it"
+    ],
+    [
+      0.9787624478340149,
+      " can I ask you something"
+    ],
+    [
+      0.8561212420463562,
+      " if you spend your life"
+    ],
+    [
+      0.9832557439804077,
+      " trying to be more or other than what you are because you don't think that what you are is enough"
+    ],
+    [
+      0.929823100566864,
+      " and so you can simply inflate yourself and impress yourself as much as others and and fabulous dating and invent things"
+    ],
+    [
+      0.9300554394721985,
+      " what would happen to day you actually see yourself within a more realistic framework if you ever had the chance to look at yourself in reality or it's always in idea education"
+    ],
+    [
+      0.8794198036193848,
+      " moments that I weather via therapy"
+    ],
+    [
+      0.9427478909492493,
+      " or in conversations or arguments or fights where she will bring up Franklin really horrible things I've done and said and I might am like I would not want to be with me yeah or I wouldn't want to be that person I don't want to be that person for being so kind"
+    ],
+    [
+      0.8978291749954224,
+      " it's a strange Cloud you have you think if she was really more"
+    ],
+    [
+      0.9133638739585876,
+      " confident powerful she would already long have send you to the wolves"
+    ],
+    [
+      0.9428408741950989,
+      " I did in seven to the walls for about thank you for being so honest. Because you think if she was really strong powerful and confident she would already have said get the fuck out of here"
+    ],
+    [
+      0.7569325566291809,
+      " should live with the sense of self-loathing"
+    ],
+    [
+      0.8705443739891052,
+      " and that you don't feel Worthy"
+    ],
+    [
+      0.9539473652839661,
+      " people who like you must be fools or dumb or blind cuz if they really were smart and insightful and strong and confident they would see what you see and what you see is not particularly likable"
+    ],
+    [
+      0.9653109908103943,
+      " that is the Distortion that comes with The Sims loading and so when I say would you respect her more if she had said enough is enough and she put in this I know that it's a mixed statement for him part of him probably appreciates deeply her kindness and part of him looks down upon her kindness"
+    ],
+    [
+      0.930957555770874,
+      " and you have your answer to your question I do"
+    ],
+    [
+      0.9491694569587708,
+      " maybe once at the end of today leave here in a state of faith and trust it so it would be delusional I know you have hopes that that would all be in place I would rather he tell you I like compulsively because it gives me access to the person that I want to be and that I never felt I could be but of course as a result of never being able to become"
+    ],
+    [
+      0.9233059883117676,
+      " that is probably the best you can have him tell you is that he knows what he does and that he would like not to do it but this is not going to disappear just overnight or with a promise"
+    ],
+    [
+      0.9858773946762085,
+      " I know that I know that"
+    ],
+    [
+      0.984223484992981,
+      " I care about you so much though I want to believe that"
+    ],
+    [
+      0.8944746255874634,
+      " so if you want to believe then you could become like him"
+    ],
+    [
+      0.8926892280578613,
+      " does he also goes around continuously wanting to believe you're right that's part of why he fabulous the whole time"
+    ],
+    [
+      0.8683241009712219,
+      " no other woman has ever helped me kind of ex wife relationships in the past my mother"
+    ],
+    [
+      0.8920283317565918,
+      " Tamar"
+    ],
+    [
+      0.9517595171928406,
+      " no one's ever called me out on my lies and deception my marriage like I can do anything"
+    ],
+    [
+      0.9285622835159302,
+      " I did and past relationships by just using silver tongue to kind of get out of stuff for telling a lie so intricately woven that I will begin believe it in with her admitted for elaborate tales that most people wouldn't do that to that cover up a lion and tell him that I lied to cover that up just becomes a Sisyphus Ian"
+    ],
+    [
+      0.9363532066345215,
+      " I don't want to do this anymore is exhausting"
+    ],
+    [
+      0.7258831262588501,
+      " but no answer help me accountable"
+    ],
+    [
+      0.9171764850616455,
+      " you know I used to flirt with other women and do things like that in front of everyone in front of all my friends and just you know that no one ever held me accountable for it I mean only a few people in my life ever called me a cheater"
+    ],
+    [
+      0.7479432821273804,
+      " her being one therapist being another room"
+    ],
+    [
+      0.931393027305603,
+      " that's it so I have never been I've always been able to get away with it"
+    ],
+    [
+      0.9407729506492615,
+      " you know it's interesting because I'm listening to you and I'm thinking of it from a different angle I can hear very well when you say nobody has held me accountable but another way of looking at it is that maybe nobody even bothers telling you cuz I don't even expect anything"
+    ],
+    [
+      0.7308596968650818,
+      " shut up"
+    ],
+    [
+      0.9515930414199829,
+      " why is this different initial reaction is it pisses me off that someone has caught on some I mean she can see like deep inside my psyche and she knows me better than what she grew up with one like you"
+    ],
+    [
+      0.9433588981628418,
+      " takes one to know one"
+    ],
+    [
+      0.9510106444358826,
+      " so many things happening in a very short amount of time here in a part of me says to him you know when people don't hold you accountable you may think that it's because you got a way with but sometimes it's because they don't even respect you enough to even expect more from you"
+    ],
+    [
+      0.940279483795166,
+      " he has asked why do people let me cheat in front of them while I'm married and why does nobody say anything and it's not because you're so amazing it's sometimes because you're so"
+    ],
+    [
+      0.9575563669204712,
+      " low anyway that's why should we even bother asking from you and then she says why is this different and the question is also a way sometimes of asking what is so special about me how am I different than all these other people and he begins by saying it's because you called me out on this because you recognized me and I say yes she does recognize a cheater she grew up with one she actually has known you before she ever met you you are a part of her history to you're not just a part of your own history"
+    ],
+    [
+      0.9350929856300354,
+      " no one has ever seen me for who I am or say no one's been able to dig through those onion skins to get down to my core being of"
+    ],
+    [
+      0.7861401438713074,
+      " shity guy"
+    ],
+    [
+      0.8364753723144531,
+      " and"
+    ],
+    [
+      0.9384641051292419,
+      " I realize that more and more and more these days that I am not being a good person the other day I was thinking there more people on this Earth who dislike me even like me"
+    ],
+    [
+      0.9383094906806946,
+      " because of things I've done"
+    ],
+    [
+      0.7617251873016357,
+      " telling me feel horrible I mean stopping my tracks"
+    ],
+    [
+      0.8993327617645264,
+      " I didn't feel guilt about what I did in the past but that scraping in more and more and more in my life these days"
+    ],
+    [
+      0.9654163718223572,
+      " I'm ashamed of what I've done"
+    ],
+    [
+      0.9469299912452698,
+      " I wouldn't wish that upon anyone what I've done to her and others"
+    ],
+    [
+      0.8794723749160767,
+      " and where would he exists instead she don't have to deal with"
+    ],
+    [
+      0.9305400848388672,
+      " what would exist I don't know every reality that I feel that I have to accept who I am and accept my limitation accept accept my flaws but a liar a cheater I have incredibly low self-esteem I mean it means I don't like myself younger is more for physical reasons I cannot call you know I was never the best athlete and"
+    ],
+    [
+      0.8035463094711304,
+      " you know you can put the fun out for things like that and"
+    ],
+    [
+      0.8657180666923523,
+      " a little or a lot a little"
+    ],
+    [
+      0.7297655344009399,
+      " Winthrop college with police"
+    ],
+    [
+      0.9055285453796387,
+      " you know"
+    ],
+    [
+      0.9529626965522766,
+      " and how how did you square it I'll show you I'll be back you think you have one up on me"
+    ],
+    [
+      0.9868927001953125,
+      " and do you know"
+    ],
+    [
+      0.9171790480613708,
+      " I didn't even fight back and let him say it and let it seep in and keep me up at night"
+    ],
+    [
+      0.9573538303375244,
+      " it's easy to see the bad guy it's more difficult to see the wounded boy when he says he was bullied a little but then he tells me the next sentence that it went all the way to college I know that what that little is not nearly as little as he would like it to think and I can just see how he condensed years and years of suffering into this little sentence that is meant to just go unnoticed but that holds weed in it"
+    ],
+    [
+      0.9795124530792236,
+      " Decades of pain and humiliation"
+    ],
+    [
+      0.9581969976425171,
+      " so I guess in a sense that I was like all right if I can't be a big guy physically I'm going to try to be a big guy other ways"
+    ],
+    [
+      0.6662850379943848,
+      " deflate"
+    ],
+    [
+      0.8785329461097717,
+      " second baby can size I'll be big in lies and stories and I played myself"
+    ],
+    [
+      0.8932464718818665,
+      " it makes a lot of sense I never put those together until I heard words"
+    ],
+    [
+      0.8710465431213379,
+      " my my this is an interesting competition between us and they're what you could do this in English"
+    ],
+    [
+      0.9826993942260742,
+      " what happens when you hear things like that from people who don't care about hurting you is that sometimes you stop caring about hurting others"
+    ],
+    [
+      0.9277201294898987,
+      " and that's what allows you to say the kind of stuff that you said"
+    ],
+    [
+      0.8841876983642578,
+      " being"
+    ],
+    [
+      0.9238954782485962,
+      " tough and I'm able to hurt people two words in the ways that I would never do physically yeah I mean that uses Words As Weapons for sure you know when I"
+    ],
+    [
+      0.9392406940460205,
+      " told her when she is pregnant second time"
+    ],
+    [
+      0.7707225680351257,
+      " I have smothered I raise the kid not me"
+    ],
+    [
+      0.9716753959655762,
+      " I can see now how that would stab her"
+    ],
+    [
+      0.9332548379898071,
+      " by the time I was I was fired up I was fueled I was drunk and I was like angry and I"
+    ],
+    [
+      0.945667028427124,
+      " the reason he scared is that he was afraid to lose his daughter from his first marriage and that's it would be a change in the custody Arrangement if he was to have another child with this woman he basically demanded that she have an abortion and she got pregnant again and so as a result not one but two abortions"
+    ],
+    [
+      0.9678468108177185,
+      " it becomes clear that they are two Primary people in his life this woman and his daughter from his previous marriage"
+    ],
+    [
+      0.973088800907135,
+      " you were listening to where should we begin with Esther perel I'll be back in a minute"
+    ],
+    [
+      0.9715643525123596,
+      " this episode of where should we begin is brought to you by Stitch fix personal stylist it sounds fancy but it doesn't have to be Stitch fix offers personal styling for everyone and delivers clothes shoes and accessories hand-selected Just For You by stylist right to your door you try everything on it home people you love and send back the rest returns are free and easy and when Stitch fix styling for everyone and I mean everyone women including petite maternity sizes men and even kids to get started you can sign up in just a few minutes until Stitch fix about the brands you love and the styles that make you feel great then they Perry with a stylus to fix five items just for you based on your preferred fit budget and lifestyle plus Stitch fix is always on your terms there's no subscription required ever to get started had to stitchfix.com"
+    ],
+    [
+      0.9512270092964172,
+      " now back to where should we begin with Esther perel"
+    ],
+    [
+      0.9579179286956787,
+      " I mean I listen to you and all I'm thinking is how lonely you must be"
+    ],
+    [
+      0.8220926523208618,
+      " you know and I have her and I liked it"
+    ],
+    [
+      0.886958122253418,
+      " yeah"
+    ],
+    [
+      0.8012182712554932,
+      " what's a good for you to listen to all this"
+    ],
+    [
+      0.9445174932479858,
+      " a lot of pictures of most of it but it's nice to hear him be really super open and vulnerable I feel a lot of compassion for him"
+    ],
+    [
+      0.9492359757423401,
+      " terrified still."
+    ],
+    [
+      0.9493427276611328,
+      " Is it always going to be like this like this this something that can be prepared this Behavior"
+    ],
+    [
+      0.9592322707176208,
+      " what does that say about me that I've allowed it to happen"
+    ],
+    [
+      0.9025936126708984,
+      " but mostly I feel compassion cuz this can't be easy"
+    ],
+    [
+      0.9518030881881714,
+      " I know you're lonely"
+    ],
+    [
+      0.7762802243232727,
+      " you're a good friend to me"
+    ],
+    [
+      0.9056949019432068,
+      " that mean you're my best friend"
+    ],
+    [
+      0.9118632078170776,
+      " I meant to say I hear you say I've struggled my whole life to make myself bigger and since I couldn't do it physically I did it in many other ways"
+    ],
+    [
+      0.864202618598938,
+      " but I have seating that you struggle your whole life and wanting to feel special"
+    ],
+    [
+      0.8883818984031677,
+      " and in wanting to see that some that somebody really noticed you and so when he speaks this way it awakens in you like he's too with me"
+    ],
+    [
+      0.9537310600280762,
+      " I get to see the side of him that nobody else does weenie he will change I'm going to be the one that's going to give him the Redemptive experience no no"
+    ],
+    [
+      0.9807019829750061,
+      " I'd like to be the person"
+    ],
+    [
+      0.9753563404083252,
+      " I'd like to help in some way"
+    ],
+    [
+      0.9505991339683533,
+      " I feel like I do hold a mirror"
+    ],
+    [
+      0.9449519515037537,
+      " this is delusional to think that we do have something special and that could be a catalyst for change in both of us"
+    ],
+    [
+      0.9356921315193176,
+      " that's the big question right yeah aren't I helping him to see things for what they really are"
+    ],
+    [
+      0.9564902186393738,
+      " while it may appear at first that she's weak and I'm sure there is also a real Defiance in her that basically says I know better than all of you what I'm doing cuz I am on a mission that none of you know about and that mission had something deep to do with her own father the story that she grew up in and a promise that she had made herself a long time ago that's was no being played out with this man of which he may not even know"
+    ],
+    [
+      0.9123212695121765,
+      " tell me I have a propensity for chronic lyme and then you tell me I want to trust"
+    ],
+    [
+      0.965528130531311,
+      " something doesn't click"
+    ],
+    [
+      0.9206968545913696,
+      " forcing hits to probably be I would like to know that he's not lying and then maybe over time I learn to trust but what you wanting with what he's doing"
+    ],
+    [
+      0.9573835134506226,
+      " it's a strange thing"
+    ],
+    [
+      0.9017882943153381,
+      " meaning it's not it means that it's realistic that you don't trust on what basis would you trust him right I agree it makes sense what you doing why would you trust him"
+    ],
+    [
+      0.929223895072937,
+      " and why would you tell him the person who is basically in his more honest than ever maybe telling you how much he's not to be trusted don't do it"
+    ],
+    [
+      0.9876289963722229,
+      " you may have to take the risk"
+    ],
+    [
+      0.8766396641731262,
+      " and I'm getting as you take the risk over time he may prove to you that it was a risk worth taking"
+    ],
+    [
+      0.9292515516281128,
+      " but did you want the end at the beginning"
+    ],
+    [
+      0.966299295425415,
+      " do you want to start with the trust"
+    ],
+    [
+      0.9338141679763794,
+      " what does you may end up with the trust with the Hem you can start with the trust and not with anything that has happened between the two of you that's the piece that is kind of fantasy thinking"
+    ],
+    [
+      0.9807735681533813,
+      " and you know it"
+    ],
+    [
+      0.9539358615875244,
+      " I do not know its you are smart about smart people you know that's your version of telling yourself stories he tells himself stories but you have a version of that"
+    ],
+    [
+      0.8984200954437256,
+      " intimate and we travel together we do all this stuff and secret secret as well as we're still a secret no one knows we're here no one knows we hang out"
+    ],
+    [
+      0.7880682945251465,
+      2
+    ],
+    [
+      0.9860994815826416,
+      " they were I lost so many friends over the course of our initial relationship when we were public about it and they were"
+    ],
+    [
+      0.9393496513366699,
+      " she confided in a lot of my close friends over the clearing the painful parts of that and after a while they were some of them were so tired of me sticking it out and not leaving that they left my life and I have since been able to rebuild franchise with most of those people so I guess they think you came back to your senses yeah"
+    ],
+    [
+      0.954938530921936,
+      " but here I am"
+    ],
+    [
+      0.9646248817443848,
+      " I just hear my mom"
+    ],
+    [
+      0.9475957155227661,
+      " can see her to be so worried"
+    ],
+    [
+      0.9504457712173462,
+      " and she says what"
+    ],
+    [
+      0.9513232707977295,
+      " I think it was me so many years to finally leave your philandering father I see what you don't see ya"
+    ],
+    [
+      0.9818336367607117,
+      " sometimes I feel like she's a little bit ashamed of me but also proud of me similar to my marriage she held everything together"
+    ],
+    [
+      0.9262464642524719,
+      " us she was the one that was at every dance recital and at every concert and my dad kind of came in and out of the picture where his job is pretty demanding"
+    ],
+    [
+      0.9065263271331787,
+      " here he was off doing other things to just I do Cairo yes my first memory of that was when I was in kindergarten"
+    ],
+    [
+      0.9556717872619629,
+      " and that played out in front of me and my brother my mom took us to spy on him and his lady friend running are running at the track together I know he had"
+    ],
+    [
+      0.8448848128318787,
+      " pair with one of his students"
+    ],
+    [
+      0.9527431130409241,
+      " score you worked and ended up I didn't know this until years later but it we had to move very suddenly across the state right before I started high school and it was because of that the boss's job was asked to leave"
+    ],
+    [
+      0.923443078994751,
+      " I know he had others when I was in high school and Beyond something was the Catalyst for my Mom finally having enough and has about 20 in college out of this remains a secret I think she knows that we know but we've never had a very Frank conversation about it"
+    ],
+    [
+      0.9422487616539001,
+      " when I told my dad that I was I told him into Parts I was leaving the marriage I left that alone for a little while"
+    ],
+    [
+      0.9319573640823364,
+      " and they seem to understand about that he seen understanding and then I told him that I had met someone else and that was a big part of it and he just makes me for months he was so mad"
+    ],
+    [
+      0.930070698261261,
+      " so now I mean it was so mad and so ashamed he told my entire family before I got a chance to tell anyone"
+    ],
+    [
+      0.9573981761932373,
+      " most of them don't talk to me now"
+    ],
+    [
+      0.9470822811126709,
+      " just ironic but what did you do with him just you just collapsed and go to upset or did you I just told him it was a shame that I didn't get to tell them I don't think I got nearly mad enough I think I was"
+    ],
+    [
+      0.8784009218215942,
+      " I still in like riddled with shame and guilt for hurting husband and my son"
+    ],
+    [
+      0.7553338408470154,
+      " so when you felt ashamed you utilities right I deserve it"
+    ],
+    [
+      0.932608425617218,
+      " and how do you deal with the discrepancy between how you saw yourself and how you act it"
+    ],
+    [
+      0.951641857624054,
+      " is this is not just about a type of person that has to do with circumstances of life to so many people the majority of people never thought this would happen to them yeah but what's the story that you tell yourself"
+    ],
+    [
+      0.8689682483673096,
+      " that I was"
+    ],
+    [
+      0.9857237339019775,
+      " wandering aimlessly through my marriage"
+    ],
+    [
+      0.9098495841026306,
+      " was really missing intimacy we didn't have any in my marriage"
+    ],
+    [
+      0.8882778882980347,
+      " a baby dead in my marriage to and then we met and it was just like"
+    ],
+    [
+      0.7438628077507019,
+      " inside and in the retraction we opened up there about our"
+    ],
+    [
+      0.9119166135787964,
+      " Tumblr longings spoke about that we were intimately emotionally I don't know if I'll ever I think I've been in love maybe once in my life before"
+    ],
+    [
+      0.8915647268295288,
+      " and I was deeply in love and I still am in love with her I was willing to leave everything behind"
+    ],
+    [
+      0.9594098925590515,
+      " wife life telling my kid but then I realized how important it was to me and it really wore me down"
+    ],
+    [
+      0.950114369392395,
+      " you know living with her and her son"
+    ],
+    [
+      0.8520678877830505,
+      " and not having my child"
+    ],
+    [
+      0.9427649974822998,
+      " really messed me up more than I realize at the time"
+    ],
+    [
+      0.9418715238571167,
+      " he threatened to go back home"
+    ],
+    [
+      0.9180746674537659,
+      " cuz I miss my child so much"
+    ],
+    [
+      0.9112752676010132,
+      " because I can have my kid why did you need to threaten her I don't know"
+    ],
+    [
+      0.7299902439117432,
+      " sternum"
+    ],
+    [
+      0.9471270442008972,
+      " I know it was misdirected and"
+    ],
+    [
+      0.9383324980735779,
+      " I just think a lot of the way I treated turn the past was because of that is my inner sadness and rage of not having my child for leaving a dead marriage which would have been even more horrible for my kid to to witness"
+    ],
+    [
+      0.9300135374069214,
+      " it's wanting to tell her I miss my daughter it's another thing to threaten her because of it. Why do you think the one and only person who was actually right now with you and does not know how to put limits"
+    ],
+    [
+      0.9626566767692566,
+      " maybe that's why I cuz I know I can push it"
+    ],
+    [
+      0.9644161462783813,
+      " cuz I know I can get away with whatever and she is there"
+    ],
+    [
+      0.8877400755882263,
+      " to to me this is what you need to work on"
+    ],
+    [
+      0.9335254430770874,
+      " limits this is the essence of what goes on here not or the stories around that that's the decor"
+    ],
+    [
+      0.8956401944160461,
+      " but this this this Dynamics limits its limits for you yes"
+    ],
+    [
+      0.9404025673866272,
+      " it's like every time he kicks you you come back with the question how can I trust you"
+    ],
+    [
+      0.9446223974227905,
+      " I'm like you missing a few steps in between"
+    ],
+    [
+      0.8690415024757385,
+      " why do we why do you do that lets meat"
+    ],
+    [
+      0.9183955192565918,
+      " I just met you I don't know I don't question but you seem to be a I am experiencing the angle that you are experiencing something is off I am vicariously experiencing the feelings that you are denied"
+    ],
+    [
+      0.8750272989273071,
+      " and I put the words to put limits or it's not just to be a great so so you just a lot of things in this but it it does have something to do with not collapsing"
+    ],
+    [
+      0.9004935622215271,
+      " it's like your father does a dirty trick on you and you collapse"
+    ],
+    [
+      0.8245605230331421,
+      " and you hunched over rather than actually say it no"
+    ],
+    [
+      0.7547354698181152,
+      " old people"
+    ],
+    [
+      0.9397146701812744,
+      " you certainly do not have moral Authority here"
+    ],
+    [
+      0.9551932215690613,
+      " and don't confuse me with you"
+    ],
+    [
+      0.9705251455307007,
+      " and put your shame on me because you think that the Apple didn't fall far from the tree"
+    ],
+    [
+      0.9622559547424316,
+      " what I'm trying to understand is is it that you have an independent spirit and you say I don't just go with the herd and I don't just blame and shame people because that's the convention and I can distinguish between having a philandering father and a good father at the same time"
+    ],
+    [
+      0.9580628275871277,
+      " which doesn't have to be contradictory may have been a shity husband but he may have been a good father"
+    ],
+    [
+      0.9725666046142578,
+      " is it that you think I'm smarter than all the other women they all will come and go and I'll be the one to stay I'm the one constant"
+    ],
+    [
+      0.9205052852630615,
+      " and I'm the one that he comes forward and I'm the one who sees through him and I'm in some way I'm the special one in that sense that's my dad you mean yeah"
+    ],
+    [
+      0.9762170910835266,
+      " same here"
+    ],
+    [
+      0.656348466873169,
+      " Seymour"
+    ],
+    [
+      0.8594023585319519,
+      " I have that feels similar with you"
+    ],
+    [
+      0.6532208919525146,
+      " Harrison feel a relationship with"
+    ],
+    [
+      0.903300404548645,
+      " I got in that sense feel similar to my relationship with you"
+    ],
+    [
+      0.6538954377174377,
+      " Seymour"
+    ],
+    [
+      0.9842362403869629,
+      " I feel like I see right through you but I have so much compassion for you"
+    ],
+    [
+      0.8854617476463318,
+      " when you don't know why you like him and polygraph can he not listen she's here and she's very good Training she came to my eyes or no"
+    ],
+    [
+      0.8406566381454468,
+      " what's it like to live with a human body have"
+    ],
+    [
+      0.8992648124694824,
+      " what I what I do when I feel like that before I felt like I had to be cautious but now I actually really appreciate it"
+    ],
+    [
+      0.9242165088653564,
+      " okay so you see you think you have extra powers to the line and you think you have extra powers to bring an attitude. I do feel like actually in a competition with him but we'll see who does it best"
+    ],
+    [
+      0.9157101511955261,
+      " the cheapest to come and ask me if you can trust him brother that's. That's kind of almost fake wish because you know the answer is no I have to get up now for sure"
+    ],
+    [
+      0.9392101168632507,
+      " but that's not why you with him you with him cuz you you you going to show him your dad and many men"
+    ],
+    [
+      0.9100565910339355,
+      " that they are polygraphs who will I do all of them I don't want that I didn't say you wanted I'm saying that that's the scripture in is it that makes you know she the way I see it when she had called me and something she like got satisfaction out of it like she got a ha how to please the right word definitely"
+    ],
+    [
+      0.8522656559944153,
+      " seemed satisfied I didn't enjoy I meant I meant you feel Vindicated"
+    ],
+    [
+      0.9203400611877441,
+      " and you can ask yourself where do I want to put myself into that kind of a situation I would ask myself that I would bring that question to your therapist too but I'm watching cuz you demean your doesn't tell the food story"
+    ],
+    [
+      0.98264080286026,
+      " and I'm looking for what is she after what is she doing"
+    ],
+    [
+      0.9880183339118958,
+      " what's the hook for her"
+    ],
+    [
+      0.8549168705940247,
+      " besides that he's a Charming smart fun to be with old I did that to that we have so much that bit but these are here entire Community to do so much none of this has moved you"
+    ],
+    [
+      0.9307197332382202,
+      " cuz there's a fart inside of you that says I know better than all of you"
+    ],
+    [
+      0.8528658747673035,
+      " it hit that has very little to do with him around tree exists"
+    ],
+    [
+      0.9613648056983948,
+      " my office is in the middle of New York City and that means that I have to contend with Sirens of the fire trucks with jackhammers and today is particularly bad"
+    ],
+    [
+      0.9291115999221802,
+      " he didn't know this is about who we got together I told you the total truth about my past"
+    ],
+    [
+      0.9061453342437744,
+      " but until I experienced the lies and the limbo of our relationship it didn't I thought that"
+    ],
+    [
+      0.9075972437858582,
+      " Ameritas for each other I thought this was so different yes"
+    ],
+    [
+      0.9241858720779419,
+      " I thought that I was immune to those things that was dumb I mean you told me"
+    ],
+    [
+      0.9217501282691956,
+      " after a handful of months being together we had a big fight about something and he said you can never been able to feel empathy you've always lied and I all the red flags when they did nothing about them. They think this is all changing because of me that's what I meant by special I know she thinks it"
+    ],
+    [
+      0.8494440913200378,
+      " car goes to change my name"
+    ],
+    [
+      0.8534735441207886,
+      " to being this empathetic honest devoted compassionate Matt"
+    ],
+    [
+      0.8722116947174072,
+      " a nursing they are but the pressure to change on a dime"
+    ],
+    [
+      0.9643052816390991,
+      " it just makes me"
+    ],
+    [
+      0.7939926981925964,
+      " labrys I'm in per se but makes me to be okay hold on I can get us in my own space know I'm going to add a piece to this"
+    ],
+    [
+      0.9730846285820007,
+      " you didn't because what you're saying is that you didn't become"
+    ],
+    [
+      0.8812284469604492,
+      " chronic liar or you didn't become even sociopathic for no reason"
+    ],
+    [
+      0.9201529622077942,
+      " when she pushes you to change like that there was a part of you that feels that she doesn't really have a Compassion or empathy for you"
+    ],
+    [
+      0.8679820895195007,
+      " I bet it makes me think that she's doing it for her own reasons"
+    ],
+    [
+      0.9610531330108643,
+      " and that you didn't become like that out of no reason that there was plenty of your own pain in your own suffering and your own Boyhood letter you'll be coming this way and that this was the best protection and adaptive Shield you could have"
+    ],
+    [
+      0.9660955667495728,
+      " you want to fuck with me I'll fuck you and I won't even have any remorse about it"
+    ],
+    [
+      0.9262683391571045,
+      " when you pressure him it's makes him feel that you don't understand the pain that lies underneath"
+    ],
+    [
+      0.9002596139907837,
+      " I think you're mean. But that's what I think she reacts to"
+    ],
+    [
+      0.9596316814422607,
+      " the entire time I was with the other man here for the last Almost year"
+    ],
+    [
+      0.9588105082511902,
+      " she was a bug in my ear leave him I'm going to change him to do all the work it's going to you're going to see it's going to be different and leave him hanging with me I'm different I'm going to change I left we broke up"
+    ],
+    [
+      0.976581871509552,
+      " and now you're like"
+    ],
+    [
+      0.9694440960884094,
+      " when I'm ready don't pressure"
+    ],
+    [
+      0.8648635149002075,
+      " a big change of two different circumstances when you weigh with you the man he was taller"
+    ],
+    [
+      0.8569574356079102,
+      " Muse musician band tons of friends"
+    ],
+    [
+      0.9589297771453857,
+      " as we were winding down to the end of the session and it became clear to me that I would have to punctuate the possibility for a future together and if so under what terms I began to think that the noises of the city was speaking to us and conspiring to tell this couple that there was an interference that they couldn't overcome"
+    ],
+    [
+      0.974672794342041,
+      " you people should be friends"
+    ],
+    [
+      0.9619091749191284,
+      " you would be tremendous friends for each other"
+    ],
+    [
+      0.8943068385124207,
+      " I'm not sure you meant a couple"
+    ],
+    [
+      0.8993370532989502,
+      " sorry. Okay now that I have the truth on any of this but now what you became. For each other if you have a much better chance to make good use of it as friends and if you try to become a family blended family with"
+    ],
+    [
+      0.9580550193786621,
+      " I'm not sure"
+    ],
+    [
+      0.8939116597175598,
+      " meaning you want each other in your life you feel that what you call that tattoo thing Let each other in your life"
+    ],
+    [
+      0.9108176827430725,
+      " give a better chance to experience the beauty of all of that but if you stay good friends with a real deep connection with each other than if you try to become a couple"
+    ],
+    [
+      0.9118279814720154,
+      " do you want to preserve the good stuff they have between them they better be friends"
+    ],
+    [
+      0.9644498825073242,
+      " that doesn't mean I'm right but since they came asking me do we have a chance can we be a couple do we have a future and so forth I felt that I needed to share my impression with them at 10 which is you have some wonderful things with each other cultivated as friends better chance to stay in each other's lives if you are friends then if you go for the next divorce"
+    ],
+    [
+      0.9099496006965637,
+      " Seth Rollins the author of mating in captivity unlocking erotic intelligence book the State of Affairs rethinking infidelity both are available on Audible"
+    ],
+    [
+      0.8865219950675964,
+      " more episodes of where should we begin to go to audible.com s dare"
+    ],
+    [
+      0.8606052994728088,
+      " where should we begin as an audible original production produced by Olivia net and Eva watch over"
+    ],
+    [
+      0.8837460279464722,
+      " produced in sound design by Paul Schneider recorded by Noriko a comic executive producers are at Sarah Pharrell and the Jessie Baker and we couldn't do this without Lindsay Rutkowski and most of all a couple to share their stories with us"
+    ],
+    [
+      0.9863964319229126,
+      " this is Audible"
+    ],
+    [
+      0.9591830968856812,
+      " princess is back with a new season but doubt exercise we've heard that exercise he's a great way to lose weight but it's not true it feels right there's truth in those two it to the reset of weight loss and we uncover the benefits of exercise that people just on talking about exercise literally stimulates the birth of brand new brain cells science vs exercise is an September 19th listen on Spotify or wherever you get your plugs"
+    ]
+  ]
+}

@@ -1,1 +1,42 @@
-{'Stats': {'PodcastID': '1450277129.mp3', 'DownloadTime': 1, 'AudioLength': 257.123265, 'OriginalFileSize': 2305942, 'FlacFileSize': 24973586, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 179.20076441764832, 'DownloadSuccessful': '3.825897216796875'}, 'Transcripts': [[0.9753885269165039, "have you ever wanted to learn more about your family do you wish you had a Keepsake that has a record of the stories of your loved ones well luckily there is forever note for Evernote makes it easy for families to preserve their most precious memories traditions and stories all detailed in a professionally-designed book discover details about your loved ones lives that you never know is it forever knoe.com evil and enter promo code evil at checkout for a special offer of $25 off and get started today give the gift of a lifetime just in time for the holidays finding the right Pros for home projects can be tough and Spark a lot of questions like how do I find a pro who can help will they do a good job will I get a fair price that's where HomeAdvisor can help from leaky faucets to Major remodels HomeAdvisor connects you to the right Pro for the job in seconds and even helps you get a fair price read reviews check project cost guides and book"], [0.955595850944519, "go to homeadvisor.com or download the free Home Advisor app to start your next project when we lived at the big house and we grew up in you have a closet that he used to show all the people that come over a giant closet that was filled with suits from the top to the bottom and he would show it off and he'd love to wear suits all day long and deep looks like a Wall Street person everyday and he really wanted to respect that came with that look I have a distinct memory of parents not allowing your children to come play with us because of my father's reputation that they saw the newspaper in the on TV and I frankly can't blame them you're not going over to that house and you're not hanging out with us kids history there's a long line of them needed to show off that light being celebrities Al Capone John Gotti he had those same inclinations he wanted to be known"], [0.9709762930870056, "wanted to be a public figure he was not shy are you serious about me do you want to be a movie Mogul I'm very serious about the movie making in fact we moved off of buildings from MGM in Hollywood to Atlanta that is the money obviously that attract organized crime Beavis has managed to insulate himself and others in his organization by setting up paper corporations search to sell me he has managed to set up more than three hundred of those corporations there's no doubt in my mind that they are our nervous a test about having to do business with Mike thevis I don't have any knowledge of those two what happened to Pastor Hannah he was a personal friend of mine and others just think it's a terrible tragedy Rubicon I'm ready to do battle"], [0.9007896184921265, "show my cleavage walked out this door to Freedom Summer speculating he may be in Columbia or Costa Rica country is which before I've harbored at United States criminals"], [0.9478367567062378, " we as a society do not take it seriously when criminals kill each other it's the line on the Godfather it's life we've chosen there are consequences to that one thing I want more than anything in my life even if I wanted up with a life sentence for spitting on the sidewalk is to prove my innocence basically so that my children don't have to live with that type of statement I had 25 years of the good life I tried to look at it and just that matter and other words if this is all that the Lord wanted me to have then I accept what I've had because I had far more than most people dick"], [0.8311371207237244, ' the pick'], [0.925041675567627, ' gangster house coming this fall from imperative entertainment listen for free and subscribe on Apple podcasts Spotify or your favorite podcast player']]}
+{
+  "Stats": {
+    "PodcastID": "1450277129.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 257.123265,
+    "OriginalFileSize": 2305942,
+    "FlacFileSize": 24973586,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 179.20076441764832,
+    "DownloadSuccessful": 3.825897216796875
+  },
+  "Transcripts": [
+    [
+      0.9753885269165039,
+      "have you ever wanted to learn more about your family do you wish you had a Keepsake that has a record of the stories of your loved ones well luckily there is forever note for Evernote makes it easy for families to preserve their most precious memories traditions and stories all detailed in a professionally-designed book discover details about your loved ones lives that you never know is it forever knoe.com evil and enter promo code evil at checkout for a special offer of $25 off and get started today give the gift of a lifetime just in time for the holidays finding the right Pros for home projects can be tough and Spark a lot of questions like how do I find a pro who can help will they do a good job will I get a fair price that's where HomeAdvisor can help from leaky faucets to Major remodels HomeAdvisor connects you to the right Pro for the job in seconds and even helps you get a fair price read reviews check project cost guides and book"
+    ],
+    [
+      0.955595850944519,
+      "go to homeadvisor.com or download the free Home Advisor app to start your next project when we lived at the big house and we grew up in you have a closet that he used to show all the people that come over a giant closet that was filled with suits from the top to the bottom and he would show it off and he'd love to wear suits all day long and deep looks like a Wall Street person everyday and he really wanted to respect that came with that look I have a distinct memory of parents not allowing your children to come play with us because of my father's reputation that they saw the newspaper in the on TV and I frankly can't blame them you're not going over to that house and you're not hanging out with us kids history there's a long line of them needed to show off that light being celebrities Al Capone John Gotti he had those same inclinations he wanted to be known"
+    ],
+    [
+      0.9709762930870056,
+      "wanted to be a public figure he was not shy are you serious about me do you want to be a movie Mogul I'm very serious about the movie making in fact we moved off of buildings from MGM in Hollywood to Atlanta that is the money obviously that attract organized crime Beavis has managed to insulate himself and others in his organization by setting up paper corporations search to sell me he has managed to set up more than three hundred of those corporations there's no doubt in my mind that they are our nervous a test about having to do business with Mike thevis I don't have any knowledge of those two what happened to Pastor Hannah he was a personal friend of mine and others just think it's a terrible tragedy Rubicon I'm ready to do battle"
+    ],
+    [
+      0.9007896184921265,
+      "show my cleavage walked out this door to Freedom Summer speculating he may be in Columbia or Costa Rica country is which before I've harbored at United States criminals"
+    ],
+    [
+      0.9478367567062378,
+      " we as a society do not take it seriously when criminals kill each other it's the line on the Godfather it's life we've chosen there are consequences to that one thing I want more than anything in my life even if I wanted up with a life sentence for spitting on the sidewalk is to prove my innocence basically so that my children don't have to live with that type of statement I had 25 years of the good life I tried to look at it and just that matter and other words if this is all that the Lord wanted me to have then I accept what I've had because I had far more than most people dick"
+    ],
+    [
+      0.8311371207237244,
+      " the pick"
+    ],
+    [
+      0.925041675567627,
+      " gangster house coming this fall from imperative entertainment listen for free and subscribe on Apple podcasts Spotify or your favorite podcast player"
+    ]
+  ]
+}

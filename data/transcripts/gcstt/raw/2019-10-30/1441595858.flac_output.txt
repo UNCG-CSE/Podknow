@@ -1,1 +1,478 @@
-{'Stats': {'PodcastID': '1441595858.mp3', 'DownloadTime': 1, 'AudioLength': 2106.461878, 'OriginalFileSize': 34219417, 'FlacFileSize': 164433080, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 785.2565181255341, 'DownloadSuccessful': '19.228225231170654'}, 'Transcripts': [[0.9731539487838745, 'this podcast discusses domestic violence criminal Behavior murder and adult themes while not explicit listener discretion is advised'], [0.9565210342407227, ' our story now returns to where it started the Woodbine Cemetery in Puyallup Washington'], [0.9655799865722656, " on December 6th 2012 Susan's friends and family gathered at the cemetery to Mark the third anniversary of her disappearance"], [0.9166687726974487, " the new monument stood at the top of the hill above Charlie and Braden's gravesite"], [0.9656880497932434, " the bronze angel with outstretched wings and arms stood atop a large stone block it was an Angel of Hope a reference to the novel The Christmas Box by author Richard Paul Evans place for me it's a"], [0.9637545943260193, " it's feels right that there these boys are here because it's so quiet and calm because when I met them it wasn't quite that way this morning, special place to reflect for people who knew Susan Charlie or Brayden people like Nancy from the Puyallup Gem and Mineral Club"], [0.924892008304596, " or Pierce County Sheriff's detective sergeant Gary Sanders it's it's one of those bookmarks in your in your long line of memory that's forever be there so that you know the Christmas Angel that's out there and it's a beautiful place hopefully they're at peace now"], [0.9337605834007263, " this is cold episode 18 Angel of Hope I'm Dave Kali back after this"], [0.9713759422302246, " hey this is Dave when I first pitched cold to my boss a few years ago one of the toughest questions we faced was Finding funding thankfully we've had the support of some great sponsors it's why you hear the occasional add I would really like to keep making podcasts and for that to happen those sponsors they have to stick around so if you appreciate cold and would like more shows like it please visit their websites using the code promo codes even if you don't buy anything it shows them that you were listening and that really helps us out thanks there are so many aspects to the Susan Powell investigation it's been hard to get them all into cold if you want even more exclusive details regarding Susan Story head over to wonder e.com + and sign up now for access to bonus content you won't find anywhere else that's Wonder e.com plus again Wonder y.com plus-2 here 3 bonus episodes you won't get anywhere else"], [0.921101987361908, ' The Sting of loss has never gone away for the people who love Susan and her boys friends like Amber Hardman be boys like but should be'], [0.9748682975769043, " please show up in that always be running around saying sometimes in their underwear you know just crazy boys one of the biggest things I remember about Susan that was so something to look up to for me was the service she did for others she's coloring people's hair cutting peoples hair not charging them for those that were older nose ever needed it may be in didn't have the funds she did all those things for people and she did all those things for her family that is all the service she did for her family and stuff and and that's something to be admired for Debbie Caldwell Charlie like bugs he like to find bugs he was outdoors and intrigued by things so he was always looking for things that Brayden was all about cars and blocks as long as I had the cars on blocks that was great but brain and actually had quite a little witty personality he was kind of a teaser he like"], [0.9505980610847473, " cheese you could see that in his personality that was kind of like Susan to still Grieves for what should have been seeing Charlie and Bree grow into bright happy young men boys murder wasn't the end it did it did close a chapter for me though because the single biggest thing that I was concerned about was the boys I wanted them to get out of that situation and not continue to perpetuate this violent"], [0.9623717069625854, " cycle that was continuing through my family and I wanted them to to be able to have a a normal loving family relationship as as much as possible mentioned Jennifer's book a light in Dark Places a few times during this podcast Jennifer told me that she hoped in writing it she might Inspire women in situations like Susan's to escape out of the motivation for reading my book was"], [0.9584497809410095, " printed instill that courage and others and that recognition of a bad situation and realizing the realization that it shouldn't go on there needs to be a change in that situation and sometimes it can be corrected sometimes with help"], [0.9757861495018005, " people can change and and you can fix the situation and end up with a good and positive marriage and in family situation but sometimes it isn't possible sometimes the right decision is to get out box has a similar goal at least have made differences in their lives to prevent themselves from being caught that same trap and that's the reason the only viable reason for doing it for now on is to let people know about the danger signs that were there now retired detective Ellis Maxwell has also spent the last few years working on a book I thought I would have that cigarette in six months but it's tough because I catch myself basically just start working the case again and analyzing this data and analyzing that and it comes really taxing I mean I died"], [0.9646279215812683, " sound and I start typing and and I'll type and type and type and do this and do that and then next thing you know I can't sleep for two three days and I was told me our conversations have helped sitting here in your meeting with you and answer your questions and Sharon Smith site is it actually has been beneficial for me and it's helped me kind of get through my own struggles from doing it cuz it's it it's always going to be there is never going to go away but this is just one of many many people who took part in the Powell investigation a lot of them still carry the weight of their experiences in private everybody involved in the cases does struggle at one point or another with it and Alex is really super challenging and all of them not just me or going to have to know answer questions and live with this case for the rest of their lives as well especially people learn it"], [0.9393757581710815, " how close to the investigation they were of course a key element of that struggle arises from the absence of answers there's a answers that I will never ever get and download never be any justice held against anybody for their actions and you know the likelihood of Susan ever being discovered is in my personal opinion very super low"], [0.9272032976150513, " this is the part where I'm supposed to say I've cracked the case that I found Susan that she couldn't last rest in peace with her boys"], [0.9866668581962585, " I'm sorry I can't do that I wish I could"], [0.9859347939491272, " instead I'm going to do what reporters are trained not to do"], [0.9859610199928284, " I'm going to share my personal views what I think likely happened to Susan"], [0.9696193933486938, " but I stress this is a theory it's based on evidence and inference but is ultimately nothing more than an educated guess one that is subject to change"], [0.9549899697303772, ' here goes'], [0.954193115234375, ' I believe Josh Powell killed Susan I believe it was a crime he considered for quite some time likely more than two years I say that because of the steps he took as early as 2007 to obtain life insurance in her name to establish a trust that would guarantee his access to that money and to secure power of attorney so he could take legal action in her name'], [0.9522859454154968, " we know from Steve Powell's journals that Josh spoke in 2008 of wanting Susan to have an accident we know from Susan's handwritten will that she feared Josh would kill her and that he would try to make it appear as though it were an accident"], [0.9646849036216736, " it seems likely that Josh had threatened Susan's life repeatedly"], [0.9318042993545532, " recognizing that danger Susan had told an old friend in a November 2008 Facebook message she was ready to make a hasty escape with her son's if I need to leave in the middle of the night or whatever a safe deposit box docs on file Etc right up to the brink of divorce"], [0.9288505911827087, ' for efforts to assert her independence Howell around Josh like warning shot over the bow of the ship he knew what was coming'], [0.9572849869728088, ' Josh would not tolerate a divorce kid seen just how ugly his own parents split had been he also viewed Susan as his property and their two sons as extensions of himself under no circumstance would he allow her custody of them'], [0.9541420936584473, " for Josh killing Susan would have seemed to solve two problems it would have rid him of a wife he no longer wanted and if done properly would have paid his bills for years to come I'm not sure why December 6th 2009 was the date he chose to take the final step but Susan's impending April deadline for divorce seems probable factor in the decision"], [0.9692108035087585, " as for the act itself I believe Josh used some sort of drug or substance to incapacitate Susan I can Envision a scenario in which Josh intentionally brake checked another driver a few months before that December day causing a crash we know for a fact that after that fender bender on September 2nd Josh obtained a prescription for a drug that would do the job cyclobenzaprine the scripts he filled the day of the crash was for 40 pills enough to last about a week when police later found the bottle in the Sarah Circle house in December it's still held 32 pills if Josh had been in such pain from whiplash"], [0.7652856707572937, ' when do you have taken more'], [0.9530326724052429, " and how many cyclobenzaprine pills would he have needed to crush up and put into the cream cheese on Susan's pancake the one he personally prepared for Susan on December 6th to leave her feeling tired"], [0.9546544551849365, " Susan once mentioned in a Facebook message Josh did not have a gun aside from power tools and kitchen nights it seems plausible Josh might have used one of his tools perhaps an electric drill to kill Susan case I mean he's a tool dream guy"], [0.9365043044090271, ' the Bostitch nail gun on Milwaukee drill'], [0.9540932774543762, " Ridgid drill Integra Ridgid sander and the Ridgid saw acquired to steam clean any blood that made it onto the carpet or couch cushions perhaps that job took longer than he anticipated in his Rush he could have missed a spot the swipe Mark and Susan's Blood on the upper head rest of the couch"], [0.9767416715621948, " there were also those small drops of Susan's Blood on the tile floor next to the couch that he failed to notice perhaps scattered by a spinning drill bit"], [0.953899085521698, " it would have also taken time to wrap Susan's body a necessary step to prevent the spreading of forensic evidence"], [0.9445686340332031, " it's possible he used one of the several tarps he kept in the garage maybe he used the tree wrap he had purchased too lightly buying Susan's arms and legs together leaving no marks or residue as duct tape might"], [0.9356302618980408, ' in the scenario Josh would have grabbed Susan cell phone and power dat off understanding the risk of it being tracked is he moved her body away from the house'], [0.975138247013092, " but in his rush to clean and dump the body before heading out on his camping trip which was to be his Alibi he might have overlooked Susan's wallet purse and keys"], [0.9586370587348938, " that in and of itself might not have been a big problem in his mind I believe Josh expected he'd have time to return home and tie up Loose Ends before himself reporting Susan did not come home from work"], [0.9718738794326782, " he probably didn't account for Debbie Caldwell"], [0.9501087665557861, " Josh didn't like Debbie much if he'd ever bothered to get to know her he might have realized she took the well-being of her daycare kids very seriously that Charlie and Braden's unexplained absence would cause alarm is on his way home to finish cleaning up on the afternoon of December 7th when he took that first phone call from Jovanna Owings he learned at that moment police were already looking for Susan"], [0.9617562294006348, " worse yet they had already been in the house I still can't figure out how he thought these me at at a loss their phone conversation that afternoon Josh asked his sister Jennifer Graves what she knew just more evidence that he had this preconceived plan and was involved in her Disappearance in the murder weapon away until he could return home and dispose of it he might have feared that police had already found it"], [0.977226972579956, " so Josh went on the defensive his plan appeared to hinge on the idea that Susan had gone to work in order to sell that story he drove South to point of the mountain and called her phone the one he knew was with him in the minivan to leave this message Josh then drove North to Salt Lake City and park outside Susan's work knowing full well she had not shown up for her shift that day and would not be coming out for a ride home"], [0.9768078923225403, ' I place a lot of weight on this establishing that Susan had gone to work seemed critical to Josh he insisted on it from his very first interactions with Detective Ellis Maxwell'], [0.9016348719596863, " I don't know"], [0.9386459589004517, " I'm just taking honorable way to work but not for this long insistence leads me to believe Josh intended for Susan's body to be found and for her death appeared as either an accident or as a random act of violence one for which Josh had an alibi he was in the desert witnessed by sheepherders when it happened"], [0.9253824353218079, ' Susan being found and her death being someone else whose fault would have been necessary if Josh intended to claim the life insurance'], [0.945522129535675, " in this scenario Josh would have left Susan's body somewhere near the Wells Fargo call center where she worked"], [0.9631175398826599, ' Charlie if he was awake and in the minivan at the time might have seen an airplane taking off from nearby Salt Lake City International Airport and that could explain his perplexing comment to police on December 8th about having flown in an airplane to go camping in the earth tank on the Earth plane to Dinosaur National Park or play Green dinosaur not to park on the night of the seventh heat of returned home still convinced he could make the plan work is top priority would have been the destruction of the murder weapon'], [0.9234893918037415, ' I believe Josh took that weapon again possibly a power tool and used his oxy acetylene torch to obliterated in the garage of the Sarah Circle house'], [0.9114605188369751, " next Josh would have sanitized everything The Rug Doctor the minivan the soiled washcloths he'd left in the bathtub"], [0.9543789625167847, " he'd have stayed up all night to do it even missing his morning appointment with police to make sure he did not miss anything"], [0.9106202125549316, " I believe Josh went into his second interview with Ellis on December 8th cautious but confident slow to boys as long as you don't think she did you don't think so"], [0.8428983688354492, ' help me'], [0.9251598119735718, " where she would I think she would have gone to work and try to go to work that's what she would have been in the process of doing by the end of an interview Josh would have known the plan like his wife was dead"], [0.9161711931228638, " Ellis knew he'd killed Susan but not how"], [0.9869490265846252, " and he didn't have the evidence"], [0.9393853545188904, ' when I was confronted Josh with Charlie statement about Susan having gone camping with them Josh recognized the police did not yet know what had actually happened'], [0.9880439043045044, ' because Susan had not gone out to the West Desert with them'], [0.9754087924957275, ' at that point Josh would have known if he were to survive the plan had to change Susan would have to disappear forever so on the night of December 8th Josh obtained the rental car he drove to the ATM outside of his Bank in West Valley and withdrew about $600 in cash'], [0.9493986368179321, " I believe it's plausible Josh could have been returned to where he'd originally left Susan's body retrieved it and moved it to a place where it would be safe from Discovery somewhere within a slightly less than 400 mile radius of West Valley City Utah probably of North in one of the dark stretches of Southern Idaho"], [0.9678433537483215, ' in that frantic process he strained his shoulder'], [0.9408011436462402, " during this time frame Josh told his own father the same story he told the police Steve Powell was skeptical but he had no foreknowledge of the murder and no hand in its execution but I think we'll find her I really do the course of the following weeks and months Steve concocted an alternate reality in his mind rather than face the horrible truth that his son had murdered the object of his unrequited Obsession have nothing to do with it I believe the only person Joshua confided in was his brother Michael"], [0.9533607959747314, " Michael's phone records suggest he was aware of his brothers playing and when it went awry accepted the task of helping Josh manage the mess"], [0.9779523015022278, ' I do not believe Michael met Josh on December 8th or 9th while Josh was unaccounted for in the rental car'], [0.9742840528488159, " I do not believe Michael disposed of Susan's body"], [0.9725353121757507, " I say this because Steve Powell's journals described Michael as being home in Puyallup on those days I got the impression that the first day he was expecting her to come back because she occasionally left and sometimes he didn't always know her whereabouts for periods of you know a few hours after her whatever and as time went on I got the impression that he was just getting more and more upset and distraught by the end of the week he was in tears and that's when I remember because that's when I went down there so how do I count for Michael's later paranoia about his Ford Taurus or the cadaver dog hitting on the car's trunk you know I guess you have to wonder was a purely"], [0.9630425572395325, " because of possible car probably want to sell a car or did he just want to get out of the car cuz I remember that when we check the car out we couldn't really find that much wrong with the car I find it likely that while in Utah Josh tasked Michael with disposing of some piece of secondary evidence perhaps clothing Susan had been wearing when she died or something similar"], [0.9729869961738586, ' Michael might have even been taking that object back to Washington in the Taurus when his car broke down I can imagine Michaels fear standing along the side of I-84 between Ontario and Baker City while in possession of murder evidence wondering if an Oregon State Trooper might at any moment pull up behind him I can picture Michael Flynn whatever that item was into the grass alongside the highway before limping the car the rest of the way to Baker City it would been makes sense for Josh to stop at that same spot 5 months later and take photographs to ensure whatever it was Michael dumped could not be seen from the interstate'], [0.9822515249252319, " I do not believe Susan's body is in Utah's West Desert I don't think Josh disposed of her in a mine"], [0.9420801997184753, " so where is she could be in a borrow pit right next to the freeway somewhere between here and Wendover you know after all of this I can only guess you know certain I have empathy for the coxes and you nuts I can't imagine you know losing a child and you're never being able to see them again or put them to rest or not ever have any answers that would be something I would"], [0.8171790242195129, ' I wish one of my worst enemy so horrible find Susan'], [0.9565748572349548, ' it remains a hope a wish command A desperate plea'], [0.9736097455024719, ' final thoughts after this'], [0.9773789048194885, " don't miss this Fall's True Crime must listen call me God the untold story of the DC sniper investigation from the leading True Crime investigative team that brought you the New York Times bestseller evil has the name comes this new riveting probe into the Manhunt for The elusive DC snipers hear the never-before-told story of the chilling and volatile investigation that led to the killers capture and ended in unprecedented 23 day reign of terror that paralyze the DC area and grip the nation told firsthand by those essential to solving the case including a brilliant D dive into the behavioral ballistic forensic and electronic analysis it required by the FBI agent Brothers Jim and Tim Clemente as they leave listeners through the Tangled path of Discovery and evidence-gathering only a select few had the vision to see call me God the untold story of the DC sniper investigation how do you stop what you can't see listen free with a 30-day trial just go to audible.com Untold Story"], [0.9757388830184937, " are you afraid to color your hair at home my mom was a hair stylist who could spot a bottle job a mile away so I definitely was but I've got to tell you I did it myself with Madison Reed and I think my mom would have loved the results it looks like I went to the salon but I did it on my schedule for a fraction of the cost better yet it doesn't have that you know hair color smell that's because it's made with ingredients you can feel good about no harmful chemicals that fry your hair it couldn't be more convenient it shows up at my door on my schedule beautifully packaged in a kit that has everything I need no appointment necessary and it's on my turf so I can catch up on my favorite podcasts while it's processing if you're indecisive like me you can even try on the different colors to find the perfect shade for your hair using Madison Reed hair color tool kit ammonia-free multi-tonal hair color delivered to your door for less than $25 at Madison Reed. Com use my promo code cold and you'll get 10% off plus free"], [0.8791309595108032, " on your first color kit my promo code again is cold visitmadison - read.com now to find your perfect Shade that's Madison - weed. Com"], [0.9857771396636963, ' the question of where to find Susan Powell is no longer the one that most bothers me'], [0.8711650371551514, ' 200 stand why I need to share something that happened shortly before this podcast first launched'], [0.9268370866775513, ' it was October 22nd 2018 3 weeks from colds debut'], [0.9619177579879761, ' I arrived home from work that chilly Autumn evening ready to unwind'], [0.9478012323379517, ' in the idle moment I pulled my phone for my pocket and began scrolling through tweets'], [0.9797629117965698, ' I spotted one from the University of Utah'], [0.9223976135253906, " it said alert shooting on campus secure in place we don't believe there's an active threat at this point in time but we don't have that 100% confirm I called the news director at KSL News radio my friend Mark Juke"], [0.9745288491249084, " he was on his way to the station he dispatched a reporter to the scene the shooting happened earlier today they did find one person deceased that victim identified as a woman and they did identify a suspect as well I grabbed my keys went to my car and raced back to work the situation as it is an ongoing at the University of Utah Campus this evening because of a shooting that happened fatal shooting just around 9 p.m. police are on scene they're looking for a suspect who has not been located we came to learn over the following hours and days that Lauren McCluskey a student at the University had been shot and killed outside of her dorm by a man named Melvin Shawn Rowland couple hours in the investigation we learned that suspect had gotten off a campus in a vehicle he was picked up"], [0.8970529437065125, " Jordan rusticated we'd probably 1:15 in the morning the suspect was located by Salt Lake City Police Department downtown off of 600 South a foot pursuit in soon suspect ran into a church at which time he took his own life"], [0.8886720538139343, " Lorenz and Susan's stories are different yet they are the same"], [0.9831220507621765, ' both women lost their lives to a romantic partner'], [0.9428520202636719, ' both women had come to Utah from Washington Susan to escape her father-in-law Lauren to perfect her talents as a gifted Runner has an outstanding student scholar and accomplished student-athlete'], [0.9292550086975098, ' MBA students staff and faculty who knew her are feeling a profound loss age Lauren was 21 Melvin was 37'], [0.9551166296005249, " he also lied about his status as a convicted felon and sex offender on parole he had served time in prison after raping a teenage girl one of Lauren's friends had learned Melvin's secret and warned her that's when Lauren broke off their brief relationship"], [0.9697376489639282, ' but Melvin would not leave Lauren alone'], [0.9562399983406067, " can you use technology to terrorize he bombarded Lawrence phone with text messages using spoofed phone numbers to make it appear as though the texts were coming from Melvin's friends in fear Lauren called police for help and I think they're trying to lure me somewhere Lauren also doubted her own instincts"], [0.5534780025482178, ' just an ex'], [0.9283848404884338, " I would say it's more just as friends in an email Melvin threatened to publish intimate photos of Lauren unless she transferred $1,000 to his account she did then Lauren again contacted police she just wanted the harassment and extortion to stop you know when an arrest would be made"], [0.9347538352012634, ' even talked to an officer if you want I can arrange that if you want that'], [0.9687756299972534, ' yeah that sounds good with Melvin was not arrested police failed to piece together his status as a parole Violator'], [0.9434844255447388, " are we collapsed before on the night of October 22nd he snatched Lauren in the parking lot outside her dorm dragged her into the backseat of a car and shot her to death Lauren was on the phone with her mom when it happened I don't know know know know and like someone might have been something but her death shook me"], [0.9737527370452881, ' Lauren McCluskey and Susan Powell should both be alive today'], [0.9449138045310974, " along with many many other women who've been killed at the hands of a husband a boyfriend a date a co-worker or even just an acquaintance so I'm less concerned with the question where is Susan then I am the question why does this keep happening"], [0.9659096598625183, " one particular passage from Susan's emails has resonated with me she wrote it in November of 2008 a little over a year before her disappearance she said I'm finding out more and more that family and friends were seeing the red flags long before I did and of course I wish they would have said something Susan I make this pledge to you"], [0.9633135199546814, ' I resolved to treat the women in my life with respect compassion and understanding'], [0.8768107891082764, ' I vow to believe any woman who expresses through words or actions concerned for her safety'], [0.9374313354492188, ' I promise to call out and condemn abusive manipulative or controlling Behavior any time or place I encounter it'], [0.9176416397094727, ' if I ever fail to live up to this standard'], [0.9803692102432251, ' I invite those who know me to hold me accountable'], [0.9876290559768677, ' we can do better'], [0.9438183307647705, ' we can be'], [0.9629840850830078, ' better'], [0.9440330266952515, " to anyone who's listening"], [0.9605391621589661, ' I would be honored if you would join me in making the same commitment'], [0.9077644348144531, ' my name is Dave Kali'], [0.9554994702339172, ' thank you for listening to cold']]}
+{
+  "Stats": {
+    "PodcastID": "1441595858.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 2106.461878,
+    "OriginalFileSize": 34219417,
+    "FlacFileSize": 164433080,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 785.2565181255341,
+    "DownloadSuccessful": 19.228225231170654
+  },
+  "Transcripts": [
+    [
+      0.9731539487838745,
+      "this podcast discusses domestic violence criminal Behavior murder and adult themes while not explicit listener discretion is advised"
+    ],
+    [
+      0.9565210342407227,
+      " our story now returns to where it started the Woodbine Cemetery in Puyallup Washington"
+    ],
+    [
+      0.9655799865722656,
+      " on December 6th 2012 Susan's friends and family gathered at the cemetery to Mark the third anniversary of her disappearance"
+    ],
+    [
+      0.9166687726974487,
+      " the new monument stood at the top of the hill above Charlie and Braden's gravesite"
+    ],
+    [
+      0.9656880497932434,
+      " the bronze angel with outstretched wings and arms stood atop a large stone block it was an Angel of Hope a reference to the novel The Christmas Box by author Richard Paul Evans place for me it's a"
+    ],
+    [
+      0.9637545943260193,
+      " it's feels right that there these boys are here because it's so quiet and calm because when I met them it wasn't quite that way this morning, special place to reflect for people who knew Susan Charlie or Brayden people like Nancy from the Puyallup Gem and Mineral Club"
+    ],
+    [
+      0.924892008304596,
+      " or Pierce County Sheriff's detective sergeant Gary Sanders it's it's one of those bookmarks in your in your long line of memory that's forever be there so that you know the Christmas Angel that's out there and it's a beautiful place hopefully they're at peace now"
+    ],
+    [
+      0.9337605834007263,
+      " this is cold episode 18 Angel of Hope I'm Dave Kali back after this"
+    ],
+    [
+      0.9713759422302246,
+      " hey this is Dave when I first pitched cold to my boss a few years ago one of the toughest questions we faced was Finding funding thankfully we've had the support of some great sponsors it's why you hear the occasional add I would really like to keep making podcasts and for that to happen those sponsors they have to stick around so if you appreciate cold and would like more shows like it please visit their websites using the code promo codes even if you don't buy anything it shows them that you were listening and that really helps us out thanks there are so many aspects to the Susan Powell investigation it's been hard to get them all into cold if you want even more exclusive details regarding Susan Story head over to wonder e.com + and sign up now for access to bonus content you won't find anywhere else that's Wonder e.com plus again Wonder y.com plus-2 here 3 bonus episodes you won't get anywhere else"
+    ],
+    [
+      0.921101987361908,
+      " The Sting of loss has never gone away for the people who love Susan and her boys friends like Amber Hardman be boys like but should be"
+    ],
+    [
+      0.9748682975769043,
+      " please show up in that always be running around saying sometimes in their underwear you know just crazy boys one of the biggest things I remember about Susan that was so something to look up to for me was the service she did for others she's coloring people's hair cutting peoples hair not charging them for those that were older nose ever needed it may be in didn't have the funds she did all those things for people and she did all those things for her family that is all the service she did for her family and stuff and and that's something to be admired for Debbie Caldwell Charlie like bugs he like to find bugs he was outdoors and intrigued by things so he was always looking for things that Brayden was all about cars and blocks as long as I had the cars on blocks that was great but brain and actually had quite a little witty personality he was kind of a teaser he like"
+    ],
+    [
+      0.9505980610847473,
+      " cheese you could see that in his personality that was kind of like Susan to still Grieves for what should have been seeing Charlie and Bree grow into bright happy young men boys murder wasn't the end it did it did close a chapter for me though because the single biggest thing that I was concerned about was the boys I wanted them to get out of that situation and not continue to perpetuate this violent"
+    ],
+    [
+      0.9623717069625854,
+      " cycle that was continuing through my family and I wanted them to to be able to have a a normal loving family relationship as as much as possible mentioned Jennifer's book a light in Dark Places a few times during this podcast Jennifer told me that she hoped in writing it she might Inspire women in situations like Susan's to escape out of the motivation for reading my book was"
+    ],
+    [
+      0.9584497809410095,
+      " printed instill that courage and others and that recognition of a bad situation and realizing the realization that it shouldn't go on there needs to be a change in that situation and sometimes it can be corrected sometimes with help"
+    ],
+    [
+      0.9757861495018005,
+      " people can change and and you can fix the situation and end up with a good and positive marriage and in family situation but sometimes it isn't possible sometimes the right decision is to get out box has a similar goal at least have made differences in their lives to prevent themselves from being caught that same trap and that's the reason the only viable reason for doing it for now on is to let people know about the danger signs that were there now retired detective Ellis Maxwell has also spent the last few years working on a book I thought I would have that cigarette in six months but it's tough because I catch myself basically just start working the case again and analyzing this data and analyzing that and it comes really taxing I mean I died"
+    ],
+    [
+      0.9646279215812683,
+      " sound and I start typing and and I'll type and type and type and do this and do that and then next thing you know I can't sleep for two three days and I was told me our conversations have helped sitting here in your meeting with you and answer your questions and Sharon Smith site is it actually has been beneficial for me and it's helped me kind of get through my own struggles from doing it cuz it's it it's always going to be there is never going to go away but this is just one of many many people who took part in the Powell investigation a lot of them still carry the weight of their experiences in private everybody involved in the cases does struggle at one point or another with it and Alex is really super challenging and all of them not just me or going to have to know answer questions and live with this case for the rest of their lives as well especially people learn it"
+    ],
+    [
+      0.9393757581710815,
+      " how close to the investigation they were of course a key element of that struggle arises from the absence of answers there's a answers that I will never ever get and download never be any justice held against anybody for their actions and you know the likelihood of Susan ever being discovered is in my personal opinion very super low"
+    ],
+    [
+      0.9272032976150513,
+      " this is the part where I'm supposed to say I've cracked the case that I found Susan that she couldn't last rest in peace with her boys"
+    ],
+    [
+      0.9866668581962585,
+      " I'm sorry I can't do that I wish I could"
+    ],
+    [
+      0.9859347939491272,
+      " instead I'm going to do what reporters are trained not to do"
+    ],
+    [
+      0.9859610199928284,
+      " I'm going to share my personal views what I think likely happened to Susan"
+    ],
+    [
+      0.9696193933486938,
+      " but I stress this is a theory it's based on evidence and inference but is ultimately nothing more than an educated guess one that is subject to change"
+    ],
+    [
+      0.9549899697303772,
+      " here goes"
+    ],
+    [
+      0.954193115234375,
+      " I believe Josh Powell killed Susan I believe it was a crime he considered for quite some time likely more than two years I say that because of the steps he took as early as 2007 to obtain life insurance in her name to establish a trust that would guarantee his access to that money and to secure power of attorney so he could take legal action in her name"
+    ],
+    [
+      0.9522859454154968,
+      " we know from Steve Powell's journals that Josh spoke in 2008 of wanting Susan to have an accident we know from Susan's handwritten will that she feared Josh would kill her and that he would try to make it appear as though it were an accident"
+    ],
+    [
+      0.9646849036216736,
+      " it seems likely that Josh had threatened Susan's life repeatedly"
+    ],
+    [
+      0.9318042993545532,
+      " recognizing that danger Susan had told an old friend in a November 2008 Facebook message she was ready to make a hasty escape with her son's if I need to leave in the middle of the night or whatever a safe deposit box docs on file Etc right up to the brink of divorce"
+    ],
+    [
+      0.9288505911827087,
+      " for efforts to assert her independence Howell around Josh like warning shot over the bow of the ship he knew what was coming"
+    ],
+    [
+      0.9572849869728088,
+      " Josh would not tolerate a divorce kid seen just how ugly his own parents split had been he also viewed Susan as his property and their two sons as extensions of himself under no circumstance would he allow her custody of them"
+    ],
+    [
+      0.9541420936584473,
+      " for Josh killing Susan would have seemed to solve two problems it would have rid him of a wife he no longer wanted and if done properly would have paid his bills for years to come I'm not sure why December 6th 2009 was the date he chose to take the final step but Susan's impending April deadline for divorce seems probable factor in the decision"
+    ],
+    [
+      0.9692108035087585,
+      " as for the act itself I believe Josh used some sort of drug or substance to incapacitate Susan I can Envision a scenario in which Josh intentionally brake checked another driver a few months before that December day causing a crash we know for a fact that after that fender bender on September 2nd Josh obtained a prescription for a drug that would do the job cyclobenzaprine the scripts he filled the day of the crash was for 40 pills enough to last about a week when police later found the bottle in the Sarah Circle house in December it's still held 32 pills if Josh had been in such pain from whiplash"
+    ],
+    [
+      0.7652856707572937,
+      " when do you have taken more"
+    ],
+    [
+      0.9530326724052429,
+      " and how many cyclobenzaprine pills would he have needed to crush up and put into the cream cheese on Susan's pancake the one he personally prepared for Susan on December 6th to leave her feeling tired"
+    ],
+    [
+      0.9546544551849365,
+      " Susan once mentioned in a Facebook message Josh did not have a gun aside from power tools and kitchen nights it seems plausible Josh might have used one of his tools perhaps an electric drill to kill Susan case I mean he's a tool dream guy"
+    ],
+    [
+      0.9365043044090271,
+      " the Bostitch nail gun on Milwaukee drill"
+    ],
+    [
+      0.9540932774543762,
+      " Ridgid drill Integra Ridgid sander and the Ridgid saw acquired to steam clean any blood that made it onto the carpet or couch cushions perhaps that job took longer than he anticipated in his Rush he could have missed a spot the swipe Mark and Susan's Blood on the upper head rest of the couch"
+    ],
+    [
+      0.9767416715621948,
+      " there were also those small drops of Susan's Blood on the tile floor next to the couch that he failed to notice perhaps scattered by a spinning drill bit"
+    ],
+    [
+      0.953899085521698,
+      " it would have also taken time to wrap Susan's body a necessary step to prevent the spreading of forensic evidence"
+    ],
+    [
+      0.9445686340332031,
+      " it's possible he used one of the several tarps he kept in the garage maybe he used the tree wrap he had purchased too lightly buying Susan's arms and legs together leaving no marks or residue as duct tape might"
+    ],
+    [
+      0.9356302618980408,
+      " in the scenario Josh would have grabbed Susan cell phone and power dat off understanding the risk of it being tracked is he moved her body away from the house"
+    ],
+    [
+      0.975138247013092,
+      " but in his rush to clean and dump the body before heading out on his camping trip which was to be his Alibi he might have overlooked Susan's wallet purse and keys"
+    ],
+    [
+      0.9586370587348938,
+      " that in and of itself might not have been a big problem in his mind I believe Josh expected he'd have time to return home and tie up Loose Ends before himself reporting Susan did not come home from work"
+    ],
+    [
+      0.9718738794326782,
+      " he probably didn't account for Debbie Caldwell"
+    ],
+    [
+      0.9501087665557861,
+      " Josh didn't like Debbie much if he'd ever bothered to get to know her he might have realized she took the well-being of her daycare kids very seriously that Charlie and Braden's unexplained absence would cause alarm is on his way home to finish cleaning up on the afternoon of December 7th when he took that first phone call from Jovanna Owings he learned at that moment police were already looking for Susan"
+    ],
+    [
+      0.9617562294006348,
+      " worse yet they had already been in the house I still can't figure out how he thought these me at at a loss their phone conversation that afternoon Josh asked his sister Jennifer Graves what she knew just more evidence that he had this preconceived plan and was involved in her Disappearance in the murder weapon away until he could return home and dispose of it he might have feared that police had already found it"
+    ],
+    [
+      0.977226972579956,
+      " so Josh went on the defensive his plan appeared to hinge on the idea that Susan had gone to work in order to sell that story he drove South to point of the mountain and called her phone the one he knew was with him in the minivan to leave this message Josh then drove North to Salt Lake City and park outside Susan's work knowing full well she had not shown up for her shift that day and would not be coming out for a ride home"
+    ],
+    [
+      0.9768078923225403,
+      " I place a lot of weight on this establishing that Susan had gone to work seemed critical to Josh he insisted on it from his very first interactions with Detective Ellis Maxwell"
+    ],
+    [
+      0.9016348719596863,
+      " I don't know"
+    ],
+    [
+      0.9386459589004517,
+      " I'm just taking honorable way to work but not for this long insistence leads me to believe Josh intended for Susan's body to be found and for her death appeared as either an accident or as a random act of violence one for which Josh had an alibi he was in the desert witnessed by sheepherders when it happened"
+    ],
+    [
+      0.9253824353218079,
+      " Susan being found and her death being someone else whose fault would have been necessary if Josh intended to claim the life insurance"
+    ],
+    [
+      0.945522129535675,
+      " in this scenario Josh would have left Susan's body somewhere near the Wells Fargo call center where she worked"
+    ],
+    [
+      0.9631175398826599,
+      " Charlie if he was awake and in the minivan at the time might have seen an airplane taking off from nearby Salt Lake City International Airport and that could explain his perplexing comment to police on December 8th about having flown in an airplane to go camping in the earth tank on the Earth plane to Dinosaur National Park or play Green dinosaur not to park on the night of the seventh heat of returned home still convinced he could make the plan work is top priority would have been the destruction of the murder weapon"
+    ],
+    [
+      0.9234893918037415,
+      " I believe Josh took that weapon again possibly a power tool and used his oxy acetylene torch to obliterated in the garage of the Sarah Circle house"
+    ],
+    [
+      0.9114605188369751,
+      " next Josh would have sanitized everything The Rug Doctor the minivan the soiled washcloths he'd left in the bathtub"
+    ],
+    [
+      0.9543789625167847,
+      " he'd have stayed up all night to do it even missing his morning appointment with police to make sure he did not miss anything"
+    ],
+    [
+      0.9106202125549316,
+      " I believe Josh went into his second interview with Ellis on December 8th cautious but confident slow to boys as long as you don't think she did you don't think so"
+    ],
+    [
+      0.8428983688354492,
+      " help me"
+    ],
+    [
+      0.9251598119735718,
+      " where she would I think she would have gone to work and try to go to work that's what she would have been in the process of doing by the end of an interview Josh would have known the plan like his wife was dead"
+    ],
+    [
+      0.9161711931228638,
+      " Ellis knew he'd killed Susan but not how"
+    ],
+    [
+      0.9869490265846252,
+      " and he didn't have the evidence"
+    ],
+    [
+      0.9393853545188904,
+      " when I was confronted Josh with Charlie statement about Susan having gone camping with them Josh recognized the police did not yet know what had actually happened"
+    ],
+    [
+      0.9880439043045044,
+      " because Susan had not gone out to the West Desert with them"
+    ],
+    [
+      0.9754087924957275,
+      " at that point Josh would have known if he were to survive the plan had to change Susan would have to disappear forever so on the night of December 8th Josh obtained the rental car he drove to the ATM outside of his Bank in West Valley and withdrew about $600 in cash"
+    ],
+    [
+      0.9493986368179321,
+      " I believe it's plausible Josh could have been returned to where he'd originally left Susan's body retrieved it and moved it to a place where it would be safe from Discovery somewhere within a slightly less than 400 mile radius of West Valley City Utah probably of North in one of the dark stretches of Southern Idaho"
+    ],
+    [
+      0.9678433537483215,
+      " in that frantic process he strained his shoulder"
+    ],
+    [
+      0.9408011436462402,
+      " during this time frame Josh told his own father the same story he told the police Steve Powell was skeptical but he had no foreknowledge of the murder and no hand in its execution but I think we'll find her I really do the course of the following weeks and months Steve concocted an alternate reality in his mind rather than face the horrible truth that his son had murdered the object of his unrequited Obsession have nothing to do with it I believe the only person Joshua confided in was his brother Michael"
+    ],
+    [
+      0.9533607959747314,
+      " Michael's phone records suggest he was aware of his brothers playing and when it went awry accepted the task of helping Josh manage the mess"
+    ],
+    [
+      0.9779523015022278,
+      " I do not believe Michael met Josh on December 8th or 9th while Josh was unaccounted for in the rental car"
+    ],
+    [
+      0.9742840528488159,
+      " I do not believe Michael disposed of Susan's body"
+    ],
+    [
+      0.9725353121757507,
+      " I say this because Steve Powell's journals described Michael as being home in Puyallup on those days I got the impression that the first day he was expecting her to come back because she occasionally left and sometimes he didn't always know her whereabouts for periods of you know a few hours after her whatever and as time went on I got the impression that he was just getting more and more upset and distraught by the end of the week he was in tears and that's when I remember because that's when I went down there so how do I count for Michael's later paranoia about his Ford Taurus or the cadaver dog hitting on the car's trunk you know I guess you have to wonder was a purely"
+    ],
+    [
+      0.9630425572395325,
+      " because of possible car probably want to sell a car or did he just want to get out of the car cuz I remember that when we check the car out we couldn't really find that much wrong with the car I find it likely that while in Utah Josh tasked Michael with disposing of some piece of secondary evidence perhaps clothing Susan had been wearing when she died or something similar"
+    ],
+    [
+      0.9729869961738586,
+      " Michael might have even been taking that object back to Washington in the Taurus when his car broke down I can imagine Michaels fear standing along the side of I-84 between Ontario and Baker City while in possession of murder evidence wondering if an Oregon State Trooper might at any moment pull up behind him I can picture Michael Flynn whatever that item was into the grass alongside the highway before limping the car the rest of the way to Baker City it would been makes sense for Josh to stop at that same spot 5 months later and take photographs to ensure whatever it was Michael dumped could not be seen from the interstate"
+    ],
+    [
+      0.9822515249252319,
+      " I do not believe Susan's body is in Utah's West Desert I don't think Josh disposed of her in a mine"
+    ],
+    [
+      0.9420801997184753,
+      " so where is she could be in a borrow pit right next to the freeway somewhere between here and Wendover you know after all of this I can only guess you know certain I have empathy for the coxes and you nuts I can't imagine you know losing a child and you're never being able to see them again or put them to rest or not ever have any answers that would be something I would"
+    ],
+    [
+      0.8171790242195129,
+      " I wish one of my worst enemy so horrible find Susan"
+    ],
+    [
+      0.9565748572349548,
+      " it remains a hope a wish command A desperate plea"
+    ],
+    [
+      0.9736097455024719,
+      " final thoughts after this"
+    ],
+    [
+      0.9773789048194885,
+      " don't miss this Fall's True Crime must listen call me God the untold story of the DC sniper investigation from the leading True Crime investigative team that brought you the New York Times bestseller evil has the name comes this new riveting probe into the Manhunt for The elusive DC snipers hear the never-before-told story of the chilling and volatile investigation that led to the killers capture and ended in unprecedented 23 day reign of terror that paralyze the DC area and grip the nation told firsthand by those essential to solving the case including a brilliant D dive into the behavioral ballistic forensic and electronic analysis it required by the FBI agent Brothers Jim and Tim Clemente as they leave listeners through the Tangled path of Discovery and evidence-gathering only a select few had the vision to see call me God the untold story of the DC sniper investigation how do you stop what you can't see listen free with a 30-day trial just go to audible.com Untold Story"
+    ],
+    [
+      0.9757388830184937,
+      " are you afraid to color your hair at home my mom was a hair stylist who could spot a bottle job a mile away so I definitely was but I've got to tell you I did it myself with Madison Reed and I think my mom would have loved the results it looks like I went to the salon but I did it on my schedule for a fraction of the cost better yet it doesn't have that you know hair color smell that's because it's made with ingredients you can feel good about no harmful chemicals that fry your hair it couldn't be more convenient it shows up at my door on my schedule beautifully packaged in a kit that has everything I need no appointment necessary and it's on my turf so I can catch up on my favorite podcasts while it's processing if you're indecisive like me you can even try on the different colors to find the perfect shade for your hair using Madison Reed hair color tool kit ammonia-free multi-tonal hair color delivered to your door for less than $25 at Madison Reed. Com use my promo code cold and you'll get 10% off plus free"
+    ],
+    [
+      0.8791309595108032,
+      " on your first color kit my promo code again is cold visitmadison - read.com now to find your perfect Shade that's Madison - weed. Com"
+    ],
+    [
+      0.9857771396636963,
+      " the question of where to find Susan Powell is no longer the one that most bothers me"
+    ],
+    [
+      0.8711650371551514,
+      " 200 stand why I need to share something that happened shortly before this podcast first launched"
+    ],
+    [
+      0.9268370866775513,
+      " it was October 22nd 2018 3 weeks from colds debut"
+    ],
+    [
+      0.9619177579879761,
+      " I arrived home from work that chilly Autumn evening ready to unwind"
+    ],
+    [
+      0.9478012323379517,
+      " in the idle moment I pulled my phone for my pocket and began scrolling through tweets"
+    ],
+    [
+      0.9797629117965698,
+      " I spotted one from the University of Utah"
+    ],
+    [
+      0.9223976135253906,
+      " it said alert shooting on campus secure in place we don't believe there's an active threat at this point in time but we don't have that 100% confirm I called the news director at KSL News radio my friend Mark Juke"
+    ],
+    [
+      0.9745288491249084,
+      " he was on his way to the station he dispatched a reporter to the scene the shooting happened earlier today they did find one person deceased that victim identified as a woman and they did identify a suspect as well I grabbed my keys went to my car and raced back to work the situation as it is an ongoing at the University of Utah Campus this evening because of a shooting that happened fatal shooting just around 9 p.m. police are on scene they're looking for a suspect who has not been located we came to learn over the following hours and days that Lauren McCluskey a student at the University had been shot and killed outside of her dorm by a man named Melvin Shawn Rowland couple hours in the investigation we learned that suspect had gotten off a campus in a vehicle he was picked up"
+    ],
+    [
+      0.8970529437065125,
+      " Jordan rusticated we'd probably 1:15 in the morning the suspect was located by Salt Lake City Police Department downtown off of 600 South a foot pursuit in soon suspect ran into a church at which time he took his own life"
+    ],
+    [
+      0.8886720538139343,
+      " Lorenz and Susan's stories are different yet they are the same"
+    ],
+    [
+      0.9831220507621765,
+      " both women lost their lives to a romantic partner"
+    ],
+    [
+      0.9428520202636719,
+      " both women had come to Utah from Washington Susan to escape her father-in-law Lauren to perfect her talents as a gifted Runner has an outstanding student scholar and accomplished student-athlete"
+    ],
+    [
+      0.9292550086975098,
+      " MBA students staff and faculty who knew her are feeling a profound loss age Lauren was 21 Melvin was 37"
+    ],
+    [
+      0.9551166296005249,
+      " he also lied about his status as a convicted felon and sex offender on parole he had served time in prison after raping a teenage girl one of Lauren's friends had learned Melvin's secret and warned her that's when Lauren broke off their brief relationship"
+    ],
+    [
+      0.9697376489639282,
+      " but Melvin would not leave Lauren alone"
+    ],
+    [
+      0.9562399983406067,
+      " can you use technology to terrorize he bombarded Lawrence phone with text messages using spoofed phone numbers to make it appear as though the texts were coming from Melvin's friends in fear Lauren called police for help and I think they're trying to lure me somewhere Lauren also doubted her own instincts"
+    ],
+    [
+      0.5534780025482178,
+      " just an ex"
+    ],
+    [
+      0.9283848404884338,
+      " I would say it's more just as friends in an email Melvin threatened to publish intimate photos of Lauren unless she transferred $1,000 to his account she did then Lauren again contacted police she just wanted the harassment and extortion to stop you know when an arrest would be made"
+    ],
+    [
+      0.9347538352012634,
+      " even talked to an officer if you want I can arrange that if you want that"
+    ],
+    [
+      0.9687756299972534,
+      " yeah that sounds good with Melvin was not arrested police failed to piece together his status as a parole Violator"
+    ],
+    [
+      0.9434844255447388,
+      " are we collapsed before on the night of October 22nd he snatched Lauren in the parking lot outside her dorm dragged her into the backseat of a car and shot her to death Lauren was on the phone with her mom when it happened I don't know know know know and like someone might have been something but her death shook me"
+    ],
+    [
+      0.9737527370452881,
+      " Lauren McCluskey and Susan Powell should both be alive today"
+    ],
+    [
+      0.9449138045310974,
+      " along with many many other women who've been killed at the hands of a husband a boyfriend a date a co-worker or even just an acquaintance so I'm less concerned with the question where is Susan then I am the question why does this keep happening"
+    ],
+    [
+      0.9659096598625183,
+      " one particular passage from Susan's emails has resonated with me she wrote it in November of 2008 a little over a year before her disappearance she said I'm finding out more and more that family and friends were seeing the red flags long before I did and of course I wish they would have said something Susan I make this pledge to you"
+    ],
+    [
+      0.9633135199546814,
+      " I resolved to treat the women in my life with respect compassion and understanding"
+    ],
+    [
+      0.8768107891082764,
+      " I vow to believe any woman who expresses through words or actions concerned for her safety"
+    ],
+    [
+      0.9374313354492188,
+      " I promise to call out and condemn abusive manipulative or controlling Behavior any time or place I encounter it"
+    ],
+    [
+      0.9176416397094727,
+      " if I ever fail to live up to this standard"
+    ],
+    [
+      0.9803692102432251,
+      " I invite those who know me to hold me accountable"
+    ],
+    [
+      0.9876290559768677,
+      " we can do better"
+    ],
+    [
+      0.9438183307647705,
+      " we can be"
+    ],
+    [
+      0.9629840850830078,
+      " better"
+    ],
+    [
+      0.9440330266952515,
+      " to anyone who's listening"
+    ],
+    [
+      0.9605391621589661,
+      " I would be honored if you would join me in making the same commitment"
+    ],
+    [
+      0.9077644348144531,
+      " my name is Dave Kali"
+    ],
+    [
+      0.9554994702339172,
+      " thank you for listening to cold"
+    ]
+  ]
+}

@@ -1,1 +1,38 @@
-{'Stats': {'PodcastID': '1463081342.mp3', 'DownloadTime': 1, 'AudioLength': 160.496333, 'OriginalFileSize': 1998261, 'FlacFileSize': 13419483, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 91.41775012016296, 'DownloadSuccessful': '2.4483084678649902'}, 'Transcripts': [[0.9352889657020569, "Russ Faria was charged with a crime that he swore he did not commit how this happened I did not do this I was not involved with it after Christmas 2011 56 times the jury was left with no alternative animal people's words the husband did it who else would have"], [0.9530467391014099, 'the prosecutor said it was rage greed'], [0.9129555225372314, " we wouldn't be here if the answer was that easy my opinion isn't man got charged with murder and then it sort of the snowball from there 25 years I've never seen the story quite like this before as we investigated The Saga of murder things became personal"], [0.9139959216117859, ' what a true crime show becomes part of the story'], [0.9286432266235352, " never have imagined and other cases that have twists and turns but I've never work on the case like this with so many twists and turns that were completely unpredictable an unbelievable story of the murder of Betsy Faria hold on to your seats Advanced on the man and fired until I heard click click click this story ended how wrong we were and I'm not turning this money over to family with kids that's a huge problem"], [0.9532162547111511, " Russ Faria didn't kill his wife Betsy but did someone else she knew I'd like to see the story concluded Justice Betsy free eye has not received justice rust-free has not received Justice her family is not received Justice Keith Morrison for the ride on podcast from Dateline NBC subscribe start listening September 18th"]]}
+{
+  "Stats": {
+    "PodcastID": "1463081342.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 160.496333,
+    "OriginalFileSize": 1998261,
+    "FlacFileSize": 13419483,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 91.41775012016296,
+    "DownloadSuccessful": 2.4483084678649902
+  },
+  "Transcripts": [
+    [
+      0.9352889657020569,
+      "Russ Faria was charged with a crime that he swore he did not commit how this happened I did not do this I was not involved with it after Christmas 2011 56 times the jury was left with no alternative animal people's words the husband did it who else would have"
+    ],
+    [
+      0.9530467391014099,
+      "the prosecutor said it was rage greed"
+    ],
+    [
+      0.9129555225372314,
+      " we wouldn't be here if the answer was that easy my opinion isn't man got charged with murder and then it sort of the snowball from there 25 years I've never seen the story quite like this before as we investigated The Saga of murder things became personal"
+    ],
+    [
+      0.9139959216117859,
+      " what a true crime show becomes part of the story"
+    ],
+    [
+      0.9286432266235352,
+      " never have imagined and other cases that have twists and turns but I've never work on the case like this with so many twists and turns that were completely unpredictable an unbelievable story of the murder of Betsy Faria hold on to your seats Advanced on the man and fired until I heard click click click this story ended how wrong we were and I'm not turning this money over to family with kids that's a huge problem"
+    ],
+    [
+      0.9532162547111511,
+      " Russ Faria didn't kill his wife Betsy but did someone else she knew I'd like to see the story concluded Justice Betsy free eye has not received justice rust-free has not received Justice her family is not received Justice Keith Morrison for the ride on podcast from Dateline NBC subscribe start listening September 18th"
+    ]
+  ]
+}
