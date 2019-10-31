@@ -1,0 +1,122 @@
+{
+  "Stats": {
+    "PodcastID": "290783428.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 1258.740563,
+    "OriginalFileSize": 20140055,
+    "FlacFileSize": 104054037,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 452.1023724079132,
+    "DownloadSuccessful": "6.138080358505249"
+  },
+  "Transcripts": [
+    [
+      0.9819292426109314,
+      "this is planet money from NPR"
+    ],
+    [
+      0.9424968957901001,
+      " do you want us to introduce you in this story with your baseball walk up music we might do it to you anyway just warning you okay"
+    ],
+    [
+      0.9692484736442566,
+      " I first met Logan ice at Baseball spring training that's the practice time before baseball season starts you've been with the Indians react draft 2016 yes sir 24 years old he plays catcher and he's built like a catcher he's square and muscular picture like a 9-volt battery with legs 3 years ago Logan was playing college baseball he was eligible to be drafted by a major league baseball team and if you happen to turn on the TV on the night of the draft the baseball experts really like Logan will get ice they saved the best catchers in this draft a switch hitting catchers always a tough to find what do you think about osu's backstop and he's got Savvy and athleticism and Agility the Cleveland Indians ended up drafting Logan they like them so much they paid him an $850,000 signing bonus which is a lot of money but if things went well for"
+    ],
+    [
+      0.9689611196517944,
+      " Logan he could make so much money that that bonus would look like birthday card cash they're big Leaguers playing Logan's position right now who make 20 million dollars per year but the way this works new players like Logan don't go straight to Cleveland's main team the one you see on national TV the one where guys are making millions know Logan had to go and prove himself he got tossed in with the hundreds of other players playing on the Cleveland Indians feeder teams their their minor league teams Logan got sent two teams like the Mahoning Valley Scrappers the Lynchburg hillcats the Akron RubberDucks where the salary is not millions and last year in Akron what was your living situation"
+    ],
+    [
+      0.9643570780754089,
+      " sounds like on the couch for a little while I lived in the hotel for a little while and give you a couple nights how much you making if you can divulge her give me a a rain you should what you're making a I want to say it's around 1,600 w a i think is what it comes out to be something like that that's $1,600 a month but only during the season no paper spring training no pay for the offseason to Logan salary is just around $8,000 a year not eighty thousand eight thousand but that doesn't account for living that doesn't account for shipping your car out that is an account for food granted they feed you a couple of meals a day but Logan and to some degree all minor Leaguers are kind of like living breathing lottery tickets when they pay off and make the majors they pay off huge on millions and millions of dollars but for the vast majority of minor league players that never"
+    ],
+    [
+      0.9679722189903259,
+      " what happened they toil away in the minor leagues making bupkis and most do not have a giant signing bonus UC baseball is a winner-take-all career there is a very small chance of making huge amounts of money but more importantly there is a huge chance of making almost no money and as far as Logan ice new those are really the only two options but one day A couple of years ago he was at the batting cages practicing and he got this message on LinkedIn LinkedIn is like some of those recruiters and stuff that you get like automated message like yeah like that long remember what it said though I could maybe pull it up and see what I got here so he said halo going to spend a minute it's also a small world because I was in the message was from an old baseball friend someone he hadn't seen in a while so there was some small talk commiserating about a particular minor league assignment Logan and gotten sucks that you got stuck in Mahoning Valley last year"
+    ],
+    [
+      0.9620384573936462,
+      " which that piece 100% right anyways I wanted to reach out because I look at old friend explained that he was working for this new company that had an idea for how players might be able to deal with this super uncertain winner-take-all salary situation his friends message said that this company will quote help baseball players financially by pooling risk and investing in each other so Logan's reading this and he's thinking this sounds fishy yeah and I I was the first thing I told him that well I guess I'm fast forward a little bit when I got on the photos I do is just catch like I'm going to be blunt with you like this seems like a Ponzi scheme since there's no way this is thing hello and welcome to Planet Money I'm Kenny Malone Karen Thom Goldman Tom Goldman cover sports for NPR I sure do and what if this pooling risk thing what if it is a thing what it is a completely new way to look"
+    ],
+    [
+      0.9707290530204773,
+      " not just baseball but any winner-take-all career today on the show and economic idea that could change the way baseball players and maybe the rest of us think about how we get paid"
+    ],
+    [
+      0.9762685298919678,
+      " support for NPR comes from Newman's Own Foundation working to nourish the common good by donating all profits from Newman's Own food products to charitable organizations that seek to make the world a better place more information is available at Newman's Own Foundation. Org newsletter is like meaning and Noir detective in the parking garage for evidence exchange and incriminating photos can you confirm what's incriminating about the newsletter signup. Org / Planet Money newsletter"
+    ],
+    [
+      0.970152735710144,
+      " the company that was sending LinkedIn messages to try and get in touch with Logan ice is called Pando p a n d o the pitch Pando was making to Logan what's that you to say you're a first-round let's make the numbers bigger and more exciting you're a first-round pick as a first-round pick you have expected future MLB earnings of 45 million dollars great time in I think everyone's excited about the happy about that this is Charlie Olson he's pandas co-founder the problem is your odds are like a coin flip your kind of candy some version of a coin flip 50% of the time you're going to average 90 million dollars amazing 50% of the time you'll make less than 1 not amazing. Amazing is that even if you're one of the most promising players in the world sure there is a chance you will become one of the richest people in the country there is also a chance your future baseball earnings will be almost nothing you might get injured you might hit up streak of bad luck"
+    ],
+    [
+      0.9774070382118225,
+      " I just not be as good as everybody thinks so the company's Pitch 2 players like Logan ice is this wouldn't it be nice if you and some of your fellow baseball players could somehow share the risk of this brutal winner-take-all career that you've chosen this idea is called an income pool and it's pretty simple like Logan would just get together with a handful of other players in his shoes so still stuck in the minors still making bupkis and then Logan and these players would make a deal if one of us makes it to the majors and makes it big then that person will kick back part of his big money to the rest of us in the pool where baseball can be zero sound when your best friend gets called up and you didn't now all of a sudden when your best friend gets called up a little bit of panda thinks this income pool idea would work for all kinds of fields but the company is just a few years old and starting at with baseball and we spent a ton of time asking Charlie Olson questions about"
+    ],
+    [
+      0.976157009601593,
+      " this would actually work for example is there a level of baseball player that is too low to join a pool there's nothing that's too loud so lit right now by Kenny Malone in that studio s tooth next to be there even see me throwing a curveball I can tell as long as you are on contract by a professional baseball organization you are available to be a client apandis okay so you have skinny you have to be in the minor leagues at least but okay so let's just say you and I are minor Leaguers yes here's how this would work and we don't need hundreds of people for our pool it could be a small was just you and me making a deal yet so then then Tom and I make this agreement and we need to set up the terms of our pool and we could we could set whatever terms we want but there there's a kind of standard contract that baseball players use and to explain it Tom one of us one of us is going to make the big leagues which one is more likely you tell me I'm in the same me"
+    ],
+    [
+      0.9618170857429504,
+      " Charlie just ruled you access that is fair Tom is going to make the big leagues and we're in this pool together and here's how this would play out Tom will not have to pay anything until he is earned 1.6 billion dollars playing in the major leagues and once I reach that 1.6 million level all kick 10% of the money I make after that back to the bull Pando is going to take a 10% cut of our pool so that's 1% of Tom's additional money essentially that's their business model but but theoretically this is great for me like I'm stuck in the minor leagues with my crappy Minor League salary and it is now subsidized by Tom's giant big league contract and maybe Timex 30 million dollars a year I am suddenly a millionaire even though I'm in the minor leagues and the contract runs until my career is over or until I paid 20 million dollars into our pool"
+    ],
+    [
+      0.9741349816322327,
+      " so that's a version of the income pool plan pitched over the phone to our real minor Leaguer Logan ice Chute and I think I had a couple conversations with him actually all the conversations happen to the batting cage was pretty intrigued by this idea and he had tons of questions initially but he says it really kind of boiled down to one question in particular what's the worst thing for me as a player that could happen Financial what does pulling and Logan's thinking well if no one in my pool makes any money that's not great but it isn't actually costing me anything yeah cuz Pandora isn't charging they're only taking a cut once somebody makes a big and I guess kind of that the worst thing that could happen in pool into a player as you make stupid buku cash in the big leagues ironically If Logan make stupid buku cash in the big leagues and then nobody else in his pool does he would theoretically be paying a lot of money to the pool and then getting nothing out of it that's the worst thing that can happen to me as I'm"
+    ],
+    [
+      0.9754936099052429,
+      " Filthy Rich and I'm giving keep I'm giving people money and I am helping them like I'm helping them so much more than that money is hurting me if that was the worst thing that could happen to me I'm game so Logan had to figure out what kind of people he wanted in his pool there's a practical strategy which is like Logan wants the best possible players in his pool guys who can actually make the big leak spot if he goes straight to guys who are way better than he is then they're just going to tell him know they're going to be like I can do much better than you in my pool I'm not joining so these income pools are naturally going to form with players around the same skill level around the same odds of making the big leagues Logan ice also wanted people he actually liked he wanted people who felt the same way he did like they were joining a team and if they happen to make it big they wouldn't resent paying into the pool that's why Logan decided his first phone call would be the one of his best friends in baseball"
+    ],
+    [
+      0.9770117998123169,
+      " call them up it's the guy on the line and starts this heartfelt pitch I'm trying to build a pool for bunch of dudes so I we we help each other out in the long run like a financial like if I were to make it I'd be more than happy to hand you whatever I make make your life a tick better you off that's like that's a very personal pitch in the line a lot I mean a two friends facing the terrible odds of baseball together by binding their careers together and Logan says this friend he seems to take it all in and then he responds they just basically says I'm betting against myself I'm not betting against myself there's no way I'm not doing it and I'm like I was I was more frustrated like I put my heart out there a little bit and because we're friends I was legitimately trying to help like I thought this was the best thing that you could possibly get in and this is the weird contradiction at the heart of this entire right"
+    ],
+    [
+      0.9687529802322388,
+      " Pando and Logan in this case are asking some of the most confident people on the planet professional athletes who want the bad in their hands with the World Series on the line they're asking them to also consider that the odds are they'll never actually have that chance or any chance in the majors and I find this particular part of pandas plan like so compelling because like in order for this idea to work there need to be professional baseball players who can live with this cognitive dissonance to be able to believe in their hearts that they will make it big and yet somehow also understand that they will probably not and actually that's one of the big questions around income pool and is it a problem to introduce the idea of failing to professional athletes one of the employees at Pando told us he's run into some resistance from agents who represent baseball players they're worried if an income"
+    ],
+    [
+      0.9538446068763733,
+      " who was the kind of insurance policy may be the player won't try as hard to make it big at end to be honest I do not find that particular concern compelling because like the idea that having a back-up plan that is the fraction of someone else's salary would somehow make a professional athlete try to make it big less like I don't buy that it disincentivizes the athlete however there's a slightly more complicated issue that came up in conversation with Charlie Olson Pando CEO I think that for the Casual fan there is"
+    ],
+    [
+      0.9642117619514465,
+      " something that they might think about if a picture and a hitter are playing against each other and they're in a pool together right you're saying if you had a picture who's in a pool with a batter there is potentially on the face and incentive for the pitcher to throw a nice big softball to the batter so that they're both benefiting from you know that particular person's success in that moment and if I were fan watching I probably would be concerned about that yeah that's right and we should say this is a concern Major League Baseball has about income pulling one of these pools create situations where players would want to be less competitive with each other Charlie Olson made a few arguments about why he doesn't think this is a problem I'm sure we can all kind of agree that there are many ways in which you know a player might be motivated to see a player on another team succeed"
+    ],
+    [
+      0.9738112688064575,
+      " and yet at the end of the day competition rates for example of brother facing a brother we don't seem too worried about her brother being less competitive in order to benefit the greater family the main argument is that it's money you're worried about it it's just a better deal to be as good as you can possibly be because remember if you were in one of these pools you still get to keep 90% of what you earn you only get a teeny portion of what your coolmate is her name so why would you intentionally mess up to help your pool mates value which hurts your value would be the silliest bat known to man okay in the world people going to have to make up their own mind about it yeah Pando is happening according to Charlie there are now about 140 players currently in 25 different income pools and as of this season 3 of those players have made it to the major leagues played in real major league baseball games one example is a guy named Robert Dugger he is now a pig"
+    ],
+    [
+      0.9529918432235718,
+      " sir for the Miami Marlins and he is in a pool with eight other players who are not getting paid yet remember Duggar would have to stay in the major leagues long enough to earn 1.6 million dollars and that would take about two years but then money would start flowing back to his pool and according to Charlie when you run the projections for all the players in all 25 Pando pools enough players should make the majors to earn a quarter of a billion dollars collectively and that could mean 25 million dollars flowing back into pools in other words using composer on Pace to work for a lot of baseball players and Pando is already expanding this idea they've launched income pools for professional football players and the company is about to try and get pools going for business majors for people graduating with mbas Center Field Randolph"
+    ],
+    [
+      0.9739953875541687,
+      " he makes the catch putting away I swear the first out of the bottom of the seconds Logan ice has played an entire baseball season since I first met him back at spring training from the belt to to swing-and-a-miss he got him a good fastball SAO season started off rough I guess I was hoping it would go but I asked as part of the whole gig Logan says for a good portion of the Season he had trouble at the plate he had trouble batting and as a result he is not really sure what that is going to do to his chances of making the big leagues there was some good news Logan got enough other players to join his pool it's up and running there are five players including Logan the pool members are spread out all over the country Logan didn't know them all very well when they join the group but now they do all stay in touch and I'll get all the picture group chat chat and talk to each other"
+    ],
+    [
+      0.9416429400444031,
+      " we had a good job going whatever baseball just catching up and if you think about it for Logan lucky isn't exactly the position and income pool is for is Tucker in the minors he's not sure what his odds of actually making it big are anymore and before Logan had exactly one lottery ticket himself this income pool it has bought him for more"
+    ],
+    [
+      0.9568986296653748,
+      " this message comes from NPR sponsor TIAA committed to the idea that while most things in life run out from clean shirts in the morning to a favorite dessert at night lifetime income in retirement shouldn't learn more at tiaa.org never run out"
+    ],
+    [
+      0.9608836770057678,
+      " everyone this is Cardiff Garcia on the co-host of the indicator from planet money this week we are looking at how the cost of housing is about much more than just money listen to the indicator from Planet Money to hear more and for your daily economics news"
+    ],
+    [
+      0.9654399156570435,
+      " Planet Money is looking for our next great intern we are accepting applications through November 4th if you're interested go to NPR. Org careers it is a few clicks away from there you'll figure it out and it does pay better than Minor League Baseball I will say that today's episode was produced by Liza Yeager Bryant or status or show Alex goldmark is supervising producer and a special thanks this week to the Akron Rubber Ducks for Logan Isis walk on music and other season audio clips that we used in this episode Goldman and I'm Kenny Malone this is NPR thanks for listening"
+    ],
+    [
+      0.9416084289550781,
+      " let me ask you an important question here your name is Logan ice is that a real name it is a real name that's your given name yeah it's my given name and do you have walk up music in the in the minors yeah we tell me what year did I know what your liver is going cold as ice even got a couple Frozen this before I'd let it go yeah some let it go see but but mostly Ice Ice Baby visiting visiting teams that play for me"
+    ]
+  ]
+}

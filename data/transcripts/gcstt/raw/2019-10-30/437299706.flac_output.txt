@@ -1,0 +1,174 @@
+{
+  "Stats": {
+    "PodcastID": "437299706.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 2172.187067,
+    "OriginalFileSize": 35171433,
+    "FlacFileSize": 180241429,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 830.4082758426666,
+    "DownloadSuccessful": "16.281011819839478"
+  },
+  "Transcripts": [
+    [
+      0.9663270115852356,
+      "there's no place to escape to this is the last time"
+    ],
+    [
+      0.9771959185600281,
+      " hey what's up how you doing welcome to a very special edition of last podcast on the left eye of Ben Kissel hanging out with and it's almost too special it's too special tool to special guys were covering an interview with a very talented director Mike Flanagan who recently directed Stephen King doctor sleep yes indeed today we talked about doctor sleep you saw the movie I did see the film I highly recommend this movie so Stephen King doctor sleep is the next chapter 2 The Shining story it takes place 40 years later so today we speak with Mike Flanagan about making the follow-up to The Shining I mean Henry can you even imagine that endeavor following Stanley Kubrick oh yeah eyes wide but wait till you see my eyes wide but it's going to be great man is a great film everyone's going to really enjoy it and was going to circle around Natalie and I are people who have seen every single Stephen King made-for-tv movie"
+    ],
+    [
+      0.9696401953697205,
+      " I've seen every single Stephen King film I love Stephen King and yes his ubra it can be on a little bit of you could almost say corny side but I'm also going to say it's also like a weighted blanket for your soul as I love the feeling of watching a Stephen King film obviously we're talking now about Stephen King doctor sleep the first time I saw The Shining that was one of those films where it made me horrified because the child character which is actually in this film now play by Ewan McGregor I was exactly that kids age and there's something about seeing a father freaking out on camera and I don't know why I resonated with me but there was something about seeing a father just angry or angrier"
+    ],
+    [
+      0.9604409337043762,
+      " every single day where I'm like oh I could see myself at the Overlook Hotel being that kid I believe also Stephen King famously hated that movie so we're going to talk about this we'll talk about this little bit with my planning and see what he says so this film takes place many years later and Ewan McGregor plays Danny and of course you'll know Danny he's the boy who was talking to his finger in his finger was saying which of course in the mirror is beard hair so we're sort of seeing what was the future like for this child who had I'm just going to say a turbulent childhood how did he grow what did you become as a man and this time it became what's a young girl fashion boozehound he did indeed and so when you get a chance to see it it is interesting to see like"
+    ],
+    [
+      0.9655951857566833,
+      " Daddy all grown up wonder what he's going to be like probably super well-adjusted will it turns out sell hunting some are also Haunting of his Danny Torrance is a member of a gigantic group of psychic vampires no kid that's where it goes to I don't mean to jump that I don't mean to jump the other card here there if I don't put the cart in front of the car here all right but yeah there's a lot of psychic vampires in the story absolutely so when you sit down to watch TV on King's dr. sleep which I were meant I highly recommend watching The Shining first you'll just watch The Shining home. Just so you can like leapfrog right into the sequel because of get it's been some years now and for you to just you just have to re-watch The Shining every three years just to remember how incredible that movie is a theater when you get a chance to see it if it has a theatrical release it is a must-see because it is beautiful when it's"
+    ],
+    [
+      0.9728323221206665,
+      " huge absolutely Jack Nicholson and Shelley Duvall they really did put on a performance of a lifetime for it so Stanley Cooper definitely scream at her until she scream and Jack Nicholson I apparently also was very scary onset what you should have been able to get to do you jump into the brain of missing Torrance it's really not a lot you can go around that and I bet it feels like they had all later experience on Stephen King doctor sleep amount of Stanley Kubrick screaming at the actors on pretty sure Mr Flanagan the director doesn't like I don't know bring a ball and chain with him to set the same way that Kubrick will ask him we're going to ask him a question here for you henriquez your foremost expert on this stuff sure so can you explain what the heck is the shine the shine is the thing that some people have even some"
+    ],
+    [
+      0.9733853340148926,
+      " places have the Overlook has a shine so what happens if you get the shine I mean nothing good it said this shining is the shine seems to be a type of psychic ability that Stephen King is invented not not too different from the force okay where the shine allows you to communicate with others who have the shine some people are affected differently some people are more Clairvoyant some people are more telekinetic some people can add it to some people can see what happened in the past just by touching an object to shine is Stephen King's TM brand of psychic powers that has now become a thing throughout the Stephen King universe and obviously so telepathy is involved you can speak with Elijah fee so telepathy is involved you could obviously you can speak with spirits and you can speak with different kind of Energies"
+    ],
+    [
+      0.9264880418777466,
+      " Henry you got the shine what's like you just got to shine okay. Thinking that you got it. Dre Mansfield who you talkin to what's the spirit I just sawed Napoleon Bonaparte just sitting on your knee is so cute it's very nice. Stephen King doctor sleep more than one person has the shine you are correct and isn't that going to end and that's what makes it so much more exciting in Many Lands chicks and then the other ones."
+    ],
+    [
+      0.9646076560020447,
+      " but this is it's it's very classic sequel thinking instead of giving it to the pivotal character like that's the idea that made him and Jake holler and the only people that have the shine and seriously connect with dr. Stephen King doctor sleep let's see what happens if everybody shine everyone shines Henry other quick question for you you got a free Hotel Expedia is like congratulations you have a free weekend at the Overlook Hotel just called The Overlook yes I know I was I'm going to the Overlook Hotel in the Overlook Hotel or are you going or are you going to say you know what my soul is too important to spend two nights in this scary spooky Hotel course I'm going to look at the Incredible Book he did write a lot of work there were times that I was really afraid that when Marcus was alone writing AR book"
+    ],
+    [
+      0.9784736633300781,
+      " that he would show up eats to be like what a great chapter this week guys really cool Marcus cool I just sent her away and then it was just all like all work and no play make Marcus go fucking crazy like again and again and again. Let's get to the interview was Stephen King's doctor asleep director Mike Flanagan from Northland today we are honored to have with us he is a director. Henry loves a lot of his films as to why he is she's been around the block this man is a fantastic director his latest film is Stephen King doctor sleep we are honored to be with director Mike Flanagan thank you so much for being on the show Mike are you kidding me the honor is all mine Ono Stephen King doctor sleep this is not the first film that you've worked on that is an adaptation of a Stephen King book what is it about his work that that inspires you"
+    ],
+    [
+      0.9673290252685547,
+      " when says alright this is like this is a guy that I want to visualize his creation what is it about Stephen King books and he's my hero is my my favorite author he has been since I was a kid and I think the reason why I didn't answer your question about what about him and his writing really grass me I'm it's that he's not really writing horror you know he is about his character is he's writing these humanistic explorations of of such relatable in profound human ideas and it has happened kind of be told through the lens of horror and and I find that has shaped the way I see the genre since I was very young so it's it's always you know it's always been a dream of mine to be able to play in his sandbox and yeah he's let me do it twice now"
+    ],
+    [
+      0.9548351764678955,
+      " he kicks me out or not that's awesome famously right because you this is Doctor sleep is the sequel to The Shining which he wrote himself in 2013 and he famously was not a fan of the original The Shining right which is the maximum overdrive with Stephen King recently recently just wanted control how do you feel like how's the pressure like you already cuz you worked with him for Gerald's Game when he was talking about that move was she on set for Gerald came to and this movie like you have to appease mr. king or is she going to send his Legion of bats that you are very kind of intentionally stays away from the movies"
+    ],
+    [
+      0.9597817659378052,
+      " I am he wants it to be to sell makers he doesn't want to interfere now that says he will absolutely not be shy about what he thinks about what you did when you're as right Brickler you know he's he's not going to bite his tongue if he doesn't like the way you treated the material right are he really stepped back and as he's as you put it to me like what I like either way movie sucks they say well the book was better so he wins no matter what on the phone was after. Sleep is finished and if you don't scream"
+    ],
+    [
+      0.9504855871200562,
+      " play it was always be an email after Gerald's Game in touch you know and knowing how he feels about the Cooperstown right knowing what I wanted to do with the movie I had to get his Blessing the kinds of bring back the Odyssey and bring back the Overlook yes absolutely I would do it but you're making a sequel to a movie directed by Stanley Kubrick one of the greatest directors of the history of directors and it's an adaptation of a book written by one of the most prolific writers in the in in history so that must have been like oh my you want to look in the mirror or did you look in the mirror I am really this is like"
+    ],
+    [
+      0.8934451937675476,
+      " I mean how do you sort of follow in the footsteps of someone like a Stanley Kubrick I will never be staying with you were going to be standing here by this has been the most intimidating experience of my career on 4th exactly the reasons you're talking about standing in the shadow of Monolithic creator"
+    ],
+    [
+      0.9721537232398987,
+      " redefined what horror Cinema is right with the hell yeah everyone says aren't you excited to be like a part of the Arts or make a living and making your own contact you just feel like I feel like I'm going to die all the time that's not like like any minute now I'm going to step on a landline that will be nothing left but I like it so Mike States Sports Park in the earth working with so you're working with you and McGregor playing an older Danny Torrance right when you guys are tracking these performances like the way you are taking even just stylistically cuz it was awesome how like you shot inside of the actual Stanley Hotel and you actually did it exactly like you did it with the same like lighting techniques and Stanley Kubrick of you made it look like the old movie and you carried it how do you do these before"
+    ],
+    [
+      0.9691301584243774,
+      " because I know you're also you done a lot of rehearsal like I know if Haunting of Hill House you guys did a lot of rehearsal right like you guys sit and talk about this shit like does he watch the original Danny Torrance his performance and carry it over oh yeah I prepared after and he said I'm not here to try to do Nicholson impression I'm not here to try to your Mary this performance back to her, I'm here to look at it we haven't seen in pop culture since he was a child but I'm here to talk about just characters struggle with addiction and with Friday which is what is clearly Stephen King dealing with his own addiction if you can do things idea about what could happen to his family is written by"
+    ],
+    [
+      0.9662178158760071,
+      " a man with no Decades of sobriety under his belt and it is so much about recovery it's a different animal but they are different and you and immediately said that you know that's out of our minds and let's talk about Dan Torrance and his recovery and that's why I cast him interesting would you so if when you're an actor obviously playing a character that has already existed on screen what do you recommend would you recommend that the actor go with study that character that was previously on screen or just sort of approach it with new life and just be like yeah that was this character is a child and we obviously through life we change dramatically so did you and just more come at it like I'm a whole new Danny or what work did you notice some of a similar continue on some similar strains from the original"
+    ],
+    [
+      0.9267992377281189,
+      " absolutely in such a good amount of time studying and also look at his father and his mother in the movie and it kind of look at the traits that Shelley Duvall was presenting in the Jack Nicholson was presenting and say I have to play The Offspring of these two people right that requires a good amount of study but it also in the way that we're not our parents had to be his own performance and that was our approach to the whole film to the actors were playing characters for the rise against Tab and endive"
+    ],
+    [
+      0.957108199596405,
+      " turn all challenges in the movie The True not this kind of like roving pack of essentially psychic vampires the Danny Torrance is kind of like a comic book movie concept like this is it's a little bit more it's more intense because it Stephen King called wild imagination and if you would actually show people being the true. How do you handle something like that like a like an elevated idea that could swing too corny if you want it to like if you're of your bad at both like I'm Stephen King was bad and you were bad it would swing towards corn but it's a fact that you guys can handle it how do you work that out as a director your own tastes as the barometer for what to be horny as you're saying something like"
+    ],
+    [
+      0.971419095993042,
+      " Empire"
+    ],
+    [
+      0.9600431323051453,
+      " it's only something you can kind of look at and say oh that sounds like it could be a little comic book write an emotional vampire you know that's a thousand thousands of years old that's something else we eat our feelings that's it that's it it's a terrifying very grounded idea the only thing that you know yeah that's so consistently feel worse and then you have to slowly cut those people out of your life so sticking with true not the leader of true knot is Rose the Hat do what did you have in"
+    ],
+    [
+      0.9472402930259705,
+      " find when writing Rose the hat did the character that you wrote was that the one that manifested itself on screen can you speak a little bit about that are the best King of the reason was that Rebecca figured out very early and she said well everything is roses and Rose with the monster story Rose has to believe she's the hero of the story is that I'm I'm not a monster I'm not a horrible thing I'm I'm someone who will do anything to protect her family yes then went to rationalize all the horrible things she does in the movie hero of the story and that made her an awesome villain"
+    ],
+    [
+      0.9699801206588745,
+      " person who did incredible job and Stephen King doctor sleep you got to check out this movie right now we are speaking with Stephen King's doctor sleeps director Mike Flanagan check out the spell it is in theaters November 8th make sure you go just watch it in the theater because it's one of those films that scarier on the big screen I guarantee it inside of the Stanley Hotel which is the real version of the hotel overlooking rumors and has a history of ghost activity and when they were shooting the original The Shining I know that sometimes some people said they experience some stuff I don't know if that was just being afraid of Stanley Kubrick are you like I have you to sleep that is skubic is so much scarier than any ghost that's the scary movie"
+    ],
+    [
+      0.9437052607536316,
+      " casamigos see the inspiration for everything in the store Kubrick when he made the Timberline Lodge in London and so Bryce you know we just rebuilt the same sets that he had created will use his blueprints to do it the cool thing about being at the Stanley Hotel. The miniseries here's the cool thing about this hotel you know I always request the haunted rooms cuz I want to I want to see if it hasn't happened for me yet"
+    ],
+    [
+      0.9551903605461121,
+      " stayed here in 1974 when it was deserted the only guests here he got really drunk at the bar with a bartender named Lloyd he stumbled around trying to find his room is Room 217 couldn't find it wandered through this hotel drunk off his ass and it gave birth to a story that has since changed horror fiction and horror Cinema forever to being at the Stanley I mean it's it's a Sacred Space for just building that's why it's such a I love me cuz I'm staying here my wife and I came here for a week to write us here I love this We Energies here I love being patches hack Amazon and most people might not know the story"
+    ],
+    [
+      0.9686191082000732,
+      " the importance of the Stanley Hotel says it's such a cool thing to be here and you are a incredible horror movie director also Ouija origin of evil is a Kickass movie so good do you think that Stephen King do you think that he needed to go through the life cycle that he went through did he did he need to just go break his brain in a way with all the booze all the drugs in order to put himself in a world such as Jack had in The Shining yeah what drugs are you using to get to the same mindset have you been juicing have you been getting in there or to get really scary cuz all the guys get into my system right now. Clair de"
+    ],
+    [
+      0.9532667398452759,
+      " what I do know is that he did something that only masterful storytellers can that help other people who are going through similar things help them confront your demons their failings in their anxieties in a way that gives them out whether he needed to go through it has gone through it cuz you know he's he's with a life fraught with with heartache and in the states like any of the rest of us are whether he needed to do it or not I'm glad that he what he took from those experiences and converted it into something that hasn't touched so many people around the world I think that's incredible that you have to drink in order to stop directing"
+    ],
+    [
+      0.9564133286476135,
+      " is it is it your power directing so strong that you have taboos yourself to sleep is that away cats what I do to explain to my family why I have to drink at night is to shut down the Improv machine I used to think that yes I just think exactly actually end at Lee and I stop drinking while I would thank you I I was really worried at the time I I thought oh my God can I still do what I do without this in my life recovery I'm going to try this for a little bit and you know I have loved having a year of sobriety in my life"
+    ],
+    [
+      0.9770892262458801,
+      " how much for sharing that story because I know a lot of our listeners are we get messages quite often from people who have recovered from from drug abuse or alcohol abuse and so that is a great story for our listeners to hear in Frosty or as well like because it is it is a bizarre safety net and it's it's more of a habit that you have to break in and I know it's extremely difficult so congratulations why did it when it comes to Danny Torres why did he what why was she sort of nickname door why was he called doctor sleep what was they sort of story behind that one of the coolest things that King dead so you know in The Shining they call them. Because of Bugs Bunny but because of his shine he can help them and comfort them in the moment that they're about to die he knows when it's going to happen"
+    ],
+    [
+      0.9549550414085388,
+      " sleeping and the patients their nickname him doctor sleep and so he has the same nickname he had as a kid they call him. Completely different reason that I think it's so beautiful and yeah it's one of those could acrobatic writing Maneuvers the King was able to do by you completely recontextualizing that nickname and if I didn't get it I understand why would you call this book doctor sleep it doesn't mean anything right so much but yeah it's kind of a lovely lovely note that there any talking about whether there was any sort of the original plan for there to be a sequel to The Shining I feel like when you read the original book"
+    ],
+    [
+      0.9552047252655029,
+      " you know it all explodes so you wonder what he really thought what was going to be which is like the main reason why he didn't like the original The Shining was because everything is going to explode when I rode a huge explosion nothing I would be like hey it's for movie making blow up so you think the Cooper should I leave The Cooperage of tag team did Michael Bay at that point for the end I just get it in there it's so funny I think I think the King was done with it I think he would spend that story and I think that's how you know you can Statics it the hotel is over and it's you know you riding"
+    ],
+    [
+      0.9723631143569946,
+      " it was such a cool opportunity to try to the route of Dan's issues as a character are in a child head and then the Overlook in what a great opportunity to go back with him he's a dick in the writing and getting hit by the van made him work harder I know he's he's retired like four times and every time you retired decent machine I wanted to put in Gerald's Game I'm a jump up a little bit and Gerald's Game you throw a little bit of Dark Tower stuff into it is that a thing that you as a fan of Stephen King want to make sure stay in his work or is that like a escrip thing like working with Stephen King cuz I know that has a years ago he's really trying to make sure he ties together the entire Dark Tower world as much as humanly possible to his old work as a fan"
+    ],
+    [
+      0.8077383041381836,
+      " set the Dark Tower fanatic"
+    ],
+    [
+      0.9694652557373047,
+      " can I call you spooky house honestly man we are all just Chris Farley interviewing Paul McCartney in that SNL sketch at the end of the day cuz be like horror movie fans and just beat horror fans it's just we just want to prove love from our Idols so bad. You remember when you made Pennywise was that scary like that she'll like I could so when we are speaking with Stephen King doctor sleep director Mike Flanagan and I mean just kind of the final question that I have Henry unless you have another question I have I have one more question is so you were when you met The Haunting of Hill House I know that you had a long rehearsal process cuz you did really long extended scenes in that show right which was great you have inexpensive rehearsal process for these other shows for like specially something like doctor sleep no not typically we don't have time normally know that that episode of Haunting was a special case"
+    ],
+    [
+      0.9650396108627319,
+      " thoughts were so complicated and Amy were hurts every morning when we get to set for the day's work but that's that's crazy cuz that was such a good like bottle episode of a movie before Gerald's Game with Bruce you know but they got it kind of do it out the gate and speaking of great actors Ewan McGregor Rebecca Ferguson and we have a newcomer kyleigh Curran what was that like for you at did you take as we were joking about Kubrick earlier tormenting Shelley Duvall to a degree that I don't know if his legal still today but was when it comes to working with those three people"
+    ],
+    [
+      0.9455092549324036,
+      " you got them all together what was that like when it comes to not having them look Forest when the stairs occur but something more natural because that's the one thing with horror film people don't fully understand how hard it is to act scared you kind of have to be scared did you did you do light touches his wife was good this is what the Raptors do directors all know you all do I know mr. Flanagan I know what you guys do a bunch of cattle I know what we are removing your cast not at all I'm so the opposite of that like I am I really think it's the old Marathon Man by Laurence Olivier said hey it's called acting"
+    ],
+    [
+      0.9578754305839539,
+      " come on man it's a chance thanks guys so much all right so people are just in 10 seconds what do you want people to get from this film you wanted to walk in when you want to walk out feeling you know I want people to to walk out feeling the way I felt when I walked out of the set of of the Colorado Lounge in the Overlook Hotel it was so much like walking into a memory for me walking into a dream of a movie that's so near and dear to me I want people to have that feeling awesome and beyond that I want them to just really I want to take away all the listing Steve had to say about honor and recovery and responsibility for Dan and Abra I really hope they get that out of it"
+    ],
+    [
+      0.9653245806694031,
+      " Stephen King doctor sleep director Mike Flanagan thank you so much Mike we really appreciate you being on the show that was wonderful thank you to talk to you from Northway with director Mike Flanagan he's awesome he's very good I'm glad that he is even know I hear the stories about Stanley Kubrick being really mean to Shelley Duvall evil technically if Trump dies I never even said that he did make a great movie he did Henry but you're an actor don't you and I think I just I don't know how unimportant actors all right people thank you all so much so much for listening to the show we really hope you enjoyed the interview check out Stephen King doctor sleep on November 8th I get a chance to see it previously and"
+    ],
+    [
+      0.9490049481391907,
+      " Elias Vaughn it's a super great movie in and Mr Flanagan he knows how to make a good horror film cuz you can just go through his resume and honestly it's a kickass resume it just get to go in it's for me Stephen King is a lullaby to put me to big-time Sleepy's I stay awake for the films but good good good snowman it's just nice I just love to see what can I do to do I hail Stephen King shall we hail Stephen King"
+    ]
+  ]
+}

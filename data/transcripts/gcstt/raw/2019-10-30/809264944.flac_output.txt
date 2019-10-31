@@ -1,0 +1,246 @@
+{
+  "Stats": {
+    "PodcastID": "809264944.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 1336.058776,
+    "OriginalFileSize": 32318996,
+    "FlacFileSize": 112853480,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 463.3555862903595,
+    "DownloadSuccessful": "17.478389739990234"
+  },
+  "Transcripts": [
+    [
+      0.9534276127815247,
+      "supporter criminal comes from Squarespace Squarespace makes it easy to create your own website they offer beautiful templates created by world-class designers you can customize the look and feel settings and just a few clicks I've made a few Squarespace sites like Phoebe judges and Phoebe judge me and they're incredibly simple to use and create go to squarespace.com criminal for free trial when you're ready to launch use the offer code criminal to save 10% off your purchase of a website or domain"
+    ],
+    [
+      0.9561801552772522,
+      "hi it's Phoebe if you're looking for another podcast to listen to when I'm really excited about right now is sick from wfyi and side effects public media on the first season of sick help journalist Jake Harper and Lauren Davis are diving into the fertility industry and the story of one doctor's abuse of power instead of using donor sperm to help women get pregnant the doctor use his own it's a show that goes wrong in the place is meant to keep us healthy season 1 episodes are released on Tuesdays subscribe wherever you get Podcast go to sleep podcast. Org for more information"
+    ],
+    [
+      0.9722599387168884,
+      "1930 mackubin woman named Elena de Hoyos walked into Key West Marine hospital with a bad cough criminal co-creator Lawrence for just twenty years old that our family was terrified that she had tuberculosis tuberculosis consumption and deadly it didn't take long probably 3 to 4 weeks generally and there's no cure and everyone was just frightened to death of it at the hospital ordered a blood test and a chest x-ray the x-ray technician was a 53-year old German man named Carl Von cosel she's ecstatic to take her x-ray"
+    ],
+    [
+      0.968183159828186,
+      "and then he's horrified when he sees the results because he wants to live if he wants to be her Suitor after that first meeting Carl Von Castle wrote that he didn't know what to do with himself he couldn't believe that this woman was real she was perfect and the x-rays did show that she had tuberculosis is right then and there that she is going to be the one who's going to make medical history he is the one who's going to be her Savior and no one else can do it from Ben Harrison he's been researching Carl Von cosel for more than 20 years"
+    ],
+    [
+      0.9649533629417419,
+      "1 possum arrived in Key West in 1927 from Dresden Germany where he said he grown up in a castle his real name was Carl Thomas but he asked everyone in Key West to call him count Von cosel he was married but he left his wife behind in Germany when he got to Florida he sent her a small painting on the back he'd written happy birthday and underneath that he wrote It's A Different World in Florida and then it seems that he forgot all about her causal claim to have nine University degrees he said he was a radiologist he also said he was an important inventor who specialized in electricity he said he been high up in the German military that even the captain of a submarine he said he was a pilot"
+    ],
+    [
+      0.9636109471321106,
+      "give us building an airplane from scratch behind Key West Marine Hospital airplane was I mean this exemplifies Von Castle he was a grand inventor in his own mind and he could convince people that this pile of junk was going to fly someday a lot of what Ben Harrison has been trying to figure out is how many of on cossells claims were true tracking down birth certificate marriage certificate is military service records pension checks"
+    ],
+    [
+      0.9496474266052246,
+      "whoever this guy was he did have the skills to walk into an American Military hospital and get a job as an x-ray technician I think he was real good talker"
+    ],
+    [
+      0.9575203657150269,
+      " And the fact I know he was real good talker and he obviously knew enough to convince people that he could do the job and Harrison says it didn't hurt that vong castle arrived in Key West with money he had enough money to buy land and he started to build a house by the railroad was destroyed by the hurricane so he was totally isolated and so anybody with any money was wealthy when this wealthy eccentric German told Elena de Hoyos family that he wanted to save her using methods that he'd invented and no charge they said all right"
+    ],
+    [
+      0.8376447558403015,
+      " his main method was to electrocute our"
+    ],
+    [
+      0.9651944041252136,
+      " I'm Phoebe judge this is Criminal"
+    ],
+    [
+      0.9505243897438049,
+      " Costco brought over an electrical coil with brass handles and totaling it how to regulate the current when he wasn't there he said it wouldn't hurt at all he said it would feel like a warm bath. Everything possibly could have to savor it he made his Frankenstein and globes and all you did was a shocker he said the electricity would slow down the growth of tubercular bacteria sometimes when he shocked her Sparks went flying off of her body sometimes his devices would short and take out the power and Elena's parents house"
+    ],
+    [
+      0.9657658934593201,
+      " her parents didn't know what to make of him but they could see that whatever he was doing he was working incredibly hard to save their daughter he was at their house every single day he would sit next to her bed and he would tell her that he was going to save her and then he was going to marry her and that they would fly off together in the airplane he was building for them whenever she was horrified that she was the still nobody has any cure for this crazy doctors chasing her around telling her how much he loves her so I know she was not smitten with him at all"
+    ],
+    [
+      0.8747338652610779,
+      " on October 25th 1931 Elena de Hoyos died"
+    ],
+    [
+      0.9684164524078369,
+      " Consul was devastated that he failed to save her he offered to pay for the funeral he wanted to pay for everything he picked out her coffin he chose the flowers she was buried in the Key West cemetery on Castle begin to visit the cemetery every single day the more time he spent there the more he worried about the rain he worried her grave might flood neighbors later reported watching him crawl around on his hands and knees trying to completely cover her grave with a tarp and then they said they watched him decorate the tarp with flowers"
+    ],
+    [
+      0.9431378245353699,
+      " he could not stand the thought of the groundwater the reaction her body would have to that and so he decided that she needed an above-ground Mausoleum also got permission from her family and from the city to begin construction on an above-ground Mausoleum but to build it they needed to dig up her coffin they put the coffin in the funeral home to wait until the mausoleum was complete"
+    ],
+    [
+      0.9528030753135681,
+      " funcastle couldn't resist going to see her"
+    ],
+    [
+      0.8967627882957458,
+      " what do you got there he quietly paid the funeral home director to go away and then he open the lid of the casket"
+    ],
+    [
+      0.9320643544197083,
+      " he couldn't stand to see her like that is. He should fix it he paid the funeral director to give him regular access to Elena's coffin at night when he finished his work at the hospital every day he go to the funeral home and work all night"
+    ],
+    [
+      0.9693803787231445,
+      " you wanted to invent a better way to embalm her so she could still look beautiful he put her body into an incubation tank full of something if he called a nourishing solution to a real spooky Von Casa put her into a queen new coffin when he specially designed for her it had two valves one valve for filling the tank and one valve for draining it when construction on the mausoleum was complete Von Castle sealed Elena's coffin with a hundred screws he said the mausoleum was Elena's new little house"
+    ],
+    [
+      0.9499409198760986,
+      " he visited every evening bringing flowers you would take naps there he ate his dinner they're sitting in a small chair and talking to her he talked to her constantly and after a while he said she started to talk back"
+    ],
+    [
+      0.9633985161781311,
+      " he said that when he put his ear up to the casket valve he could hear her speaking he figured that if she was speaking she must not be dead and if she wasn't dead she didn't belong in the cemetery"
+    ],
+    [
+      0.8673738241195679,
+      " Tom Cassell road that is strange new kind of life began for him"
+    ],
+    [
+      0.9689705967903137,
+      " one night in the middle of the night he dragged her casket out of the cemetery he said that part was easy he said it was so easy he felt he was being helped Along by quot friendly hands reaching out of the ground"
+    ],
+    [
+      0.9482700228691101,
+      " but when he tried to get the casket up and over the cemetery fence he ran into a problem with some leaking if she's worn evening for him and this this this foul odor starts overwhelming him and coming from this casket he had the casket in the back of the airplane on the wing he painted Countess Elena Von Castle"
+    ],
+    [
+      0.9553130269050598,
+      " and then when it was safe he opened her coffin for a second time this was two years you've been dead for two years so it will be so I must have been just awful as bad as you could imagine it and he took all the nasty cloth and junk out of her casket and threw it in the ocean and put a bunch of fresh stuff on Ur the owner of the local grocery store remember that Von Castle would come in and buy Six bars of soap every single day he fed her vitamins he put splints on her nose here and made her skin with layers of silk and layers of wax and so that's how she was"
+    ],
+    [
+      0.969430685043335,
+      " rebuilt"
+    ],
+    [
+      0.9829612374305725,
+      " mummified if you want to call it that"
+    ],
+    [
+      0.9372186064720154,
+      " in her casket one of her arms have been folded over her chest to straighten it out again he touched a chord to her wrist and ran the cord through a pulley attached to the ceiling he said she got more life like every single day"
+    ],
+    [
+      0.9569393992424011,
+      " he bought a small house near the ocean for the two of them that night he played the organ for her Beethoven Vagner years past like this they celebrated Christmas has he decorated a tree and poured wine into her mouth he bought her wedding dress barn Castle Road that you can sometimes see her breathing very slightly he says that's how he knew he was doing the right thing he said sometimes she would look right at him quote straight and seriously"
+    ],
+    [
+      0.8926133513450623,
+      " but Key West is a small town you're not going to keep a secret that long that big"
+    ],
+    [
+      0.9507449865341187,
+      " we'll be right back"
+    ],
+    [
+      0.9625349044799805,
+      " support for criminal comes from betterhelp betterhelp online counseling offers licensed professional counselors or specialized in issues such as depression anxiety trauma family conflicts and more connect the dedicated professional counselor in a safe and private online environment anything you share it's confidential get help on your own time and at your own pace if you're not happy with your counselor requesting you wanted any time criminal listeners get 10% off the first month with discount code criminal go to betterhelp.com criminal fill out a questionnaire to assess your needs and get match the counselor today betterhelp.com / Criminal"
+    ],
+    [
+      0.968569278717041,
+      " thanks to everyone for their support everlane only makes premium Essentials using the finest materials without traditional markups cashmere sweaters denim leather bags and more at 30 to 50% less than what you pay with traditional retailers I've been shopping at everlane for years and it's simple and good I just got a new pair of jeans and a new pair of rain boots for the fall right now you can check out our personalized collection at everlane.com criminal plus you'll get free shipping on your first order that's everlane.com criminal everlane.com Criminal"
+    ],
+    [
+      0.8751769661903381,
+      " nothing's kept secret in Key West forever unless one person knows it"
+    ],
+    [
+      0.9605495929718018,
+      " it it was going to come out and it's Wonder didn't come out sooner after Carl's on Castle stole the body of Elena de Hoyos and brought her to his house he forgot to do something very important something he been doing every day for years go visit Elena's grave at the Key West Cemetery people noticed only has family in particular noticed the mausoleum he built for her to become overgrown no one was maintaining it Elena sister is very odd she later told police she knew her sister wasn't in there she said she just had a bad feeling"
+    ],
+    [
+      0.9569513201713562,
+      " Selena sister has Von Castle to meet her at the cemetery she got very forceful with him and said I'll go crazy if you don't let me open that casket in that Mausoleum and according to his Memoirs he said I don't want you to go crazy so come with me to my house and so he took her to his house and showed her"
+    ],
+    [
+      0.9621517658233643,
+      " the the body"
+    ],
+    [
+      0.9612698554992676,
+      " when the police arrived on Castle cooperated completely he didn't think he had anything to hide you showed them to Elena in the bed where they slept every night just ran gold bracelets and a blue silk robe from Castle told the police that he understood perfectly well that Elena had died nine years earlier he explained that she was there because he plan to bring her back to life just as soon as he figured out how they were very sympathetic to him and this wasn't a big city police force going to a house they knew nothing about and just heard about this guy everybody knew everybody"
+    ],
+    [
+      0.9407793283462524,
+      " and they knew the sheriff knew the count and so he was saying look we're going to treat you as the best we can we're going to take care of the body we're going to have Lopez funeral come home come pick up the body we're going to take him to their it's going to be safe we're going to treat you fairly"
+    ],
+    [
+      0.9615015983581543,
+      " nobody wanted to be mean to and they just didn't if that wasn't the white people fell everyone agreed that the case was bizarre but a lot of people said that Banco still had not committed a crime some people said he was just trying to be helpful and that all things considered he done a quote excellent job she wasn't taking a dead girl from the grave he was trying to resurrect a dead person and that's where the overwhelming sentiment in his favor came from letters are coming in from all over the country in the world on the eve of World War II and the gist of these letters was here in the world is hell-bent on destroying itself on on killing thousands of people here's one man trying to bring somebody back to life and even if he failed at the odds Vermilion the one at least he's tried fun castle was arrested and charged with malicious and"
+    ],
+    [
+      0.94012850522995,
+      " wanting disfigurement of a burial vault"
+    ],
+    [
+      0.9456734657287598,
+      " what is the best lawyers in the State of Florida came forward and offered to defend him free of charge"
+    ],
+    [
+      0.9695321321487427,
+      " Elena's body was taken back to the funeral home and put on display"
+    ],
+    [
+      0.9477667808532715,
+      " nearly 7,000 people came to see it according to the Key West citizen relative said that Elena looked quote surprisingly like she did in real life"
+    ],
+    [
+      0.9497509002685547,
+      " one visitor told reporters that her skin felt soft quote just like if I touched your arm right now"
+    ],
+    [
+      0.958146333694458,
+      " Carl Von cosel went before a judge and said he made a promise to take care of Elena no matter what the judge was at a loss he didn't even know what kind of crime this was he has two doctors and his own secretary to evaluate Bond castles mental health in what was then called a lunacy commission the two doctors in the secretary came back and said that bong Castle seems perfectly fine a lawyer for the county said there was nothing wrong with his mind at all the only problem was that quote his love for the girl had got the best of him"
+    ],
+    [
+      0.9434749484062195,
+      " the judge as a mother judges for advice and in the end decided just to do nothing they just didn't see anybody really that hurt other than the feelings of her family that was that was the injured party I think they just decided that the statute of limitations and run and let's be done with it was free to go"
+    ],
+    [
+      0.9713719487190247,
+      " the Key West Police had to figure out a way to re-enter Elena so that she could never be disturbed again only three officers were allowed to know where she was eventually buried and I never told anyone all three died keeping the secret"
+    ],
+    [
+      0.9493645429611206,
+      " Von Castle told a reporter for the Miami Herald that it didn't seem fair that Elena would be buried quote after all of my work"
+    ],
+    [
+      0.9708362817764282,
+      " he died in 1952 when he was 75 years old"
+    ],
+    [
+      0.972457230091095,
+      " after he died the Associated Press reported that police found a wax replica of Elena's body in his home"
+    ],
+    [
+      0.9273934960365295,
+      " criminal is created by Lawrence poor and me media Wilson is our senior producer Susanna Roberson is our assistant producer audio mix by John even 7th Julian Alexander Mix original illustrations reach episode of Criminal you can see them at this is Criminal. Com where you got a link to Ben Harrison's Book Undying Love special thanks to Kate Hall"
+    ],
+    [
+      0.8878240585327148,
+      " criminal is recorded in the studios of North Carolina public radio wunc were a proud member of the radio"
+    ],
+    [
+      0.9353450536727905,
+      " stop going we're proud member of radiotopia from PRX a collection of the best podcast around I'm Phoebe judge this is Criminal"
+    ],
+    [
+      0.760310173034668,
+      " radio Tempe"
+    ],
+    [
+      0.9195370674133301,
+      " TRX"
+    ],
+    [
+      0.9756119251251221,
+      " hi it's Phoebe for the past four years we've been part of radiotopia a collective of podcast independently owned and run we're joined in this network by some of our favorite podcasts out there shows like kitchen sisters present and 99% invisible but radiotopia isn't just about the shows that make up the network it's about the community of listen to make it all possible and this year for annual fundraiser we want to do something new we're asking you to help design a new radiotopia coin the coin first launch 99% invisible in 2015 than in 2016 we created want to say thank you to those who support the entire network but we always made them we decided what they look like they were a gift from us to you now we want you to choose to show that you just like us are part of the radiotopia family go to Radio."
+    ],
+    [
+      0.9184914827346802,
+      " FM / vote right now and pick your favorite sports radio Topia. FM / vote thanks very much"
+    ]
+  ]
+}

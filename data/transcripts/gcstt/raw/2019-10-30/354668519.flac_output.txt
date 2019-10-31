@@ -1,0 +1,358 @@
+{
+  "Stats": {
+    "PodcastID": "354668519.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 3373.217756,
+    "OriginalFileSize": 54263959,
+    "FlacFileSize": 290797456,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1144.2236235141754,
+    "DownloadSuccessful": "14.885143518447876"
+  },
+  "Transcripts": [
+    [
+      0.9610400199890137,
+      "Freakonomics radio is sponsored by campaign monitor the radically easy solution to email marketing as the highest driver of customer retention according to 80% of retail professionals email serves as digital marketing is most successful Channel and with campaign monitor you can leverage email and use it as a tool to empower your brand and spread your message try it for free at campaign monitor. Com Freak no credit card or email marketing experience required campaign monitor make your emails Unforgettable"
+    ],
+    [
+      0.9438691735267639,
+      "Freakonomics radio is sponsored by transferwise picture if your brother is in Brussels to buy antique books and he asked you to send him some extra cash send that money abroad with transferwise they'll give you the real rate for a laughably low fee which makes them cheaper than a bank or PayPal transfer wise also offers a debit Mastercard that always gives you the real rate when you spend overseas transferwise is your Swiss army knife for international finance test them out for free at transferwise.com Freakonomics or download the app"
+    ],
+    [
+      0.9650774598121643,
+      "in my opinion the biggest problem we have in the world of all the problems that we have is gender and equality if we were able to fix that so that we would no longer second-class citizens I think it would impact every other problem that we have hunger and the environment and War I don't mean to say that it will cure the other problems but it would go a long way toward improving these other stubborn problems I mean women in the most sectors of society will it be gender and equality but as far as the leadership positions go a lot of times progress seems to stall out at about 20% real Congress is 20% women and so many other areas of society are are similar so we're not using by any means all of the talent"
+    ],
+    [
+      0.9602165222167969,
+      "of women and the evidence has shown that if you correct that and get all of the best Minds working things will improve and women and men just have a different view of the world there's all these studies that show that when a body is more Blended words not homogenous it makes smarter and better decisions you may recognize that voice but it's not one of the academic researchers we usually speak with on the show nor does she write a big institution like the World Bank or the Federal Reserve that voice belongs to Geena Davis Hollywood actor not some random Geena Davis yes I put that in my email to you and then subject it was from Geena Davis the actor of Tuesday why did Geena Davis send us that email well it really goes back to the 1990s"
+    ],
+    [
+      0.8434691429138184,
+      "movie that made her Super Famous Thelma and Louise"
+    ],
+    [
+      0.9653871655464172,
+      " Davis played timid housewife who goes Road trippin with her not at all timid friend who's played by Susan Sarandon and they make horrible decisions along the way but they live and die by the band Live and Die by them as Hollywood films go it was a huge outlier two female leads female screenwriter and the kind of rock is Dorney story that didn't usually involve female characters also a wild got punched of an ending making Thelma and Louise changed Geena Davis from the very beginning it started happening within minutes of meeting soon for the first time and so we were having a meeting with Ridley Scott Ridley Scott was the director Davis and Susan Sarandon were asked to give him some feedback on the screenplay and I had gone through it to see if I had any ideas and very little things"
+    ],
+    [
+      0.9652717709541321,
+      " maybe a little line change or something keep in mind that by this point in your career Davis had already won an Oscar for best supporting actress and I figured out the most girly possible way to present you can make him think it's his idea somehow and maybe I'll tell this one I'll make it sound like a joke and this one will have to wait till on the said so you're treating yourself like a second-class citizen essentially yes exactly I was definitely one of those people who had a thousand qualifiers before they would say anything like I don't know if this is true and it's probably wrong but what do you think about so anyway so we get there and pay the one Susan says now I think we should just cut that line or maybe even put it on page two but it just doesn't seem right"
+    ],
+    [
+      0.9559394717216492,
+      " my mind was blown"
+    ],
+    [
+      0.96575528383255,
+      " I need a minute women can be like this I became her acolyte I couldn't get enough of her and just observing how she moved through the world she just seemed like she thought her opinion was valuable and so she would say it and it sounded to me that I never saw a woman behave like that why has Geena Davis never seen a woman behave like that perhaps because she like many people that absorbed so much media imagery of women and girls who behave nothing like that and it starts early for girls in America particularly it's almost a rite of passage the watching of the obsessing over and perhaps the imitating of the princesses in Disney movies being highly engaged in the Disney Princess culture at a young age"
+    ],
+    [
+      0.9644767045974731,
+      " Ted's be related to more girly girl Behavior today on Freakonomics radio what messages do those princess movies send this idea that you could make a wish and it'll come true that you don't have to work hard for what you want princesses and trickle up into the economics of the broader movie business you know Hollywood is leaving money on the table what's Geena Davis doing about it has been there hundreds of times to talk to every possible division they have so is it working you'll find out right after this"
+    ],
+    [
+      0.9165224432945251,
+      " from Sketcher and Dubner Productions this is Freakonomics radio the podcast that explores the Hidden Side of Everything here's your host Stephen Dubner"
+    ],
+    [
+      0.9591167569160461,
+      " and let's just play word association for a minute when I say the word princess you say what when I say the word Disney princess you say what guidelines do we go from beauty to strict guidelines just by adding Disney because of the idiot we have to this media as 5 year old girls"
+    ],
+    [
+      0.9589948058128357,
+      " that's my daughter Anja I'm a senior in high school actually we recorded this over the summer so by now she's fully risen when she was a little Anya was heavily into the Disney Princess Snow White Belle Aurora what little girl wouldn't want to be a Disney princess wouldn't want long flowy hair and you know wouldn't want to make a wish in a while and have the perfect life do you remember going to Disney World I do if so magical"
+    ],
+    [
+      0.9637177586555481,
+      " you made all the princesses you would just like straw drop you felt like I was meeting a celebrity I felt like oh my God this is who I want to be this is so exciting was there one princess in particular I was always bail and even though I had a mind that made everything and anything possible she was most achievable to me because I look like her so I would wear that yellow dress and I instantly felt like her I would wear it everywhere do you remember to visit grandparents to go to school doctor's office and what's her story what's the plot she gets trapped in the castle she meets this big beast he's hideous everyone thinks he's really aggressive in"
+    ],
+    [
+      0.9663000702857971,
+      " terrible in a monster and she gets to know him and he becomes nice and gentle and he starts to love her and then somehow he becomes a handsome prince this is actually one of the very few princesses I admired because in the beginning of the movie she was always reading books walking around town and she turned down the"
+    ],
+    [
+      0.9570266604423523,
+      " have some town man who ever loved she had no interest in him and then suddenly she makes the Beast and she falls in love with someone for something other than his looks and I think that's an important message yes but at the same time there's still this weird sense of the man being obsessed with her and it still revolves all around her being beautiful"
+    ],
+    [
+      0.9683526158332825,
+      " and he's been thinking a lot about Disney Princesses lately because of a writing project she had in school for ethics class the assignment was to explore any scenario that showed a market in balance of gender or power left to take my word for this but Anya is not an injustice collector he doesn't try to turn molehills into mountains she's not punitive mean take it with a grain of salt and obviously biased but I think she's a kind and thoughtful person I think it's kind of like it's just such an exciting thing and yeah when she looked back at the Disney Princesses she loved as a kid she wasn't crazy about the messages they sent but there are such strict gender roles and guidelines that represent how women should act and how women should perform in a household and you know look and what they should want in life I don't blame them because all of these movies are reflections of the time"
+    ],
+    [
+      0.9661515355110168,
+      " what I'm curious about is why people continue to watch these and white parents continue to show their kids because hopefully the societal Norms have no improved in some ways and they're not like they were in the 1930s when Snow White came out I think Disney makes possible this idea that you could make a wish and it'll come true that you don't have to work hard for what you want and what you want is probably"
+    ],
+    [
+      0.9681391716003418,
+      " because of Disney this Fantasy Life that everything is so easy everything is perfect and that you will find a prince and having your ideal life be so easy to achieve is a really bad message to send anybody but in my opinion especially to girls because for me as a girl I think I always have to work really hard to prove myself because I feel that subconsciously people expect men to be smarter or just to be more successful and because of that I think women need to have an extra layer of armor it makes me proud of you to hear you think this through like that but it also makes me feel bad as the father of a daughter you know that you feel that you've got that additional burden"
+    ],
+    [
+      0.8915959000587463,
+      " they're going to like it if you think of it in a certain way it has a certain type of determination"
+    ],
+    [
+      0.970169723033905,
+      " there's kind of a debate right now where a lot of critics say media has no impact on us at all but Sarah Coyne studies of Children and Families are affected by the media they consume that I've been researching this for over two decades and lots of things have an impact on Behavior lots of things influence body image or pro-social behavior regression or Reno pick whatever you want gender but media is a significant and an important one just how significant and in what directions coin and some other researchers set up a study to find out of the study was to find the longer-term impact of Princess culture on a variety of different outcomes such as pro-social Behavior body image and gender stereotypes"
+    ],
+    [
+      0.9652100801467896,
+      " researchers factored in each kids viewing habits their Play Habits and a lot of other factors they also interviewed the kids parents and teachers would they learn we found that girls in particular who are really into Princess culture at age for tended to be more gender-stereotyped the next year after controlling for how gender stereotypes they were that previous year so another words being highly engaged in the Disney Princess culture at a young age tend to be related to kind of more girly girl Behavior the next year girly girl Behavior meaning what exactly characteristics would be kind of submissive and passive really friendly and sweet or boys are more assertive and aggressive Queen and her colleagues publish their findings in a paper called pretty as a princess longitudinal effect of Engagement with Disney princesses on gender stereotypes"
+    ],
+    [
+      0.971084713935852,
+      " do you steam and prosocial behavior in children the reaction was not so great physical hate mail to my office that was the only time that's ever happened I think when we tell parents about this or there could be kind of a darker side two princesses but they get really defensive about their own choices his parents I think that a lot of people that well you're saying girls can't be feminine which is not the case at all there's a difference between being feminine and being stereotyped right what we find is that girl's you know who are highly gender-stereotyped tend to limit themselves in a number of key ways so"
+    ],
+    [
+      0.9666278958320618,
+      " they don't think that they can do well in math or science they're less likely to want to go on to college when they get older so it's really about kind of limiting yourself and what you could become"
+    ],
+    [
+      0.9323079586029053,
+      " Sarah Coyne talk about the lasting effects of princesses MBA course made me think about my own daughter on you so looking back on your let's a five-year-old self now is a seventeen-year-old what effects do you think all that princesses them had on you as a person"
+    ],
+    [
+      0.9328461289405823,
+      " yeah that's something I was wondering I mean I like the way I turned out and I think my values and here too you know the beliefs that I admire but the valley is presented in his movies may have been in so many ways that I'm not particularly noticed"
+    ],
+    [
+      0.9679665565490723,
+      " my 17 year old daughter is exactly the same as yours princess Mania and now so self-possessed and and stubborn that again is Geena Davis and this is exactly what you wanted to talk about when she sent us that email a few months back because she sees a connection between princess ISM and what she calls the biggest problem in the world gender inequality Louise came out Davis says she was convinced things were moving forward really fast the Press had a field day with saying that Thelma and Louise would change everything now everything is going to change so many more movies starring women and it didn't happen at all it wasn't only in Hollywood word didn't happen but in finance and Tech and many other areas all the evidence shows that if there is progress being made it's at an absolutely glacial pace and Geena Davis starting to get impatient"
+    ],
+    [
+      0.9613426327705383,
+      " like it should happen right away I keep saying this is the only Direction it's going toward equality so can we just get there already a real Awakening came when she started having kids so when my daughter was a toddler I decided to start showing her you know preschool shows and and the G-rated videos and things like that and the very first thing I sat down to watch with her was it was a kids TV show and within 5 minutes I was saying wait a minute how many female characters are in the show the Sesame Street"
+    ],
+    [
+      0.9625914096832275,
+      " I never bust anybody public do you want a cough if I'll tell you what I'll blink yeah and I started counting on my hands and then I looked online to see what it said about this show and it had 19 male characters before they added one female character everywhere gift show didn't happen to have a princess in it there probably weren't many females like in the hugely popular animated movie whose title Davis again won't say but I'm pretty sure rhymes with Finding Nemo that had only one female character in the entire movie and an important character on the last and I was horrified and absolutely stunned to learn this and I asked my friends my best friends mothers of daughters had they noticed and none of them"
+    ],
+    [
+      0.9321029782295227,
+      " had noticed so literally not noticed the disparity you're saying yes they had no clue about the disparity"
+    ],
+    [
+      0.9592019319534302,
+      " she seem to have stumbled across an invisible problem so because I have meetings all the time in my industry with producers or directors whoever I started bringing it up in every meeting I took I would say I've noticed how few female characters ever are in movies made for kids and every single person I'm talking about dozens and dozens said oh that's not true anymore that's been fixed and it wasn't a care about it at the studio at this company that's what made me realize I need the data because I can't believe that I'm the only person to notice this but the people making this stuff don't even see what they're doing in 2004 Davis started the Geena Davis Institute on gender in media First Step collect data"
+    ],
+    [
+      0.9737333059310913,
+      " if your observation about the on-screen gender imbalance was true so that's what I did I raised funds and help sponsor the largest study ever done on kids TV and movies made for kids this study released in 2008 looked at hundreds of top grossing movies released between 1990 and 2005 along with a sample of TV shows it found that in G-rated films only 28% of the speaking characters were female and an even smaller percent when he looked across all readings this gave Credence to what's known as the bechdel test which was inspired by a comic strip drawn by the graphic novelist Alison bechdel it is a gauge of whether a movie includes at least two women talking to each other about something other than a man"
+    ],
+    [
+      0.9378277063369751,
+      " the study Davis commissioned also found a disproportionately high share of weight characters in movies and TV shows so an overwhelming representation of white maleness which perhaps not coincidentally could also describe the Personnel in many Hollywood Studios at the time and my plan was I'll go back to them in a private way not bust anybody publicly and see if that has any impact so that's what I did and what happened what happened was all these people who couldn't see the problem whatsoever and literally thought things were fifty-fifty were horrified and I think because people who make kids entertainment do it cuz I love kids they were completely nonplussed that they hadn't realize this but maybe just maybe there was good reason why so many characters in films and TV were male maybe it had to do with economics"
+    ],
+    [
+      0.9699190855026245,
+      " or at least what passed for an economic theory you went like this the way to make money in Hollywood was to make movies geared toward a male audience that's something that Hollywood has sort of lived by and made every decision about that in a man just don't want to watch women so we must take make everything about men and will stick one in or something it was pretty or hot in the 90s by sanksi belief was that you know teen males and 20-something males are the ones that will show up and knock on your doors on a Friday night in a movie theater that is Sean Bailey he is president of production at Walt Disney Studios and that was the way you could get a huge opening weekend and that's what a lot of places played primarily to and and by the way it's not altogether untrue either but just how true is it or was it at least back in the 90s and even if very true back then how much is it changed and"
+    ],
+    [
+      0.9619658589363098,
+      " if it hasn't changed much why not one reason of course could be discrimination let's first talk about what Economist mean when they talk about discrimination discrimination is typically defined as difference is an observable outcomes such as wages or such as performance evaluation that cannot be attributed directly to underlying differences in performance Betsy's Lamborn she is an economist at the University of Pennsylvania and a female generated similar performance but they were treated differently in terms of how they were Peter and how they were evaluated based on differences that are not attributable to any performance differences there are however different flavors or sources of discrimination the first would be a preference or at a space source which would say that the Discrimination occurred because the evaluators who's the"
+    ],
+    [
+      0.9712947607040405,
+      " the wage of the performance evaluation had some sort of preference or dislike for the group that they're discriminating against Geena Davis does not think that's what causes gender disparity in Hollywood her belief is based on how the Studio's responded to the gender data she showed them this is a few years ago but we did a survey of top Executives to see what they thought about what they learned Enda something like 90% said it was definitely have an impact on them and they thought it was very important to show gender parity okay so let's accept these for the sake of argument the Hollywood doesn't exercise taste based discrimination against female characters there's no preference or dislike for a particular group but because the underlying quality is not perfectly observable the evaluator is going to form a belief about performance that space."
+    ],
+    [
+      0.9687115550041199,
+      " Leon any signal of for 4 minutes from that individual but also from some underlying belief about whether different groups have different average performance differences believe face is also known as the tistical discrimination and historically what Economist use the word statistical discrimination they're referring to believe base differences that are actually based on correct belief biscuits to Gina Davis said earlier regarding Hollywood belief about male moviegoers men just don't want to watch women and was this belief base difference based on a correct belief it is true that a decade ago sounds like by men made a lot more money on average than film Slide by women what's Caroline heldman a political scientist at Occidental College and the research director at the Geena Davis Institute so in terms of box office revenues what we found is that in the past decade the Gap in terms of film was led by men in films like by women has closed and"
+    ],
+    [
+      0.9579194784164429,
+      " in fact we studied 2015 16 and 17 and found that in all those years movie starring a female character made more at the box-office indeed the three top grossing domestic films of 2017 were Star Wars The Last Jedi which had male and female leads a live-action remake of Beauty and the Beast interesting lie with Emma Watson playing Belle and Wonder Woman starring the Israeli actress Gal Gadot"
+    ],
+    [
+      0.9608784914016724,
+      " and yeah males continue to be cast much more often in leading roles they're also paid a lot more one analysis found that even after controlling for an actress past performance including Awards female stars were paid 56% less than male stars were about 2.2 million dollars less per film Caroline heldman again you know Hollywood is leaving money on the table if they continue to cast men at twice the rate that they cast women to lead major films"
+    ],
+    [
+      0.9737237691879272,
+      " so you're saying the tollywood idea is that boys and men need to star in films because audiences prefer them but if the data show that films with female leads generate more money and since it's an industry why on Earth is that Gap still existing you asked a very good question and I will say that the evidence has been clear for a while now that if a company has more women on the board it will make more money and yet the percentage of women on boards the progress is absolutely nobody seems to be saying oh my God this is a great idea let's do let's just do this and there's other examples of that where people know that"
+    ],
+    [
+      0.9531707763671875,
+      " including women is going to make them more money and they don't do it so as far as film industry it's the same they know that and yet they can't seem to overcome their own"
+    ],
+    [
+      0.9750390648841858,
+      " you know conscious or unconscious bias there's a third source of discrimination and that is inaccurate statistical discrimination The Economist aislyn boring again there's two main sources of discrimination that Economist has historically looked at what is this tastes or preference based discrimination II is belief based discrimination with the implicit assumption that beliefs are correct and so the third category is still belief based discrimination in the sense that the employer or the evaluator believe that their performance differences at the group level between two different groups for example of men and women but now their beliefs may be inaccurate or incorrect you can imagine why it's important to identify the difference between accurate and inaccurate statistical discrimination from a policy perspective it's important because the policies to try and reduce discrimination are going to be different if you're trying to correct for employers are people who have a"
+    ],
+    [
+      0.9685808420181274,
+      " is against a certain group versus people who have cracked are accurate beliefs about performance differences across groups versus people who have inaccurate beliefs about these performance differences when did an experiment to look into this with fellow Economist scream hog Alec CMOS and Devin Pope to see whether it's simple informational intervention such as presenting employers with the actual performances of workers from the different groups we had any effect on their beliefs and their for the Discrimination stemming from an accurate police are on their experiment they recruited people from Amazon's Mechanical Turk platform some would act as employers and some employees first came a group of roughly 600 employees 2/3 of these research subjects were American the rest were from India in the first phase of the experiment the researcher has had all these employees answer 50 math questions and they were paid according to"
+    ],
+    [
+      0.9615761041641235,
+      " well they did we found that workers from the US perform slightly better than 37 questions on average correctly for a workers from the US in about 36.34 workers then the researchers turn to the employer group they would have a chance to higher potential employees from this pool of 600 people but they were only given basic demographic information including country of origin they were not given the results of the math test the employers were then asked how much they be willing to pay each employee is the testicle discrimination the employer would say look at average American workers are outperforming these Indian workers and therefore because I don't know the performance of a particular individual worker from the US or an individual worker from India when I'm choosing to hire them I'm going to use these group averages to form my beliefs about the performance of the individual and is that what"
+    ],
+    [
+      0.9761548638343811,
+      " so we actually observe the opposite the weed is offered to workers from India or about $2 higher on average than the wages offered to the workers from the United States so the offers weren't consistent with performance but they did seem consistent with the employers beliefs about performance which was an Indians would score better than Americans on map find that the employer's believe that Indiana workers outperform American workers by about two point eight or so questions on average when we look at this we find it the wages offered by the employers are consistent with their beliefs that suggestive of belief based discrimination rather than any sort of preference favoring Indian workers okay so that sounds like inaccurate statistical discrimination in action"
+    ],
+    [
+      0.954116940498352,
+      " what would happen if employers were given accurate information that's exactly what Boren and her team now did they divulge the actual math scores for each group and ask the employer's to do a second round of hiring so what happened now we found that once he provided information on the performance difference is the gap in the wage paid to these two groups trunk I'm so this is suggestive that one potential intervention to try and correct for it after it releases just provide employers are provided valuators with the actual performance of different groups they look here is the average performance of workers from this group maybe you should rethink how you're evaluating ever how you're choosing to pay them because the performance differences are not as large as you thought and that it turns out is exactly what Geena Davis has been trying to do in Hollywood tell all those Studio Executives and producers and directors that women are the target of inaccurate"
+    ],
+    [
+      0.9490694999694824,
+      " statistical discrimination coming up after the break at least one studio is taking a message to heart and you may be surprised to hear which one"
+    ],
+    [
+      0.7072449922561646,
+      " we are standing."
+    ],
+    [
+      0.9727453589439392,
+      " State Farm believes in strengthening communities that's why they're teaming up with notes for notes to bring music education to more young people in more neighborhoods with the help of music fans and artists like Brendon Urie of Panic at the Disco State Farm has given over $800,000 to notes for notes with plans to open a notes for notes studio in Las Vegas by the end of 2019 learn more at neighborhood of good.com and right here after this episode Freakonomics radio is sponsored by Capital One introducing the Capital One Walmart Rewards Card 5% back at Walmart online games for the kids headphones for Dad a laptop for Mom doesn't matter you get 5% back at Walmart online you also earn 2% at Walmart in-store restaurants and travel and 1% everywhere else when you want all that you need the Capital One Walmart Rewards Card what's in your wallet terms and exclusions apply Capital One in a"
+    ],
+    [
+      0.9489572644233704,
+      " Freakonomics radio sponsored by Vanguard an investment company founded on the radical idea that putting people first is a better way to do business that's why Vanguard is client owned as client owners investors own the funds that own Vanguard together vanguard's 30 million investors are changing the way the world invests visit vanguard.com or consult a financial advisor to learn more"
+    ],
+    [
+      0.9761937260627747,
+      " we've been talking today about Disney Princesses impel the main female characters in a lot of traditional kids movies were prized mostly for their beauty but they weren't really protagonist things happened to them but they didn't have much agency we've also been talkin about how in the earlier days of kids TV there weren't many female characters at all here's what the actor Geena Davis by the way she prefers actor to actress here's what she told us about the Beloved educational series with a cast of puppet characters it had 19 male characters before they added one female character for the past 15 years the Geena Davis Institute on gender in media has been updating its numbers on gender representation in kids entertainment it's kind of like Super Bowl Sunday when I get the date and I opened it up because then I get to see whether or not we've made significant strides that again is Caroline heldman the institute's director of research and I'll tell you the last"
+    ],
+    [
+      0.9602146148681641,
+      " love yourz a story has been so positive it's small but it's been in the right direction we have a brand new research study that were profoundly psyched about cuz we just relooked at TV shows made for little kids so we were talking 11 and under and for the first time female characters accounted for 55.3% of screen time and 50% of speaking time and the percentage of female lead characters has gone up to 46.8% which is pretty much parity and we're like over the moon about that what was that number maybe 10 or 20 years ago"
+    ],
+    [
+      0.9720264077186584,
+      " ratio was two or three to one male to female lead characters and so I'm pretty sure that this is the only sector of gross gender equality in the entire business in front of and behind the camera that has changed dramatically a lot of folks downtown Hollywood actually the and it's very early years the silent years was more Ginger Equitable than it is today but as soon as it became big business it became a male-dominated sector about 20% of the key decision-making roles in Fillmore held by women and in television that number covers around 30% key decision-making rolls meeting executive jobs as well as producers directors cinematographers and so on it's especially the case for women of color and while there have been small gains in recent years we have seen very little traction for the last couple"
+    ],
+    [
+      0.9566646814346313,
+      " decades that we've studied this and what's your evidence necessarily but what's your as to how much that is a supply issue and how much it's a demand issue"
+    ],
+    [
+      0.9473481178283691,
+      " break so I definitely think that the interest and Inn in many cases to supply is there for example only 4% of films are directed by women and people have said exactly what you said that well they're not as interested in but 50% of film schools are now women they want to be the first to say graduate with the same abilities"
+    ],
+    [
+      0.9688310027122498,
+      " but there is one major Studio that has substantially change the status quo yes yes they just announced that 40% of their directors coming up or women then when that's like 10 times better than anybody else is doing so that's that's really incredibly awesome make more movies starring a female character than not which studio made that b I'll give you a hint we heard from someone there earlier talking about why so many films have male leads you know teen males and 20-something males are the ones that will show up and knock on your doors on a Friday night and who is that my name is Sean Bailey and I my title is president of production at Walt Disney Studios so massive it's split into a few different Studios Disney animation and Pixar Animation oversee the animated features there's also Marvel and 20th Century Fox which Disney bought earlier this year as head"
+    ],
+    [
+      0.980129063129425,
+      " Walt Disney Studios Sean Bailey overseas the live-action divisions in recent years this has included live-action remakes of Disney Zone Classics many of those have been animated in terms of what will call the broaden definition of a Disney fairytale and we sort of you know thought well that's was largely for a family audience and then we started to realize wait a second that there's a hugely underserved portion of the audience hear that that is is not only family but but clearly you know women are more than half of the population so and everybody sort of caught up in you know making movies for the teen and 20-something male we may have a tremendous opportunity here when Baylee join Disney in 2010 he inherited a live-action remake of Alice in Wonderland Tim Burton directed it starred Anne Hathaway me about Chico Busca Johnny Depp and Helena Bonham Carter it was a huge hit grossing a billion dollars worldwide and we really spend some time"
+    ],
+    [
+      0.9697179794311523,
+      " thinking about it and there was a quote from Walt that I won't get precisely right but I'll paraphrase of here which is someone once said to him you make these animated movies for children and he responded fairly forcefully and he said no I don't I make movies for all of us whether we're 6 or 60 it's just that many of us have forgotten what it feels like to be a kid and so I think what the Breakthrough was was sort of this audience we felt was underserved tied to this idea that we aren't making movies for just families and just for kids where I'm trying to make movies for everybody and once we do that the female audience in particular is huge and these can become you know really really significant films from a global box-office perspective and I think there is by the way not just the commercial returns but they're great stories to tell that we don't think any of our competitors are really focused on currently stories like Maleficent for instance based on the evil Godmother from Sleeping Beauty and"
+    ],
+    [
+      0.9701201915740967,
+      " as we noted earlier live-action remakes of old princess movies including Beauty and the Beast that's the one with bell and if you forgotten here's the plot summary As Told by Anya Dubner she gets trapped in the castle she meets this big beast and he becomes nice and gentle and then somehow he becomes a handsome prince have you seen the 2017 remake with Emma Watson you probably noticed some tweaks we did recognize that from a gender perspective it's a complicated story and so we really worked to Buena sort of bolster and ballast parts of the story such as why does Belle live in the provincial town and we gave a back story that the mother had fallen ill with the plague in Paris and they moved away in the father with Maurice was incredibly overprotective and why he didn't want her to leave we really worked on"
+    ],
+    [
+      0.9666980504989624,
+      " the idea that why doesn't Bell just leave so we worked hard on the scene where for example the Beast saves her from the wolf attack and he's in Mortal Peril and so she stays with him because she's such a good soul that our conscience couldn't allow her to leave him to die which gave them a little time to bond and we also thought it was really important to have her try to escape have her not engage with him and at a certain point in the movie and I'm not going to dialogue exactly right but he says could you ever be happy here and she says this Neo princess is a model seems to be paying off Beauty and the Beast became one of the highest grossing films in modern history which long with the other high grossing films with female lead you might think would naturally lead to even more starring roles for more women in war films but that's not quite the case"
+    ],
+    [
+      0.955730140209198,
+      " why not Shawn Bailey from Disney has a fiery one thing we've seen that I think is interesting and relevant is directors tend to be very visual I'm talking from both of the both of gender and sort of inclusion diversity perspective if you send a script to a director they're they're going to read the script and vision things in their mind and wants a director has painted a picture in his or her head it's more difficult to sort of disavow them of that vision and so we started trying in our screen place to more specifically call out gender and ethnicity so that they can have a different opinion but they aren't starting from you know whatever their Baseline bias in Assumption maybe the other thing we often find is let's talk at you in these fairy tale movies as example the filmmakers has well you know I'm being true to the. Of the film I've been true to the historical. To which we say"
+    ],
+    [
+      0.971125602722168,
+      " what what what what on Earth are you talking about because we have spells and Magic mirrors and you know guy that used to be people so there is no. We can we can make the history you know as we would like it to be there's also the delicate issue you wouldn't think it would be but it is a casting an African-American actress to play Ariel in the live-action remake of The Little Mermaid with Halle Bailey that's just sort of a case of breast we looked for the very best Ariel Kelly belly no relation to Sean Bailey is a 19 year old R&B singer I remember specifically all of us at in the room and heard her sing and saw her perform and we thought that's her and you know we we heard some criticism criticism especially from the twitterverse the cartoon Ariel had white skin and red hair how could Halle Bailey replace her"
+    ],
+    [
+      0.9626331329345703,
+      " and I heard things like when the announcement went out some friends of mine who were at the essence event in Atlanta described they didn't know why it sure went up through the hall you know I heard all sides of it and and trust it was just a simple as I say is you know Talent wins the original Little Mermaid was also considered problematic on the gender front because Ariel in order to get her man has to give up her voice the most magical and distinctive quality you can see where this might fly in nineteenth-century Denmark When Hans Christian Andersen wrote The Little Mermaid fairytale but in 21st century anywhere the idea of a woman literally silencing herself in the pursuit of romance feels"
+    ],
+    [
+      0.9686957001686096,
+      " pretty 19th century the new little mermaid is scheduled to come out next year and we asked Sean Bailey about that well I don't want to say too much about it because they do involve some sort of plot changes it it's something we talked a lot about and we are definitely working to still sort of deliver the beautiful foundations of that story while being cognizant of the times we find ourselves in I will say no more personal front I have a daughter and you know I took this job Run 10 years ago she was around seven years old and I watched is are preparing to take the job a lot of the the old animated pictures in while they're wonderful in many many ways I was watching them with my daughter and you know thought if we're going to tell them now there's a lot of things we should probably do for little girls who are going to watch these versions and and for young men by the way as well so what's the world that we want to reflect walrus"
+    ],
+    [
+      0.9617247581481934,
+      " acting what is clearly you know Timeless about stories"
+    ],
+    [
+      0.8646842837333679,
+      " those are pigeons or doves"
+    ],
+    [
+      0.9504825472831726,
+      " hope not pigeons"
+    ],
+    [
+      0.9549494981765747,
+      " she looks a little like a Dubliner so this is what you were talking about of the"
+    ],
+    [
+      0.9733056426048279,
+      " I think this is like the first time you really hear her speak"
+    ],
+    [
+      0.9475719928741455,
+      " and we don't know anything about her except she wants to find a prince then here he comes"
+    ],
+    [
+      0.9801560640335083,
+      " hello"
+    ],
+    [
+      0.9608054161071777,
+      " did I frighten you my daughter Anya and I wrapped up our princesses in conversation by watching Snow White that was the movie the lead her as a teenager to start rethinking how she used to think about princesses I asked her what specifically had bothered her what she wanted"
+    ],
+    [
+      0.9396552443504333,
+      " she wish to meet a man that was her one wish she had here to the stereotypical woman of the house role I watch this is a kitten with on Face by object at least suggestive this movie was the feeling that took over me most was confusion like why did my parents LetMeWatchThis what were they thinking that was I mean what were you thinking did you realize that is problematic in any way or"
+    ],
+    [
+      0.9727828502655029,
+      " honestly I think the opposite so you were born in 2002 so and Snow White was made in the 1930s I believe so I think most parents am I generation probably thought that going back to them was not only normal but like it was the right kind of traditional right cuz it's like not full of weird modern terrible things right and it's kind of sweet and lovely and did you think that back when you were a kid to I mean did you like that stuff yeah I mean it's fantasy who wouldn't want to show their kids that I think it's just the underlying factors that make you take a step back and be like wow that could be really impactful what do you mean when you say underlying factors of finding a having your wishes come true is 5 course and I don't think that they should completely be found on the only thing is that"
+    ],
+    [
+      0.9531399607658386,
+      " they shouldn't be exclusive of being a badass women and being really really determined and having your life go well and working hard for what you want so let me ask you this if you were running with a Hollywood studio right now or a TV network what do you think I could Solutions should be like a quota system should you band Men from certain production facilities would be the worst thing today off because why because that would send out a big middle finger to oh man and then more people to be angry you know we need men we just need women to and I think that that's probably the biggest misconception in feminism and if that's what feminism where I'd be the opposite of a feminist but I think the only people that really are able to"
+    ],
+    [
+      0.9567343592643738,
+      " have the biggest impact on movies and how they affect children are people in the Ender see themselves Emma Watson she's somebody that I admire greatly she was Princess Belle in the most recent movie and she refused to wear corset and it was this big deal you know why would you wear a corset in 2019 it she refused to perpetuate the body that little girls are supposed to look up to she said it was going to be my real body and I think that's too small really small action but I think it speaks volumes like my initial reaction would be all that Society has to change first but I think it has so"
+    ],
+    [
+      0.9600845575332642,
+      " why haven't the movies"
+    ],
+    [
+      0.9671981334686279,
+      " coming up next time we just recorded a live show in Chicago Gathering some heavy weights for a Freakonomics conversation about US foreign policy if you get it wrong you could you really dumb things like send an army to Iraq in 2003 to hear from former Secretary of Defense Chuck Hagel I wasn't pissed I was just I couldn't understand what had happened what's happened to you you'll hear from Washington veteran and potential future Secretary of Defense Michele Flournoy ministration you can't be wondering every day is today the day I have to resign on principle I mean I just wasn't ready to sign up for that"
+    ],
+    [
+      0.9587454199790955,
+      " next time on Freakonomics radio"
+    ],
+    [
+      0.9785629510879517,
+      " buy Stitcher and W Productions this episode was produced by Daphne Chen our staff also includes Alison Craig Craig Crippen Henry Huggins Zach Lipinski Matt hickey and Karin are in turn has been Shaymin and we had help this week for Nellie Osborne or theme song is mr. Fortune by The Hitchhiker's all the other music was composed by Luis Guerra you can subscribe to Freakonomics radio and get a nice rating if you'd like on Apple podcasts or Google podcast or Spotify or any podcasts at our entire archive can be found exclusively on the stitcher podcast app or at freakonomics.com where we also published show notes and transcripts and so on to get our entire archive without ads as well as bonus episodes go to Stitcher premium. Com Freakonomics we also publish every week on medium to short text version of our new episode go to medium.com Freakonomics radio we can also be found on Twitter and Facebook and Linkedin or"
+    ],
+    [
+      0.9419040679931641,
+      " email at Radio at freakonomics.com Freakonomics radio also plays on many NPR stations so check your local station for details most of all thank you for listening"
+    ],
+    [
+      0.9700363874435425,
+      " Stitcher"
+    ],
+    [
+      0.9702209234237671,
+      " this episode of Freakonomics radio is brought to you by State Farm in their neighborhood of good initiative State Farm supports organization strengthening communities organizations like notes for notes which was founded when an ambitious volunteer Mentor decided to give his mentee something to take with him after the program is over it's an absolutely wonderful program but there's only so many times we could go bowling and so I wanted to get my little hooked on something that would live with him beyond the time we spent together answer to make a more lasting impression then just hang out and I figured maybe I can get him introduce play music that's found her Philip Gilly who stepped in to fill a need he saw in the community that's really where the idea spawned is why isn't there a place where young people can go get access to do especially the instruments that allow them to make the music they want to make at their own pace and nothing existed so with very little foresight and some max out credit cards we open the first sight in Santa Barbara"
+    ],
+    [
+      0.9762837290763855,
+      " California my name is Philip Bailey I'm the CEO and co-founder of notes for notes we are a nonprofit organization that builds equips and staffs free after-school recording studios for youth around the country typically in after school and youth facilities like Boys & Girls Clubs many school districts can't count on funding for Arts programs so some of them are looking to organizations like notes for notes for help and Philip Gillies nonprofit isn't just rethinking how kids access music and arts education funding but how those subjects are taught and I knew there would be other children like me at important stages of their growth and especially inspiration where they want to make music. Just didn't have not only the encouragement but also the tools to be able to explore making music that spoke to them 60% of the music Manor Studios is hip hop in and that's not something that is a traditionally a part of a public school curriculum if they even do have a music program students who take part in music education program"
+    ],
+    [
+      0.972210168838501,
+      " have traditionally done better in school with higher graduation rates and SAT scores and they also develop less quantifiable that equally important soft skills we miss talking about music education as a way to help children so many other levels most importantly on the social emotional levels and for us that really is the core of what we do using music as a way to help children build confidence tap into their creativity collaborate with others have those interpersonal skills notes for notes has important work has been supported by State Farm ever since a chance encounter at a music festival where several State Farm employees heard the kids play State Farm has since given $800,000 to notes for notes to help build and support studios in Las Vegas and Atlanta State Farm me out incredible relationship we're really proud of popped up in the past year when I met Jeff from State Farm at Bonnaroo where they do a whole bunch"
+    ],
+    [
+      0.9591273665428162,
+      " activations not only is State Farm supporting with with the dollars but they're also supporting with opportunities that perpetuate our mission of giving use more confidence that creativity that community and our studios are little neighborhoods and youth who otherwise wouldn't be maybe hang out in school cuz I don't share anything, at that level find commonality in a lot of times of family inside verse Studios sell for us we do all have something in common we all can find ways to work together and we all can make a difference find out more about what State Farm is doing and how you can get involved in your community at neighborhood of good.com"
+    ]
+  ]
+}

@@ -1,1 +1,802 @@
-{'Stats': {'PodcastID': '201671138.mp3', 'DownloadTime': 1, 'AudioLength': 3551.987938, 'OriginalFileSize': 57117083, 'FlacFileSize': 280180233, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 1210.7120380401611, 'DownloadSuccessful': '57.22991132736206'}, 'Transcripts': [[0.9641366004943848, 'support for This American Life comes from State Farm The Helpful Folks at State Farm are there for you on those days when it feels like problems just pop out of nowhere for auto and home insurance State Farm agents are ready to help find one at statefarm.com'], [0.9453858733177185, ' and from rocket mortgage by Quicken Loans making the home-buying process work for you their team is there with award-winning client service and support get started at rocketmortgage.com / American Equal Housing lender licensed in all 50 states nmls consumer access. Org number 3030 why hold of my hand a ghost story'], [0.8984375596046448, " because of a publication that is not really known for the tales of the supernatural I'm talking about the American Journal of ophthalmology"], [0.9018945693969727, ' medical journal this is from a 1921 Edition just kiss your subscription Labs during World War 1 just going to'], [0.9556424021720886, " with one of these articles this is a mug letter that the doctor sent in from one of his patients I should just let her she's identified as mrs. H end in the letter she is describing a very strange series of events that happened to her and her family study where they moved into a rambling old house on November 15th 1921 this house without a repair had no electricity was lit by Gaslight very gloomy house Abaddon a is the person who I know this article and he agreed to come into the studio and read from his ages account of what happened in them"], [0.9654087424278259, ' mr. H and I had not been in the house more than a couple of days when we felt very depressed the house was overpoweringly quiet the servants walked about on thickly carpeted floor is so quietly that I could not even hear them at their work I love how I have had no have no story of this area can be complete without servants padding about and they had many servants one morning I heard Footsteps in the room over my head I hurried up the stairs to my surprise the room was empty I passed into the next room and then into all the rooms on that floor and then to the floor above to find that I was the only person in that part of the house'], [0.9355618357658386, " sometimes after I've gone to bed the noises from the storeroom are tremendous as if Furniture was being piled against the door is it China was being moved about and occasionally along and fearful side or whale"], [0.9730913639068604, " sometimes as I walk along the hall I feel as if someone was following me going to touch me you cannot understand it if you've not experienced it but it's real"], [0.9564027190208435, " cuz I was dressing for breakfast one morning be 4 years old came to my room and asked me why I'd called him I told him I'd not call them that I not been in his room with big and startled eyes he said who was it then it called me who made that pounding noise I told him it was undoubtedly the wind rattling his window know he said it was not that it was somebody that called me who was it and so on he talked insisting that he been called in for me to explain who had been"], [0.9701043367385864, " it gets worse the adults and the children are held down in their beds by unseen figures bed shake the plants died and her children feel weak they have no energy to get severe headaches some nights after I've been in bed for a while I felt as if the bed clothes were jerked off me and I've also felt as if I'd been struck on the shoulder one night I woke up and saw sitting on the foot of my bed a man and a woman the woman was young dark and slide in Warlords picture hat I was paralyzed and could not move"], [0.9543207883834839, " and to finally her brother-in-law comes to them she writes with a thought about what might be happening her husband's brother comes to them in January and says the perhaps they're being poisoned he read a story about a family poisoned by gas who had similar curious delusions and he buys them to see a professor about this at once a quick investigation chest in the furnace is actually sending carbon monoxide fumes into the house instead of out the chimney they fix that and the Ghostly hunting stop pain of a sick anymore either which makes a lot of sense is Albert today what is not poking around with medical archives season environmental health engineering a toxicologist he spends a lot of his time warning people about carbon monoxide seeping into homes"], [0.9522933959960938, " I said you don't like this wind just come from the furnace in Old House kind of gas at the using gaslights in that area had as much carbon monoxide as a car's exhaust and it says carbon monoxide gas can account for everything this family experience no question about it carbon monoxide poisoning can cause all manner of hallucinations audio-visual feeling strange things on their skin when there was nothing there people often report that they hear noises in the ears a bells ringing rushing sounds amazing but this this story is um is it would have completely traditional ghost story it is a very vague everything that happens to them I've heard in some ghost story at some point or another and then it turns out to be carbon monoxide poisoning and I got to say I can't tell if I feel sort of relieved that there's a totally rational explanation or kind of disappointed"], [0.9325944781303406, " I totally share that perspective it's kind of supporting to find that it's not some otherworldly explanation it is kind of like a killjoy story for Halloween go there"], [0.9254487752914429, " what's Halloween and this little example shows you what kind of boring killjoy trouble you can get into when you start applying rationality and fax to a perfectly good scary story that's the way that never want to hurt anyone WBEZ Chicago it's a special Halloween edition of our show which were calling at scary music you please"], [0.9315066337585449, " the call was coming from the basement absolutely true and carbon monoxide or it let me just say any of your carbon-based gases figure not at all in any of them are showing today in for scary ox and putting the true scary stories that you and listeners like you called into are scary story hotline and it's writing which David Sedaris walks among the Dead"], [0.9251721501350403, ' stay with us'], [0.911478579044342, " Define Hills Have Eyes that usually is not dangerous becomes transformed you know that's something funny or funny becomes murderous like little dolls that come to life a ventriloquist dummies clowns a little Woodland creatures"], [0.9397008419036865, " Alex blumberg is one such absolutely true tale here's a producer on our show back we first ran this episode today shows a rerun here's Alex Michelle and her husband live in the woods at the end of a long half mile driveway have a little-used dirt road they loved it there surrounded by trees and mountains but still only an hour and a half by train from New York City"], [0.9275084137916565, ' when we can morning this was their custom they went out for a short walk'], [0.8830089569091797, ' is a beautiful winter day must have foot of snow on the ground'], [0.9428033232688904, " I got to the road and turned around to head back up to drive my husband tends to walk faster than I do and he was wanting to sort of do a little jog I said okay then why don't you just you know I'm trying to go ahead so he went on home and I was in just started on the driveway and I looked down the straight away and I saw the animal that was you know pretty far down and then I saw I sit all it looks like a raccoon"], [0.9632086157798767, " I would say it was at least a hundred fifty to two hundred feet it was pretty far away and I'm looking at it and I'm thinking well you know it's going to go up into the woods but it started walking towards me and then I realized it hasn't seen me yet and you know I sort of in a just wave my arm a little bit and then all of a sudden she's me and the second it was aware of me it just it just bolted towards me I mean like with what there wasn't a second of a hesitation and it was like oh my God you know it's like oh my God it's coming right at me"], [0.9370198845863342, " I turned and I started to run as I was trying to outrun it and I I I can I kept turning to see if the animal was bearing down on me and it was getting closer and it was now within 5 or 10 ft you know behind me and the whole time I mean from the moment the raccoon saw me it's hist and snarled it was"], [0.9538018107414246, " the feeling was all I cared about was attacking me so I don't even know what I was thinking that I ran off the drive sinking and I'll get away from it well as I run off to drive it jumps onto my thigh and I"], [0.9761499762535095, ' fall into the snow kind of down behind a rock and then the next thing I see is his mouth is around my right thigh'], [0.9674407839775085, " Direction was about 30 lb Michelle a slight woman was about 1:15 she was wearing a big Park and snow pants to the raccoon wasn't able to get a good grip using all our body weight both hands is able to pull it off your leg and put it in the snow away from her body I'm pushing its face into the snow so that you know it would keep putting his head up and snarling and then it would keep trying with its claws to scratch at me but I kept leaning on it and then pushing it into the snow and I'm screaming at the top of my lungs you know help you know somebody help me you know I'm being attacked at you know I mean I'm just and I'm sinking you know the closest neighbor it's a house that another sort of weekenders and often they're not there it seemed like no one was coming out of that house and I'm a half a mile from my house"], [0.9021754264831543, " I'm thinking"], [0.9703710675239563, ' nobody is going to help me'], [0.9330139756202698, " and so you know and I'm was after about 5 minutes I stopped screaming and I just started thinking you know what am I going to do"], [0.9674026370048523, " this raccoon was behaving in a way that normal raccoons never behave like one possessed that's because in some sense it was it had rabies a disease that even scientists to study account diabolical the virus that attacks the aggression centers of the brain it switches off all an animal's natural Innovations including fear and pain at the same time it flooded the animal's body with adrenaline making it stronger and more animals which are normally shy and easily scared away turn into tireless ferocious monsters they become nothing but a vehicle for the virus attacking anything that moves in order to spread the disease"], [0.9320643544197083, " which meant for Michelle she couldn't just try and fling the raccoon away because it would come after her again she could not run it any trees she could climb the raccoon to climb faster"], [0.9703989624977112, " then she'll remember that other she usually didn't bring herself in with run box that day she actually had the question was how to get it out of her pocket she needed both hands to hold a raccoon down she was wearing big mittens but eventually after many attempts she was able to get the phone app and toss it in the snow using the speaker phone she called her house she got her grown son Alex screaming screaming at the top of my lungs and and he acted like you know it was like a joke and and it was because the microphone on the phone was being pinned you know where it had this sort of strange noise and I thought to myself because it sound like he was about to hang up like it was someone doing a prank and I said in my head I said you have to come down I said Alex said I've been attacked on the driveway by a raccoon"], [0.9681267142295837, " within five minutes her husband her son Alex and his girlfriend were there or son grabbed a big falling branch and laid it across the raccoons back he stood on one end Michelle sit on the other the two of us are now holding this raccoon which is still hissing and snarling and clawing and my husband think he says I'm going to get a tire iron out of the car and you know try hitting it and to kill it so he goes and gets this tire iron out of the car and he starts to hit it and he figures he'll hit it once or twice and he'll kill it while he starts hitting it and he now he probably hid it between 15 and 20 times and and"], [0.9460644125938416, " you know it's still snarling and climb so then might you know I said to my son's girlfriend Olga I said Olga I said go to the house and you know get a knife"], [0.952721357345581, " and in the meantime my son takes the tire iron and my son starts feeding on the Raccoon so for at least 5 minutes they're taking turns beating the raccoon and about at the point where Olga is coming back and gets out of the car with these two big knives the raccoon you know what Michelle didn't know at the time was that her encounter with not an isolated incident does a rabies epidemic in New York which started in the 90s"], [0.936555802822113, ' in 1989 there were only 55 rapid animal cases in the entire state by 1993 the number had reached almost 3,000'], [0.9564993977546692, ' 2004 a rabid otter swim up and attacked a six-year-old to the public beach the child came out of the water with the auto clean by its teeth to his arm and one woman I spoke to told me that a rabid raccoon Last Stop on her leg in the middle of the day on her Suburban Street which was getting out of her car after a trip to Bed Bath & Beyond she said the police had to shoot the raccoon five times before it finally died'], [0.9647811651229858, " rabies is almost 100% fatal in humans if the vaccine is administered right after exposure in the 90s brought the first human deaths from rabies in the state and half a century there's been three to date two of them were children bitten by rabid bats in their sleep which brings me to a quick Public Service Announcement a bat can bite you in your sleep without you even knowing it and without leaving a mark So if you find one in a room with a sleeping person if they catch it and have it tested and if you can't catch it you should go to a doctor I'm serious I learned about this it freaked me out and I want to tell people"], [0.9389159679412842, ' commercial of course there was no doubt of exposure should two Fang marks on her leg raccoon blood all over clothes and a battered raccoon carcass in a plastic bag but getting treatment proved to be its own type of Horror Story'], [0.96477210521698, " first she called the vet who told her to call the health department to call the health department but they were closed on weekends so she left a message and called another Health Department in a different County same thing eventually she just went to the emergency room and around which was told that this wasn't an emergency she had 10 to 14 days before she needed to get a shot and she should just call the health department again after the weekend early Monday morning the guy from the health department where she left her first message on Saturday called her back she told him she'd been to the hospital and I said well I was told I had 10 to 14 days and he says you don't have 10 to 14 days you have 72 hours from the moment that you are bitten he says You must have a shot by the end of today"], [0.968778669834137, " the man on the phone was in the Michelle's County health department and they would give it a shot but when she called there they said they needed to test the carcass for baby's first which been sending it to the rabies laboratory 2 hours away in Albany shall beg them to just give her the shot first and worry about Albany later so they made arrangements for the go to the closest hospital and yet another County so my husband and I go and of course we have to wait time in the emergency room and then we get in and then when we're inside and someone comes and tells me that I live in Putnam County and I'm in a hospital in Westchester and that they can't give me the shots so I am so distraught at this point and I I start crying the first episode of this was the first time that I cried"], [0.9344545602798462, " you know I Will Survive the attack by the healthcare system so I started to cry and I just said you know isn't there I said what's the problem and and then I'm starting to learn that rabies immune globulin is a very expensive shot and the retail price of it was something like 6:32 or $3,500"], [0.9633206725120544, " find me the game of the shot that they gave it to her in the wrong place the buttocks not in her arm like they were supposed to and then she needed five follow-up shots but you can find a doctor to give her any she called 8 doctors and none of them would even see her till she threatened to call the State Board of Health Adventure she got the shots today everything is fine except Michelle doesn't see her home in the woods the way she wants did as a peaceful Refuge I felt so betrayed by Nature. That's actually how I felt I felt that nature betrayed me because I would take walks everyday in the woods and I have never felt threatened and I remember waking up the next day and thinking that all of the hills around me that there were raccoon standing on all these Hills waiting until I got out the door and they were going to come running to Art know is like the Army you know waiting for its."], [0.9571643471717834, " you know to come and let you know I had this image that you know these raccoons were just all going to come down from the hills and and if I ever go to walk and I and I don't have the cell phone I will always feel a little fear"], [0.9365768432617188, ' years before her attack Michelle wanted Safari in South Africa so lions and giraffes and rhinos come after drive at night after she got home from the trip she peered into the woods around her house imagine that there are wild animals out there like it had been on Safari'], [0.8846617341041565, " now she says she doesn't wonder about it anymore she knows for a fact there wild animals out there that's not a comforting thought"], [0.9265626668930054, " Alex blumberg is Daisy's podcast impresario and the host of the podcast without fail"], [0.9382070899009705, " I to The Hitcher okay I believe that we have all learned an important lesson about rabies and bats and raccoons not to mention a lesson about carbon monoxide attempt to introduce this next to right I don't think there's much more I need to say right now and hitchhiking"], [0.7782878875732422, ' is dangerous, dangerous they can be bad'], [0.9702374339103699, " and if you don't believe me Bill at hotels this true story of what happened to him and his brother when I was 12 and my older brother Jim 14 our parents dropped us off at one of those Agricultural Fair the kind with the big ferris wheel Blue Ribbon pigs and hot dog eating contest this was on Martha's Vineyard and usually our parents went with us but Jim and I were getting older he was a teenager now we wanted to do it alone there were girls to impress we were told to call home for a ride when you're ready but at the end of the night we decided be cooler to hitchhike we weren't scared this was 1977 and Martha's Vineyard still a relatively sleepy Island everyone hitchhike there"], [0.9475405812263489, " I didn't take as long to get a ride some guy heading to Edgartown to meet his friend we live in Oak Bluffs out of his way but he said he could take us halfway home gym and I didn't even think about saying no we were too excited for the adventure to begin"], [0.9574280977249146, ' true to his word the guy dropped us off halfway home this was out by the big bridge along the Beach Road during the day this spot is filled with people jumping off the railing into the water but at night no one goes there no swimmers are fishermen or even kids looking to get high'], [0.9409589171409607, ' Gemini stood by the side of the road listening to the ocean on the sand in the wind blow through the dunes prepared into the darkness hoping to see headlights but there was nothing just the moon and some Stars an annoying feeling we have made a big mistake'], [0.9318667054176331, " after about 20 minutes of standing around we finally saw a car approaching getting front Jim said try to look small the thetic this wasn't hard to do"], [0.955061137676239, " the car flew by its kicking up sandwich done my legs crap I yelled but then the tires locked up in the car fishtailed it skidded to a stop about a hundred yards away we ran to the car was a big white cruiser with four doors I yanked open the back door jumped in and sit on my butt if our window there were three people up front the driver was hunched over the wheel in Boar's hair thick afro a woman sat in the middle she had straight blonde hair with a crooked part running down the center another guy so tall as head almost touch the roof of the car Road shotgun"], [0.9353221654891968, " thanks for stopping I said we're headed Oak Bluffs no one said a word I turned of the open door with Jim steals to come on I said get in"], [0.9569778442382812, ' Jim hesitated he looked into the car and shook his head back and forth then the driver began revving the engine I saw my brother take a deep breath then he climbed in and join me his door barely closed when the car took off'], [0.9185230731964111, ' when will Fast where to get it out of our lane no one talked the entire ride'], [0.974385142326355, " by the time we reached Oak Bluffs I decided I didn't want these people to know where we lived"], [0.8403787016868591, " right here will be fine I said just passed while being parked down here with a sea view hotel used to be the car didn't slow down"], [0.9314243197441101, " taking the driver didn't hear me I tried again we like to be let out now I said"], [0.9376826882362366, " we drove by Ocean Park the flying horses Carousel and then the harbor with all the boats tucked in for the night and they're verse the whole time I kept asking to be let out trying to make it sound like each spot I pointed to was when we really prefer"], [0.987152099609375, ' but there was no reaction we just kept moving'], [0.9127021431922913, ' eventually we passed the last house along the Methodist Campground where the Sunday before I climb the stage of the old Tabernacle and sang with my cousins before a crowd of hundred Raindrops Keep Falling On My Head'], [0.9313434362411499, ' began to climb the hill. Let out of town and I grew silent Jim took up where I left off recently is voice a change in the other new deep baritone when his voice cracked they can you sound like a little kid again he stopped talking to'], [0.9675067663192749, ' I tried to convince myself it was just a joke scare the crap out of some kids on a boring Saturday night and I almost believe this but then about 15 minutes outside of town we took a left turn to a graveyard'], [0.9647660255432129, ' Gemini new this graveyard we had relatives buried their old whaling Captain to help settle the island back in the 1600s we came up here sometimes with our grandfather to pay our respects it was a heavily wooded place with Trails a twisted deep into the forest during the day it was fun to run along these Trails jumping out from behind a rock or bush to scare each other we have never been up here at night though'], [0.9412551522254944, " I grabbed my brother's hand and pulled myself into his lap Jim hug me tight and rest of his cheek against mine he had recently started shaving and I could feel a hint of Razor stubble this help calm me down Jim was the older brother he would know what to do"], [0.9345143437385559, " the car swerved and began circling a large Jesus statue near the front of the graveyard I was thrown from gyms lap and landed in the opposite foot well I scramble back up as fast as I could but before I could reach my brother's lap again Gym open this door and jumped out of the car"], [0.9288546442985535, ' we are still moving fast in the open door flap in the wind I felt a hand on my shoulder and looked up it was The Tall Man his fingers were strong dug into my collarbone'], [0.935783863067627, ' I ducked back into the seat while and crawl to the door the man still help me by the shoulder but I pushed as hard as I could with my legs'], [0.9660744071006775, ' when I left in the car he lost his grip'], [0.9446793794631958, ' for a moment I floated in the air when I hit the ground I rolled for a long time'], [0.9608129262924194, " I got up and ran towards the woods I could see a light in the distance and headed for it it was opened up into a small clearing and there was a house in a party in full swing lots of people stood outside drinking around a kick as soon as I reach the lawn I turned around to look for my brother he was still back in the graveyard running down one of the dirt road the car right behind him Jim ice cream crowded formed around me but I didn't look at them I just kept screaming my brother's name"], [0.9590645432472229, " animals they're bursting through the woods and running across the lawn until a clothesline flattened I ran to him kneel down and put my hand on his chest you okay I asked I said you before I could answer a tall kid with thick glasses squatted down next to us what the hell is going on he has Jim and I stood up again telling everyone but it happened while we were talking for guys in the party ran off to the graveyard the car's headlights were still visible moving through the woods looking for us"], [0.9381272792816162, ' they were shouting and then the headlights disappeared when the guys returned they said the car took off before they could get the license plate'], [0.9283865690231323, ' the tall kid with the glasses walk to The Keg pour two beers into blue plastic cups and offered them to us Gemini Chuck them down and ask for more'], [0.9422534108161926, " later two women give us a ride home I refused to sit in the back seat Road up front with the driver her name is Betsy and she had long brown hair and tan skin her father on the flying horses and I'd seen around town on the drive home she rub my hair put her arm around my shoulder"], [0.8953216075897217, ' Restore House Betsy walk with us to the front door and sit on the porch while we told her parents what happened mom been down to her face was level with my dad stood next to Jim'], [0.9267840385437012, " my parents were very young mom even got carded sometimes it R-rated movies that were thick mustache and look good in a tight white T-shirt while we were talking my grandparents would already gone to bed and down the stairs and there bathrobes close the door Graham said you're letting in the mosquitoes Betsy patted me on the cheek and then walked back to her car the rest of us went into the living room where Jim and I told our story once more"], [0.9807242751121521, ' what do you think grandpa asked should we call the police'], [0.9118584990501404, " for a moment no one spoke it's late dad finally said I think the boys have had enough for one night"], [0.9060872197151184, " Grandpa at my head it's over and everyone safe she said no need to drag it out"], [0.9495522975921631, " I looked at mom she nodded and so I did the same not because I agreed but I didn't disagree either I was just glad to be home"], [0.9665520191192627, " let's go to bed dad said there's tennis in the morning"], [0.9555786848068237, " mom walk me to my bedroom an old storeroom I cleaned out the beginning of summer so I could finally have a room of my own after she took me and I lay there and try to think about tennis and Labor Day weekend just three days away in a little over a week I would officially be a 7th grader but I couldn't concentrate I kept seeing the people in the front seat of that car maybe they had followed Betsy's car home from the graveyard we're waiting outside to get me"], [0.9279671311378479, " I rub my shoulder where The Tall Man grabbed me and got out of bed I change out of my pajamas into jeans and my favorite green basketball t-shirt then I laid down on the floor and slit underneath my bed for a moment I felt safe and hidden but it didn't last"], [0.9486544728279114, " I got up and walked to Jen's room when I got there I realized I didn't want to go in I continue down the hall and stood outside my parents bedroom I could hear them talking quietly together I almost knocked on their door instead I turned away moved on to the front room or my youngest brother Ted slept"], [0.9372209310531616, " Ted was 6 years old he been asleep when we came home and so didn't know what happened"], [0.9599429368972778, " I crawled into bed with him and started crying really crying so that I had to stuff a pillow when I'm out to keep the noise in"], [0.9631593823432922, ' Ted woke up in say anything at first he just patted me on the back'], [0.9210448861122131, " Danny asked me what was wrong but I couldn't speak I can only cry and hope he kept patting me and he did until I finally fell asleep"], [0.8400401473045349, ' go level in New York'], [0.9212618470191956, " coming up David Sedaris he's dead people and other scary stories that are absolutely true in a minute Chicago public radio when our program continues"], [0.9690576791763306, " support for This American Life comes from State Farm State Farm agents know that sometimes life throws everything at you at once like a fender bender when you're already late when it comes to auto and home insurance State Farm agents are ready to help you can talk to your State Farm agent via text over the phone in person or using the State Farm app which is super handy with voice activated commands that let you see your bill get claimed updates or call an agent and with more than 19,000 agents there's one close to you find an agent at statefarm.com"], [0.9598589539527893, ' and from rocket mortgage by Quicken Loans providing you with an award-winning team by your side through the mortgage process their goal is to make the home-buying process smoother for you with a history of industry-leading online lending technology developed in Detroit rocket mortgage is changing the game visit rocketmortgage.com American Equal Housing lender licensed in all 50 states nmls consumer access. Org number 3030 rocket mortgage by Quicken Loans push button get mortgage'], [0.9265815615653992, " what's This American Life from Ira Glass it you can I program you choose a theme bring you a variety of different kinds of stories on that theme Today Show and The call was coming from the basement we have scary stories for Halloween all of them absolutely true"], [0.9358222484588623, " we've arrived at act three of our program at 3 and the call was coming from the listeners Today Show is a rerun but back we first did the show we invited you yes you to call a special 800 number that we set up here at a radio show to tell us your true scary stories hundreds of people called but all kinds of stories"], [0.9480888843536377, " here's a selection of America Park this is from when I was I guess 18 I worked at a dollhouse supply store so is already sort of environment little doll heads and hair and eyeballs I come home after closing at the shop at about 10 at night so I would like to get a ride to my parents or my dad would let me use his tracker and I will try my cell phone so I was driving myself home this night and that was driving my dad chakra I would have expected him to be home"], [0.8918071985244751, " it was the house and all the lights are out there. I have a feeling we're you know someone's watching you I I guess or"], [0.9164915084838867, " even though all the signs are that no one's you can feel that there's someone present"], [0.8776217103004456, ' I parked in front of the house locked at the front steps and let myself in is completely black I remember like Whispering hello is there anybody home'], [0.8790798187255859, ' I all of a sudden and a stairwell'], [0.9149928092956543, ' the shape of a man and what I saw later with a baseball bat but could have been on anything'], [0.9188143610954285, " Tamia the time we left out of the dark stairwell and that's when I knew I was dead murdered mutilated something horrible"], [0.9423645734786987, " and John dropped to the ground apparently without even a Yelp of protest pretty much just a whimper into fetal position turn on it with my dad this is his idea of a of a joke and then later he claimed that it was a character-building test and that now I knew myself at her and knew that I needed to prepare be prepared for being moderate act the dark because they didn't even try to defend myself that that moment that moment when my dad on the stairs"], [0.9167172312736511, ' and it could have been just not anybody was one of the scariest moments of my life'], [0.9191631078720093, ' hey my name is Amy McKinnon'], [0.9576239585876465, " about two and a half and it was told around my little neighborhood that a monster had escaped from the local insane asylum that's what my parents told my brothers and me and our friends parents told them and the monster was tall and green and really quiet and so they had to cancel Halloween and we were of course devastated but my parents said well because Halloween will have a party in the basement in our basement will have all of their friends over from the neighborhood because it would just be too dangerous to be out in the dark with a monster on the loose"], [0.9166256785392761, " so my mother decorated our basement instead of fantastic job the best part I remember where the donuts are hanging from a clothesline so the party's going really well there are few mothers there the music playing and all of a sudden we heard him from upstairs"], [0.5975836515426636, ' and 1 others'], [0.8337801694869995, ' music stopped in my mother was near me and then we heard'], [0.8809612393379211, ' Dead Silence in the basement and another said'], [0.9676004648208618, ' all of a sudden we heard the basement door open'], [0.7896643280982971, ' I saw the same woman black boot on the first step'], [0.943175196647644, ' and then the next very slowly I could see the boots of legs'], [0.9171668291091919, ' enormous chest and sticking straight out to Arms'], [0.8681725859642029, " monster came down the stairs so slowly but it's clean face it's black suit with too short for its head bolts coming out of either side of its neck"], [0.9437047243118286, " once the arms were visible chaos in the basement kids running everywhere my mother was next to me I grabbed hold of her I can remember digging my fingers into her leg trying desperately to call onto something screaming and I wet my pants and I can remember seeing my older brother Scott weight for a toy cast that was under the stairs and I can see his eyes meeting his eyes as he slowly lower the lid and I was so angry that I wasn't with him I can remember my other brothers Rob and Michael leaping for the basement window so there must have been something that helped propel them out the window they jumped out the window with a friend they ran down the street to a phone booth somehow had a quarter and call the police"], [0.9623945355415344, " little kids are screaming and screaming and screaming everywhere in the monster is bewildered he's looking around his arms are still outstretched he's not saying anything he's not grabbing for anyone and I'm still screaming my ears hurt because I'm screaming so loudly and then the monster look at Mimi said it's okay and it's okay it's okay but I couldn't hear him anymore next thing I remember is being in a little makeshift bed my parents kitchen and my mother was later after my father had showered I can remember him walking to the kitchen I turn my head and complete his feet and then he crouched down to talk to me he said amen"], [0.9025300741195679, ' before you get another word out I threw up on his shoes'], [0.9134505987167358, " hi this is Jesse Barney bladder cancer and bladder removed and body Surfer gets too hot to Breathe by itself and so long after she's had her surgery of hours it would take her long time before she took her last breath and so my job was to make sure that the breast and so I would not sure I wake her up a little bit if it if it took so long and so I was beside her in a room"], [0.9139189720153809, ' wow wow wow she sleeping and I was trying to stay awake and around midnight and around like 2 in the morning or so I think I fell asleep so I heard that the nurse starting to open up the door by falling asleep'], [0.7346643209457397, " and that we can convince the style that she wasn't going to Breathe Again"], [0.8744381666183472, " I think it's ever been in my life and whatever else you to change it"], [0.8664146065711975, ' and then later I heard her again and'], [0.779477596282959, ' it was Oliver strange because'], [0.6110420227050781, ' SI story'], [0.9583654403686523, " text everybody who called our special scary stories hotline if you keeping track this great things that we have learned so far today that we must avoid at all costs are these another one carbon monoxide number to Rabbit Animals number three hitchhiking number for your own parents basically bring those to act for that we're going to line a few more things to avoid act for graveyard shift ghost and skeletons and monsters Horizon the grave on Halloween or a kind of fake children's story version of death"], [0.9691915512084961, " what Halloween a couple years ago by David Sedaris decided he was going to go for the real thing on Halloween was going for the real thing the medical examiner's office the morgue basically the morgue Place filled with actual dead people he read his account of what happened there a different vibe audience at the Orpheum Theater in Minneapolis about dead people is if they look really dead fake almost like models made of wax this I learned that the medical examiner's office I visited in the fall of 1997 while the body seemed unreal the tools used to pick them apart where disturbingly Familiar and might be different in places with better funding but here they used hedge clippers to sniff through rib cages"], [0.9681178331375122, ' chest cavities were emptied of blood with cheap metal soup ladles the kind they use in cafeterias and the autopsy tables were lubricated with whatever dish detergent happened to be on sale'], [0.9556472897529602, " also familiar with the songs oldies mainly that issued from the blood-spattered clock radio inform to kind of soundtrack when I was young I Associated Three Dog Night with my 7th grade shop teacher who proudly identified himself as the group's biggest fan now though whenever I hear Joy to the World I think of a fibroid tumor positioned upon a styrofoam plate"], [0.9588102102279663, " funny how that happens at the medical examiner's office I dressed in a protective suit complete with a bonnet and a pair of Tyvek booties citizens were disemboweled one right after another and on the surface I'm sure I seem fine with it then at night I would return to my hotel double lock the door and stand under the shower until all the soap and shampoo is used up the people in the Next Room must have wondered what was going on an hour of running water and then this blubbery voice I do believe in Spooks I do believe in Spooks I do I do I do I do I do"], [0.930693507194519, " it's not like I've walked into this completely unprepared even as a child I was fascinated by death not in a spiritual sense but it into static1 a hamster or guinea pig would pass away and after burying the body I dig it back up over and over"], [0.839570164680481, ' until all that remained was a shotty pelt'], [0.9312622547149658, " turn me a certain reputation especially when I moved on to other people's pets"], [0.9421051740646362, ' Igor they called me'], [0.9592990279197693, " wicked spooky but I think my interest was actually fairly common at least amongst adolescent boys at that age death is something that happens only two animals and grandparents and studying it is like a science project the good kind that doesn't involve homework"], [0.9423361420631409, " most kids grow out of it but the passing of time only heightened my curiosity as a teenager I saved up my babysitting money and bought a $75 copy of medical legal investigations of death a sword of Bible for forensic Pathologists it shows what you might look like if you've been an extension cord while standing in a shallow pool of water"], [0.9733052253723145, ' if you were crushed by a tractor struck by lightning strangled with a spiral or non spiral telephone cord'], [0.9497302174568176, ' cake with a claw hammer burn shot ground stabbed or feasted upon by wild or domestic animals the captions red like really great poem titles my favorite being extensive mildew on the face of a recluse'], [0.9600682854652405, ' I stared at that picture for hours on end hoping it might inspire me but I know nothing about poetry'], [0.8965854644775391, ' and the best I came up with was pretty lame'], [0.9282955527305603, ' behold the recluse looking pensive mildew though is quite extensive'], [0.8535239100456238, ' on his head both aft and fore he maybe should have got out more'], [0.9683841466903687, ' I know nothing about biology either the pathologist tried to educate me but I was too distracted by the grotesque My Discovery for instance that if you jump from a tall building and land on your back your eyes will pop out of your head and hang by Bloody cables'], [0.939289927482605, ' like those joke glasses'], [0.9854344129562378, ' I said to the chief medical examiner'], [0.9563151001930237, ' the man was nothing if not professional and his response to my observations was always the same well he died not really'], [0.9673142433166504, " after a week in the autopsy Suite I still couldn't open a Denny's menu without wanting to throw up"], [0.9452397227287292, ' good night I close my eyes and see the buckets of withered hand stored in the morgue secondary cooler Bad Brains to a whole wall of them shelves like preserves in a general store then they were the bits and pieces of forsaken torso a pretty blonde scalp a pair of eyes floating in a baby food jar put them all together and you had an incredibly bright secretary'], [0.9597558975219727, ' who can type Like the Wind'], [0.9799515604972839, ' but never answer the telephone'], [0.964496374130249, " I'd lie awake thinking of things like this but then my mind would return to the freshly Dead who are most often whole or at least whole esch most of them were delivered naked zip-top in identical body bags family members were not allowed inside the building until the corpses had no context unconnected to the living they were like these strange creatures related only to one another a police report would explain that mrs. Daniels have been killed when a truck lost control and drove to the front window of a hamburger stand she'd been a customer waiting in line in cases like hers I needed more than the standard report there had to be a reason this woman was run-down that's without one the same thing might happen to me"], [0.9756137132644653, " three men are shot to death while attending a child's christening and you tell yourself sure they were hanging out with the wrong crowd"], [0.8850786089897156, ' but buying a hamburger'], [0.9688601493835449, ' I buy hamburgers'], [0.7958528995513916, ' or I used to anyway'], [0.9631438255310059, " this medical examiner's office was in the Western United States in a city where guns are readily available and drivers are known to shoot each other over parking spaces the building was Louis long and mean-looking set on the far edge of the downtown area between the railroad tracks and a rubber stamp manufacturer in the lobby with a potted plant and the reception is to the can of Mountain Glen air freshener in her desk drawer 4D comps she explained meaning those who had died alone and rotted a while before being found we had such a case on Halloween an elderly man who had tumbled from a ladder while replacing a light bulb"], [0.9214725494384766, ' four and a half days on the floor if is on air-conditioned home and as the bag was unzipped the room filled with what the attending pathologist termed the smell of job security'], [0.9756028056144714, ' the autopsy took place in the morning and was the best argument for the buddy system I had ever seen'], [0.954030454158783, ' never live alone I told myself'], [0.9679498672485352, ' before you change a lightbulb call someone from the other room'], [0.941039502620697, " and have them watch until you're finished"], [0.9412940144538879, " by this point in my stay my list of don'ts covered three pages and included such reminders as never fall asleep in a dumpster"], [0.9875417351722717, ' never drive a convertible behind a flatbed truck'], [0.952394962310791, ' never get drunk near a train'], [0.9728051424026489, ' never get old'], [0.9051935076713562, " I hadn't time to my visit to coincide with Halloween but that's the way it worked out you think that most of the casualties would involve trick-or-treaters hit by cars or done in by tainted candy but actually. I was just like any other"], [0.9634336829185486, " in the morning we had our decomposed senior and after lunch I accompanied a female pathologist to a murder trial she had performed the victim's autopsy and was testifying on behalf of the prosecution there were plenty of things that should have concerned me the blood spatter evidence the trajectory of the bullets but all I could concentrate on was the defendant's mother could come to court wearing cut-off jeans and a Ghostbusters t-shirt couldn't have been easy for her but still you had to wonder what would she consider a dress-up occasions"], [0.9469873309135437, ' after the trial I watched as another female pathologist collected maggots from a spinal column found in the desert there was a decomposed head to it before leaving work she planned to simmer and study the exposed Cranium for contusions I was asked to pass this information along to the chief medical examiner and looking back I perhaps should have chosen my words more carefully'], [0.9741951823234558, ' fire up the cattle I told him'], [0.910174548625946, ' old fashioned skull boil at 5 p.m.'], [0.9338476061820984, ' it was of course the fear talking that and a pathetic desire to appear casual one of the Gang'], [0.9681347012519836, ' that evening instead of returning to my hotel I sat around with the Transporters one of whom had recently been ticketed for using the carpool lane and it argued unsuccessfully'], [0.8991896510124207, ' another dead body he was carrying in the back constituted a second passenger'], [0.9557809829711914, ' it was just the four of us until around midnight when a Tipsy man in the Daytona Beach sweatshirt came to the front gate and asked for a tour'], [0.9640635848045349, ' when told no he gestured toward an idling car and got his girlfriend to ask the young woman was lovely and flirtatious and as she pressed herself against the bars I imagined her lying upon an autopsy table her organs piled in a glistening heat beside her'], [0.8890432119369507, ' I now look at everyone this way'], [0.9756119847297668, " and it worried me that I'd never be able to stop"], [0.9625324606895447, ' this was the consequence of seeing too much and understanding the horrible Truth No One Is Safe the world is not manageable the trick-or-treater may not be struck down on Halloween but sooner or later he is going to get it as am I and everyone I have ever cared about'], [0.9864118695259094, ' it goes without saying that for the next few weeks I was not much fun to live with'], [0.9548946022987366, ' in early November I returned home and repelled every single person I came into contact with gradually though my gloominess wore off by Thanksgiving I was imagining people naked rather than dead and naked'], [0.7507414817810059, ' and this was an improvement'], [0.9534288644790649, " a week later I was back to smoking in bed and just as I thought that I'd put it all behind me I went to my neighborhood grocery store and saw an elderly woman slipped on a grape she fell hard and after running to her side I took her by the arm you really have to watch yourself and its produce aisle I know it she said I could have broken my leg"], [0.98424232006073, ' actually I told her'], [0.9836738705635071, ' you could have been killed'], [0.963572084903717, " the woman attempted to stand but I wouldn't let her"], [0.9838689565658569, " I'm serious I told her people died this way I've seen it"], [0.94231778383255, ' her expression changed then I became fearful rather than merely pain'], [0.961047351360321, ' it was the look you get when facing some sudden and insurmountable danger the errant truck the shaky ladder the crazy person who holds you too tight and insists with ever-increasing urgency that everything you know and love can be undone by a grape'], [0.9433545470237732, ' David Sedaris is the author of several books most recently calypso'], [0.6545600891113281, ' I got I was moms'], [0.6074478626251221, ' someone with no wins.'], [0.9597509503364563, ' leprechaun my speech today by Jane Marie my self-doubts bumper Bangkok quiz house quiz ship Elise Spiegel and that septic senior producer for Today Show is Julie Schneider additional production of the rerun from Jessica lessin hop Catherine Nelson and Matt turn the music up today from Jessica Hopper our website This American Life. Org This American Life due to the public radio stations by PRX the public radio Exchange open This American Life comes from a Lagunitas Brewing Company healing stories and songs of Lagunitas IPA and of course, just give me the pub in public radio but no more want you at Lagunitas. Calm down and talk to you who he he he'], [0.910853922367096, ' back next week I hope with my stories of This American Life'], [0.6088709235191345, ' the weather']]}
+{
+  "Stats": {
+    "PodcastID": "201671138.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 3551.987938,
+    "OriginalFileSize": 57117083,
+    "FlacFileSize": 280180233,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1210.7120380401611,
+    "DownloadSuccessful": "57.22991132736206"
+  },
+  "Transcripts": [
+    [
+      0.9641366004943848,
+      "support for This American Life comes from State Farm The Helpful Folks at State Farm are there for you on those days when it feels like problems just pop out of nowhere for auto and home insurance State Farm agents are ready to help find one at statefarm.com"
+    ],
+    [
+      0.9453858733177185,
+      " and from rocket mortgage by Quicken Loans making the home-buying process work for you their team is there with award-winning client service and support get started at rocketmortgage.com / American Equal Housing lender licensed in all 50 states nmls consumer access. Org number 3030 why hold of my hand a ghost story"
+    ],
+    [
+      0.8984375596046448,
+      " because of a publication that is not really known for the tales of the supernatural I'm talking about the American Journal of ophthalmology"
+    ],
+    [
+      0.9018945693969727,
+      " medical journal this is from a 1921 Edition just kiss your subscription Labs during World War 1 just going to"
+    ],
+    [
+      0.9556424021720886,
+      " with one of these articles this is a mug letter that the doctor sent in from one of his patients I should just let her she's identified as mrs. H end in the letter she is describing a very strange series of events that happened to her and her family study where they moved into a rambling old house on November 15th 1921 this house without a repair had no electricity was lit by Gaslight very gloomy house Abaddon a is the person who I know this article and he agreed to come into the studio and read from his ages account of what happened in them"
+    ],
+    [
+      0.9654087424278259,
+      " mr. H and I had not been in the house more than a couple of days when we felt very depressed the house was overpoweringly quiet the servants walked about on thickly carpeted floor is so quietly that I could not even hear them at their work I love how I have had no have no story of this area can be complete without servants padding about and they had many servants one morning I heard Footsteps in the room over my head I hurried up the stairs to my surprise the room was empty I passed into the next room and then into all the rooms on that floor and then to the floor above to find that I was the only person in that part of the house"
+    ],
+    [
+      0.9355618357658386,
+      " sometimes after I've gone to bed the noises from the storeroom are tremendous as if Furniture was being piled against the door is it China was being moved about and occasionally along and fearful side or whale"
+    ],
+    [
+      0.9730913639068604,
+      " sometimes as I walk along the hall I feel as if someone was following me going to touch me you cannot understand it if you've not experienced it but it's real"
+    ],
+    [
+      0.9564027190208435,
+      " cuz I was dressing for breakfast one morning be 4 years old came to my room and asked me why I'd called him I told him I'd not call them that I not been in his room with big and startled eyes he said who was it then it called me who made that pounding noise I told him it was undoubtedly the wind rattling his window know he said it was not that it was somebody that called me who was it and so on he talked insisting that he been called in for me to explain who had been"
+    ],
+    [
+      0.9701043367385864,
+      " it gets worse the adults and the children are held down in their beds by unseen figures bed shake the plants died and her children feel weak they have no energy to get severe headaches some nights after I've been in bed for a while I felt as if the bed clothes were jerked off me and I've also felt as if I'd been struck on the shoulder one night I woke up and saw sitting on the foot of my bed a man and a woman the woman was young dark and slide in Warlords picture hat I was paralyzed and could not move"
+    ],
+    [
+      0.9543207883834839,
+      " and to finally her brother-in-law comes to them she writes with a thought about what might be happening her husband's brother comes to them in January and says the perhaps they're being poisoned he read a story about a family poisoned by gas who had similar curious delusions and he buys them to see a professor about this at once a quick investigation chest in the furnace is actually sending carbon monoxide fumes into the house instead of out the chimney they fix that and the Ghostly hunting stop pain of a sick anymore either which makes a lot of sense is Albert today what is not poking around with medical archives season environmental health engineering a toxicologist he spends a lot of his time warning people about carbon monoxide seeping into homes"
+    ],
+    [
+      0.9522933959960938,
+      " I said you don't like this wind just come from the furnace in Old House kind of gas at the using gaslights in that area had as much carbon monoxide as a car's exhaust and it says carbon monoxide gas can account for everything this family experience no question about it carbon monoxide poisoning can cause all manner of hallucinations audio-visual feeling strange things on their skin when there was nothing there people often report that they hear noises in the ears a bells ringing rushing sounds amazing but this this story is um is it would have completely traditional ghost story it is a very vague everything that happens to them I've heard in some ghost story at some point or another and then it turns out to be carbon monoxide poisoning and I got to say I can't tell if I feel sort of relieved that there's a totally rational explanation or kind of disappointed"
+    ],
+    [
+      0.9325944781303406,
+      " I totally share that perspective it's kind of supporting to find that it's not some otherworldly explanation it is kind of like a killjoy story for Halloween go there"
+    ],
+    [
+      0.9254487752914429,
+      " what's Halloween and this little example shows you what kind of boring killjoy trouble you can get into when you start applying rationality and fax to a perfectly good scary story that's the way that never want to hurt anyone WBEZ Chicago it's a special Halloween edition of our show which were calling at scary music you please"
+    ],
+    [
+      0.9315066337585449,
+      " the call was coming from the basement absolutely true and carbon monoxide or it let me just say any of your carbon-based gases figure not at all in any of them are showing today in for scary ox and putting the true scary stories that you and listeners like you called into are scary story hotline and it's writing which David Sedaris walks among the Dead"
+    ],
+    [
+      0.9251721501350403,
+      " stay with us"
+    ],
+    [
+      0.911478579044342,
+      " Define Hills Have Eyes that usually is not dangerous becomes transformed you know that's something funny or funny becomes murderous like little dolls that come to life a ventriloquist dummies clowns a little Woodland creatures"
+    ],
+    [
+      0.9397008419036865,
+      " Alex blumberg is one such absolutely true tale here's a producer on our show back we first ran this episode today shows a rerun here's Alex Michelle and her husband live in the woods at the end of a long half mile driveway have a little-used dirt road they loved it there surrounded by trees and mountains but still only an hour and a half by train from New York City"
+    ],
+    [
+      0.9275084137916565,
+      " when we can morning this was their custom they went out for a short walk"
+    ],
+    [
+      0.8830089569091797,
+      " is a beautiful winter day must have foot of snow on the ground"
+    ],
+    [
+      0.9428033232688904,
+      " I got to the road and turned around to head back up to drive my husband tends to walk faster than I do and he was wanting to sort of do a little jog I said okay then why don't you just you know I'm trying to go ahead so he went on home and I was in just started on the driveway and I looked down the straight away and I saw the animal that was you know pretty far down and then I saw I sit all it looks like a raccoon"
+    ],
+    [
+      0.9632086157798767,
+      " I would say it was at least a hundred fifty to two hundred feet it was pretty far away and I'm looking at it and I'm thinking well you know it's going to go up into the woods but it started walking towards me and then I realized it hasn't seen me yet and you know I sort of in a just wave my arm a little bit and then all of a sudden she's me and the second it was aware of me it just it just bolted towards me I mean like with what there wasn't a second of a hesitation and it was like oh my God you know it's like oh my God it's coming right at me"
+    ],
+    [
+      0.9370198845863342,
+      " I turned and I started to run as I was trying to outrun it and I I I can I kept turning to see if the animal was bearing down on me and it was getting closer and it was now within 5 or 10 ft you know behind me and the whole time I mean from the moment the raccoon saw me it's hist and snarled it was"
+    ],
+    [
+      0.9538018107414246,
+      " the feeling was all I cared about was attacking me so I don't even know what I was thinking that I ran off the drive sinking and I'll get away from it well as I run off to drive it jumps onto my thigh and I"
+    ],
+    [
+      0.9761499762535095,
+      " fall into the snow kind of down behind a rock and then the next thing I see is his mouth is around my right thigh"
+    ],
+    [
+      0.9674407839775085,
+      " Direction was about 30 lb Michelle a slight woman was about 1:15 she was wearing a big Park and snow pants to the raccoon wasn't able to get a good grip using all our body weight both hands is able to pull it off your leg and put it in the snow away from her body I'm pushing its face into the snow so that you know it would keep putting his head up and snarling and then it would keep trying with its claws to scratch at me but I kept leaning on it and then pushing it into the snow and I'm screaming at the top of my lungs you know help you know somebody help me you know I'm being attacked at you know I mean I'm just and I'm sinking you know the closest neighbor it's a house that another sort of weekenders and often they're not there it seemed like no one was coming out of that house and I'm a half a mile from my house"
+    ],
+    [
+      0.9021754264831543,
+      " I'm thinking"
+    ],
+    [
+      0.9703710675239563,
+      " nobody is going to help me"
+    ],
+    [
+      0.9330139756202698,
+      " and so you know and I'm was after about 5 minutes I stopped screaming and I just started thinking you know what am I going to do"
+    ],
+    [
+      0.9674026370048523,
+      " this raccoon was behaving in a way that normal raccoons never behave like one possessed that's because in some sense it was it had rabies a disease that even scientists to study account diabolical the virus that attacks the aggression centers of the brain it switches off all an animal's natural Innovations including fear and pain at the same time it flooded the animal's body with adrenaline making it stronger and more animals which are normally shy and easily scared away turn into tireless ferocious monsters they become nothing but a vehicle for the virus attacking anything that moves in order to spread the disease"
+    ],
+    [
+      0.9320643544197083,
+      " which meant for Michelle she couldn't just try and fling the raccoon away because it would come after her again she could not run it any trees she could climb the raccoon to climb faster"
+    ],
+    [
+      0.9703989624977112,
+      " then she'll remember that other she usually didn't bring herself in with run box that day she actually had the question was how to get it out of her pocket she needed both hands to hold a raccoon down she was wearing big mittens but eventually after many attempts she was able to get the phone app and toss it in the snow using the speaker phone she called her house she got her grown son Alex screaming screaming at the top of my lungs and and he acted like you know it was like a joke and and it was because the microphone on the phone was being pinned you know where it had this sort of strange noise and I thought to myself because it sound like he was about to hang up like it was someone doing a prank and I said in my head I said you have to come down I said Alex said I've been attacked on the driveway by a raccoon"
+    ],
+    [
+      0.9681267142295837,
+      " within five minutes her husband her son Alex and his girlfriend were there or son grabbed a big falling branch and laid it across the raccoons back he stood on one end Michelle sit on the other the two of us are now holding this raccoon which is still hissing and snarling and clawing and my husband think he says I'm going to get a tire iron out of the car and you know try hitting it and to kill it so he goes and gets this tire iron out of the car and he starts to hit it and he figures he'll hit it once or twice and he'll kill it while he starts hitting it and he now he probably hid it between 15 and 20 times and and"
+    ],
+    [
+      0.9460644125938416,
+      " you know it's still snarling and climb so then might you know I said to my son's girlfriend Olga I said Olga I said go to the house and you know get a knife"
+    ],
+    [
+      0.952721357345581,
+      " and in the meantime my son takes the tire iron and my son starts feeding on the Raccoon so for at least 5 minutes they're taking turns beating the raccoon and about at the point where Olga is coming back and gets out of the car with these two big knives the raccoon you know what Michelle didn't know at the time was that her encounter with not an isolated incident does a rabies epidemic in New York which started in the 90s"
+    ],
+    [
+      0.936555802822113,
+      " in 1989 there were only 55 rapid animal cases in the entire state by 1993 the number had reached almost 3,000"
+    ],
+    [
+      0.9564993977546692,
+      " 2004 a rabid otter swim up and attacked a six-year-old to the public beach the child came out of the water with the auto clean by its teeth to his arm and one woman I spoke to told me that a rabid raccoon Last Stop on her leg in the middle of the day on her Suburban Street which was getting out of her car after a trip to Bed Bath & Beyond she said the police had to shoot the raccoon five times before it finally died"
+    ],
+    [
+      0.9647811651229858,
+      " rabies is almost 100% fatal in humans if the vaccine is administered right after exposure in the 90s brought the first human deaths from rabies in the state and half a century there's been three to date two of them were children bitten by rabid bats in their sleep which brings me to a quick Public Service Announcement a bat can bite you in your sleep without you even knowing it and without leaving a mark So if you find one in a room with a sleeping person if they catch it and have it tested and if you can't catch it you should go to a doctor I'm serious I learned about this it freaked me out and I want to tell people"
+    ],
+    [
+      0.9389159679412842,
+      " commercial of course there was no doubt of exposure should two Fang marks on her leg raccoon blood all over clothes and a battered raccoon carcass in a plastic bag but getting treatment proved to be its own type of Horror Story"
+    ],
+    [
+      0.96477210521698,
+      " first she called the vet who told her to call the health department to call the health department but they were closed on weekends so she left a message and called another Health Department in a different County same thing eventually she just went to the emergency room and around which was told that this wasn't an emergency she had 10 to 14 days before she needed to get a shot and she should just call the health department again after the weekend early Monday morning the guy from the health department where she left her first message on Saturday called her back she told him she'd been to the hospital and I said well I was told I had 10 to 14 days and he says you don't have 10 to 14 days you have 72 hours from the moment that you are bitten he says You must have a shot by the end of today"
+    ],
+    [
+      0.968778669834137,
+      " the man on the phone was in the Michelle's County health department and they would give it a shot but when she called there they said they needed to test the carcass for baby's first which been sending it to the rabies laboratory 2 hours away in Albany shall beg them to just give her the shot first and worry about Albany later so they made arrangements for the go to the closest hospital and yet another County so my husband and I go and of course we have to wait time in the emergency room and then we get in and then when we're inside and someone comes and tells me that I live in Putnam County and I'm in a hospital in Westchester and that they can't give me the shots so I am so distraught at this point and I I start crying the first episode of this was the first time that I cried"
+    ],
+    [
+      0.9344545602798462,
+      " you know I Will Survive the attack by the healthcare system so I started to cry and I just said you know isn't there I said what's the problem and and then I'm starting to learn that rabies immune globulin is a very expensive shot and the retail price of it was something like 6:32 or $3,500"
+    ],
+    [
+      0.9633206725120544,
+      " find me the game of the shot that they gave it to her in the wrong place the buttocks not in her arm like they were supposed to and then she needed five follow-up shots but you can find a doctor to give her any she called 8 doctors and none of them would even see her till she threatened to call the State Board of Health Adventure she got the shots today everything is fine except Michelle doesn't see her home in the woods the way she wants did as a peaceful Refuge I felt so betrayed by Nature. That's actually how I felt I felt that nature betrayed me because I would take walks everyday in the woods and I have never felt threatened and I remember waking up the next day and thinking that all of the hills around me that there were raccoon standing on all these Hills waiting until I got out the door and they were going to come running to Art know is like the Army you know waiting for its."
+    ],
+    [
+      0.9571643471717834,
+      " you know to come and let you know I had this image that you know these raccoons were just all going to come down from the hills and and if I ever go to walk and I and I don't have the cell phone I will always feel a little fear"
+    ],
+    [
+      0.9365768432617188,
+      " years before her attack Michelle wanted Safari in South Africa so lions and giraffes and rhinos come after drive at night after she got home from the trip she peered into the woods around her house imagine that there are wild animals out there like it had been on Safari"
+    ],
+    [
+      0.8846617341041565,
+      " now she says she doesn't wonder about it anymore she knows for a fact there wild animals out there that's not a comforting thought"
+    ],
+    [
+      0.9265626668930054,
+      " Alex blumberg is Daisy's podcast impresario and the host of the podcast without fail"
+    ],
+    [
+      0.9382070899009705,
+      " I to The Hitcher okay I believe that we have all learned an important lesson about rabies and bats and raccoons not to mention a lesson about carbon monoxide attempt to introduce this next to right I don't think there's much more I need to say right now and hitchhiking"
+    ],
+    [
+      0.7782878875732422,
+      " is dangerous, dangerous they can be bad"
+    ],
+    [
+      0.9702374339103699,
+      " and if you don't believe me Bill at hotels this true story of what happened to him and his brother when I was 12 and my older brother Jim 14 our parents dropped us off at one of those Agricultural Fair the kind with the big ferris wheel Blue Ribbon pigs and hot dog eating contest this was on Martha's Vineyard and usually our parents went with us but Jim and I were getting older he was a teenager now we wanted to do it alone there were girls to impress we were told to call home for a ride when you're ready but at the end of the night we decided be cooler to hitchhike we weren't scared this was 1977 and Martha's Vineyard still a relatively sleepy Island everyone hitchhike there"
+    ],
+    [
+      0.9475405812263489,
+      " I didn't take as long to get a ride some guy heading to Edgartown to meet his friend we live in Oak Bluffs out of his way but he said he could take us halfway home gym and I didn't even think about saying no we were too excited for the adventure to begin"
+    ],
+    [
+      0.9574280977249146,
+      " true to his word the guy dropped us off halfway home this was out by the big bridge along the Beach Road during the day this spot is filled with people jumping off the railing into the water but at night no one goes there no swimmers are fishermen or even kids looking to get high"
+    ],
+    [
+      0.9409589171409607,
+      " Gemini stood by the side of the road listening to the ocean on the sand in the wind blow through the dunes prepared into the darkness hoping to see headlights but there was nothing just the moon and some Stars an annoying feeling we have made a big mistake"
+    ],
+    [
+      0.9318667054176331,
+      " after about 20 minutes of standing around we finally saw a car approaching getting front Jim said try to look small the thetic this wasn't hard to do"
+    ],
+    [
+      0.955061137676239,
+      " the car flew by its kicking up sandwich done my legs crap I yelled but then the tires locked up in the car fishtailed it skidded to a stop about a hundred yards away we ran to the car was a big white cruiser with four doors I yanked open the back door jumped in and sit on my butt if our window there were three people up front the driver was hunched over the wheel in Boar's hair thick afro a woman sat in the middle she had straight blonde hair with a crooked part running down the center another guy so tall as head almost touch the roof of the car Road shotgun"
+    ],
+    [
+      0.9353221654891968,
+      " thanks for stopping I said we're headed Oak Bluffs no one said a word I turned of the open door with Jim steals to come on I said get in"
+    ],
+    [
+      0.9569778442382812,
+      " Jim hesitated he looked into the car and shook his head back and forth then the driver began revving the engine I saw my brother take a deep breath then he climbed in and join me his door barely closed when the car took off"
+    ],
+    [
+      0.9185230731964111,
+      " when will Fast where to get it out of our lane no one talked the entire ride"
+    ],
+    [
+      0.974385142326355,
+      " by the time we reached Oak Bluffs I decided I didn't want these people to know where we lived"
+    ],
+    [
+      0.8403787016868591,
+      " right here will be fine I said just passed while being parked down here with a sea view hotel used to be the car didn't slow down"
+    ],
+    [
+      0.9314243197441101,
+      " taking the driver didn't hear me I tried again we like to be let out now I said"
+    ],
+    [
+      0.9376826882362366,
+      " we drove by Ocean Park the flying horses Carousel and then the harbor with all the boats tucked in for the night and they're verse the whole time I kept asking to be let out trying to make it sound like each spot I pointed to was when we really prefer"
+    ],
+    [
+      0.987152099609375,
+      " but there was no reaction we just kept moving"
+    ],
+    [
+      0.9127021431922913,
+      " eventually we passed the last house along the Methodist Campground where the Sunday before I climb the stage of the old Tabernacle and sang with my cousins before a crowd of hundred Raindrops Keep Falling On My Head"
+    ],
+    [
+      0.9313434362411499,
+      " began to climb the hill. Let out of town and I grew silent Jim took up where I left off recently is voice a change in the other new deep baritone when his voice cracked they can you sound like a little kid again he stopped talking to"
+    ],
+    [
+      0.9675067663192749,
+      " I tried to convince myself it was just a joke scare the crap out of some kids on a boring Saturday night and I almost believe this but then about 15 minutes outside of town we took a left turn to a graveyard"
+    ],
+    [
+      0.9647660255432129,
+      " Gemini new this graveyard we had relatives buried their old whaling Captain to help settle the island back in the 1600s we came up here sometimes with our grandfather to pay our respects it was a heavily wooded place with Trails a twisted deep into the forest during the day it was fun to run along these Trails jumping out from behind a rock or bush to scare each other we have never been up here at night though"
+    ],
+    [
+      0.9412551522254944,
+      " I grabbed my brother's hand and pulled myself into his lap Jim hug me tight and rest of his cheek against mine he had recently started shaving and I could feel a hint of Razor stubble this help calm me down Jim was the older brother he would know what to do"
+    ],
+    [
+      0.9345143437385559,
+      " the car swerved and began circling a large Jesus statue near the front of the graveyard I was thrown from gyms lap and landed in the opposite foot well I scramble back up as fast as I could but before I could reach my brother's lap again Gym open this door and jumped out of the car"
+    ],
+    [
+      0.9288546442985535,
+      " we are still moving fast in the open door flap in the wind I felt a hand on my shoulder and looked up it was The Tall Man his fingers were strong dug into my collarbone"
+    ],
+    [
+      0.935783863067627,
+      " I ducked back into the seat while and crawl to the door the man still help me by the shoulder but I pushed as hard as I could with my legs"
+    ],
+    [
+      0.9660744071006775,
+      " when I left in the car he lost his grip"
+    ],
+    [
+      0.9446793794631958,
+      " for a moment I floated in the air when I hit the ground I rolled for a long time"
+    ],
+    [
+      0.9608129262924194,
+      " I got up and ran towards the woods I could see a light in the distance and headed for it it was opened up into a small clearing and there was a house in a party in full swing lots of people stood outside drinking around a kick as soon as I reach the lawn I turned around to look for my brother he was still back in the graveyard running down one of the dirt road the car right behind him Jim ice cream crowded formed around me but I didn't look at them I just kept screaming my brother's name"
+    ],
+    [
+      0.9590645432472229,
+      " animals they're bursting through the woods and running across the lawn until a clothesline flattened I ran to him kneel down and put my hand on his chest you okay I asked I said you before I could answer a tall kid with thick glasses squatted down next to us what the hell is going on he has Jim and I stood up again telling everyone but it happened while we were talking for guys in the party ran off to the graveyard the car's headlights were still visible moving through the woods looking for us"
+    ],
+    [
+      0.9381272792816162,
+      " they were shouting and then the headlights disappeared when the guys returned they said the car took off before they could get the license plate"
+    ],
+    [
+      0.9283865690231323,
+      " the tall kid with the glasses walk to The Keg pour two beers into blue plastic cups and offered them to us Gemini Chuck them down and ask for more"
+    ],
+    [
+      0.9422534108161926,
+      " later two women give us a ride home I refused to sit in the back seat Road up front with the driver her name is Betsy and she had long brown hair and tan skin her father on the flying horses and I'd seen around town on the drive home she rub my hair put her arm around my shoulder"
+    ],
+    [
+      0.8953216075897217,
+      " Restore House Betsy walk with us to the front door and sit on the porch while we told her parents what happened mom been down to her face was level with my dad stood next to Jim"
+    ],
+    [
+      0.9267840385437012,
+      " my parents were very young mom even got carded sometimes it R-rated movies that were thick mustache and look good in a tight white T-shirt while we were talking my grandparents would already gone to bed and down the stairs and there bathrobes close the door Graham said you're letting in the mosquitoes Betsy patted me on the cheek and then walked back to her car the rest of us went into the living room where Jim and I told our story once more"
+    ],
+    [
+      0.9807242751121521,
+      " what do you think grandpa asked should we call the police"
+    ],
+    [
+      0.9118584990501404,
+      " for a moment no one spoke it's late dad finally said I think the boys have had enough for one night"
+    ],
+    [
+      0.9060872197151184,
+      " Grandpa at my head it's over and everyone safe she said no need to drag it out"
+    ],
+    [
+      0.9495522975921631,
+      " I looked at mom she nodded and so I did the same not because I agreed but I didn't disagree either I was just glad to be home"
+    ],
+    [
+      0.9665520191192627,
+      " let's go to bed dad said there's tennis in the morning"
+    ],
+    [
+      0.9555786848068237,
+      " mom walk me to my bedroom an old storeroom I cleaned out the beginning of summer so I could finally have a room of my own after she took me and I lay there and try to think about tennis and Labor Day weekend just three days away in a little over a week I would officially be a 7th grader but I couldn't concentrate I kept seeing the people in the front seat of that car maybe they had followed Betsy's car home from the graveyard we're waiting outside to get me"
+    ],
+    [
+      0.9279671311378479,
+      " I rub my shoulder where The Tall Man grabbed me and got out of bed I change out of my pajamas into jeans and my favorite green basketball t-shirt then I laid down on the floor and slit underneath my bed for a moment I felt safe and hidden but it didn't last"
+    ],
+    [
+      0.9486544728279114,
+      " I got up and walked to Jen's room when I got there I realized I didn't want to go in I continue down the hall and stood outside my parents bedroom I could hear them talking quietly together I almost knocked on their door instead I turned away moved on to the front room or my youngest brother Ted slept"
+    ],
+    [
+      0.9372209310531616,
+      " Ted was 6 years old he been asleep when we came home and so didn't know what happened"
+    ],
+    [
+      0.9599429368972778,
+      " I crawled into bed with him and started crying really crying so that I had to stuff a pillow when I'm out to keep the noise in"
+    ],
+    [
+      0.9631593823432922,
+      " Ted woke up in say anything at first he just patted me on the back"
+    ],
+    [
+      0.9210448861122131,
+      " Danny asked me what was wrong but I couldn't speak I can only cry and hope he kept patting me and he did until I finally fell asleep"
+    ],
+    [
+      0.8400401473045349,
+      " go level in New York"
+    ],
+    [
+      0.9212618470191956,
+      " coming up David Sedaris he's dead people and other scary stories that are absolutely true in a minute Chicago public radio when our program continues"
+    ],
+    [
+      0.9690576791763306,
+      " support for This American Life comes from State Farm State Farm agents know that sometimes life throws everything at you at once like a fender bender when you're already late when it comes to auto and home insurance State Farm agents are ready to help you can talk to your State Farm agent via text over the phone in person or using the State Farm app which is super handy with voice activated commands that let you see your bill get claimed updates or call an agent and with more than 19,000 agents there's one close to you find an agent at statefarm.com"
+    ],
+    [
+      0.9598589539527893,
+      " and from rocket mortgage by Quicken Loans providing you with an award-winning team by your side through the mortgage process their goal is to make the home-buying process smoother for you with a history of industry-leading online lending technology developed in Detroit rocket mortgage is changing the game visit rocketmortgage.com American Equal Housing lender licensed in all 50 states nmls consumer access. Org number 3030 rocket mortgage by Quicken Loans push button get mortgage"
+    ],
+    [
+      0.9265815615653992,
+      " what's This American Life from Ira Glass it you can I program you choose a theme bring you a variety of different kinds of stories on that theme Today Show and The call was coming from the basement we have scary stories for Halloween all of them absolutely true"
+    ],
+    [
+      0.9358222484588623,
+      " we've arrived at act three of our program at 3 and the call was coming from the listeners Today Show is a rerun but back we first did the show we invited you yes you to call a special 800 number that we set up here at a radio show to tell us your true scary stories hundreds of people called but all kinds of stories"
+    ],
+    [
+      0.9480888843536377,
+      " here's a selection of America Park this is from when I was I guess 18 I worked at a dollhouse supply store so is already sort of environment little doll heads and hair and eyeballs I come home after closing at the shop at about 10 at night so I would like to get a ride to my parents or my dad would let me use his tracker and I will try my cell phone so I was driving myself home this night and that was driving my dad chakra I would have expected him to be home"
+    ],
+    [
+      0.8918071985244751,
+      " it was the house and all the lights are out there. I have a feeling we're you know someone's watching you I I guess or"
+    ],
+    [
+      0.9164915084838867,
+      " even though all the signs are that no one's you can feel that there's someone present"
+    ],
+    [
+      0.8776217103004456,
+      " I parked in front of the house locked at the front steps and let myself in is completely black I remember like Whispering hello is there anybody home"
+    ],
+    [
+      0.8790798187255859,
+      " I all of a sudden and a stairwell"
+    ],
+    [
+      0.9149928092956543,
+      " the shape of a man and what I saw later with a baseball bat but could have been on anything"
+    ],
+    [
+      0.9188143610954285,
+      " Tamia the time we left out of the dark stairwell and that's when I knew I was dead murdered mutilated something horrible"
+    ],
+    [
+      0.9423645734786987,
+      " and John dropped to the ground apparently without even a Yelp of protest pretty much just a whimper into fetal position turn on it with my dad this is his idea of a of a joke and then later he claimed that it was a character-building test and that now I knew myself at her and knew that I needed to prepare be prepared for being moderate act the dark because they didn't even try to defend myself that that moment that moment when my dad on the stairs"
+    ],
+    [
+      0.9167172312736511,
+      " and it could have been just not anybody was one of the scariest moments of my life"
+    ],
+    [
+      0.9191631078720093,
+      " hey my name is Amy McKinnon"
+    ],
+    [
+      0.9576239585876465,
+      " about two and a half and it was told around my little neighborhood that a monster had escaped from the local insane asylum that's what my parents told my brothers and me and our friends parents told them and the monster was tall and green and really quiet and so they had to cancel Halloween and we were of course devastated but my parents said well because Halloween will have a party in the basement in our basement will have all of their friends over from the neighborhood because it would just be too dangerous to be out in the dark with a monster on the loose"
+    ],
+    [
+      0.9166256785392761,
+      " so my mother decorated our basement instead of fantastic job the best part I remember where the donuts are hanging from a clothesline so the party's going really well there are few mothers there the music playing and all of a sudden we heard him from upstairs"
+    ],
+    [
+      0.5975836515426636,
+      " and 1 others"
+    ],
+    [
+      0.8337801694869995,
+      " music stopped in my mother was near me and then we heard"
+    ],
+    [
+      0.8809612393379211,
+      " Dead Silence in the basement and another said"
+    ],
+    [
+      0.9676004648208618,
+      " all of a sudden we heard the basement door open"
+    ],
+    [
+      0.7896643280982971,
+      " I saw the same woman black boot on the first step"
+    ],
+    [
+      0.943175196647644,
+      " and then the next very slowly I could see the boots of legs"
+    ],
+    [
+      0.9171668291091919,
+      " enormous chest and sticking straight out to Arms"
+    ],
+    [
+      0.8681725859642029,
+      " monster came down the stairs so slowly but it's clean face it's black suit with too short for its head bolts coming out of either side of its neck"
+    ],
+    [
+      0.9437047243118286,
+      " once the arms were visible chaos in the basement kids running everywhere my mother was next to me I grabbed hold of her I can remember digging my fingers into her leg trying desperately to call onto something screaming and I wet my pants and I can remember seeing my older brother Scott weight for a toy cast that was under the stairs and I can see his eyes meeting his eyes as he slowly lower the lid and I was so angry that I wasn't with him I can remember my other brothers Rob and Michael leaping for the basement window so there must have been something that helped propel them out the window they jumped out the window with a friend they ran down the street to a phone booth somehow had a quarter and call the police"
+    ],
+    [
+      0.9623945355415344,
+      " little kids are screaming and screaming and screaming everywhere in the monster is bewildered he's looking around his arms are still outstretched he's not saying anything he's not grabbing for anyone and I'm still screaming my ears hurt because I'm screaming so loudly and then the monster look at Mimi said it's okay and it's okay it's okay but I couldn't hear him anymore next thing I remember is being in a little makeshift bed my parents kitchen and my mother was later after my father had showered I can remember him walking to the kitchen I turn my head and complete his feet and then he crouched down to talk to me he said amen"
+    ],
+    [
+      0.9025300741195679,
+      " before you get another word out I threw up on his shoes"
+    ],
+    [
+      0.9134505987167358,
+      " hi this is Jesse Barney bladder cancer and bladder removed and body Surfer gets too hot to Breathe by itself and so long after she's had her surgery of hours it would take her long time before she took her last breath and so my job was to make sure that the breast and so I would not sure I wake her up a little bit if it if it took so long and so I was beside her in a room"
+    ],
+    [
+      0.9139189720153809,
+      " wow wow wow she sleeping and I was trying to stay awake and around midnight and around like 2 in the morning or so I think I fell asleep so I heard that the nurse starting to open up the door by falling asleep"
+    ],
+    [
+      0.7346643209457397,
+      " and that we can convince the style that she wasn't going to Breathe Again"
+    ],
+    [
+      0.8744381666183472,
+      " I think it's ever been in my life and whatever else you to change it"
+    ],
+    [
+      0.8664146065711975,
+      " and then later I heard her again and"
+    ],
+    [
+      0.779477596282959,
+      " it was Oliver strange because"
+    ],
+    [
+      0.6110420227050781,
+      " SI story"
+    ],
+    [
+      0.9583654403686523,
+      " text everybody who called our special scary stories hotline if you keeping track this great things that we have learned so far today that we must avoid at all costs are these another one carbon monoxide number to Rabbit Animals number three hitchhiking number for your own parents basically bring those to act for that we're going to line a few more things to avoid act for graveyard shift ghost and skeletons and monsters Horizon the grave on Halloween or a kind of fake children's story version of death"
+    ],
+    [
+      0.9691915512084961,
+      " what Halloween a couple years ago by David Sedaris decided he was going to go for the real thing on Halloween was going for the real thing the medical examiner's office the morgue basically the morgue Place filled with actual dead people he read his account of what happened there a different vibe audience at the Orpheum Theater in Minneapolis about dead people is if they look really dead fake almost like models made of wax this I learned that the medical examiner's office I visited in the fall of 1997 while the body seemed unreal the tools used to pick them apart where disturbingly Familiar and might be different in places with better funding but here they used hedge clippers to sniff through rib cages"
+    ],
+    [
+      0.9681178331375122,
+      " chest cavities were emptied of blood with cheap metal soup ladles the kind they use in cafeterias and the autopsy tables were lubricated with whatever dish detergent happened to be on sale"
+    ],
+    [
+      0.9556472897529602,
+      " also familiar with the songs oldies mainly that issued from the blood-spattered clock radio inform to kind of soundtrack when I was young I Associated Three Dog Night with my 7th grade shop teacher who proudly identified himself as the group's biggest fan now though whenever I hear Joy to the World I think of a fibroid tumor positioned upon a styrofoam plate"
+    ],
+    [
+      0.9588102102279663,
+      " funny how that happens at the medical examiner's office I dressed in a protective suit complete with a bonnet and a pair of Tyvek booties citizens were disemboweled one right after another and on the surface I'm sure I seem fine with it then at night I would return to my hotel double lock the door and stand under the shower until all the soap and shampoo is used up the people in the Next Room must have wondered what was going on an hour of running water and then this blubbery voice I do believe in Spooks I do believe in Spooks I do I do I do I do I do"
+    ],
+    [
+      0.930693507194519,
+      " it's not like I've walked into this completely unprepared even as a child I was fascinated by death not in a spiritual sense but it into static1 a hamster or guinea pig would pass away and after burying the body I dig it back up over and over"
+    ],
+    [
+      0.839570164680481,
+      " until all that remained was a shotty pelt"
+    ],
+    [
+      0.9312622547149658,
+      " turn me a certain reputation especially when I moved on to other people's pets"
+    ],
+    [
+      0.9421051740646362,
+      " Igor they called me"
+    ],
+    [
+      0.9592990279197693,
+      " wicked spooky but I think my interest was actually fairly common at least amongst adolescent boys at that age death is something that happens only two animals and grandparents and studying it is like a science project the good kind that doesn't involve homework"
+    ],
+    [
+      0.9423361420631409,
+      " most kids grow out of it but the passing of time only heightened my curiosity as a teenager I saved up my babysitting money and bought a $75 copy of medical legal investigations of death a sword of Bible for forensic Pathologists it shows what you might look like if you've been an extension cord while standing in a shallow pool of water"
+    ],
+    [
+      0.9733052253723145,
+      " if you were crushed by a tractor struck by lightning strangled with a spiral or non spiral telephone cord"
+    ],
+    [
+      0.9497302174568176,
+      " cake with a claw hammer burn shot ground stabbed or feasted upon by wild or domestic animals the captions red like really great poem titles my favorite being extensive mildew on the face of a recluse"
+    ],
+    [
+      0.9600682854652405,
+      " I stared at that picture for hours on end hoping it might inspire me but I know nothing about poetry"
+    ],
+    [
+      0.8965854644775391,
+      " and the best I came up with was pretty lame"
+    ],
+    [
+      0.9282955527305603,
+      " behold the recluse looking pensive mildew though is quite extensive"
+    ],
+    [
+      0.8535239100456238,
+      " on his head both aft and fore he maybe should have got out more"
+    ],
+    [
+      0.9683841466903687,
+      " I know nothing about biology either the pathologist tried to educate me but I was too distracted by the grotesque My Discovery for instance that if you jump from a tall building and land on your back your eyes will pop out of your head and hang by Bloody cables"
+    ],
+    [
+      0.939289927482605,
+      " like those joke glasses"
+    ],
+    [
+      0.9854344129562378,
+      " I said to the chief medical examiner"
+    ],
+    [
+      0.9563151001930237,
+      " the man was nothing if not professional and his response to my observations was always the same well he died not really"
+    ],
+    [
+      0.9673142433166504,
+      " after a week in the autopsy Suite I still couldn't open a Denny's menu without wanting to throw up"
+    ],
+    [
+      0.9452397227287292,
+      " good night I close my eyes and see the buckets of withered hand stored in the morgue secondary cooler Bad Brains to a whole wall of them shelves like preserves in a general store then they were the bits and pieces of forsaken torso a pretty blonde scalp a pair of eyes floating in a baby food jar put them all together and you had an incredibly bright secretary"
+    ],
+    [
+      0.9597558975219727,
+      " who can type Like the Wind"
+    ],
+    [
+      0.9799515604972839,
+      " but never answer the telephone"
+    ],
+    [
+      0.964496374130249,
+      " I'd lie awake thinking of things like this but then my mind would return to the freshly Dead who are most often whole or at least whole esch most of them were delivered naked zip-top in identical body bags family members were not allowed inside the building until the corpses had no context unconnected to the living they were like these strange creatures related only to one another a police report would explain that mrs. Daniels have been killed when a truck lost control and drove to the front window of a hamburger stand she'd been a customer waiting in line in cases like hers I needed more than the standard report there had to be a reason this woman was run-down that's without one the same thing might happen to me"
+    ],
+    [
+      0.9756137132644653,
+      " three men are shot to death while attending a child's christening and you tell yourself sure they were hanging out with the wrong crowd"
+    ],
+    [
+      0.8850786089897156,
+      " but buying a hamburger"
+    ],
+    [
+      0.9688601493835449,
+      " I buy hamburgers"
+    ],
+    [
+      0.7958528995513916,
+      " or I used to anyway"
+    ],
+    [
+      0.9631438255310059,
+      " this medical examiner's office was in the Western United States in a city where guns are readily available and drivers are known to shoot each other over parking spaces the building was Louis long and mean-looking set on the far edge of the downtown area between the railroad tracks and a rubber stamp manufacturer in the lobby with a potted plant and the reception is to the can of Mountain Glen air freshener in her desk drawer 4D comps she explained meaning those who had died alone and rotted a while before being found we had such a case on Halloween an elderly man who had tumbled from a ladder while replacing a light bulb"
+    ],
+    [
+      0.9214725494384766,
+      " four and a half days on the floor if is on air-conditioned home and as the bag was unzipped the room filled with what the attending pathologist termed the smell of job security"
+    ],
+    [
+      0.9756028056144714,
+      " the autopsy took place in the morning and was the best argument for the buddy system I had ever seen"
+    ],
+    [
+      0.954030454158783,
+      " never live alone I told myself"
+    ],
+    [
+      0.9679498672485352,
+      " before you change a lightbulb call someone from the other room"
+    ],
+    [
+      0.941039502620697,
+      " and have them watch until you're finished"
+    ],
+    [
+      0.9412940144538879,
+      " by this point in my stay my list of don'ts covered three pages and included such reminders as never fall asleep in a dumpster"
+    ],
+    [
+      0.9875417351722717,
+      " never drive a convertible behind a flatbed truck"
+    ],
+    [
+      0.952394962310791,
+      " never get drunk near a train"
+    ],
+    [
+      0.9728051424026489,
+      " never get old"
+    ],
+    [
+      0.9051935076713562,
+      " I hadn't time to my visit to coincide with Halloween but that's the way it worked out you think that most of the casualties would involve trick-or-treaters hit by cars or done in by tainted candy but actually. I was just like any other"
+    ],
+    [
+      0.9634336829185486,
+      " in the morning we had our decomposed senior and after lunch I accompanied a female pathologist to a murder trial she had performed the victim's autopsy and was testifying on behalf of the prosecution there were plenty of things that should have concerned me the blood spatter evidence the trajectory of the bullets but all I could concentrate on was the defendant's mother could come to court wearing cut-off jeans and a Ghostbusters t-shirt couldn't have been easy for her but still you had to wonder what would she consider a dress-up occasions"
+    ],
+    [
+      0.9469873309135437,
+      " after the trial I watched as another female pathologist collected maggots from a spinal column found in the desert there was a decomposed head to it before leaving work she planned to simmer and study the exposed Cranium for contusions I was asked to pass this information along to the chief medical examiner and looking back I perhaps should have chosen my words more carefully"
+    ],
+    [
+      0.9741951823234558,
+      " fire up the cattle I told him"
+    ],
+    [
+      0.910174548625946,
+      " old fashioned skull boil at 5 p.m."
+    ],
+    [
+      0.9338476061820984,
+      " it was of course the fear talking that and a pathetic desire to appear casual one of the Gang"
+    ],
+    [
+      0.9681347012519836,
+      " that evening instead of returning to my hotel I sat around with the Transporters one of whom had recently been ticketed for using the carpool lane and it argued unsuccessfully"
+    ],
+    [
+      0.8991896510124207,
+      " another dead body he was carrying in the back constituted a second passenger"
+    ],
+    [
+      0.9557809829711914,
+      " it was just the four of us until around midnight when a Tipsy man in the Daytona Beach sweatshirt came to the front gate and asked for a tour"
+    ],
+    [
+      0.9640635848045349,
+      " when told no he gestured toward an idling car and got his girlfriend to ask the young woman was lovely and flirtatious and as she pressed herself against the bars I imagined her lying upon an autopsy table her organs piled in a glistening heat beside her"
+    ],
+    [
+      0.8890432119369507,
+      " I now look at everyone this way"
+    ],
+    [
+      0.9756119847297668,
+      " and it worried me that I'd never be able to stop"
+    ],
+    [
+      0.9625324606895447,
+      " this was the consequence of seeing too much and understanding the horrible Truth No One Is Safe the world is not manageable the trick-or-treater may not be struck down on Halloween but sooner or later he is going to get it as am I and everyone I have ever cared about"
+    ],
+    [
+      0.9864118695259094,
+      " it goes without saying that for the next few weeks I was not much fun to live with"
+    ],
+    [
+      0.9548946022987366,
+      " in early November I returned home and repelled every single person I came into contact with gradually though my gloominess wore off by Thanksgiving I was imagining people naked rather than dead and naked"
+    ],
+    [
+      0.7507414817810059,
+      " and this was an improvement"
+    ],
+    [
+      0.9534288644790649,
+      " a week later I was back to smoking in bed and just as I thought that I'd put it all behind me I went to my neighborhood grocery store and saw an elderly woman slipped on a grape she fell hard and after running to her side I took her by the arm you really have to watch yourself and its produce aisle I know it she said I could have broken my leg"
+    ],
+    [
+      0.98424232006073,
+      " actually I told her"
+    ],
+    [
+      0.9836738705635071,
+      " you could have been killed"
+    ],
+    [
+      0.963572084903717,
+      " the woman attempted to stand but I wouldn't let her"
+    ],
+    [
+      0.9838689565658569,
+      " I'm serious I told her people died this way I've seen it"
+    ],
+    [
+      0.94231778383255,
+      " her expression changed then I became fearful rather than merely pain"
+    ],
+    [
+      0.961047351360321,
+      " it was the look you get when facing some sudden and insurmountable danger the errant truck the shaky ladder the crazy person who holds you too tight and insists with ever-increasing urgency that everything you know and love can be undone by a grape"
+    ],
+    [
+      0.9433545470237732,
+      " David Sedaris is the author of several books most recently calypso"
+    ],
+    [
+      0.6545600891113281,
+      " I got I was moms"
+    ],
+    [
+      0.6074478626251221,
+      " someone with no wins."
+    ],
+    [
+      0.9597509503364563,
+      " leprechaun my speech today by Jane Marie my self-doubts bumper Bangkok quiz house quiz ship Elise Spiegel and that septic senior producer for Today Show is Julie Schneider additional production of the rerun from Jessica lessin hop Catherine Nelson and Matt turn the music up today from Jessica Hopper our website This American Life. Org This American Life due to the public radio stations by PRX the public radio Exchange open This American Life comes from a Lagunitas Brewing Company healing stories and songs of Lagunitas IPA and of course, just give me the pub in public radio but no more want you at Lagunitas. Calm down and talk to you who he he he"
+    ],
+    [
+      0.910853922367096,
+      " back next week I hope with my stories of This American Life"
+    ],
+    [
+      0.6088709235191345,
+      " the weather"
+    ]
+  ]
+}

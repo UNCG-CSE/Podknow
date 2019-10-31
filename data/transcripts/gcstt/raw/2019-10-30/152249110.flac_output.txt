@@ -1,0 +1,250 @@
+{
+  "Stats": {
+    "PodcastID": "152249110.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 1730.021067,
+    "OriginalFileSize": 27700947,
+    "FlacFileSize": 142638336,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 619.5870208740234,
+    "DownloadSuccessful": "15.950446367263794"
+  },
+  "Transcripts": [
+    [
+      0.9700709581375122,
+      "hey this is Jad Radiolab is supported by IBM problems Inspire IBM to push the world forward that's why so many people work with IBM on everything from City traffic to Ocean plastic smart loves problems IBM let's put smart to work visit ibm.com smart to learn more"
+    ],
+    [
+      0.9422271847724915,
+      " this is Jacob's I was calling from space elevator country Perth Western Australia Radiolab listening to your favorite musical podcast respond pause take them off and everything pauses put them back on and you're enjoying Crystal Clear sound once again go online to learn more Sennheiser the difference"
+    ],
+    [
+      0.7770940661430359,
+      " are you at you're listening to Radiolab"
+    ],
+    [
+      0.9690076112747192,
+      " hey I'm Jared I'm Rollin I'm Robert krulwich Radiolab. We have been spending a lot of time dancing and singing lately we just put out a thing about square dancing thing going on another operation over there and done both of those things have kind of a a question at the heart of them which is my eyes are you everybody's you know when there's some music so I can break through exactly and the crazy thing is like 11 years ago we we did a show called pop music which I think it was initially like about like why are certain things catchy like why do certain your arms get stuck in your head right but I think it also ended up being more interesting lie about why do certain songs seem to sort of just slip across borders from weird places from Tennessee to Zimbabwe site where Denver to Afghanistan she gets song and it moves strangely around the world is popular for some and not for others and when we were stumbling about this question"
+    ],
+    [
+      0.9636117815971375,
+      " play back then it was a thought that we heard first from muffin this guy Aaron a fox he is a professor of musicology Columbia University in New York and the damned country western guitar player country not that rock and roll 1/2 deep down in there and and and and and Kentucky and Ashville West Virginia circular part of America boys pick up yeah but it has spread to the most unusual places are some examples of that in there quite a few and then food the extreme popularity of American country western music over the last 50 or 60 years without original Australians you mean Hank Williams would be recognizable to somebody somewhere in Western Australia delete Dolly Parton being other one only part Dolly Parton is this International Global star of the world musics especially in southern Africa she's a revered like a saint"
+    ],
+    [
+      0.861498236656189,
+      " a band playing Dolly Parton song and everybody will know all the words that Rocky Top most universally about Don Williams"
+    ],
+    [
+      0.9072745442390442,
+      " If Don Williams were to go to Dar es Salaam what does Zanzibar or toquinho someplace and book a club Don Williams has actually gone to Zimbabwe where he is filled a soccer stadium with 40,000 people twice in a row movie come out"
+    ],
+    [
+      0.9698719382286072,
+      " I just wondering what exactly are they here I have asked Grenadian Solutions Trinidadian Jamaican Norwegian bends during brushing Chinese why do you like country music and the first answer is virtually always something along the lines of it's the stories like as in the stories in the lyrics I was drunk the day my mom got out of the pick her up in the rain but before I could get to the station in my pickup truck she got run over by a damned old train that doesn't sound very Aboriginal to me you know how many Aborigines are actually run over by trains cousins actually but that's not what the professor foxes saying he says ignore the details and listen for the larger story which have to do with moving with migration and with regret your lonesome for something in the thing you're missing is the old Hometown The Green Green Grass of Home"
+    ],
+    [
+      0.9729061722755432,
+      " Aaron Fox's you can boil much of this music down to just is feeling you look and look around me along or something simpler something that you left behind I was only dreaming what would be the best couple of examples you can think of I miss the farm I missed the cricket so where do you start the first hit country song was in the stalgia Cranberry for quote performed by Jimmie Rodgers and fiddlin John Carson the song was recorded in 1927 and that happens to be the moment if you look at the US Census cuz he'll tell you when the United States crosses the threshold for more than 50% agrarian in the world 2 hours to more than 50% Urban dwellers in other words country music really exploded in this is not an accident when most people no longer lived in the country country music is born when the country becomes a nostalgic idea"
+    ],
+    [
+      0.969079852104187,
+      " also in America anyway suddenly there was this Dreamscape of country places that no longer exist except in head and the music started just then so if people in Los Angeles hand in Chicago heard country in their minds to just as logical that people who move from the country to the city in Asia and Africa and Australia might have exactly the same experience these songs are sung in English if these people in this Faraway places don't speak English what are they hearing well it's important to understand English and the real enthusiasts around the world are English speakers however what explanation for the popularity else where is the even if you don't speak English the message is literally in the music itself there is grammar hear the vocalization the singer this is a very normal country-western think they actually make a cookie sound that is very distinctive"
+    ],
+    [
+      0.8238388895988464,
+      " what are the principal vocal articulations is what country singers call at cry break"
+    ],
+    [
+      0.8862566351890564,
+      " in my book by Parts the cry break into dozens of different specific articulations"
+    ],
+    [
+      0.9049750566482544,
+      " and it's not just the voices by the way she is foxit it's the instrument instrument seem to be crying about the steel guitar is the signatures out of country because it's recognized as iconic of a crying you invoice"
+    ],
+    [
+      0.9798627495765686,
+      " it's called The Crying Steel"
+    ],
+    [
+      0.9633262157440186,
+      " you can hear the lonesomeness"
+    ],
+    [
+      0.9625668525695801,
+      " and what seems to come roaring through his things just aren't what they were before and all over the world where people are leaving from the country to the city are they are enormous number this is a story all kinds of people can understand country is just as much Canadian music as it is Kentucky music it just as much Hawaiian music at it as it is West Virginia missing when you feel a football stadium with Dolly Parton listeners are we saying that they're there in part because the song she seen are their stories to this is our music about the Smoky Mountains where I grew up we had a good laugh back there and heels and we're all going through some version of you no one to two or three hundred year change from being message Lee you peasants to be modern"
+    ],
+    [
+      0.9254575967788696,
+      " remember sitting on the front porch on a silver man after noon in a straight-back chair on YouTube the wall fox has a book on this subject real country music and language and working class culture to find more information about that on our website radiolab.org"
+    ],
+    [
+      0.954877495765686,
+      " okay we are going to take a little break and when we come back we're going to travel East Way Way East to a distant Land Rover going to stumble across interesting me very familiar music I got to say this next story this one it's one of the more charming and delightful is going to the best moments I think of any piece would ever made and this is going back again 11 years so we're going to play the whole story in a minute"
+    ],
+    [
+      0.9459816217422485,
+      " hi my name is Kara Fuller and I'm calling from Yakima Washington Radiolab is supported in part by the Alfred P Sloan Foundation standing of Science and Technology in the morning formation about Sloan at www. Sloan. Org"
+    ],
+    [
+      0.9531445503234863,
+      " Chang from Bellevue Washington Radiolab supported by Mosaic Realty and asheville-based real estate firm helping buyers and sellers in Western North Carolina weather you're looking for historic greenbuild or Mountainside Serenity and experience Mosaic Realty Brokers will help you find your home offering a free professional energy audit at each closing for Radiolab listeners is it my Mosaic realty.com Radiolab to learn more"
+    ],
+    [
+      0.9429720044136047,
+      " this is Emily Waites calling from Hopkins Minnesota Radiolab is supported by transferwise picture in your brothers and Brussels to buy antique books and Ron somebody not give you a real exchange rate and might mark up the raid to make more money transfer different transferwise gives you the real rate for a laughably low fee every time transferwise has over 6 million customers and they're always looking for more test them out for free at transferwise.com Radiolab or download the app"
+    ],
+    [
+      0.8427433967590332,
+      " anybody have an American Market list"
+    ],
+    [
+      0.9521797299385071,
+      " for a long time my dad was the centerpiece of my act and then he died and for the last two years I've been trying to figure out what happened when Cuba goes our secret said he kept with them until the end listen to scattered from WNYC Studios wherever you get your podcasts"
+    ],
+    [
+      0.9466605186462402,
+      " 321 Jed Robert Radiolab we're back and we just heard a story about country music to travel across the world in patches and for this next week we're going to hear from one of them from a truly international news reporter radio reporter Gregory Warner and he was a longtime NPR East Africa to Kenya from Russia he does a podcast about the trials and tribulations of passing from one language in one country and culture into another closet rough translation is great but this is before all that this is Gregory 11 years ago"
+    ],
+    [
+      0.9567210674285889,
+      " when he was just as crazy as he is now but you'll hear about this in just a second Gregory Warner you won a journalism fellowship and they said to you you could go anywhere in the four-wheel where did you decide to go so I went to Afghanistan before by any chance I mean I know International reporting before well actually the earlier that your I'd been the Sonia covering an accordion Festival so that was a mature Christian Gatherings you bring your recording with you yeah I brought my work out well I show up in Afghanistan of caring my accordion and I'm thinking maybe this wasn't the smartest idea cuz it wasn't accordion-playing crowd I mean I was coming down the street and women in burkas are holding their babies and little boys will actually saw"
+    ],
+    [
+      0.9628945589065552,
+      " Saab begging you this where to buy a piece of gum here I am with my shiny red accordion and it's just not very appropriate does there come a time when you're actually going to use the accordion what was a week late and was in my living room I find the Jeep who's my fixer and transmitter he's working for me he's lying on his back and he's blaming his legs up in the air a guard is catching is like some cleaning the back down this is the kind of ab crunches that's what we're listening to now so I figured I'd help him out so I start playing my accordion for him"
+    ],
+    [
+      0.8979058265686035,
+      " it's going well the Jeeps popping his head tune and then it kind of looks at me how do you know Afghan music I say I'm not playing at the music Kenny says yes you are my mom used to sing if that's my mom"
+    ],
+    [
+      0.9557466506958008,
+      " that's an Afghan song no no no way baby please tell me the story of those were the days my friend those were the days my friend that song is from Allah finger who is famous for 5 years ago"
+    ],
+    [
+      0.9514935612678528,
+      " Batman Hush Salon, okay it's it's Joey to get it wrong so I forgot about it I thought he was crazy then it kept happening I would bring my accordion play for some people every time he would say hey and then how do you say how do you spell this name z a h i r i mean who is he the first thing that you gave me with his entire CD collection and Western riff after another John Lennon died King Cole definitely one of Elvis like I realize in this tune"
+    ],
+    [
+      0.8329876065254211,
+      " is it normal that your tune you can actually overlay the Elvis version"
+    ],
+    [
+      0.9362876415252686,
+      " right on top of it is he stealing these two is that what you're saying ganas them like here's one of the Occidental sung to me but it did sound familiar so I emailed this tune to the North Penn St Louis Vuitton yeah that's that Western disco hit El bimbo"
+    ],
+    [
+      0.8433069586753845,
+      " that's amazing this is the Western version to say Melodies I'm Isaiah virgin take even"
+    ],
+    [
+      0.8891599774360657,
+      " now let's just go back to the elements of your version for a second and this is like the mega hit in Cabo on 1973"
+    ],
+    [
+      0.9339176416397095,
+      " so I beg that you could tell me more about this guy finally he says okay I'll take you to meet the old childhood friend of the man himself so we drive up to this gate this guy with white hair opens the door bro"
+    ],
+    [
+      0.9778181314468384,
+      " energy chat for a bit..... See changes suddenly is a garden birds are chirping and then sit out stop Sandy points to this old fountain in the courtyard and he says something in the Jeep starts laughing and the Jeep says no this is the fountain where I'm at Zaire used to play his accordion sliding down there and he was playing the cold in here you know girls and boys aren't supposed to be hanging out because I've got to send was a pretty different country in those days it something I didn't even realize until I got there this is the 70 the women are wearing skirts and Jane Fonda"
+    ],
+    [
+      0.9298452734947205,
+      " haircuts the men are wearing sideburns and they're doing their James Dean and it's not just what people are wearing it's that there's this sense of possibility of their things are opening up finally and the poster boy for all these arms are he's a bad boy concert everybody all the boys and girls with them come to his concerts wearing new clothes and not on the other girls of Afghanistan at the farm girls they also were in love with him to me just play one little clip from one of his shows and I want you to hear a little scream that comes right then right here"
+    ],
+    [
+      0.8275223970413208,
+      " Chris Young and Cassadee time especially young Afghan women Ahmad Zahir gives birth to a child as good as Amazon"
+    ],
+    [
+      0.9584268927574158,
+      " and this is where the story gets a lot darker it's 1973 the Russian start to move it and the new president that they put in his really like I'm a failure at all it was really in their interest in time it's a year would come out publicly praising the government and he always refused to do it anything political he wouldn't play the show and some of his songs especially the later song started to actually have coded anti-government lyrics in them other lyrics about have freedoms the most important thing so what did the government do they ban is songs from the radio they start throwing him in jail what kind of regular but even when he gets out of jail he refuses to play any of the Communist Party event has plenty of his own shows tracked after one concert he meets this beautiful woman named for Kira the way she tells the story he tells her on the show the recent can I talk to you"
+    ],
+    [
+      0.946797788143158,
+      " and then he said never mind and you walked away she got pregnant meanwhile the political situation was getting worse and worse all his friends are fleeing the country their murders torture somebody came to our house, please can I get you a drink said no no no I've just come from the ministry of interior there's a plan for you I don't know what they're going to do to you that's all I want to tell you to be careful during his wife they don't do anything I don't I don't leave pieces oval go after the baby's born. Days later it's his birthday June 14th 1979 please actually signing a contract for a concert that he's driving away tells her to make some lunch"
+    ],
+    [
+      0.9119237661361694,
+      " so she makes lasagna and she waits her to come back and she waits and then she falls asleep"
+    ],
+    [
+      0.9038025736808777,
+      " I had a very weird dream"
+    ],
+    [
+      0.9737592339515686,
+      " somewhere very high in the mountains and I have no shoes and there's a very strong wind blowing in my hair is everywhere"
+    ],
+    [
+      0.9023510217666626,
+      " and I see him"
+    ],
+    [
+      0.9367459416389465,
+      " not the way he went in the morning his beard out like he hasn't shaved for past two days and he has something white around him"
+    ],
+    [
+      0.8490256071090698,
+      " tempting is putting him and he's calling you made it I don't want to go"
+    ],
+    [
+      0.9681512117385864,
+      " it's something that I woke up and down I saw my father-in-law he wouldn't talk he was just bending you know like checking himself when bending and just holding my hand I didn't know anything what what what happened but everybody else tells me he was shot in the head probably by government operatives in the news spreads through all the neighborhoods in town so you have tajuk pashtuns Uzbek they're all getting up and not really knowing what else to do they come walking Tom it's at your house the courtyard starts filling up with people 50 hundred two hundred they're inside the house they're outside the house there on the street at this point the body comes born by six policemen on a stretcher people start to where they start to push in fact all the windows break the doors break they bring the body through the courtyard into the living room and fakira pushes through the police and she sees her husband's body on the stretcher"
+    ],
+    [
+      0.9312057495117188,
+      " turn to something and when I pulled the sheet from his face that's when I fell down on top when I felt it took me to the hospital and that's how she was born so does she go into labor cheat she goes into labor right there yeah and she almost dies in childbirth but her baby safe she's saved in her baby has the same birthday then her baby was born on that very day every day"
+    ],
+    [
+      0.954837441444397,
+      " so then what happened within the music basically stops it's that winter that the Russians invade starts a long. Of War you have the Jihad then the mujahideen in the Civil War when the Taliban come in they just bad music entirely I mean no instruments we're talkin 20 years where the cultural life of this country basically is frozen I can't even imagine what that's like I can barely go a day without hearing some tunes"
+    ],
+    [
+      0.9016034007072449,
+      " 2001 the Americans come in Afghanistan's open back up the radio turn back on"
+    ],
+    [
+      0.9584649205207825,
+      " and it comes out of him today in Kabul do you hear I'm telling you it's my main way that I connect with taxi drivers in barely-there listening to moment that you're even know why because they're just not been a chance for new artists to emerge or it's just know it was a deep freeze is also a messiah remind everybody of what couple used to be by this experience with my Cortney and again and again myself even when they knew before me in fact there was one time I was up north and there was this big music festival and I brought my court and they said well why don't you play and I said well I mean I could have it right now it's so they kick the band is on their office send them to drink green tea they shove me up onstage I'm standing in front of 300 Afghan and these guys are not from couple they don't speak"
+    ],
+    [
+      0.884321928024292,
+      " English dinner wearing suits and ties this is a very Afghan crowd so I figured I should play some Johnny Cash"
+    ],
+    [
+      0.5366540551185608,
+      " Sky Delaware's me"
+    ],
+    [
+      0.5222497582435608,
+      " I go to Loyola gets shot"
+    ],
+    [
+      0.8130998611450195,
+      " is the best route of ever had"
+    ],
+    [
+      0.9468254446983337,
+      " Greg Warner travel to Afghanistan with support from an international reporting project Fellowship from the John Hopkins school of advanced international studies and if you visit our website radiolab.org you can see video actual video footage of that Johnny Cash concert it's worth checking out she shot it so there you see them all and they are strange non country western clothing while we should wear at a time when you're on our website radiolab.org you can also send it to email Radiolab at wnyc.org I'm Jared I'm Ron Miller Rob Christensen ellenhorn in Stonyfield production support by Sally herships Sarah Pellegrini Arielle Lasky Heather Radke Jesse Blanco and a Blu-ray Rock"
+    ],
+    [
+      0.9617617726325989,
+      " Linda Evans and Soren wheeler thanks to Adam Hole and falling tree Productions Josh cuts and then her she will okay that was that was was Gregory that was Gregory in a very sober Chad about reducing him 11 years ago though there were some of the ideas we were talking about in this episode we're still playing around with you know I just asked you last night released episode 3 of Dolly Parton's America and episode 4 coming up next week very much Vibe with these ideas and explore them and they're very Dolly specific very strange contacts but the same kind of questions do people find the dollar show"
+    ],
+    [
+      0.9061461091041565,
+      " now they can find it at dawley farms america.org and also Apple podcast in iTunes and Google Play and all the things where ever you get your podcast yes that's okay that's it for us for the moment"
+    ],
+    [
+      0.9041067361831665,
+      " will be the only for the only for the moment we we keep returning and that is Our intention yes so Wake Forest for the next time we're here and until then lead a clean useful and virtuous life"
+    ],
+    [
+      0.9497016668319702,
+      " hey this is Jad Radiolab is supported by IBM problems it's human nature to hate problems but why is that after all problems Inspire us to men things been things make things better that's why so many people work with IBM on everything from City traffic to Ocean plastic new schools to do energy flight delays to food safety smart loves problems IBM let's put smart to work does it ibm.com / smart to learn more"
+    ]
+  ]
+}

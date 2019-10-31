@@ -1,0 +1,442 @@
+{
+  "Stats": {
+    "PodcastID": "121493804.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 2983.191938,
+    "OriginalFileSize": 47731092,
+    "FlacFileSize": 245725224,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1027.5880422592163,
+    "DownloadSuccessful": "22.65773034095764"
+  },
+  "Transcripts": [
+    [
+      0.9263136982917786,
+      "from NPR and WBEZ Chicago this is wait wait don't tell me the NPR news quiz Utah me Bill"
+    ],
+    [
+      0.9287502765655518,
+      " and here is your host at the Eccles theater in Salt Lake City Utah"
+    ],
+    [
+      0.9213078022003174,
+      " thank you so much thank you had a great talk to you today later on the pioneering biologist nalini nadkarni but first this week we are celebrating the broadcast of our 1000 show"
+    ],
+    [
+      0.867243766784668,
+      " Effexor anyway we're all liberal arts majors and we're bad at math"
+    ],
+    [
+      0.9502846002578735,
+      " this is a big deal nobody gets to do a thousand shows except of course soap operas so it's only appropriate that this week I reveal that I am pregnant with bills baby please call from you the number is 10008 wait wait that's one 888-924-8924 let's welcome our first listener contested how you're on wait wait don't tell me do you see what a terrible horrible place on the other hand you must be pretty excited about your baseball team"
+    ],
+    [
+      0.9278310537338257,
+      " sure that was a very unexcited well sure are you are you not particularly a Nationals fan I am now I guess you kind of have to be just my peer pressure Amy let me introduce you to our panel this week first meet a humorous and author most recently of save room for pie is Roy Blount Jr"
+    ],
+    [
+      0.8752894401550293,
+      " Hi how are you doing at the pictures right here for the style section of the Washington Post your hometown paperwork Saint Robert"
+    ],
+    [
+      0.9073520302772522,
+      " it's only a writer for the upcoming season of at home with Amy Sedaris it's Peter Gross"
+    ],
+    [
+      0.9630051851272583,
+      " any you're going to play who is Bill this time Bill Curtis is going to redo three quotations from the week's news if you can correctly identify or explain two of them you will win our prize any voice from our show you might choose on your voicemail you ready to play I feel like I should say yes I think you're correct that would be the appropriate response alright here's your first quote at the headline from this week with shift in a magazine describing the same one who stormed the classified Congressional hearing not Gates and his friends House Republicans"
+    ],
+    [
+      0.9611362218856812,
+      " this week the Republicans finally came up with a response to the growing evidence that the president is as the founders said in the Federalist Papers super guilty one day after damning testimony from the acting ambassador to Ukraine a bunch of Republican house members stormed the impeachment hearing led by Matt gaetz Republican of Delta house"
+    ],
+    [
+      0.935169517993927,
+      " that's really all I got to say that there's nothing more stirring than a bunch of powerful white men shouting about the violation of their rights because they don't immediately get everything they want"
+    ],
+    [
+      0.6854533553123474,
+      " YouTube it's good"
+    ],
+    [
+      0.9480088949203491,
+      " Metzler makes the heart beat a little faster am I right there had to do it to prove they weren't human scum of that group had privileges to be inside those hearings they were Republicans who were part of the committee's and they therefore we had the right to be in there doesn't people outside the hearing demanding to be let into the hearing who could have just walked into the here"
+    ],
+    [
+      0.8882018327713013,
+      " I don't like that man door man and then take all the videos then and then turn around and be like a Democrats are letting people into this private room by letting them a video tape"
+    ],
+    [
+      0.9552311301231384,
+      " that what happened to maybe bring the song with the day before the ambassador to Ukraine had testified that the president withheld Aid to Ukraine and demanded that they investigate Joe Biden before he released it now even though the White House is still claiming the president is innocent Trump and his allies clearly believe it is not a quid pro quo unless you actually say the words this is a quid pro when you do it and that makes sense because just like the law says that when you murder someone it's not a crime unless you say this is a murder as you stop that's like it that's why the end of the show we say this is NPR"
+    ],
+    [
+      0.8722862005233765,
+      " I feel like an adult contemporary station"
+    ],
+    [
+      0.8766990303993225,
+      " Amy your next quote is someone responding to the question are you Pierre delecto"
+    ],
+    [
+      0.8186901807785034,
+      " sanwa who admitted in his body down-to-earth style to being Pierre delecto"
+    ],
+    [
+      0.9407042264938354,
+      " what is somebody hear you talk and explain can just unpacked delecto now if you've ever wondered What Lies Beneath the Placid G-rated exterior of Senator Romney but the the man who once said quote my favorite meat is hot dog deep dark secrets he might divulge if he had the shield of anonymity well as his alter ego. Elector Romney sometimes suggested that other people might be mistaken"
+    ],
+    [
+      0.9470101594924927,
+      " courses which is a weirdo named Pierre delecto or Mitt Romney somebody with an interesting they like. Alexa what kind of you know hidden hidden it right and instead I was so disappointed because it wasn't sexy and I felt bad for him I didn't think you liked set himself up for something really spicy but he just what he like if it's like we have hot sauce out here and he was like I'll have them I'll be happy he is as wholesome as he is I guess it's not in a weird way and in private as he is in public"
+    ],
+    [
+      0.9634131193161011,
+      " it would be worse to find out like he's just as awful as the rest of us right now I think like somebody like Mike Pence pretend that he's Bland but that is a dark evil person Mitt Romney Mitt Romney is like I have a deep dark secret and it's very similar to what he did"
+    ],
+    [
+      0.9539303779602051,
+      " the fake Twitter account and then use it just to defend his own public actions that's like creating a fake Tinder profile just a hit on your own wife in a strange way this allows his wife to make history and Romney is now the first Mormon with two husband"
+    ],
+    [
+      0.9769104719161987,
+      " all right here is your last quote Amy I would swipe right for her that was a comment on the Washington Post article about Francis strangely sexy logo for what sporting event that's coming in 2020 for the Olympics yes Paris is hosting the 2024 Olympics and they just revealed their logo for it and it's being criticized for being too sexy and not just because it's smoking and got wise and reading poetry do you load an American logo of the French national symbol of woman named Marianne and it's combined with the Olympic flame but instead of an expression of national pride most people see what this incredibly sexy womans face it looks like an icon for a dating app not the logos designers defended it saying that she quote reflects the unique energy of the games and they assured everyone that is sexy isn't my pee it's better than their first attempt the Eiffel Tower proudly"
+    ],
+    [
+      0.9388078451156616,
+      " rising from an Olympic ring either side of effect"
+    ],
+    [
+      0.9455079436302185,
+      " does the rest of the world just need to catch up the how sexy Frances are they right and we're just all a bunch of Puritans or are they like the heathens. Even if they were just going to tell me what the France watch and that's where he got that Pierre you lock it away it is like one day they'll be something called Twitter and I will release this name Haley did great said it's all the Nationals"
+    ],
+    [
+      0.784857988357544,
+      " congratulations Auntie"
+    ],
+    [
+      0.7718467712402344,
+      " bye-bye"
+    ],
+    [
+      0.943783700466156,
+      " renal panel it is time for you to answer some questions about this week's news tactic of the white belly bird of Brazil trying to say that the male of the species seduces the females by doing what I believe it's screaming that's exactly right it's screams in the female face"
+    ],
+    [
+      0.945947527885437,
+      " male white Bell birds of the world's loudest bird in their mating ritual include cycling up next to the ladies taking a deep breath in and then screaming their lungs out cartilage hardening to find out about a species that does worse than out male Scientist by the way I say this is a highly unusual tactacam on mating rituals women scientist said yeah no"
+    ],
+    [
+      0.9710683822631836,
+      " but remember the reason they do this is because it works that's how sexual selection Works two females pick the loudest voices so the females are like you had me at the lake wait wait to play will be back in a minute with more of wait wait don't tell me from NPR support for this podcast in the following message comes from Trader Joe's where you never have to wait to discover delicious foods and beverages from around the world speaking of waiting you don't have to wait for more episodes of Trader Joe's original podcast series inside Trader Joe's filled with fresh takes on everything from frozen food the flowers and fresh produce to Jarred spices find new episodes on Apple podcasts or wherever you get your podcast more traderjoes.com at a Trader Joe's on Instagram Pinterest and"
+    ],
+    [
+      0.9182120561599731,
+      " YouTube Maddie Supply Here host of a new daily science podcast from NPR code shortwave discoveries everyday Mysteries and this week Randall Munroe professional nerd and creator of XKCD explains how to use science to tell if you're a 90s kid listen And subscribe to shortwave from NPR"
+    ],
+    [
+      0.9432868957519531,
+      " from NPR WBEZ Chicago this is wait wait don't tell me the NPR news quiz I'm Bill Kurtis we're playing this week with Peter Gross Roxanne Roberts and Roy Blount Jr. Has your host at the Eccles theater in Salt Lake City Peter Sagal"
+    ],
+    [
+      0.96744304895401,
+      " thank you girl thanks everybody right now it's time for the wait wait don't tell me it Bluff The Listener game call 1-aaa twait to play our game in the air High you are on wait wait don't tell me Stockwell Alpert on Country Sudbury Massachusetts near Boston right want to try to lawyer in Massachusetts is back oh well you're the only legally blind Tyler and that's quite an honor congratulations what do you think I look like several times because I've got the tickets at Tanglewood so I know that you're bald I know that you're you're legally blind but not blind enough for me to fool you well that is frustrating welcome to the show Andrew you're going to play our game in which you must try to tell truth from fiction Bill what is Andrew's topic it happened at Mile 8"
+    ],
+    [
+      0.970931351184845,
+      " Runners like to tell you about running and hearing about running is the most boring thing in the world"
+    ],
+    [
+      0.954958975315094,
+      " especially reading a book written about running that's now out in paperback interesting story about running that happened at Mile 8 of a particular race R panel is going to tell you about it picked the one who's telling you the truth and you will win the wait waiter of your choice on your voicemail you ready to play that's the truth I know I'll write your first story of an incident in a race comes from Roy Blount Jr online you can find a t-shirt that says Jesus saves all others take half damage which I gather is some kind of Dungeons & Dragons joke"
+    ],
+    [
+      0.9484345316886902,
+      " very clever but what if you were running in a race and you collapse and passed out we're in one of those t-shirts fortunately when Tyler moon 25 had a real heart attack at Mile 8 of a 10 mile run in Minneapolis this week he was wearing a jogging bib on which he had written simply Jesus saves and Jesus dead Okay strictly speaking it was Jesus"
+    ],
+    [
+      0.987665593624115,
+      " Jesus Bueno"
+    ],
+    [
+      0.9286911487579346,
+      " 43 a nurse who stopped running himself called an ambulance perform CPR and saved moons life when Moon came to and was told you had saved him he said bless my soul or words to that effect a man"
+    ],
+    [
+      0.9305766224861145,
+      " wearing a shirt saying Jesus saves collapses at Mile 8 of a road race and is saved by a man named Jesus your next story of run-on sentences comes from rocks and Rockets"
+    ],
+    [
+      0.9662787914276123,
+      " Frank Rieger had just one goal for the Chicago Marathon this month finish in 5 hours or less doing okay until mile 81 Reiger and FBI agent who investigates white collar crime spotted David Raphael about 25 feet ahead of him placed on the FBI's most wanted list for tax fraud and money-laundering Rafael was believed to have fled overseas but very was running in Nike Vapor Fly shoes in Gucci sunglasses a son Reger gave Chase which required him to step up literally quote I had to go faster and I made him my pacer I'll give him this he's a hell of a runner Rafael cross the finish line in 4 hours 32 minutes with the exhausted Regal right behind he was arrested by two policemen that the agent had flagged over and demanded a lawyer and a Gatorade rigger was honored"
+    ],
+    [
+      0.9372959136962891,
+      " Washington this week for capturing one of America's Most Wanted but seemed most excited by his athletic feet quote chasing Raphael made me beat my personal record by almost 30 minutes they told reporters so that's so sweet Justice"
+    ],
+    [
+      0.9570813775062561,
+      " FBI agent"
+    ],
+    [
+      0.9674746990203857,
+      " tracks down a wanted criminal over the course of the Chicago marathon in sets of PR good for him your last story of someone on the Run comes from Peter Krause you had one shot one opportunity to seize everything you ever wanted in one moment would you capture it that's the question 700 Runners were forced to ask themselves this weekend at the Detroit half marathon 13.1 mile race is popular with locals is usually a pretty traditional event people sign up they run their nipples bleed only half as much as they wouldn't full marathon and everyone goes home happy but this year the race is held on the birthday of rapper and Detroit native Eminem in a group of local Runners and fans who call themselves The Marshall marathoners wanted to pay tribute so when they passed the races 8 mile marker so happen to be at the famous 8 Mile Road lent its name to Eminem movie 8 Mile they initiated an M&M themed flash mob that stop the marathon dead in its tracks"
+    ],
+    [
+      0.976938784122467,
+      " the glass of the famous song from that movie Lose Yourself over the massive PA system then the Marshall marathoners quickly changed out of their tank tops and skimpy Lycra shorts and got it the costume some Donny iconic Eminem white T-shirt and jeans While others wore outfits that reference the song lyrics there was some Mekhi Phifer sandpipers and more than a few sweaters covered in Mom's spaghetti and everyone loved it the rest of the runners join in the celebration and no one even finish the race well knowing that is except for 55 year old Douglas stradley who didn't even notice with a commotion broke out because he was sucking wind and listening to Lose Yourself on a loop on his iPod"
+    ],
+    [
+      0.9345616102218628,
+      " traffic finished with the time of 2 hours and 15 minutes in a meeting time for a full Marathon but the slowest winning time in the 73-year history of the Detroit half marathon"
+    ],
+    [
+      0.969296395778656,
+      " so you have from Roy Blount Jr the story of a man ran a race in a bib that says Jesus saves he collapsed and was saved by a man named Jesus from Roxanne an FBI agent ran down his suspect over the course of the Chicago marathon Orthopedic Rosa guy who won the Detroit half within time of 2:15 cuz everybody else was stuck at 8 Mile enjoying the music of Eminem which of these is a real story of an event at Mile 8 of a race that's what it is is a nicer to Good Samaritan angle they're well to bring you the real story we spoke to one of the people who was involved in it and I"
+    ],
+    [
+      0.6584092378616333,
+      " Emmanuel Jesus gave me"
+    ],
+    [
+      0.9426729083061218,
+      " that was Tyler Moon who was in fact the runners saved by a man named Jesus or Jesus congratulations Andrew you got it right you are in 2.4 Roy Blount Jr for telling the truth and you've won our prize the voice of your choice on your voicemail thank you so much"
+    ],
+    [
+      0.957289457321167,
+      " and now the game where we ask smart people dumb question is called not my job you know the old cliche about the brilliant scientist coming up with a new idea and all the old stodgy sign to say you are crazy that's actually what happened to biologists nalini nadkarni back in the early 80s when she first suggested studying the treetop canopy of the rainforest it's just leaves up there they said at the Academy Professor Burnet County ended up finding a whole new school of biology she joins us now no limit at Kearney welcome to wait wait don't tell me"
+    ],
+    [
+      0.957795262336731,
+      " if we read that that's what happened that you were like really should study what's going on at the tops of these trees and everybody was like why why what's up their supposed to discover the unknown and I am a Scientist I mean I'm really a sign I'm a geek mean in high school I was a member of the Latin Scrabble Club what's Kiki even for NPR NPR NPR how did you get interested in the tree can have access to a completely different world up there it's a different microclimate there's more sunlight more variations in relative humidity in a whole panoply of plants and animals that have adapted to live up there and when you were the first scientist to actually go up there did you find like all these unique animals going dammit she found animals"
+    ],
+    [
+      0.9353277087211609,
+      " can't make on the forest floor Brooks Apple sometimes if you sit up there very quietly you see this white form coming towards your side and some of you here in your ear"
+    ],
+    [
+      0.9630028009414673,
+      " hahaha oh and I met your husband he is he is also a biologist and he studies ants yes he does actually we met because I study the canopy he was we were both graduate students he came to my field site and he said to me in this just such a Charming quiet voice he said you know I really want to know if there are ants in the canopy and so I had to teach him how to climb we fell in love when he proposed he said he would name an ant after me but he did what is the have a name the lady that lends itself easily to I wish that he was like you know what I know there's no way it's up there I just was hitting on you"
+    ],
+    [
+      0.9630001783370972,
+      " the only way a treetop canopy scientist in an ant scientist could meet with me a tragic fall but yes he calls it an elegant canopy Aunt it's slim it's Nimble and it occurs in the canopy so I have to ask about Treetop Barbie invented yet so tell me about that my students and I began thinking how can we Inspire young girls to climb trees and to treasure trees the way the way I do and we know that little girl Bay little girls treasure Barbie for whatever reason or perhaps making Treetop Barbie making a Barbie that that has the clothes that I wear in the in the canopy and in the field of little helmet little up crossbow"
+    ],
+    [
+      0.9719180464744568,
+      " little booklet that that time that was dressed as a Tree Top scientists and and what did the Mattel company have to say about this well I did call them I I offered them the idea I thought it would be a just fabulous from Italian to have it sold at Toys R Us and so forth and they were not interested for some reason I couldn't understand that I'm so we just decided while in our lab we can make them ourselves we bought used Barbies from Goodwill we had volunteer seamstresses make a little clothing there there were some challenges like the big hair wouldn't fit under the little helmet and her high-heeled beat their boots wouldn't stay on but that turned out not to be a big seller my husband hates round support"
+    ],
+    [
+      0.958356499671936,
+      " I said well I know a number of journalists who might be interested in knowing that you know Motel is not interested in having up a brown woman encourage young girls to go into science and be discovered what did you say that while holding your crossbow the amazing thing is just last year I got a call from National Geographic and they have partnered with Mattel and they have now produced 5 Explorer Barbies which is fabulous it is one of them something like your tree top Rd explorers but they did make a one-of-a-kind Barbie that looks like me little Barbie she looks to be about 30 years ago sherwell but but I'll take it"
+    ],
+    [
+      0.8845301866531372,
+      " well the linnaean are carne we've invited you here to play a game we're calling join myself in the trees for canapes"
+    ],
+    [
+      0.9561830759048462,
+      " yep that's what we went with the tree canopy we thought we'd ask you about canapes those treats usually passed around during cocktail hour before dinner answer to questions about canapes in Wynne AR price one of our listeners the voice of their choice on their voicemail who is Melanie nadkarni playing for Heather Hurley in Washington DC of the word canipe is surprising what is it a it's named after Claude canipe a French cook so legendarily awful people could only eat one bite of his food from the Greek word for mosquito or see the original pronunciation is can take as in can an 80 fast"
+    ],
+    [
+      0.8131898045539856,
+      " is that a bee"
+    ],
+    [
+      0.9141842126846313,
+      " all right I will say be yes it is"
+    ],
+    [
+      0.9472746253013611,
+      " and it's a very bizarre against are you ready here we go Greek word for mosquito is canopus which became canopy which became the word for the screen around the couch to keep out mosquitoes but in French that became the word for couch and somebody thought a piece of toast with some spread on it look like a couch so canopy"
+    ],
+    [
+      0.9406923651695251,
+      " here's your next question taste and canopies changed over time which of these was a real appetizer you might have been offered at a Swanky party in the 1960s is it a hotdog nutty fritters"
+    ],
+    [
+      0.8581148386001587,
+      " be prune nuggets supreme or see kidney ptosis"
+    ],
+    [
+      0.869506299495697,
+      " I'm thinking a hot dog no he printers that sounds like that's wrong"
+    ],
+    [
+      0.8315828442573547,
+      " I think I'll say see I really meant to say see they misled you it was an edge"
+    ],
+    [
+      0.9306524991989136,
+      " what what what about you want to throw a big summer party by the pool back in the day again you might have served which of these delicious hot weather canapes a a single cold potato"
+    ],
+    [
+      0.8436038494110107,
+      " be frozen pork beans and ketchup pops warsi Herring ice cream bites"
+    ],
+    [
+      0.9439964890480042,
+      " simple thing in the world"
+    ],
+    [
+      0.8915518522262573,
+      " make pork and beans Portland Ketchup pour into a popsicle mold in the earth friends will never forget it. Bill how did winning more than that."
+    ],
+    [
+      0.9573505520820618,
+      " What sounds better this or the acceptance of your theories by the worldwide scientific Community University of Utah and advisor from Italian National Geographic new line and science Barbie you can hear more about nalini at her work on NPR's new science podcast shortwave thank you"
+    ],
+    [
+      0.9680703282356262,
+      " amenadiel revolutionize is your pizza experience in The Listener Limerick challenge call 1-aaa wait wait to join us on the air will be back in a minute with more wait wait don't tell me from NPR support for NPR This podcast and the following message comes from a choice ology an original podcast from Charles Schwab choiceology is about the forces that affect our decision from the day today to the life-changing it's hosted by decision scientist Katy Milkman who talks with Nobel laureates Elite athletes astronauts and more about why we make irrational choices and how we can make better ones download the latest episode and subscribe at schwab.com podcast for wherever you listen to the past decade saw a lot of changes in the way music is made shared and experienced social media blew up genres blurred together and Beyonce dominated nearly everything I'm Robyn Hilton join NPR music as we look back at the 2010s its defining Trends and moments listen to new"
+    ],
+    [
+      0.9202085137367249,
+      " episodes twice a week on all songs considered from NPR"
+    ],
+    [
+      0.9436443448066711,
+      " from NPR and WBEZ Chicago this is wait wait don't tell me the NPR news quiz I'm Bill Kurtis we are playing this week with Roxanne Roberts Peter Gross and Roy Blount Jr and Harry got that your host at the Eccles theater in Salt Lake City Peter Sagal"
+    ],
+    [
+      0.9553313851356506,
+      " vegetable. Everybody and thank you girl just a minute Bill premieres at the Ryman dance Film Festival 92424 right now panel some more questions for you from the week's news Peter NASA Justin build their new space suits and after millions of dollars spent in several years of development they happily report that for the first time after not wearing them will be able to do what is it something silly like fart know they've actually been able to do that since your oxygen I just want to make sure I can park this thing you could do this in the space dude I don't know I'll take a hit now they can reach the jar of hang on the top shelf and you can raise your legs over your head first time ever after not to be able to raise their arms over their head we could put a man on the moon but until now a man wearing a spacesuit cannot point up at it"
+    ],
+    [
+      0.960091769695282,
+      " original space suit has lots of problems for one it was stiff and offered a limited range of movement and also it only came and white witch was a nightmare for anybody going to the Moon after Labor Day I can't believe that never came up after every single space mission they like a big debriefing and then again we need to reach stuff that is higher that are supposed to go out of the way she wants to go do people who don't live in New York have those like Reacher Grabber things for it like high Shelf with every Bodega like small Deli it's up in New York they stack everything up so they're like their important stuff is that they're like toilet paper which like you need to shop in a bodega"
+    ],
+    [
+      0.8545132279396057,
+      " Inner Space are exactly to be all bad ass walking Roxanne scientist at the University of Richmond have for the first time trained rats to do what"
+    ],
+    [
+      0.9703002572059631,
+      " like this is my favorite story this week it would be to drive in little tiny cars to get Fruit Loops that has this happened like day wise was this before the astronauts could reach them of their shoulders or after a week for science advances motorized plastic cars the rats would previously have been forced to take public transportation to steer their little cars they steered them in exchange for treats. To get those little treat they had to wait in an interminable drive-thru Lane they were trying to actually believe it or not to test their levels of stress their emotional resilience so they put all the rat in traffic behind another rat who was staring at his phone and waited all the"
+    ],
+    [
+      0.6076864004135132,
+      " who won Green Light"
+    ],
+    [
+      0.9428814053535461,
+      " did you make them happier this is true they tested the stress level of the rats don't ask me how and they found that driving relax the rats they were they were happier they were less stressed however and this is also true it gets stressed out the rats that were forced to ride as passenger side turn right there's a cat there"
+    ],
+    [
+      0.9609135985374451,
+      " coming up with lightning fill in the blank refers it's a game where you have to listen for the rhyme if you like to play on are called leave a message at 1 Triple 8 wait wait that's one 888-924-8924 or click of the contact us link my website wait wait. NPR. Org are you can find out about attending our weekly live shows back at the Chase Bank Auditorium in Chicago and if you want even more wait wait wait wait quiz for your smart speaker new questions every Wednesday and you could win a prize just say open the wait wait quiz and like magic bill and I will be there in your home quick question can I use your bathroom"
+    ],
+    [
+      0.9321276545524597,
+      " oh you're on wait wait don't tell me this is just calling from Queens New York from Chicago Chicago why would you ever leave our beautiful city by the lake what do you think I think it's pretty great if you find the pizza suspiciously thin it is suspiciously then I agree and much better right"
+    ],
+    [
+      0.9554590582847595,
+      " I guess because my girlfriend's in the other room is from New York I would have to say this pizza is great to call Ron my God I was like a hostage to do a camera get this pizza is also great I had on my girlfriend I love you can fill in that last word or phrase correctly into the limits will be a winner ready to play here is your first like T-Rex whose teeth rot from meth the stenske emits is like deaf halitosis R Us has died out before us"
+    ],
+    [
+      0.9080072045326233,
+      " in this room you're smelling his"
+    ],
+    [
+      0.9641023278236389,
+      " wondered what it would be like to kiss a dinosaur now thanks to the field museum in Chicago amazingly we know it would be terrible researchers have determined that a T-Rex's breath would have smelled really bad due to its unique Anatomy which allowed to take hanging meat to remain in the mouth for months at a time now do not mess with those tiny office"
+    ],
+    [
+      0.9339923858642578,
+      " images of rub their mouth on a tree limb the museum actually went and made a synthetic version of dinosaur breath which the exhibition developer describes as quote bad scientific term its Axe Body Spray"
+    ],
+    [
+      0.9568892121315002,
+      " remember even though it seems uncomfortable and awkward the polite thing to do is always tell a dinosaur when they have a person stuck in their teeth"
+    ],
+    [
+      0.9564823508262634,
+      " here Jeff is your neck Slimmer this thing that I wrap my phone in I poke Broad and press to begin the screen will refresh when I'm pinching the flash my phone case feels like human skin that's right it is a new phone case that is designed to feel and look just like human skin"
+    ],
+    [
+      0.957104504108429,
+      " so if you are looking for some way to spend less time with your phone here it is."
+    ],
+    [
+      0.9530673027038574,
+      " Best time of your phone and with your friend it's called skin on technology the idea is they say is interfacing with skin is a more intuitive way for people to interact with technology one example of how it works in order to produce a laughing emoji you tickle the phone to say huh in the phone case comes in three Styles tibble Flash super realistic Flash and great-grandma's albo Pizza Tech changes abound the progress they serve is profound I'd say it's a miracle to make the Box spherical about that is totally round if you are the kind of person sophisticated likes to store your pizza vertically on bookshelves"
+    ],
+    [
+      0.9517860412597656,
+      " you're going to have to find a new way to do it because the classic Square cardboard pizza box might soon be replaced with around one Pizza Hut is testing out an entirely new round box design for pizza delivery and also an entirely new method of delivering pizza checking like a frisbee"
+    ],
+    [
+      0.9408940076828003,
+      " it seems like maybe it took us too long to come up with like a container that is the shape of the item never thought of that and now that you said that I'd like why are we wasting all of that part of cardboard tapping their like pizza and they're like get pizza and also our cheesy bread with marinara sauce and you look cool. II that is pizza you've just like separated and made me Dunkin Donuts on the side"
+    ],
+    [
+      0.7539308071136475,
+      " well how did you do in our quiz"
+    ],
+    [
+      0.8776864409446716,
+      " character Jack congratulations"
+    ],
+    [
+      0.9720422029495239,
+      " this message comes from NPR sponsor traditional medicinals traditional medicinals is the herbal tea company that lives up to its name traditional because of the formulas based on herbal Traditions that have supported health and wellness for centuries and medicinal because of the ethically-sourced high-quality herbs like those in there reishi mushroom tea sip daily to help whether the winter use promo code wait for 20% off at checkout powered by traditional medicinals the following message comes from our sponsor Westin Hotels & Resorts Chris Heisler Global run Westin concierge has experienced firsthand the gioi making it out for your morning run while traveling runwestin is Weston's way of helping you stay accountable in the road by offering you program to keep you active whether to run concierge our gear lending program a 24-hour Western workout we want you leaving her hotel feeling more empowered and a better version of yourself Explorer atwestend.com a member of Marriott bonvoy"
+    ],
+    [
+      0.9712456464767456,
+      " it is time for final game lightning fill in the blank each of our players who have 60 seconds in which the answer is many fill-in-the-blank questions as they can each correct answer net worth two points bill can you give us the spa sure can figure is to Roxanne and Roy each have three all right so that means Peter is in third place and you're up for Straight Talk will start when I begin your first question Peter fill in the blank after assurances that the ceasefire in Syria was permanent the White House announced it was lifting sanctions on blank Turkey right on Monday Israeli Prime Minister said that he had failed to form a new coalition government Netanyahu this week and Hong Kong officially scrap the blank bill that has prompted pro-democracy protests extradition last weekend at his luxury golf club near Miami haha G7 right"
+    ],
+    [
+      0.944873571395874,
+      " in order to redirect around to 65 foot long road closure officials in Britain blank gave up know they created a 41 mile long detour to lejoy Martin Scorsese and criticizing the blank movie franchise Marvel in his home Jimmy Carter right he was released on Thursday man in Illinois trying to avoid arrest gave police a false name but was caught but officers noticed blank the name he gave was his name no"
+    ],
+    [
+      0.9644834399223328,
+      " he that he was caught when they saw that he had his real name tattooed on his neck"
+    ],
+    [
+      0.9643661975860596,
+      " Matthew Bushman was wanted for forgery when police attempted to arrest him he gave the cops a fake name that probably would have worked if Bushman did not have his full name tattooed in giant letters on his neck it also didn't help that he was also wearing a name tag from a recent forgers convention but that said hello my name is guilty 12 more points total of fourteen he is in the lead very well done now has elected to fill in the blank on Tuesday Britain's Parliament rejected request to fast-track a deal on blank right on Monday Democrats block the GOP effort to censure house intelligence Jerri Blank PG&E in California to reduce risk of blank writing a university student in Bangladesh was busted this week when she hired a blank to take her exams Hunter Biden"
+    ],
+    [
+      0.9497792720794678,
+      " Hitachi hired 8 look alikes to take her exams on Monday the last trailer for The Ninth and final movie in the blank series was released Superman know the Skywalker Saga to be specific in order to keep students blank during tests hung a scimitar they had students during this test to keep him from cheating they had students wear cardboard boxes on their head"
+    ],
+    [
+      0.968264639377594,
+      " a recent picture show University students taking an exam while wearing these cardboard boxes with small cut out eyeholes was only to keep students from looking to the left or right and cheating off the person next to them or maybe just every student had ended up with a bad Halloween costume the score listen to apologize for doing this to their students they say that when it comes to Future ideas for preventing cheating they'll try and think outside the box, but he trailed feeder so how many is Roxanne going to get right and get us when the game fill in the blank on Monday Justin Trudeau when a second term is prime minister of blank right after charges she was being evasive presidential hopeful Elizabeth Warren said she would soon release detailed plan for blank medicare-for-all"
+    ],
+    [
+      0.9423823952674866,
+      " Ukraine exactly right according to a new report health insurance premiums covered by the blank will drop by 4% next year Obamacare security guard at a Bath & Body Works in Wisconsin had to call police for help after he blank me accidentally sprayed himself with himself to the counter"
+    ],
+    [
+      0.9541783928871155,
+      " in a deal reached on Monday for drug companies will pay 260 million dollars for their role in Ohio's blank epidemic on Wednesday shares an electric car company blank jumps 21% right thanks to a newly passed law it will soon be legal to eat blank in California"
+    ],
+    [
+      0.9297065734863281,
+      " really fatty cheese burgers with bacon on top to eat roadkill in California"
+    ],
+    [
+      0.935600221157074,
+      " I didn't know that well now you know the wildlife Salvage bill which goes into effect next year wild-like so yes allows drivers who fatally strike animals with their cars I presume possibly with their fists I don't know to take the animals home and cook them not all Californians are pleased with a bill to specially California's many vegetarians we're finding it difficult to run over on the side table build it rocks and do well enough to win at 6 she got six"
+    ],
+    [
+      0.9613038301467896,
+      " in just a minute we'll ask her to panelist to predict who will be the next well known person with a secret identity to be discovered and what will it be in haircut Productions Doug Berman benevolent overlord Philip go to public address announcer was Paul Friedman that nobody BJ leiderman composed by Jennifer Mills miles dornbos and Lillian gang technical the new house in the executive producer of wait wait don't tell me is this for Michael Danforth Mark Zuckerberg"
+    ],
+    [
+      0.9367560148239136,
+      " secret identity is Mark Zuckerberg he did pro quo and Peter drops Rudy Giuliani will reveal his new secret identity federal inmate 67295"
+    ],
+    [
+      0.9138461351394653,
+      " play Superstar from current the Eccles theater text everyone at kuer here in Salt Lake City. Love you at home for listening and Peter Sagal and we'll see you with Joe 1001 next week"
+    ],
+    [
+      0.9615112543106079,
+      " this is NPR"
+    ]
+  ]
+}

@@ -106,6 +106,7 @@ def downloadRawHtml(url):
 def writeDownloadErrorText(errorStr):
     errorTxtFile = open("../../../data/audio/DownloadErrors.txt", "a+")
     errorTxtFile.write(errorStr)
+    
 
 def downloadLatestPodcastFromId(id, destPath):
     baseUrl = "https://podbay.fm/podcast/"

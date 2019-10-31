@@ -1,0 +1,378 @@
+{
+  "Stats": {
+    "PodcastID": "214089682.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 2923.821563,
+    "OriginalFileSize": 46781351,
+    "FlacFileSize": 250169917,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1046.9831068515778,
+    "DownloadSuccessful": "11.61100149154663"
+  },
+  "Transcripts": [
+    [
+      0.9704921841621399,
+      "from WHYY in Philadelphia I'm Terry Gross with fresh air today the creator of the TV series mr. robot Sam esmail it starts Rami Malek as a hacker who breaks into the network of a giant corporation that he considers evil when SML started writing the series he thought movies about hacking usually got it wrong it's not about what firewall or security Protocols are on your phone it's about how do you split people and using their vulnerabilities figure out a way to break into a system email when he was in college how did it feel before he was caught or should I felt terrible Mission do this but in the moment it felt like the only way"
+    ],
+    [
+      0.978276789188385,
+      "to know the truth I wanted to know how she actually felt about me about social anxiety editing porn and more my guests msml is the Creator and Lead writer and director of the TV series mr. robot which is in its fourth and final season on USA Network mr. robot starts Rami Malek as a hacker who's tried to withdraw from the world well at the same time is trying to control it through his ability to hack into a giant corporate computer network there's a blurry line between his attempts to be a force for good and his attempts to just burn in the system down shadowing networks he's up against have made it hard for him to tell if he's the one in control or if he's being manipulated he also doesn't know what's real and what's a figment of his imagination and neither do we because he has dissociative identity disorder did a mental health diagnosis previously known as multiple personality disorder"
+    ],
+    [
+      0.9604589343070984,
+      "director Sam esmail is pretty knowledgeable about computer networks and hacking and college he was put on academic probation because of hacking when he was 20 back in the dial-up year up before Broadband he created a startup designed to give easier dial-up access to the internet but his real ambition was always to make movies that start with the opening scene of season 1 of mr. robot Elliot Rami Malek's character is a hacker who at this point in the story also works as a cybersecurity expert he's just walking to a cafe called Ron's and I sat down at a table opposite the owner"
+    ],
+    [
+      0.8502174615859985,
+      "Aaron"
+    ],
+    [
+      0.9399275779724121,
+      " your real name is Rohit Mehta you changed it wrong when you buy your first Grounds Coffee Shop six years ago now you got 17 of them with a more coming next quarter"
+    ],
+    [
+      0.9163345098495483,
+      " I like coming here cuz your Wi-Fi was fast and when you're one of the few spots that has a fiber connection with gigabit speed it's good it's so good it's scratch that part of my mind part that"
+    ],
+    [
+      0.9557743668556213,
+      " doesn't allow good to exist without condition so I started intercepting all the traffic on your network that's when I noticed something strange"
+    ],
+    [
+      0.987594485282898,
+      " so I decided to hack you"
+    ],
+    [
+      0.9636518955230713,
+      " I know you run a website called Plato's boys or networking to keep the servers Anonymous you made it really hard for anyone to see it but I saw it the onion routing protocol it's not as Anonymous as you think it is whoever is in control of the exit nodes is also in control of this traffic which makes me"
+    ],
+    [
+      0.9876290559768677,
+      " the one in control"
+    ],
+    [
+      0.8785750269889832,
+      " I must ask you to kind of leave ion everything all your emails all your files all your pics"
+    ],
+    [
+      0.9257881045341492,
+      " get out of here right now or I'll call the police when you want them to find out about the hundred terabytes of child pronography serve to your 400,000 users"
+    ],
+    [
+      0.9643743634223938,
+      " personally man I was hoping it was just going to be some BDSM stuff you realize how much simpler that would have been"
+    ],
+    [
+      0.9518789649009705,
+      " I did not hurt anyone"
+    ],
+    [
+      0.8645767569541931,
+      " never did"
+    ],
+    [
+      0.5918561816215515,
+      " what's the weather like"
+    ],
+    [
+      0.9211351275444031,
+      " I understand what it's like"
+    ],
+    [
+      0.9628236293792725,
+      " to be different"
+    ],
+    [
+      0.7907161712646484,
+      " I'm very different to"
+    ],
+    [
+      0.9844943284988403,
+      " I don't know how to talk to people"
+    ],
+    [
+      0.9534993767738342,
+      " my dad was the only one I could talk to"
+    ],
+    [
+      0.8911221027374268,
+      " baby."
+    ],
+    [
+      0.9640347361564636,
+      " Sam esmail welcome to fresh air that is one of the great opening scenes in TV history. We here in that scene comes in one way or another from your life I mean it's not autobiographical but you can draw on what you know from it I mean so you did some hacking when you were in college you edited porn so you know something about the horn world when you were scratching around for a living you know about being different because you grew up egyptian-american and Muslim in New Jersey so next home any of the talking points in their opening scene I'm sure you could relate to but you took what you know and then you drove it to a totally different place that I really think you did not know yes for sure honestly it's not outside our mentalities is what I think the Elliot character my life sort of overlap"
+    ],
+    [
+      0.9589385986328125,
+      " I have a lot to do with growing up in the and then egyptian-american the household while trying to assimilate into American culture and that sort of tension yeah because not only was I born Jersey then my parents took me down the South Carolina which was somewhat cruel to be raised in and then and then North Carolina and yeah I've always kind of constantly had to deal with this concept of this idea of being very different than than the others what was your initial idea for mr. robot"
+    ],
+    [
+      0.9625829458236694,
+      " why don't you know I always say there's three factors that can lead to creating serve on the number one you have growing up being really into programming and kind of being a little faster with the hacker culture II wanted to tell us a movie or at our television show some true story that authentically represent in that world because a lot of a lot of movies that came out of Hollywood special yet and then you know late 90s and even then it's in the 2000 were very corny and had nothing to do with realistically what was what what hacker subculture was all about I'd say the second and third things cuz it kind of happened very close to one another was a financial collapse in 2008 and they are spraying that happened a few years after that those two things is concept of a revolution which so tied into again the hacker subculture those two things sort of kind of help me develop"
+    ],
+    [
+      0.9703476428985596,
+      " the character of Elliot and why you wanted to be a hacker why he want to go into the subculture why he had this sort of grandiose vision of starting a revolution and changing the world because I was so moved I'm so horrified by the financial collapse and how to sort of the top 1% were doing these really criminal activities on a large scale and getting away with it and then and then seeing how technology helped people in their countries rise up and have a voice and start a revolution and so all those things have coalesced into the character values and it started there and then from there in the story mr. robot content spun out it is mentally ill he has dissociative identity disorder which used to be known as multiple personality disorder so parts of himself he's kind of a fragmented into other people who he thinks he's talking to her seeing and we the audience"
+    ],
+    [
+      0.9610421061515808,
+      " it took us a very long time to learn that Elliot's father was actually one of you know part of Elliott's personality that Elliot's father is actually long-dead what did you want Elliot to have dissociative identity disorder as a character is I wanted to really represent his his loneliness in a very authentic way and because his isolationism is part of what drives him to hack people I mean that was easier of irony or twisting his character is that he's so alone but yet he's able to access the server the most intimate details of everyone around them to stay true to that kind of person that kind of extreme the Elliot goes to dissociative identity disorder sort of fit what Elio's are of experiencing because he wasn't able to essentially connect to people and the"
+    ],
+    [
+      0.9711115956306458,
+      " turn up the contrast to that is that he just dissociates from them and in fact there's is also this very profound fear that he has an even just talking to them you kind of see that in the pilot when he can't even bring himself to go into his friend's birthday party so did was just something that really fit I think what Elliott's Journey was ultimately going to be about across the whole series which is about this young man who cannot through this deep fear and this for the Deep isolationism can't find a way to connect with other people"
+    ],
+    [
+      0.968876302242279,
+      " part of what we heard the Elliot character say Rami Malek's character saying that opening scene with the Fantastic Wi-Fi this coffee shop he says it's scratched the part of my mind that doesn't allow good to to exist without condition which is a beautiful way of saying too good to be true but I really like the word you chose to describe that we did this that describe you with that you're always thinking this is too good to be true this that you're mine doesn't allow good to exist without condition know I suffered a lot from social anxiety disorder I still I still work through that even now"
+    ],
+    [
+      0.9701548218727112,
+      " I had a deep fear of the world around me and I think that's part of the journey we wanted to tell about Elliott honestly that again that something that we drew from hacker culture there's a lot of paranoia not only paranoia but it is kind of beyond that I'll just a lot of distrust and what's going on around us and I think that's where that line came from is at Camry fully allow ourselves to feel good about something without feeling like the other shoe is going to drop and I think that's a constant anxiety that's prevalent in society right now and the dissociative identity disorder go hand-in-hand with him being hacker because really the only way he can connect with people is through technology and the only way he can learn about who people are through hacking them for you did social anxiety"
+    ],
+    [
+      0.94647216796875,
+      " issues connect with your your I don't want to save session I don't know how if you were obsessed or not but connect with how involved you were with technology when you are in pain College Avenue you created a startup you work in the computer lab you did some hacking"
+    ],
+    [
+      0.9726861715316772,
+      " yes the de short answer is yes you know I had social anxiety which meant I did not want to go out a lot because I was afraid to go out I was afraid to go to parties I was afraid of embarrassing myself so I stayed in my dorm room and or I went to the computer lab and instead I tried to talk to people online I felt safer and when you are in that position where you're just buy it behind the computer and NN essentially replacing a social life with that so then when you're behind that computer and you have the sort of wherewithal to pick up and try and learn how to get into people's email accounts are people social media accounts I'm at the when I was in college it was specifically email accounts then that becomes your form of socializing with people I think that's honestly the kind of more common route that hackers find themselves in the world it's sort of the"
+    ],
+    [
+      0.9501321315765381,
+      " play hackers for at least in my experience the hackers 11 but I knew growing up that's how they became that that's how they started going down that road is that is that finding that replacement of a connection with people in your limited career as a hacker replacing intimacy with hacking people's emails"
+    ],
+    [
+      0.9702180027961731,
+      " oh yeah yeah yeah you know I think I've spoken about this and I'm not exactly proud about this but I definitely hacked my girlfriend or at the time we were so off and on again off again back in college and then I know I don't know I hacked your college and sent out this email and I was talking to you and I was trying to essentially show off to her and miss out this last email to the entire Campus of her college and then got busted and again I'm not a very good cuz I got busted pretty easily cuz I used to work at the computer lab at NYU and they essentially traced it back to the the employee's computer at the lab and I was at that time stamps I was with at the time when I was working there and and so they found out that the end they caught me pretty easily and I got fire then put on probation so that was those who am I that was the time when I was like"
+    ],
+    [
+      0.8643195629119873,
+      " I will I'm going to give up on this packing for Soups is not for me"
+    ],
+    [
+      0.9591046571731567,
+      " until you were caught did it feel good to have your girlfriend and her colic"
+    ],
+    [
+      0.969760537147522,
+      " where did you feel like you were violating her"
+    ],
+    [
+      0.9694992303848267,
+      " I'm trying to I'm trying to I want to be honest right cuz I can pick I think I should I should say it now it felt terrible and I shouldn't do this but but in the moment it would if it felt like the only way to know the truth I guess that's the only way I can say it is that I wanted to know how she actually felt about me because I didn't trust if she with what she was telling me was true and so I wanted to know if she really liked me I I thought maybe she didn't or maybe she like somebody else or you know and I don't know I probably had 20 theories back then about what it was we weren't connecting on what you wanted to know I think it it it I ultimately I think we weren't right for each other I mean I think that's the answer right I think I think I was"
+    ],
+    [
+      0.9398850202560425,
+      " not in a very healthy place with my social anxiety was way worse and then it is today I'm I wasn't coping with it at all I was indulging it I was probably getting worse and I think it was probably very difficult to be in any kind of relationship with me not not just romantic friendship or any sort of one-on-one connection cuz I was I had this real deep insecurity and deep fear of other people"
+    ],
+    [
+      0.9685618877410889,
+      " and now I mean like you were director you have to not only connect with people you have to give them advice about what the emotions are about their characters experience and you have to hold everything together and make sure that relationships are good on the set there hopefully good on the set so how do you deal with your social anxiety in your job as director of my wife really if it wasn't for my wife and I don't know if I would be able to handle my social anxiety as adequately I will say as I do right now is that which is to say that you know on set though I will give it to me the work is the work right I'm there to make to tell the story as best I can and I don't really have those same fears as if I'm at a party where the whole point the whole purpose is to socialize and to chit chat and to share you know she share open up about"
+    ],
+    [
+      0.9446684718132019,
+      " private life and to ask people about their private life and that's where my wife really really was able to hold my hand yeah I couldn't even go to any of the award shows that first year with mr. about without her being there holding my hand the entire time"
+    ],
+    [
+      0.9634785652160645,
+      " I want to ask you about casting Rami Malek he's so good in the series and man his eyes are so expressive you can tell just by looking at his eyes what his state of mind is like how paranoid he is at that moment how worried he is how did you realize through auditions how good he was how did you choose him well I got in that sense it was easy because when we were auditioning people and we must have seen I would say close to a hundred guys if not that's not more that the scene the scene of the audition with was that coffee shop scene and there was also the same later on when this therapist way condos on this this rant about society and"
+    ],
+    [
+      0.9666296243667603,
+      " everybody and again we had great actors coming in so it wasn't them I always thought it was a script because they would come in they would do those scenes in they do these are beautiful interpretations of the scene but the character just came off very cold very obnoxious and and I was almost getting I'm going to tell you I said let's not do this just doesn't make sense or that I got to rewrite this it's just I don't I think this guy's annoying and I don't want to I don't think anybody's going to want to spend every week with this person and then Ronnie came in"
+    ],
+    [
+      0.968419075012207,
+      " and when he did the scene he added this vulnerability it's almost like I can hear it in his voice Just In that clip that you played where doesn't come off commanding or egotistical even though the words are that he added this subtext that it was coming from a place of real pain and real vulnerability and real wanting to connect and that was the spark that really made that character come to life when we hear the scene that you just mentioned where he's talking to the psychiatrist and she basically wants to know like why are you so angry while you're so afraid like what's bothering you and he won't tell her anything but what we're hearing is what he's thinking this is Rami Malek from mr. robot"
+    ],
+    [
+      0.918239951133728,
+      " oh I don't know"
+    ],
+    [
+      0.9473516345024109,
+      " is it that we collectively thought Steve Jobs was a great man even when we knew he made billions off the backs of children"
+    ],
+    [
+      0.9400289058685303,
+      " or maybe it's that it feels like all our heroes are counterfeit"
+    ],
+    [
+      0.8857072591781616,
+      " the world itself is just one big hugs"
+    ],
+    [
+      0.8923081159591675,
+      " spamming each other with a running commentary masquerading as Insight or social media Faking It intimacy"
+    ],
+    [
+      0.9280722141265869,
+      " or is it that we voted for this I would have rigged elections but with our things are property or money I'm not saying anything then we all know why we do this not because Hunger Games books makes us happy. Because we want to be sedated because it's painful not my pretend because we're cowards"
+    ],
+    [
+      0.9646856784820557,
+      " that's a scene from mr. robot I guess the Sam esmail the Creator and Lead writer and director of the series mr. robot is in its fourth and final season on the USA Network after a break will talk about growing up in an Egyptian Muslim family in New Jersey and South Carolina and sml's first film job editing porn I'm Terry Gross and this is fresh air podcast in the following message come from Trader Joe's where the concept of fresh is something they take seriously like the fresh episodes of their podcast inside Trader Joe's available wherever you get your podcast but it's not just a podcast that's fresh Trader Joe's has fresh fruit fresh meat fresh veggies fresh fashion and fresh values on everything in the store for fresh air take a walk outside or listen to this podcast more at Trader Joes. Calm and a Trader Joe's on Instagram"
+    ],
+    [
+      0.9804779291152954,
+      " let's get back to my interview with Sam esmail the Creator and Lead writer and director of the TV series mr. robot which is in its fourth and final season on the USA Network mr. robot Stars Rami Malek as Elliot a hacker who can't connect with people and feels uncomfortable around them he's tried to withdraw from the world while at the same time he's tried to control it through his ability to hack into a giant corporate computer network we see the world through Elliott size but we can't always trust what we see because he has dissociative identity disorder or did mental illness that used to be called multiple personality disorder where is a hoodie"
+    ],
+    [
+      0.9666524529457092,
+      " in the character of Elliot and I mean he wants to hide from the world he doesn't want to be seen he wants to look as invisible as he as he kind of feels and when I interviewed Rami Malek in November of 2018 I asked him about wearing a hoodie and I want to play for you what he had to say about the hoodie"
+    ],
+    [
+      0.9726553559303284,
+      " before we did the pilot I just walked around the streets of New York with my head down in the hoodie on and I said I said to a costume designer early on I want an outfit that if you are surveilling him from above or anywhere he can put his head down and blend into the concrete and that was the way I approach to preparing for him at some point I would go into elevators and I don't remember trying to identify where the cameras were in four days I wanted to see if I could go undetected and not have any human contact with anyone and that takes quite a toll on you but it does make you aware of how how much we are being watched in the world says Rami Malek and Sam esmail I'm wondering what it was like for you to shoot him in a hoodie so much of the time cuz he said he wants to be invisible from surveillance cameras but you are"
+    ],
+    [
+      0.8887062668800354,
+      " my camera is your job is to train the camera on him so as the Director what were the pros and cons of a hoodie"
+    ],
+    [
+      0.9648038744926453,
+      " why I said off being a laughing like in conversation why don't I don't really know if there are any cons honestly because one thing about him wearing a hoodie and every scene is you don't ever have to worry about continuity and you can kind of always like you notes SWAT teams around and not have to have to worry that he wasn't wearing that in the prior so he's always wearing that but you know to me at that so this is something directly lifted from my life I wore a hoodie everyday and for me that was easy to visualize I visualized it just just with myself walking down the street knowing where to put the camera and I loved that you could see that he was hiding even though I couldn't see his face at all times it was the fact that we could see a piece of in framing it that way to me just cuz it's not about capturing someone's face it's about"
+    ],
+    [
+      0.9625818133354187,
+      " watching that person that character and an always trying to tell a story with however you put wherever you put the camera on that person so it's not about just getting both eyes set that having a symmetrical and that you know we wanted a frame and an always express what Elliott is doing who he is and so it was easy to admit that made it easier because the limitations of where you can put the camera win at 1 remind me was in that hoodie made us just closer to who Elliott was is a trans woman named White Rose who heads a group called The Dark Army has played by BD Wong and publicly"
+    ],
+    [
+      0.9648406505584717,
+      " she's known as Sean the male Chinese minister of State security I want you to describe the character and why you wanted to create a trans Woman character for the series you know did is all about identity and so we just starting with LA yet here's a guy that wants to hide from the world that wants to hide his identity that wants to make it as Anonymous as possible by hiding in a hoodie blending into the concrete like Ronnie said and then and then to kind of in think about"
+    ],
+    [
+      0.9602988958358765,
+      " the opposite of that person that the the ultimate serve antagonist to that person Nemesis to that person is this person that knows who she is knows her identity and it's the rest of the world that forces her to hide it and I just thought that was such an interesting kind of CounterPoint to what Elliott what Elliott's emotional journey is about here is a here is a woman who knows who she is but is told by society that she can't be that and so she has to then find a way to still kind of hold on to that identity and and and stay true to that identity in spite of that until in in that way she's stronger than Elliot because she wants to she wants a Define that person that she knows she isn't she believed she is and and so I love when"
+    ],
+    [
+      0.9588918685913086,
+      " a protagonist antagonist really mirror each other like that in in really the most uniserv opposite extremes because it's at contrast that I think really couldn't kind of makes the most interesting conflict between the two and then we'll talk some more if you're just joining us my guess is Sam SML who is the creator and Lead director and writer of the series mr. robot which is in its fourth and final season will be right back this is fresh air this message comes from NPR sponsor Capital One with the Capital One Walmart rewards card you can earn 5% back at Walmart online 2% at Walmart in-store restaurants in travel and 1% everywhere else when you want all that you need the Capital One Walmart Rewards Card what's in your wallet terms and exclusions apply Capital One n a"
+    ],
+    [
+      0.9295058250427246,
+      " Halloween is supposed to be a scary time of the year but you seen the news real life is so scary race isn't a so scary climate change it so scary fear in a major real life horror on NPR's code switch"
+    ],
+    [
+      0.9357158541679382,
+      " my guess is Sam esmail he's the Creator and Lead director and writer of the TV series mr. robot which is in its fourth and final season on USA Network heads up to parents the next chapter includes a section that might not be suitable for young children will be talkin not explicitly about his first film job which was editing porn"
+    ],
+    [
+      0.9731624126434326,
+      " I think your first job working in film was editing porn and your first what's the temperature I mean your parents are Egyptian and Muslim so I did they know that you were at it in porn I mean honestly they didn't I didn't tell them I got away with a lot because they were sore closed off to American culture and they weren't I honestly that interested in my life I mean I want to be a filmmaker since I was 8 they kept being I I told them that they were serve in denial about that for a long time and to the point where when I went to NYU I just lied and told him I was going to cuz they were going to pay for it if I want to fill in the face of going to film school so I just told him I was in computer programming and so that yeah it's I kept a lot of"
+    ],
+    [
+      0.9416490197181702,
+      " but my serve ambition into filmmaking what's up you know a secret from them and in fact leaving now I don't even I mean my mom kind of knows I have a TV show but it's it's it's a such a vague concept or she doesn't watch the shows this and I don't think she really sort of wraps her mind around it"
+    ],
+    [
+      0.970175564289093,
+      " okay so when you were editing porn did you get turned on while you were editing I mean you know it's a lot of close-ups of human anatomy and not necessarily like you know the most hygienic human anatomy shots and you know it's it's a lot and it's a lot of you get to see a lot of like the mechanics of it in terms of you know okay stop and I'll do this and you know and there's a pause I don't know how graphic you want to get but like with a lot of positives of people needing to a refresher to get back into the mood there's a lot of that going on yeah it's not a turn on at all the opposite I would say really wondering what the outtakes or lack"
+    ],
+    [
+      0.9567058086395264,
+      " I mean again it's a lot of soft penises if you want me to be honest it's a lot of a lot of guys freaking out and having cuz you know the point that I was editing was you know a lot amateur porn so it wasn't like big pornstars so they log guys doing it for the first or second or third time and you know they would freak out and a lot of times you cuz I was also on the chutes too sometimes and a lot of times we would have to cancel it because it wasn't going to happen you know editing amateur porn cuz I was just a mattress or and it's headed by the ammeter has"
+    ],
+    [
+      0.9678547382354736,
+      " oh no no no I mean what I say amateur point I mean that they're not necessarily pornstars they're still the production still you know that yes the Rodger Corman important that it was still paid extremely well give it I mean at least you know being 26 and just having graduate film school I paid my rent and then some so I was I was kind of you know it was kind of like not nothing nothing to say happy to do it but for me because editing was you know came easy and it was on the computer and I kind of understood Tech really well and I can figure out how to use Final Cut pretty easily if it was pretty easy for my easy money for me and we talked about the internet for naira or is this still for theaters"
+    ],
+    [
+      0.9797318577766418,
+      " Windsor Place on the titles of real movies or TV shows do you have any favorites the ones that I made were spin-offs of reality shows cuz reality shows it started to get really popular porn did was kind of jump on that so I think the porn that I ended up editing a lot of was this one called Blind sex dates because at the time there was there was a show called I believe it's just called blind dates and it was a reality show that was obviously super fake but it was a reality show where two people are on a blind date and they follow them around and so the spin on this was like you know they want to date for 2 minutes and then in the episode and then I went home and had sex for you know 45 minutes and that without that was the blind sex dates show so that was the one that I that I worked on the most then you ended up working on actual reality shows right which I got to say is not that different it's just a centrally the same thing minus the sex"
+    ],
+    [
+      0.9715157747268677,
+      " can you mention the shows you work on a show called I married a princess was about Casper Van Dien who was a huge fan of the Starship Troopers I'm in here I guess married a princess and and they have this beautiful family and the show was just about there their life their home life and then I briefly worked on a reality show up for HBO called tourgasm which was Dane Cook's is like a one-off reality show where Dane Cook when around on to her and it was just really behind the scenes of that then the DVD boom kind of happened and and that was back in the day when everyone is like buying box sets and special Deluxe editions of every movie and and so we were editing all the making-of documentaries behind you know but the behind-the-scenes footage of of those movies and that was really cool because obviously you know wanting to be"
+    ],
+    [
+      0.8581348061561584,
+      " call my girls able to kind of see you no glimpse into the what the set life was like on all these all these big Studio films"
+    ],
+    [
+      0.9476742148399353,
+      " to either up mostly in New Jersey briefly lived in South Carolina your parents immigrated to the US from Egypt there Muslim believe you're feeling left out because you were different when you were growing up in Jersey and South Carolina constantly I remember when I was five I think I was called"
+    ],
+    [
+      0.9698970913887024,
+      " sand Niger so much that I didn't even know that that was a pejorative until I I think I said it out loud in front of adult my parents didn't even know that saying from my parents and they wouldn't even yeah I got I got beat up. I remember the first day of kindergarten at my my older sister Nancy she was she was born mentally challenged so I'm to get picked on a lot and therefore I get some residual bullying from that and they were picking on her I remember on the first day of kindergarten at the bus stop and and so I tried to stand up for her and then I just and I just got beat up by about 5 kids from the neighborhood one of them actually ended up being one of my good friends ironically enough after that but but yeah I got probably got into more fights when I can remember all through Elementary School and Middle School"
+    ],
+    [
+      0.9125691652297974,
+      " do you mention you have a sister who is mentally challenged and I'm wondering if that figured into your decision to create the Rami Malek character in mr. robot as somebody who is cognitively different"
+    ],
+    [
+      0.9236368536949158,
+      " I think so I think it's ultimately it's it's more about"
+    ],
+    [
+      0.9548792839050293,
+      " being different is more about it so I think it's more about that and that all that its cumulative right it's a piece of that it's a piece of just maybe being just not able to easily fit in with other people and being socially awkward and it's a lot a lot of it had to do with being a Gyptian and just being different you know my real name isn't Sam and I changed it into San when I was eight because that's how that's how much I got bullied about it and made fun of at school so I don't actually tell people I think it was for me growing up so it's really about that it was really about the fact that you I was sort of pushed to the cast aside a lot and I think it was all cumulative I think it was all that kind of being different being not being able to"
+    ],
+    [
+      0.9706164002418518,
+      " other people on all of those things all the details my sister of my parents in the way I grew up in South Carolina that all of that kind of fed into who Elliott became let's take a break here and then we'll talk some more if you're just joining us my guest is Sam esmail and is the Creator and Lead writer and director of the USA Network series mr. robot which is in its fourth and final season will be right back this is fresh air podcast in the following message come from the American Jewish World Service working together for more than 30 years to build a more just and Equitable World learn more at age aws.org support for NPR comes from WHYY presenting the pulse a podcast that takes you on adventures into unexpected corners of health and science plastic in the guts of deep sea creatures crying after anesthesia building your own internet each episode is full of fascinating stories and"
+    ],
+    [
+      0.9118852615356445,
+      " tydeus the pulse available where you get your podcast or at whyy.org"
+    ],
+    [
+      0.9653997421264648,
+      " my guess is Sam esmail and he's the Creator and Lead writer and director of the USA Network series mr. robot which is in its fourth and final season"
+    ],
+    [
+      0.9589515924453735,
+      " you love movies did not seeing yourself represented in movie make you feel left out or distance from what you loved I thought I was not normal and the people in the movies were and it just made me aspire to be them it it's so that's the reason why I think my Avenue the reason why white love movie so much is that I could Escape into that world in and pretend I am those people people that were normal people that were more accepted good-looking people who were you connected with other good-looking people and and who are powerful and successful and charismatic and could talk to each other and and it was it wasn't until later when I be you know I started watching"
+    ],
+    [
+      0.9626364707946777,
+      " Kubrick films that I realized oh you could actually talk about Outsiders to you could actually channel the person that I knew I was deep down as well and that's when I started to realize the power of what in terms of like what I could bring to it as a Storyteller and how I can bring my experience has to the initial e it was just all about escapism and then it became about something channeling something something more real inside me and aspiring to be friends with other attractive people who were some of the people you are aspiring to be like Michael J Fox's son back to the tree while she's in the sequel next Future Part II or Bill Murray and Ghostbusters you know and then I would watch Like The French Connection I was obsessed with"
+    ],
+    [
+      0.9693838357925415,
+      " and I was obsessed with Gene Hackman and even though I do know my concept of of of of good-looking wasn't it wasn't it wasn't necessarily about that but it was just about the energy right Gene Hackman was a bad ass in that movie and and he was going to go get the bad guys in these awesome car chases and you know it's so yeah those are the people that are or even I'll tell you this A Few Good Men weirdly enough I was 12 years old when I saw that movie I didn't understand all the courtroom lingo but I was obsessed with that movie and Tom Cruise you know the way he sort of approach his personality on if you remember the film but his personality was so outspoken so Charming he was cocky but in this fun way in this endearing way and I just remember so desperately wanting to be like him in that fell"
+    ],
+    [
+      0.9729903340339661,
+      " I mean as much as I love Jack Nicholson and you know and he's obviously you know someone I someone I admired and in his own right it was Tom Cruise being the side being on the go to I was never actually it's weird because I think of Elliot as as morally ambiguous characters not quite the hero is when you know you know described as an anti-hero and I do love that about that character but I think as a kid growing up watching the movies I was always on the side of the heroes always on the side of the person who who who wanted to do good even if they didn't realize it and so yeah I was at yeah that was more on Tom Cruise's son Daniel kaffee I guess they didn't they don't care about movies I don't they like them or not but they didn't care they didn't go you didn't go with them so that was still a something you are obsessed with was something you couldn't really share with them"
+    ],
+    [
+      0.9623522162437439,
+      " is there is incredibly frustrating I mean not let you know that doesn't even you got to remember they they can care about anything related to American culture so yeah movies they would drop me off at noon at the movie theater and buy one ticket and then I would stay until 10 p.m. and I would theater hop and you sneak into other movies for movies and then and then they pick me up at 10 p.m. at night and I was eight 9 when I was doing this 10 they wouldn't even come into the movies you know what their son who's that young energy rather than spend the money they would just pay for my ticket and leave me there"
+    ],
+    [
+      0.9688941240310669,
+      " when I was really young I think it's 9 and I don't know if you've never seen RoboCop but there's a scene where they just torture pure rollers character and shooting limbs off with a gun and kind of laughing about it and it's horrific and Yaz was 9 years old and I think I'm about to take out the Karate Kid Part II saw a car to get a part 2 and then snuck into snuck in the RoboCop. I was I was obsessed with slasher films to so Friday the 13th Nightmare on Elm Street so I saw Gore and I I don't see to me but this is a weird thing about people I know who are scared of watching horror films adults that are scared of watching horror films I never took the violence in films that seriously they never scared me and you know it"
+    ],
+    [
+      0.9409721493721008,
+      " that extent it was almost I loved the viscera the visceral experience of it that that's what is high-stakes of it but it was never something that actually permeated me pass that into some deep fear or anything like that I just remember loving the impact that that could have on someone and so of course then as me just being a young person who is aspiring to be a filmmaker thought how do I use that as a Storyteller to give off that same experience that I'm experiencing right now"
+    ],
+    [
+      0.9584752321243286,
+      " so was there a pivot point where you thought not only do I love movies I'm going to make them"
+    ],
+    [
+      0.9671566486358643,
+      " it was ETI I hate to bring the story up because it sounds like I'm I'm dissing on Steven Spielberg and I don't think that but but if I'm being honest and then again I'm a huge fan of let me just preface this by saying I'm a huge fan of Spielberg and I would I would say that when I saw ET and I remember it was the first movie is on the movie theater and and I remember everyone in school talking about it and and and I remember just wanting like you had not been allowed at the movie theater and I remember being like that because back then movies weren't coming out on video for a long time so the years before I could see it on on VHS so I finally convinced my parents to let me go see it and I was so excited I mean again it was about I remember hearing what it was about that was about a alien"
+    ],
+    [
+      0.8617669939994812,
+      " I was about a little boy who encounters aliens and I just knows this a action adventure film"
+    ],
+    [
+      0.961188554763794,
+      " and I was really excited and and then I saw it and I remember being really bored again this the first time in the movie theater and I was I was bored because I did not feel that visceral experience that I had watching French Connection or any of the bad slasher films I would watch I didn't it was more of a drama I mean you know ET is more of this for the lovely friendship between a boy and an alien and it was it wasn't it was sort of not what I was expecting but I do remember you as being this egotistical little kid and I remember walking out in the movie theater disappointed and thinking I can do better than that and I remember that was the first thought I had about being a filmmaker I have not forgot is not offended Jurassic Park Fan I mean that was"
+    ],
+    [
+      0.9704207181930542,
+      " ride that I still remember they still gone every once in awhile pop that movie on Schindler's List is obviously a masterpiece so Spielberg if you're listening I'm I'm a fan talk with you thank you so much thank you smell is the Creator and the lead writer and director of the series mr. robot which is in its fourth and final season on USA Network tomorrow on Fresh Air as the impeachment inquiry gains momentum our guests will be the New York Times correspondent in Ukraine Andrew Kramer I'll talk about the impact of President Trump's dealings with Ukraine on that country the difficult Balancing Act facing Ukraine's new president and my President Trump says Ukrainian officials try to sabotage his campaign I hope you'll join us"
+    ],
+    [
+      0.9252336621284485,
+      " freshers executive producer is Danny Miller our technical director and Engineers are depends on our associate producer for digital media is Molly CV nesper Roberta Shore Rock directs the show I'm Terry Gross"
+    ]
+  ]
+}

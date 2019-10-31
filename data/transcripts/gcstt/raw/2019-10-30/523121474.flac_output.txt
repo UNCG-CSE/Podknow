@@ -1,0 +1,498 @@
+{
+  "Stats": {
+    "PodcastID": "523121474.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 3124.26825,
+    "OriginalFileSize": 49988498,
+    "FlacFileSize": 262994828,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1031.6417527198792,
+    "DownloadSuccessful": "15.261804580688477"
+  },
+  "Transcripts": [
+    [
+      0.9497665166854858,
+      "hey it's guy here so one of the most sampled songs of all time is called Ladi Dadi by Slick Rick and Doug E fresh but the question is why why has this one song inspired so many others and what's the line between being inspired by and simply copying on today's episode we explore that line and music fashion and Innovation it's called what is original and it originally aired in June of 2014 this"
+    ],
+    [
+      0.9876289963722229,
+      " is the TED Radio Hour"
+    ],
+    [
+      0.9733812212944031,
+      " each week groundbreaking TED talks to get the human imagination had to believe in impossible things true nature of reality beckons from just beyond those talks those ideas adapted for"
+    ],
+    [
+      0.9668439030647278,
+      " from NPR"
+    ],
+    [
+      0.9540786743164062,
+      " guy Roz and imma show today what's original how every idea of every invention every song is built on something that came before it departed people in the house you're about to witness something you've never witnessed before this song will make you wonder about this whole idea of originality because this song is one of the most sampled songs of all time is Doug E fresh and Slick Rick they released it in 1984 and the story behind the song we heard about it from this guy my name is Mark Ronson he's a DJ record producer and kind of a big deal I guess the thing that I most known for his production on Amy Winehouse Back to Black or more recently this track"
+    ],
+    [
+      0.7924838066101074,
+      " just watch"
+    ],
+    [
+      0.9422734975814819,
+      " with Bruno Mars produce records for Lily Allen full McCartney's last album I just sound like I'm name-dropping on you bet I'm just trying to grab onto the things people might hide out back to that and for some it's called and asked if you were a DJ in New York like Mark was it was a staple your set"
+    ],
+    [
+      0.8700680732727051,
+      " literally like chapter 1 of the hip hop DJ Bibles and it's an incredible summer because it's just a beatbox and Arapahoe Road"
+    ],
+    [
+      0.9611034393310547,
+      " well that's true that's why we never have that you can play over 5 minutes of it and a dinosaur and have the entire dance or sing every word of that song makes Ladi Dadi more than just a really good raps on and why so many artists have borrowed from it in their own music is that it's full of these little lyrical moments and those moments those samples would become the building blocks of hip-hop especially cuz Slick Rick's voice is so iconic in has these little kind of like sing song and turns of phrase is over these little like Tik Tok and we go a little something like this hit it"
+    ],
+    [
+      0.5797982811927795,
+      " older sound bites that are becoming like Wikipedia"
+    ],
+    [
+      0.8359130024909973,
+      " Connecticut it"
+    ],
+    [
+      0.9675496220588684,
+      " just that moment it's been sampled in hundreds of songs from Ina Kamoze and 1995 do you use the hit it stays that hit it and it's not just this one line that's been sampled over and over again since 1984 is Mark explained from the Ted stage over the next 10 years Ladi Dadi continues to be sampled by countless records ending up on massive hit Snoop Doggy Dogg covers the song Lodi Dodi we likes to party we don't cause trouble we don't bother nobody with his debut album doggystyle and close it Lodi Dodi copyright lawyers are having a field at this point and then you fast-forward 2 1997"
+    ],
+    [
+      0.8932003378868103,
+      " CD DVD can't you see sometimes your words just Hypnotize by Notorious BIG or biggie reinterprets Ladi Dadi on his number one hit KO hypnotized"
+    ],
+    [
+      0.9129907488822937,
+      " so if we come all the way out to the present-day now the cultural tour de force it is Miley Cyrus she reinterprets Ladi Dadi completely for her generation and we'll take a listen to this late great pot and then see how she's soda flipped it"
+    ],
+    [
+      0.8007137775421143,
+      " lights to party we don't cause trouble we don't bother nobody wear"
+    ],
+    [
+      0.8923556804656982,
+      " Ladi Dadi we like to party and I don't want to tell you before this there are so many more OK party people in the house house sampled by Beyonce and Kanye West on this track you will beg your friend's bad too soon"
+    ],
+    [
+      0.9374201893806458,
+      " it's like a grunt from James Brown I'll let you know a saxophone blood from Junior Walker it's like it will sound good over everything and it will always make your track sound more legit and more real and Hip Hop"
+    ],
+    [
+      0.9632754325866699,
+      " and the other thing about sampling it's like Reinventing something to such an extent that it becomes something new to 30 years ago you had the first digital sound loose and they change everything overnight all of a sudden. Seuss could sample from anything and everything that came before them from a snare drum from the Funky Meters for Ron Carter bass line you know the theme to The Price is Right albums like De La Soul 3 feet high and rising and the Beastie Boys Paul's Boutique looted from Decades of recorded music to create these are sunnyglade masterpieces it would basically the Sergeant Pepper's of that day but the thing is they were sobbing those records because they hide something in that music that spoke to them"
+    ],
+    [
+      0.9557545781135559,
+      " did they instantly wanted to inject themselves into The Narrative of that music they heard it they wanted to be a part of it all the sudden they found themselves in possession of the technology to do so not much unlike the way the delta blues struck a chord with the stones and the Beatles in Clapton and they felt the need to come up that music for the tools of dad a you-know-what music we take something that we love and we build on it"
+    ],
+    [
+      0.9691126942634583,
+      " that's just how it goes"
+    ],
+    [
+      0.8613800406455994,
+      " I want to be a lot of songs"
+    ],
+    [
+      0.9650601148605347,
+      " biggest fan of them from other songs and of course this is not just true for music it's the same for Fillmore novels or technology pretty much every idea out there like we sort of celebrate things at the same original but like what is original or what's the quote which is the TSLA which apparently he even stole from Picasa about Geno genius steel great but we borrow it's impossible to even if you're telling yourself you're not sitting subconscious see you at influence whether you like it or not"
+    ],
+    [
+      0.9362372159957886,
+      " this song for the show by the way it's from a group called awesome and songs called for chords imagine just playing ripping off here's more of Mark Ronson from the Ted stage"
+    ],
+    [
+      0.9316962957382202,
+      " does bananas debate about the validity of music that contains samples you know the Grammy committee says it if you'll song contains some kind of pre-written a pre-existing music you're ineligible for song of the year Ruckus who are racist but only about rock music constantly use the argument to be that's a real heart that is available to devalue rap and modern pop and"
+    ],
+    [
+      0.943486750125885,
+      " these arguments completely missed the point because the dam has burst we live in the post sampling error we take the things that we love and we build on them and when we really add something significant an original and we march on musical Journey with this then we have a chance to be a part of the evolution of that music that we love and be linked with it wants to become something new again rehab"
+    ],
+    [
+      0.9523100852966309,
+      " which was something that I learned when I was working with the late Amazing Amy Winehouse on her album back to black"
+    ],
+    [
+      0.9504672288894653,
+      " a lot of fuss was made about the Sonic of the album that myself and salaam Remi the other producer achieved how we captured this long-lost sound but without the very very 21st century personality in fiber and it was Amy Winehouse and her lyrics about rehab the whole thing would have ran the risk of being very Pastiche to be honest"
+    ],
+    [
+      0.8849430680274963,
+      " I gave you. 17th Ave me and I am slow mo had this love for this gospel soul and blues and jazz it was evident that sings the musical Arrangements who it was she brought the ingredients that made it origin of the time"
+    ],
+    [
+      0.9780372381210327,
+      " when you sit down to like to write or produce something and you can listen to all this music and you always listening music how do you separate yourself from what's in your head or put your own spin on a sound that's just the swirling around inside of you well you know I DJ law as well as still DJ like it you know clubs and all these festivals in the summer and when it's time for me to make my own racket I really do you have to just stop doing all that cuz you never know you know you've been playing all this other music for an hour and a half the night before you get in the studio. You don't want that stuff to sort of filter into you I mean princess I used to read in to use what you said what you said he never listens to anyone else is music but his own I mean I guess if the songs I wrote was good as princes maybe that would apply to me but I saw that you know when it's time to work on the rack that I kind of put the blinders on a bit more make sure that you know not too much the same test something especially if it's something everyone is making a big fuss about that's the last"
+    ],
+    [
+      0.9202844500541687,
+      " do you want to do have that filter in Chilliwack by the time you put out the so I could you write for a year-and-a-half of someone says I oh yeah it sounds like you just want to go jump out a window"
+    ],
+    [
+      0.9664499759674072,
+      " that's it happened to you before know it hasn't but but it's like it's something that I'm you know I'm wary of cuz it you know at the end of the day like I think you'd be really hard pressed to listen to something today and not be able to at least find full of Oz of it it's completed to a relative of something else psych and that's why when I see young produces today like kids who are a 1920 they stay up all night just sampling straight from YouTube which is dangerous and kind of you know this trouble line Zack is credit needs to go to the people that created the stuff in the first place but it does make for some incredibly exciting odd and you know it doesn't mean that some little kid sitting in his basement in Ohio with a laptop can be making some of the most interesting music around"
+    ],
+    [
+      0.9043387770652771,
+      " DJ and producer Mark Ronson BSM what he is borrowed for his own music mentioned a song called bang bang bang that uses this nineteenth-century nursery rhyme"
+    ],
+    [
+      0.8366640210151672,
+      " Alouette. Tristan Joyce"
+    ],
+    [
+      0.8888081312179565,
+      " yes that was a song that I had given it to the singer named mndr"
+    ],
+    [
+      0.9468438625335693,
+      " a lot of the things that I work but they just got on the mic and they kind of freestyle the first thing that comes out so I think what she sang the first time it sounded a lot like a boot that died or something like that she was like oh what if I can make it out of whites and then get it I'm in French Canadian nursery rhymes anything's game my grandson's on sampling is at ted.com it with us for more ideas about what's original guy Roz and this is the TED Radio Hour"
+    ],
+    [
+      0.7565545439720154,
+      " it's me from NPR."
+    ],
+    [
+      0.9795976877212524,
+      " Hey everyone just a quick thanks to two of our sponsors who helped make this podcast possible first to Rocket mortgage by Quicken Loans imagine how it feels to have an award-winning team of mortgage experts make the home-buying process there for you with a history of industry-leading online lending technology rocket mortgage changing the game visit rocketmortgage.com ID Jessica Equal Housing lender license in all 50 states nmls consumer access. Org number 3030 rocket mortgage by Quicken Loans push button get mortgage thanks also to Target Red Card save 5% and get more everyday more young for your weekly grocery list more fun with the perfect stocking stuffers for decorating a tree gift wish list of the hottest Tech gifts red card gets you more learn more in store or online restrictions apply to Target."
+    ],
+    [
+      0.8332520127296448,
+      " I'm / red card for details"
+    ],
+    [
+      0.9547973871231079,
+      " Maddie Supply Here hosting the new daily science podcast from NPR cold shortwave this week the first all-female spacewalk we got to talk to both of those astronauts in space we have you loud and clear NPR listen for that and subscribe the short way from NPR"
+    ],
+    [
+      0.9565055966377258,
+      " it's the TED Radio Hour from NPR I'm guy Roz and today on the show what's original is there anything that can like we could really say is totally original the Big Bang as far as we know the Big Bang is original and everything else after that maybe a series of films called Everything is a remix because it's Kirby explains in this film every painting every song every idea comes from somewhere else and a basic element of creativity comes from mixing all of our works emerge out of our influences out of building you know upon the works and with the works of other people like for example Bob Dylan"
+    ],
+    [
+      0.9278860688209534,
+      " is Kirby from the Ted stage 1964 and let's hear where some of Dylan's early songs came from who do some side by side comparisons here by the first thing you're going to hear is not a man, traditional folk tune after that girl your Dylan's masters of War"
+    ],
+    [
+      0.6219608783721924,
+      " Mama song"
+    ],
+    [
+      0.7788146138191223,
+      " Come you masters of War"
+    ],
+    [
+      0.9159412384033203,
+      " Annabelle the big guns"
+    ],
+    [
+      0.8789784908294678,
+      " Annabelle"
+    ],
+    [
+      0.9160248637199402,
+      " Annabelle the bums that's the same basic Melody and overall structure is next one is the Patriot game by Dominic being alongside that you're going to hear with God on our side but come on young Robert Moses Angeles Twilight scene"
+    ],
+    [
+      0.8920966386795044,
+      " oh my name it ain't nothing"
+    ],
+    [
+      0.6259362101554871,
+      " my age it means less"
+    ],
+    [
+      0.5600603222846985,
+      " backcountry.com"
+    ],
+    [
+      0.968773603439331,
+      " it's time to Midwest. There's a lot of these estimated that two-thirds of The Melodies Dillon used in his early songs or borrow so I'm hearing all these Bob Dylan things right and like it's hard to say cuz we're talking about Bob Dylan but he still have all this stuff with Twitter within seconds after the release of the Sacramento Bee be hammered it would be yeah I mean it was a different era he was a folk musician and the idea back then was not that your you came up with original songs the idea was you took the songs that came before you and you did new things with them you know you would write new lyrics to an existing melody or vice versa you contributed to this body of folk music that was the idea back then so he wasn't unusual and what he was doing he was doing what they do in folk music"
+    ],
+    [
+      0.9536188244819641,
+      " it happens all the time and all kinds of music so take a Led Zeppelin for example who used to listen to another band called spirit and spirit were you know they haven't really stood the test of time but they were a reasonably well-known band in the 60s and Zeppelin tour but them which could be why this song is not Stairway to Heaven it's Hell Tour"
+    ],
+    [
+      0.9238582849502563,
+      " I came out two years earlier they basically ripped off Taurus yeah they sound a lot of luck and it does sound like the opening"
+    ],
+    [
+      0.9526118636131287,
+      " of Stairway to Heaven is fairly difficult to distinguish from that segment of Taurus"
+    ],
+    [
+      0.9765631556510925,
+      " Kirby there has to be an original idea out there in the world I don't really think so again you can merge things together and you can you can do that so much that it can be difficult to tell where something came from you know you can be layering and layering and layering until the end result is really unrecognizable but I think human beings aren't really capable of coming up with something from nowhere like I think we just do not do that we build out of materials we use tools to make things that's what we do I I don't think we summon things out of the blue even want me to get something is totally new totally different like Star Wars"
+    ],
+    [
+      0.9407206773757935,
+      " George Lucas was a famous fan of Akira Kurosawa Japanese director who made all those Samurai films in the 50s and 60s just the styling of the Jedi Knights Ferry salmon and the look of Darth Vader like a look at his helmet looks a lot like the armor of Samurai Warriors and you know that the famous Cantina scene in the first Star Wars just watch yourself we're wanted men there's a bragging that guy who ends up getting his arm chopped off"
+    ],
+    [
+      0.8963333964347839,
+      " that resembles a scene from my BlueTooth Jimbo"
+    ],
+    [
+      0.9637160301208496,
+      " but here's the thing nobody thinks of Star Wars as derivative even though it clearly draws upon course I was work so where's the line between copying and building on something came before I mean to me it's about how much you how much minutes are you do how much of the other artists you are taking so if you take a large chunk of it to me that is where are your being driven if you're being unoriginal you know I think you need to be transforming the things that you copy you need to be recontextualizing that's about where are you taking your copying too and you need to be you know transforming and combining those elements in exciting ways instead these laws laws around the world use the rather awkward analogy of property"
+    ],
+    [
+      0.9010707139968872,
+      " creative works man had the kind of like property but it's property that we're all building on and Creations can only take root and grow once a crown has been prepared"
+    ],
+    [
+      0.9659193754196167,
+      " so it's 2007 a widescreen iPod with touch controls a revolutionary mobile phone and a breakthrough internet communications device Steve Jobs on stage at macworld and he introduces the iPhone these are not three separate devices this is one device it's a complete break through and we have invented a new technology called multi-touch you can do multi finger gestures on it and boy have we patented it"
+    ],
+    [
+      0.9329386353492737,
+      " okay so that was in 2007 in 2006 and interface designer named Jeff Hahn gave a TED Talk describing the very same technology and Kirby Ferguson actually show that footage of Jeff Hahn in his Ted Talk let's hear what he has to say about this newfangled technology"
+    ],
+    [
+      0.9719192981719971,
+      " multi-touch something isn't anything isn't completely New London people like him have been playing around with in the eighties the technology be frank about it not being you so much as a whole this patented it's a small parts of it that are and it's in the small details where we can clearly see patent law contradicting its intent to promote the progress of useful Arts this idea that everything is remix might sound like Common Sense until you're the one getting remixed Johnson mentioned it earlier will listen to Steve Jobs in 1996 so had a saying so good artist copy great artists steal and we have been always been Shameless about stealing great ideas so fast forward 14 years later 2010 when Google's Android phone started the challenge Apple's iPhone"
+    ],
+    [
+      0.9703309535980225,
+      " Steve Jobs was quoted saying this I'm going to destroy Android because it's a stolen product"
+    ],
+    [
+      0.8969812393188477,
+      " I'm willing to go thermonuclear war on this okay so another words great artist steal but not for me"
+    ],
+    [
+      0.9662953019142151,
+      " Gavin you think about Steve Jobs write the idea that he had one point in his career than any other admits to sort of stealing ideas and then later on I was cursing I will crush those people who steal steal my idea is crazy I mean the other iPhone which is amazingly beautiful piece of technology is all the result of the work of other people I touch screen technology and have cell phones and GPS and the internet be like without any of those things that wouldn't exist I think it's a very individualistic fantasy it makes good stories talking about individuals talking about Steve Jobs or Picasso or whoever it's good stories and I think that's what we are geared towards we're geared towards stories that are about individuals because that's how we navigate this world so we respond to stories that way where is telling stories about Society about this credibly complex"
+    ],
+    [
+      0.9411694407463074,
+      " sub human activity that is a much harder story to tell so how do we start to think about all this in a completely different way"
+    ],
+    [
+      0.9657618403434753,
+      " I think it is important to say what you took and from where I think transparency about what you're doing is is a big deal nowadays at the end I think most people just want other people to know that hey like that's my did you know that little piece of that thing that's mine I did that and I think just you know being more reflective you know when you're on the receiving end of getting copied just think for a moment about where that came from"
+    ],
+    [
+      0.9149826169013977,
+      " is it really yours because we definitely fool ourselves about where our ideas come from"
+    ],
+    [
+      0.9609453082084656,
+      " Kenny Ferguson he's a filmmaker his movie on originality is called Everything is a remix"
+    ],
+    [
+      0.9545854330062866,
+      " check out his whole talk at Ted. Npr.org"
+    ],
+    [
+      0.43217310309410095,
+      " telephone jack on speakerphone."
+    ],
+    [
+      0.9503349661827087,
+      " so where are places where you find some of the most Innovative work is a place for copying is the rule not the exception and that place is the fashion industry a lot of fashion designers think I can knock off somebody else's work but I can't make an exact copy right that you can this is Johanna Blakely she does research on copyright and fashion and she thinks the industry actually thrives because designers or borrow and steal from each other all the time you're so Hannah from the Ted stage I heard this amazing story about miuccia Prada she is an Italian fashion designer she goes to this vintage store in Paris with a friend of hers she's rooting around she finds this one jacket by ballinciaga she loves it"
+    ],
+    [
+      0.921759307384491,
+      " turning it inside out at the seams she's looking at the construction or fences by it already said I'll buy it but I'm also going to replicate it"
+    ],
+    [
+      0.9320470094680786,
+      " no I can imagine this audience may think that sounds like plagiarism but to a fashionista what it really is is a sign of product genius that you can root through the history of fashion to pick the one that doesn't need to be changed by 1iota and to be current and to be now"
+    ],
+    [
+      0.9681006669998169,
+      " you might also be asking whether it's possible that this is illegal for her to do this well it turns out that's actually not illegal in the fashion industry there's very little intellectual property protection and so it means that anybody could copy Any Garment on any person in this room and sell it as their own design the only thing you can't copy is the label you can't pretend like you're Donna Karan when you're not that's illegal why is it in why are there so few protections for fashion why do people except that the courts decided long ago that fashion designs are utilitarian designs right they are three dimensional objects created in order to cover naked human bodies and therefore they are not to be treated as artwork however just to show you how complicated this is if Karl Lagerfeld draws address"
+    ],
+    [
+      0.951461672782898,
+      " she automatically owns the copyright to that drawing because it's a two-dimensional work of art but once he turns it into a three-dimensional design anybody can rip it off"
+    ],
+    [
+      0.963283896446228,
+      " because there's no copyright protection in this industry fashion designers can sample from all their peers designs they can take any element From Any Garment and incorporated into their own design so one of the magical side effects of having a culture of copying which is really what it is is the establishment of trends"
+    ],
+    [
+      0.9559993743896484,
+      " some people believe that there are a few people the top of the fashion food chain has her dictate to us what we're all going to wear but if you talk to any designer at any level including these high-end designer say I always say their main inspiration comes from the street where people like you and me remix and match our own fashion books sets with the top down and a bottom-up kind of industry asking these questions that are on the show which is humans really value things at that are new right right but but it's almost like they're there really isn't anything that's original but I think what's fascinating and what you see in the fashion industry all the time"
+    ],
+    [
+      0.9455921649932861,
+      " is that the genius is really in curating things from the past and Reviving them in the present"
+    ],
+    [
+      0.9429460167884827,
+      " so selecting from that massive Archive of History a certain button certain sleeve a certain hem length a certain color or pattern of design and putting them all together and the present moment is its own kind of original genius right you're the first one to curate the past in this way"
+    ],
+    [
+      0.9675362706184387,
+      " done well and is it just like a cheap well you do see some very bizarre knock-offs that sort of introduce new styles for a while that the Kelly bag was popularized on Canal Street in a plastic version so they didn't even pretend to make it leather it wasn't even vinyl it was see-through plastic and it called jelly bags and it started a whole craze where the rich girls even wanted a jelly bag so you can see how this cycle of cultural reference can reinvigorate actually an interest in in an old and respected brand of course is a bunch of effects that this culture of copying has on the creative process and Stuart Weitzman is a very successful shoe designer he has complained a lot about people copying him but in one interview I read he said you know it's really forced him to up his game he had to come up with new ideas new things"
+    ],
+    [
+      0.9715515375137329,
+      " would be hard to copy it came up with this Boden wedge heel that has to be made out of steel or titanium if you make it from some sort of Cheaper material it'll actually crack into it for some to be a little more Innovative and that actually reminded me of jazz great Charlie Parker I don't know if you've heard this anecdote but I have he said that one of the reasons he invented Bebop was that he was pretty sure that white musicians wouldn't be able to replicate the sound"
+    ],
+    [
+      0.8898968696594238,
+      " he wanted to make it too difficult to copy"
+    ],
+    [
+      0.9704287052154541,
+      " yeah this is word for like this these words that we use about copying like knock-off or or its derivative and we have a slick instinctive negative reaction to the idea of copying but I wonder why I like why are we so weary of it especially when it comes to fashion like when everyone seems to be doing it I think there's an instinct especially within fashion people want to appear as if they understand what the trends are but they want to be able to differentiate themselves they want to feel like they are their own original and so there is this anxiety around copying other people's looks and copying other kinds of Aesthetics but as humans we also want to be part of that in group but we also want to be differentiated we want all of it we want everything"
+    ],
+    [
+      0.9347766637802124,
+      " John Blakely she runs the Norman Lear Center at USC Annenberg school for communication check out her entire talk at ted.com moron what's original in a moment stay with this guy Roz and this is the TED Radio Hour from NPR"
+    ],
+    [
+      0.9305012226104736,
+      " Mama this surely is a dream."
+    ],
+    [
+      0.9743378162384033,
+      " They say that Taylor was a good girl"
+    ],
+    [
+      0.9559785723686218,
+      " support for this podcast in the following message come from the American Jewish World Service working together for more than 30 years to build a more just and Equitable World learn more at ajws. Org"
+    ],
+    [
+      0.9503839612007141,
+      " you know how early you need to be to register to vote I want the number to call if something is going wrong at your polling station or what about the best time of day to cast a ballot and feels like it wants to get you ready for election day new episodes every Tuesday and Thursday listening subscribe to life kit all guy"
+    ],
+    [
+      0.9497600793838501,
+      " it's the TED Radio Hour from NPR I'm guy Roz and on the show today what's original how everything is built on something that came before it"
+    ],
+    [
+      0.9656836986541748,
+      " not too long ago a group of shareholders met at the Computer History Museum in Mountain View California good morning welcome to Teslas 2014 annual shareholder meeting and people waiting to hear from Tesla CEO Elon Musk announced to all of them he was about to hint at something really big surprise there hasn't been more activity from other car companies to to make serious electric vehicles doing better but electric cars playing doing something really significant on that front which should be kind of controversial with respect to has those patents and commercial with respect to Tesla's patents because when you're developing a new technology that's the one thing you care about most that the idea is yours and yours alone"
+    ],
+    [
+      0.8951128721237183,
+      " stations for free a couple days later you want musk was interviewed on the BBC are you considering giving technology away you're on the right track"
+    ],
+    [
+      0.9549025893211365,
+      " he was up to something and a couple days after that you are must broke the news he's giving them away for free this is part of the company trying to Spur Innovation and development of electric vehicles across the entire industry from now on he said anyone who wants to take Tesla's technology anyone who thinks they can build on it or make it better they can we're trying to figure out how to accelerate the events of electric cars and agree that we great technological barriers to that it's not going to happen"
+    ],
+    [
+      0.9521885514259338,
+      " that while giving away a patent licensing totally radical today it turns out that some of the greatest inventions in history happened because people will share their ideas and they let others build on them people like Ben Franklin Ben Franklin like never patented anything he did and he always kind of released any information about what he'd come up with as widely as possible and had a great explanation of the switches he said he sent his ideas out another world so that they would attract the attentions of the ingenious"
+    ],
+    [
+      0.9327659010887146,
+      " this is Steven Johnson who wrote a book called where good ideas come from ideas and Innovation thrive in environments where ideas are free to flow from mind to mind and to be reused and repurposed and remixed an interesting and surprising ways and a lot of the technology we're dependent on has come out of that kind of collaborative Network"
+    ],
+    [
+      0.9740129709243774,
+      " and she has argued in this book said the most Innovative inventive people are building on top of other people's ideas and and lots of subtle and not-so-subtle way so you can't think of thought that somehow echoing somebody else's thought Innovative people Stephen is written about is man named Joseph Priestley live during the 18th century tight with the American founding fathers Resource One of these figures from this. Who made a number of huge breakthrough discoveries in chemistry in particular the isolated for the first time a number of different gases with collaborating with Franklin he was really the first person to realize that plants were creating oxygen and he did these things just kind of in his home lab until we look back at those people in that. I'm more like Christ they were so smart back then you know how did this person who had basically no official training as a scientist how did he end up being the discoverer of so many things"
+    ],
+    [
+      0.9714282751083374,
+      " I think the answer to that mystery is really that that was a moment in time where we had this incredible new tool of the scientific method"
+    ],
+    [
+      0.940072238445282,
+      " you can go out into your garden and you could discover things for the first time so in a sense the kind of the soil of scientific discovery was very shallow at that point you didn't have to dig very far to get something really interesting"
+    ],
+    [
+      0.9484609961509705,
+      " but here's the thing we think of ideas during this time it's been completely new and original but even then people like Priestley in Benjamin Franklin and Thomas Jefferson they didn't just come up with ideas of their own they wouldn't build on each other's ideas and they would actually get together and they would have these like endless sessions were they would talk about electricity and chemistry in the American political situation in new ideas and kind of religious developments in and just a whole host of science and social and technological innovations and out of those conversations just amazing series of new ideas emerge"
+    ],
+    [
+      0.9145331978797913,
+      " kinds of sessions were happening in Boston Philadelphia Paris Vienna and London"
+    ],
+    [
+      0.9627029299736023,
+      " in coffeehouses Seymour Johnson picks up the rest of the story from the 10 stage coffeehouse played such a big role in the birth of the Enlightenment in part because of what people were drinking their right because before what people drank day in and day out from dawn until dusk was alcohol alcohol was the daytime beverage of choice right because of water wasn't safe to drink until the rise of the coffeehouse you had an entire population that was effectively drunk all day and you can imagine what that would be like right if you were drinking all day and"
+    ],
+    [
+      0.965276837348938,
+      " and then you switch from a depressant or stimulant in your life you would have better ideas it's not an accident that a great flowering of innovation happened as England switch to tea and coffee but the other thing that makes a coffee house important is the architecture of the space it was a space where people would get together from different backgrounds different fields of expertise and an astonishing number of Innovations from this. Have a coffee house somewhere in their story I've been spending a lot of time thinking about coffee houses for the last five years because I've been on this quest to investigate this question of where good ideas come from what is the space of creativity shared patterns kind of signature behavior that shows up again and again in all these environments and I think I found a few you have to do to make sense of this is you have to do away with a lot of language are kind of conventional metaphors and language steers us towards certain concepts of idea creation right we have this very"
+    ],
+    [
+      0.9566769599914551,
+      " Rich vocabulary to describe moments of inspiration right we have that kind of the flash of insight the piffany we have Eureka moments we have the lightbulb moments right concept share this basic assumption which is that an idea is a single thing something that happens often in a wonderful Illuminating moment but more often than not they're hobbled together from whatever parts that happen to be around nearby we take ideas from other people from people we learn from people we run into in the coffee shop and we stitch them together into new forms and we create something new that's really where Innovation happens"
+    ],
+    [
+      0.9671596884727478,
+      " what we think about an idea or moment in history is just that right like as it is a moment where somebody says I've got it like I figured this out and that actually never happens right right for some reason we have this need to tell stories about creativity and innovation in terms of Eureka moments and it's partially cuz I think it's a good story you know it's just great to going to be like the Apple fell from the tree and plus he had a theory gravity chest of an insight about the world but the important part of it is that it's inevitably preceded by this long I'm incubation. This is what I call the slow punch and the most important ideas normally have this slow hunch formation and sometimes that can take months or years in some cases for decades"
+    ],
+    [
+      0.9168643355369568,
+      " intertek you mention this American scientist in Maryland who were working at the Applied Physics laboratory who were totally likes act when when Sputnik launched right it's October of 1957 and Sputnik has just launched"
+    ],
+    [
+      0.8551024198532104,
+      " we ever go to Scientific achievement by Soviet Russia have court this is nerd haven't right"
+    ],
+    [
+      0.9622811079025269,
+      " at 2:20 something researchers at the APL are there at the cafeteria table having an informal conversation with a bunch of their colleagues and these two guys named Geyer and wife and back and I start talking and hate you know his anybody tried to listen for this thing there's this in a man-made satellite up there in outer space is obviously broadcasting some kind of signal we can talk here it turns out white and black is coming expert in microwave reception and he's got a little antenna setup with an amplifier in his office and they start going to noodling around packing as we might call it out"
+    ],
+    [
+      0.9225888252258301,
+      " and after a couple of hours they actually start picking up the signal to the Soviets made Sputnik very easy to track it was right at 20 megahertz because they were afraid that people would think I was a hoe"
+    ],
+    [
+      0.916949450969696,
+      " until these two guys are sitting here listening to this signal"
+    ],
+    [
+      0.9152196645736694,
+      " and before long my cycle change this is kind of historic we should record it and they start recording these and they start writing down the kind of bait stand Pine stamps for each little bleep that they record you are hearing the actual signal is transmitted by the Earth circling satellite and calculate the speed"
+    ],
+    [
+      0.9602128267288208,
+      " and eventually they get permission to use the new univac computer that takes up an entire room that they just got in at the APL on the run some more the numbers at the end of about three or four weeks turns out they have mapped the exact right now it's north of Auckland New Zealand and moving Southeast just from listening to this one little signal in 10 minutes about 1,500 miles north of Middle America couple weeks later their boss Frank McClure pool some into the room and says hey you figured out an unknown location of a satellite orbiting the planet from a known location on the ground could you go the other way"
+    ],
+    [
+      0.9672788381576538,
+      " could you figure out an unknown location on the ground if you knew the location of the satellite and they thought about it and I said well let's run the numbers here and so he went back and they thought about in the came back and said actually easier and he said that's great because she I have these new nuclear submarines that I'm building and it's really hard to figure out how to get your missile so that it will land right on top of Moscow if you don't know where the submarine is in the middle of the Pacific Ocean so we're thinking we could throw up a bunch of satellites and use it to track our submarines and figure out their location in the middle the ocean could you work on that problem and that's how GPS was born"
+    ],
+    [
+      0.9683772921562195,
+      " that's such an incredible story that's where we are get directions can I find the other day looking for Target and my GPS is going really slowly doesn't know it is like hurry up tell me where the target is irritated is the idea that like this magic of an epic think of all the different fields of expertise and different kinds of problems it had to be solved to be able to make the magic of GPS happen obviously the whole history of computing to be able to have a small computational device with a screen in a graphic interface you have to understand the way the gravityworks understand how this works you have to be able to build the Rockets you can put the GPS satellites up there you have to understand satellites and the way that satellite Communications are going to work you also have to have incredible timekeeping technology down to"
+    ],
+    [
+      0.9523870348930359,
+      " the billionth of a second so that's just the beginning of all the kinds of problems it had to be solved over thousands of years no way for us to be able to look down and our phone and say like 5 minutes away thousands of years when it to that moment is better I hope you had a good time at Target because people work for a very long time at the right time to run very long line to hear something right we we don't like copycats like our instinct is to say oh that's an original or that's derivative and and yet we are all like like to be human is to copy I think there is a still a useful distinction between"
+    ],
+    [
+      0.9668936133384705,
+      " copying an end to use the kind of musical phrase remix thing right yeah we all have to copy and education is copying but one we're looking at people who are creating things and we're trying to evaluate their work I think there is an understandable criticism where we feel that something is completely derivative the problem is when we get into the idea that something has to be wholly original that's where we going to get in trouble and in fact when people seek out something that is wholly original I think they often fail because they can't do it right trying to come up with something that's entirely new is almost always impossible and it's much more productive to to think about you know how do I combine things how do I take a bunch of things that already exist and remix them into something new one-story love when Apple was trying to come up with the design and have functioning of their retail stores looking back on this it's funny that you know a lot of people were very skeptical about"
+    ],
+    [
+      0.9231025576591492,
+      " what is Apple know about doing stores open the stores and shopping malls and downtown areas in this going to be a big flop they don't they don't know what they're doing with this"
+    ],
+    [
+      0.938952624797821,
+      " Eleanor what you would do this as you would look at their direct competitors in that field and say okay and I'll work some electronic store so let's look at Best Buy or Radio Shack or something like that and see what they're doing and try and do it a little bit better"
+    ],
+    [
+      0.970442533493042,
+      " but Apple wanted to be apple and wanted to think different and reinvent the the whole process and they were like we want to create a store that so great that people will just like come and hang out in it you know you don't want to buy anything I just want to be there so is that what you know what would be an environment that's like that where the customers really happy and really enjoys it and so they decided to study high-end hotel chains until they sent a bunch of employees into the Ritz-Carlton training program and have them they take this forever then they came back and I said okay so what's the secret in and one of the things that they came up with this is said you know the things people love about a high-end hotel is sale of the concierge that you go into the concierge and whatever you ask for like they're working on it and it's just such a great thing and so they said what would be the equivalent of a high-end Hotel Concierge in a computer store what would that look like and that's how they came up with the Genius Bar"
+    ],
+    [
+      0.9488115310668945,
+      " The Genius Bar basically Hotel convention drag over into a new environment reimagined slightly and now the Genius Bar is so popular that you need to have to make an appointment 3 weeks in advance Adam and Eve and the Apple Store's most profitable by square foot retail environment on a planet without you know I just like the Palace of Versailles you wouldn't have the Ritz-Carlton on some level you can look at each of those steps and say well that's derivative like it was derivative of Apple to borrow an idea from Ritz-Carlton but what's clear is that they've borrowed it but they were repurposed at in a new way"
+    ],
+    [
+      0.9192341566085815,
+      " and that's that's the line that's where it's really the the most effective forms of creativity happen it's where you in a re-imagined something old and a new contact"
+    ],
+    [
+      0.9300368428230286,
+      " Steve Johnson is the author of where good ideas come from check out all the stocks at ted.com"
+    ],
+    [
+      0.955318808555603,
+      " my life is brilliant my love is pure price of an Angel by don't show people Jalen people died and showed in her head and hit him cracking can you practice what you preach would you turn the other cheek original our production staff at NPR includes Anna's Mexican pork with help from Daniel shooting in the front office Porsche Roberts in Vegas and Eric nuzum thanks to our partners at Ted Chris Anderson junko and Darren trip and Janet Leigh I'm guy Roz and you been listening to ideas worth spreading on the TED Radio Hour from NPR"
+    ]
+  ]
+}

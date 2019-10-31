@@ -1,1 +1,242 @@
-{'Stats': {'PodcastID': '160904630.mp3', 'DownloadTime': 1, 'AudioLength': 961.671837, 'OriginalFileSize': 9697924, 'FlacFileSize': 80745093, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 308.11879110336304, 'DownloadSuccessful': '6.800164461135864'}, 'Transcripts': [[0.8837487101554871, 'this Ted Talk features evolutionary biologist Toby Keith beers recorded live at Ted at BCG 2019'], [0.9579324126243591, " so I stand before you as a as an evolutionary biologist a professor of evolutionary biology which sounds like a rather fancy title if I may say so myself and I'm going to talk about two topics that are normally talked about together"], [0.9278509020805359, " and that's market economies and fungi or is it fungi or as we say in Europe now funghi that there's still no consensus on how to say this word"], [0.8650995492935181, " so I want you to imagine a market economy if its 400 million years old when it's so ubiquitous that it operates in almost every ecosystem of the world"], [0.9640676379203796, " so huge that can connect millions of traitors simultaneously and so persistent that it survived mass extinctions it's here right now under our feet you just can't see it and unlike human economies that rely on cognition to make decisions Traders in this market the begborrowsteel cheats all in the absence of thought so he didn't from our eyes plant roots are colonized by a fungus called arbuscular mycorrhizae these complex networks underground fine filaments thinner than even threads of cotton still follow one of these fungi and it connects multiple plants simultaneously"], [0.9262570738792419, " you can think of it as a underground subway system where each route is a station where resources are loaded and unloaded and it's also very dense so roughly the length of many meters is in a kilometer in a single gram of Dart so that's the length of 10 football fields"], [0.9419195055961609, " in just a symbol full of soil and it's everywhere so if you passed over a tree or shrub Vine even a tiny weed you passed over a microwave will Network roughly 80% of all plant species are associated with these microwaves a fun time"], [0.9073847532272339, ' so what does a routes covered in fun job I have to do with our global economy and why is an evolutionary biologists have I spent the last ten years of my life learning economic jargon what the first thing you need to understand'], [0.9604284763336182, " is that trade deals made by plant and fungal partners are surprisingly similar to those made by us but perhaps even more strategic UC plant fungal Partners they're not exchanging stocks and bonds exchanging essential resources and for the fungus that sugars and fats gets all of its carbon directly from the plant partner so much carbon to every year roughly 5 billion tons of carbon from Plants go into this network Underground"], [0.9607023000717163, ' for the roots what they need is phosphorus and nitrogen so by exchanging their carbon they get access to all of the nutrients collected by that fungal Network'], [0.9630270600318909, " set to make the trade the phone is penetrates into the root cell of the host and forms a tiny structure called in arbuscule which is Latin for a little tree know you can think of this as the physical Stock Exchange of the trade market so up until now it seems very harmonious right I scratch your back you scratch mine both Partners get what they need but here is where we need to pause and understand the power of evolution and natural selection you see it there's no room for amateur Traders on this Market making the right trade strategy determines who lives and who dies"], [0.8915677070617676, ' I use the word strategy'], [0.9141950607299805, " but of course plants and fungi they don't have brains there making these exchanges in the absence of anything that we would consider a thought"], [0.8852829933166504, ' but as a scientist we use behavioral terms such as strategy'], [0.9584237933158875, ' to describe behaviors to certain conditions actions and reactions that actually programmed into the DNA of the organism'], [0.9511658549308777, " so I started studying these trade strategies when I was 19 years old and I was living in the tropical rain forests of Panama everybody at the time was interested in this incredible diversity above ground or truffle Colerain for us but I was interested in the complexity below-ground we knew that the Network's existed and we knew they were important and I'm going to say again by important I mean importance of what the basis of all plant nutrition for all the diversity that you do see above ground"], [0.9782765507698059, " but at the time we didn't know how these networks words we didn't know how these functions why did only certain plants interact with certain Funtime so fast forward to when I started my own group and we really began to play with this trade market you see we would manipulate conditions we would create a good trading partner by growing a plant in the sun and a poor trading partner by growing it in the shade we would then connect these with a fungal Network and we found that the funds I were consistently good at discriminating good and bad trading partners it would allocate more resources to the host plant giving them more carbon"], [0.9689491391181946, ' that we would run the reciprocal experiments where we would inoculate a host plant with good and bad Funjet and they were all so good it discriminating between these trade partners'], [0.9230262637138367, " so what you have there is the perfect conditions for a market to emerge it's a simple Market but it's a market none the less where the better trading partner consistently favored"], [0.9487456679344177, ' but is it a fair market know this is where you need to understand that like humans plants and fungi are incredibly opportunistic'], [0.9430657625198364, " there's evidence that the fungus once it penetrates into the plant cell it can actually hijack the plants own nutrient uptake system it does this by suppressing the plant old ability to take up nutrients from the soil so this creates a dependency of the plant on the fungus it's a it's a false addiction of sorts we're by the plant has to feed the fungus just to get access to the resources right around its own route"], [0.9541128277778625, " there's also evidence that the funds are good at inflating the price of nutrients they do this by extracting the nutrients from the soil"], [0.9512707591056824, " but then rather than trading them with a host they hoard them in their Network so this makes them unavailable to the plant and other competing Funjet basic economics as resource availability goes down the value goes up the plant is forced to pay more for the same amount of resources but it's not all in favor of the fungus plants can be extremely cunning as well there's some orchids and I always think it work it somehow seemed like the most devious of the plant species in the world and there's some orchids"], [0.944787323474884, " it just tap directly into the network and steal all their carbon so these orchids they don't even make green leaves to photosynthesize their just white so rather than photosynthesizing tap into the network steal the carbon and give nothing in return"], [0.9361740350723267, " now I think it's fair to say that these types of parasites also flourished in our human markets to us we begin to decode these strategies we learned some lessons and the first one but there's no altruism in this system there's no trade favors by we don't see strong evidence of the fungus helping dying or struggling plants unless it's directly in favor directly benefits the fungus itself"], [0.9479586482048035, " now I'm not saying if this is good or bad but unlike humans a fungus of course cannot judge its own morality and it's a biologist I'm not advocating for these types of Ruthless neoliberal market dynamics enacted by the franchise"], [0.9669515490531921, ' but the trade system'], [0.9540582299232483, ' it provides us with a benchmark'], [0.9702237844467163, " to study what an economy looks like when it's been shaped by natural selection for hundred of millions of years in the absence of morality when strategies are just based on the Gathering and processing of information uncontaminated by cognition no jealousy no spite but no hope no joy"], [0.9281511306762695, " so we've made progress in decoding the most basic trade principles at this point but as a scientist we always want to take it one step further and we're interested in more complex economic dilemmas"], [0.9294809103012085, ' and specifically were interested in the effects of inequality'], [0.9165782928466797, " so you know quality has really become a defining feature of today's economic landscape"], [0.9528103470802307, " but the challenges of inequalities not unique to the human world I think it's humans we tend to think that everything's unique to us but organisms in nature"], [0.9354267716407776, " must face Relentless variation in their access to resources how does a fungus they can again be meters long change its trade strategy when it's exposed simultaneously to a rich patch in a poor patch and more generally How do organisms in nature how do they use trade to their advantage when they're faced with uncertainty in terms of their access to resources here so I have to let you in on a secret hiding trade underground is incredibly difficult you can't see where or when importing trade deals take place"], [0.9743026494979858, ' so our group helped Pioneer a method of Technology whereby we could tag nutrients with nanoparticles fluorescing nanoparticles called Quantum. What the quantum dots allow us to do is actually light up the nutrients so we can visually track their movements across the fungal Network and into the host route to this allows us finally to see the Unseen so we can study how fungi bargain at a small scale with their plant hosts such a study in equality we exposed a fungal Network to this varying concentrations of arresting phosphorus mimicking patches abundance and scarcity across this artificial landscape'], [0.875395655632019, ' we then carefully quantify fungal trade'], [0.9243282079696655, ' I wish I had two things'], [0.9561676979064941, ' the first thing we found with it in a quality encourage the fungus to trade more'], [0.9654735922813416, ' so I can use the word encouraged or stimulated or forced'], [0.9293522834777832, ' but the bottom line is that compared to control conditions in equality was associated with higher levels of trade'], [0.9517403244972229, ' this is important because it suggests that the balding a trade partnership in nature can help organisms cope with the uncertainty of accessing resources'], [0.7423535585403442, ' second wave sounds'], [0.9379186630249023, ' exposure to inequality'], [0.9304338097572327, ' the funniest would move resources from the rich patch of the network actively transport them to the Poor Side of the network no course we could see this because the patches were for the resting in different colors'], [0.8442212343215942, ' so at first this result was incredibly puzzling'], [0.9708993434906006, ' was it to help the poor side of the network'], [0.8928253650665283, ' no we found that the fungus games more by first moving the resources to wear Demand with higher'], [0.9506166577339172, " simply by changing we're across the network the fungus was trading it could manipulate the value of those resources"], [0.9476395845413208, ' now this stimulated us to really dig deeper into how information is shared it suggests a high level of sophistication or at least a medium level of sophistication in an organism with no cognition'], [0.9234938621520996, ' how is it that a fungus can stents market conditions across its Network and then make calculations of where and when to trade so he wanted to look about information and how it shared across this network how the fungus integrates cues'], [0.918613076210022, ' to do that what you need to do is dive deep in and get a higher resolution into the network itself'], [0.9241782426834106, " we began to study complex flows inside the iPhone network there's a couple of things it speeds up it slows down its witches directions so we're working now with biophysicist to try to dissect this complexity how is the fungus using these complex flow patterns to share and process information and make these trade decisions"], [0.9331286549568176, ' are funshai better at making trade calculations than us'], [0.9433678984642029, " here's where you can potentially borrow models from nature we're increasingly reliant on computer algorithms to make a profitable trades and split-second timescales but computer algorithms and French I they both operate in similar on cognitive ways"], [0.9452930688858032, " the French I just happens to be a living machine what would happen if we compare and compete the trading strategies of these two who would win the tiny capitalists it's been around since before and the fall of the dinosaurs my money is on the fungus thank you"], [0.9024515748023987, ' from where TED Talks go to ted.com'], [0.7138711214065552, ' TRX']]}
+{
+  "Stats": {
+    "PodcastID": "160904630.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 961.671837,
+    "OriginalFileSize": 9697924,
+    "FlacFileSize": 80745093,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 308.11879110336304,
+    "DownloadSuccessful": "6.800164461135864"
+  },
+  "Transcripts": [
+    [
+      0.8837487101554871,
+      "this Ted Talk features evolutionary biologist Toby Keith beers recorded live at Ted at BCG 2019"
+    ],
+    [
+      0.9579324126243591,
+      " so I stand before you as a as an evolutionary biologist a professor of evolutionary biology which sounds like a rather fancy title if I may say so myself and I'm going to talk about two topics that are normally talked about together"
+    ],
+    [
+      0.9278509020805359,
+      " and that's market economies and fungi or is it fungi or as we say in Europe now funghi that there's still no consensus on how to say this word"
+    ],
+    [
+      0.8650995492935181,
+      " so I want you to imagine a market economy if its 400 million years old when it's so ubiquitous that it operates in almost every ecosystem of the world"
+    ],
+    [
+      0.9640676379203796,
+      " so huge that can connect millions of traitors simultaneously and so persistent that it survived mass extinctions it's here right now under our feet you just can't see it and unlike human economies that rely on cognition to make decisions Traders in this market the begborrowsteel cheats all in the absence of thought so he didn't from our eyes plant roots are colonized by a fungus called arbuscular mycorrhizae these complex networks underground fine filaments thinner than even threads of cotton still follow one of these fungi and it connects multiple plants simultaneously"
+    ],
+    [
+      0.9262570738792419,
+      " you can think of it as a underground subway system where each route is a station where resources are loaded and unloaded and it's also very dense so roughly the length of many meters is in a kilometer in a single gram of Dart so that's the length of 10 football fields"
+    ],
+    [
+      0.9419195055961609,
+      " in just a symbol full of soil and it's everywhere so if you passed over a tree or shrub Vine even a tiny weed you passed over a microwave will Network roughly 80% of all plant species are associated with these microwaves a fun time"
+    ],
+    [
+      0.9073847532272339,
+      " so what does a routes covered in fun job I have to do with our global economy and why is an evolutionary biologists have I spent the last ten years of my life learning economic jargon what the first thing you need to understand"
+    ],
+    [
+      0.9604284763336182,
+      " is that trade deals made by plant and fungal partners are surprisingly similar to those made by us but perhaps even more strategic UC plant fungal Partners they're not exchanging stocks and bonds exchanging essential resources and for the fungus that sugars and fats gets all of its carbon directly from the plant partner so much carbon to every year roughly 5 billion tons of carbon from Plants go into this network Underground"
+    ],
+    [
+      0.9607023000717163,
+      " for the roots what they need is phosphorus and nitrogen so by exchanging their carbon they get access to all of the nutrients collected by that fungal Network"
+    ],
+    [
+      0.9630270600318909,
+      " set to make the trade the phone is penetrates into the root cell of the host and forms a tiny structure called in arbuscule which is Latin for a little tree know you can think of this as the physical Stock Exchange of the trade market so up until now it seems very harmonious right I scratch your back you scratch mine both Partners get what they need but here is where we need to pause and understand the power of evolution and natural selection you see it there's no room for amateur Traders on this Market making the right trade strategy determines who lives and who dies"
+    ],
+    [
+      0.8915677070617676,
+      " I use the word strategy"
+    ],
+    [
+      0.9141950607299805,
+      " but of course plants and fungi they don't have brains there making these exchanges in the absence of anything that we would consider a thought"
+    ],
+    [
+      0.8852829933166504,
+      " but as a scientist we use behavioral terms such as strategy"
+    ],
+    [
+      0.9584237933158875,
+      " to describe behaviors to certain conditions actions and reactions that actually programmed into the DNA of the organism"
+    ],
+    [
+      0.9511658549308777,
+      " so I started studying these trade strategies when I was 19 years old and I was living in the tropical rain forests of Panama everybody at the time was interested in this incredible diversity above ground or truffle Colerain for us but I was interested in the complexity below-ground we knew that the Network's existed and we knew they were important and I'm going to say again by important I mean importance of what the basis of all plant nutrition for all the diversity that you do see above ground"
+    ],
+    [
+      0.9782765507698059,
+      " but at the time we didn't know how these networks words we didn't know how these functions why did only certain plants interact with certain Funtime so fast forward to when I started my own group and we really began to play with this trade market you see we would manipulate conditions we would create a good trading partner by growing a plant in the sun and a poor trading partner by growing it in the shade we would then connect these with a fungal Network and we found that the funds I were consistently good at discriminating good and bad trading partners it would allocate more resources to the host plant giving them more carbon"
+    ],
+    [
+      0.9689491391181946,
+      " that we would run the reciprocal experiments where we would inoculate a host plant with good and bad Funjet and they were all so good it discriminating between these trade partners"
+    ],
+    [
+      0.9230262637138367,
+      " so what you have there is the perfect conditions for a market to emerge it's a simple Market but it's a market none the less where the better trading partner consistently favored"
+    ],
+    [
+      0.9487456679344177,
+      " but is it a fair market know this is where you need to understand that like humans plants and fungi are incredibly opportunistic"
+    ],
+    [
+      0.9430657625198364,
+      " there's evidence that the fungus once it penetrates into the plant cell it can actually hijack the plants own nutrient uptake system it does this by suppressing the plant old ability to take up nutrients from the soil so this creates a dependency of the plant on the fungus it's a it's a false addiction of sorts we're by the plant has to feed the fungus just to get access to the resources right around its own route"
+    ],
+    [
+      0.9541128277778625,
+      " there's also evidence that the funds are good at inflating the price of nutrients they do this by extracting the nutrients from the soil"
+    ],
+    [
+      0.9512707591056824,
+      " but then rather than trading them with a host they hoard them in their Network so this makes them unavailable to the plant and other competing Funjet basic economics as resource availability goes down the value goes up the plant is forced to pay more for the same amount of resources but it's not all in favor of the fungus plants can be extremely cunning as well there's some orchids and I always think it work it somehow seemed like the most devious of the plant species in the world and there's some orchids"
+    ],
+    [
+      0.944787323474884,
+      " it just tap directly into the network and steal all their carbon so these orchids they don't even make green leaves to photosynthesize their just white so rather than photosynthesizing tap into the network steal the carbon and give nothing in return"
+    ],
+    [
+      0.9361740350723267,
+      " now I think it's fair to say that these types of parasites also flourished in our human markets to us we begin to decode these strategies we learned some lessons and the first one but there's no altruism in this system there's no trade favors by we don't see strong evidence of the fungus helping dying or struggling plants unless it's directly in favor directly benefits the fungus itself"
+    ],
+    [
+      0.9479586482048035,
+      " now I'm not saying if this is good or bad but unlike humans a fungus of course cannot judge its own morality and it's a biologist I'm not advocating for these types of Ruthless neoliberal market dynamics enacted by the franchise"
+    ],
+    [
+      0.9669515490531921,
+      " but the trade system"
+    ],
+    [
+      0.9540582299232483,
+      " it provides us with a benchmark"
+    ],
+    [
+      0.9702237844467163,
+      " to study what an economy looks like when it's been shaped by natural selection for hundred of millions of years in the absence of morality when strategies are just based on the Gathering and processing of information uncontaminated by cognition no jealousy no spite but no hope no joy"
+    ],
+    [
+      0.9281511306762695,
+      " so we've made progress in decoding the most basic trade principles at this point but as a scientist we always want to take it one step further and we're interested in more complex economic dilemmas"
+    ],
+    [
+      0.9294809103012085,
+      " and specifically were interested in the effects of inequality"
+    ],
+    [
+      0.9165782928466797,
+      " so you know quality has really become a defining feature of today's economic landscape"
+    ],
+    [
+      0.9528103470802307,
+      " but the challenges of inequalities not unique to the human world I think it's humans we tend to think that everything's unique to us but organisms in nature"
+    ],
+    [
+      0.9354267716407776,
+      " must face Relentless variation in their access to resources how does a fungus they can again be meters long change its trade strategy when it's exposed simultaneously to a rich patch in a poor patch and more generally How do organisms in nature how do they use trade to their advantage when they're faced with uncertainty in terms of their access to resources here so I have to let you in on a secret hiding trade underground is incredibly difficult you can't see where or when importing trade deals take place"
+    ],
+    [
+      0.9743026494979858,
+      " so our group helped Pioneer a method of Technology whereby we could tag nutrients with nanoparticles fluorescing nanoparticles called Quantum. What the quantum dots allow us to do is actually light up the nutrients so we can visually track their movements across the fungal Network and into the host route to this allows us finally to see the Unseen so we can study how fungi bargain at a small scale with their plant hosts such a study in equality we exposed a fungal Network to this varying concentrations of arresting phosphorus mimicking patches abundance and scarcity across this artificial landscape"
+    ],
+    [
+      0.875395655632019,
+      " we then carefully quantify fungal trade"
+    ],
+    [
+      0.9243282079696655,
+      " I wish I had two things"
+    ],
+    [
+      0.9561676979064941,
+      " the first thing we found with it in a quality encourage the fungus to trade more"
+    ],
+    [
+      0.9654735922813416,
+      " so I can use the word encouraged or stimulated or forced"
+    ],
+    [
+      0.9293522834777832,
+      " but the bottom line is that compared to control conditions in equality was associated with higher levels of trade"
+    ],
+    [
+      0.9517403244972229,
+      " this is important because it suggests that the balding a trade partnership in nature can help organisms cope with the uncertainty of accessing resources"
+    ],
+    [
+      0.7423535585403442,
+      " second wave sounds"
+    ],
+    [
+      0.9379186630249023,
+      " exposure to inequality"
+    ],
+    [
+      0.9304338097572327,
+      " the funniest would move resources from the rich patch of the network actively transport them to the Poor Side of the network no course we could see this because the patches were for the resting in different colors"
+    ],
+    [
+      0.8442212343215942,
+      " so at first this result was incredibly puzzling"
+    ],
+    [
+      0.9708993434906006,
+      " was it to help the poor side of the network"
+    ],
+    [
+      0.8928253650665283,
+      " no we found that the fungus games more by first moving the resources to wear Demand with higher"
+    ],
+    [
+      0.9506166577339172,
+      " simply by changing we're across the network the fungus was trading it could manipulate the value of those resources"
+    ],
+    [
+      0.9476395845413208,
+      " now this stimulated us to really dig deeper into how information is shared it suggests a high level of sophistication or at least a medium level of sophistication in an organism with no cognition"
+    ],
+    [
+      0.9234938621520996,
+      " how is it that a fungus can stents market conditions across its Network and then make calculations of where and when to trade so he wanted to look about information and how it shared across this network how the fungus integrates cues"
+    ],
+    [
+      0.918613076210022,
+      " to do that what you need to do is dive deep in and get a higher resolution into the network itself"
+    ],
+    [
+      0.9241782426834106,
+      " we began to study complex flows inside the iPhone network there's a couple of things it speeds up it slows down its witches directions so we're working now with biophysicist to try to dissect this complexity how is the fungus using these complex flow patterns to share and process information and make these trade decisions"
+    ],
+    [
+      0.9331286549568176,
+      " are funshai better at making trade calculations than us"
+    ],
+    [
+      0.9433678984642029,
+      " here's where you can potentially borrow models from nature we're increasingly reliant on computer algorithms to make a profitable trades and split-second timescales but computer algorithms and French I they both operate in similar on cognitive ways"
+    ],
+    [
+      0.9452930688858032,
+      " the French I just happens to be a living machine what would happen if we compare and compete the trading strategies of these two who would win the tiny capitalists it's been around since before and the fall of the dinosaurs my money is on the fungus thank you"
+    ],
+    [
+      0.9024515748023987,
+      " from where TED Talks go to ted.com"
+    ],
+    [
+      0.7138711214065552,
+      " TRX"
+    ]
+  ]
+}

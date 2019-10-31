@@ -1,0 +1,174 @@
+{
+  "Stats": {
+    "PodcastID": "928159684.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 1268.365625,
+    "OriginalFileSize": 20324395,
+    "FlacFileSize": 96549089,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 494.5193073749542,
+    "DownloadSuccessful": "18.776933670043945"
+  },
+  "Transcripts": [
+    [
+      0.9341357946395874,
+      "I got this Saturday calm in LA or nothing La I think it's somewhere the outskirts but you'll figure it out complexcon. Com 10:30 12:30 I will be at peace with Booth with a huge question mark if you are a flipper and you are in the LA Valley area come out get a ticket check out complexcon and stop by and come and take yourself and pick up your secret 10:30 to 12:30 this Saturday complexcon. Com come see me."
+    ],
+    [
+      0.9397450089454651,
+      "hello this is Alex Alex Alex Alex Alex Tyler Batman yeah well how do you build muscles in real life man"
+    ],
+    [
+      0.974322497844696,
+      " well you just keep going at it but I but they get sore no they do get sore and then what happens the next day you're a little bit stronger right if you could live in I mean is there a little bit of rest I get it but I think it's perfect I actually do think there's a lot of things that says a rest day matters for sure and I think you're going Alex and where you're going to chase people saying the same thing with Chase is saying is one day of rest like go see your aunt you'll go snowboarding go watch Netflix for 8 hours but not one month year watch some play YouTubers rightly so, you had great YouTubers are content out everyday and they they do that for a year and they're like oh my God I'm super crazy crazy burned out they take a couple of days I advocate just a little bit here and there and just keep going I'd rather learn how to rest just a little bit been to quit"
+    ],
+    [
+      0.9617407917976379,
+      " you just come back stronger from it yeah of course you do and that's like this is not that this is not some weird new science and I'm preaching this is like practical as hell that's the thing about creativity people we think it's like now you don't know it's literally the bits we are creating machines everything in the world everything in this room all your thoughts are all created and so you might as well get good at creating Chase yes sir everything we think humans have been around for so long everything I said we don't have a singular new idea when you get lucky enough to be born first everything just wasn't documented"
+    ],
+    [
+      0.8327839374542236,
+      " you kill people broke through"
+    ],
+    [
+      0.9402344822883606,
+      " that's why I'm just working on putting out my content and I'm getting my podcast started so I just been put in contacts now eye as much as I can order getting started makes me smile always posted tomorrow start it what exactly is Anchor tomorrow yeah and that's why I just got all my equipment and I'm getting my Graphics done I'll call you out if you have a phone are you talking on the phone right now you have all your equipment Smoke by the guy that comes up with a"
+    ],
+    [
+      0.954852819442749,
+      " Rock and casito I got the kids at d-roc recommended on had this site near us over here. You can't wait too much about the rocking Babin hey but I also like this is talk about something real quick and it's it's something I talk a lot about in the book because what you're going through what you're thinking what your your mindset right now but I got to get this and that all that stuff that is a procrastination that is avoidance a hundred and and you're avoiding out of fear because we actually start you going to see that your first podcast sucks and then you receive your second one sucks and so all this all this little August August has the kid that got me started under if you say it one more time if you say it one more time"
+    ],
+    [
+      0.9588848948478699,
+      " yeah Alex let let let me let me just get one Crystal Clear idea across to you and then everyone can yell at you on the phone again and that idea is I did not talk about a lot of the book that we are obsessed with interlock we're obsessed with thinking things through we have journals to write stuff down we have kids to buy we have shopping list of Phil and you know what none of it equals creating action action of intellect is there some nerves that won't get enough just be real as fuck if you want to win I need you at your Ross Forum you feel like I do I think failure is the best way I feel like people are afraid to tell me who are Osaka's they just kind of try to hesitate to tell me that I'm not I'm doing okay but I'm not sucking looks like I need to hear that because that's how I learned from"
+    ],
+    [
+      0.8405479192733765,
+      " that's how I get to the next level why aren't you making more just on your phone what would be your thought"
+    ],
+    [
+      0.8975399136543274,
+      " with my phone I just feel like I wouldn't be able to put out quality content on over value in production value I'm not getting into the story I'm going to give you a minute I'm going to feed you your own medicine you know that that talk that you just referenced me and Batman having made it with my phone"
+    ],
+    [
+      0.9498171210289001,
+      " how's that bro and I got a better one I made Babin China resume and I think what I love that you're saying is that you're you are in the particular lies Universal you are a story that so many people tell themselves and that's why you've been incredibly helpful on the show to be vulnerable and say here's what I believe I need all this I need to ask I need why you need action over in like when you need to get started in this is the number one thing that keep people from tapping into their true self their true creativity is that they're worried they're all all this other stuff you just need to start doing it and you know what when you start doing it it sexy"
+    ],
+    [
+      0.8684125542640686,
+      " Yakety Sax and that's true that's how you learn and that's how you grow and farmer Giardia people right now on the internet are saying everything right"
+    ],
+    [
+      0.9684444665908813,
+      " the gaps between thank you you can you can regurgitate everything to be perfect like a Tisa from a mile away been listening like you got the words down you're just not acting on it action baby yeah I'm going to just do is here we are the three of us right you know listening to you talk about the rock band things of that nature Chase with bad like I'm hoping like I'm hoping like you like fuck all these people that are putting in their phone numbers I got through maybe this ghetto people sometimes are looking for that sign we all are doing that shit I'm just desperately hoping that you decide this is the sign that you broke through the Chase and I you know I was laughing I'm always wondering when somebody who's never seen either one of us chase are watching this right now and like saying all these guys are dicks"
+    ],
+    [
+      0.9490836262702942,
+      " I'm always like me and we're still doing the best thing right now trying hard, so hard right now and get that that's what I believe you've got to do and listen your your your point of view on quality Chase couldn't have said it better it's an excuse to not make so when I go to the next place after he set up that move I'm like okay let's dance here cool you are not interested in making why"
+    ],
+    [
+      0.9457430839538574,
+      " almost always almost always almost always you should get a real job your girl wants you to get a real job you do you genuinely don't know how to deal with negative feedback cuz you were over coddled and you always thought you were great and then you woke up at 1 and said oh fuck maybe I'm not I was tricked you overvalued school and really leaned into breeds and became a binary human that thinks it A + B + C completely dictates who you are there's a million reasons why"
+    ],
+    [
+      0.9546567797660828,
+      " that's hundred percent you just got to go for it though. It's answering here like the way you're answering is like you're in that middle spot where you were subconsciously saying it makes you think you're doing it the only people like Monday or saying it or sharing it and it be something they're actually living it I feel like I'm trying to do it I don't know I just feel like for real though when you talk about perspective on life can you drop that video on if you can lose someone and then next day like I that happened to me like I lost my dad overnight and I think that's kind of like where my insecurities started and where my perspective in life"
+    ],
+    [
+      0.8822879791259766,
+      " how old are you brother"
+    ],
+    [
+      0.9691843390464783,
+      " 24 story that's right Alex so my second grade teacher told me I was better at sports than a tart so I ran to sports and then I did right well so she was an innocence right but I denied my creativity for a long time and then not December to you instead of your your dad passing away my grandpa dropped dead of a heart attack I was given his cameras and it was only when I was given his cameras that I have a chance at just that moment of grief to look back and say man I've been denying this part of myself for a long time so use these dramatic moments in life they have a profound effect use that moment of reflection to decide what you actually want with your life because I'm telling you right now your dad would want nothing more than for you to do the thing that you want to be doing it at the number one regret of the dead and dying people who are on their deathbed is that they live the life that other people wanted for them not their own so use this as an opportunity use this as an opportunity to seize your life"
+    ],
+    [
+      0.9346135258674622,
+      " Define the way you want to live and take all the other should they're never going to go away there's always going to be a shit do it for you but anyone on the offense to provide to be a 24 year old man and lose a father is devastating to be a 24 year old man and lose a father and then finish the sentence by saying my intuition right now in self observation is that when my insecurities started meant that you were relying on your father too much hundred percent believe that because he started his own restaurant and"
+    ],
+    [
+      0.9393264055252075,
+      " it is all about family and I just kind of went downhill from there but this is the let this be a great lens mouth because it like we had to go through all his stuff and that's why he's like crap because he was big in the garage sailing and all that"
+    ],
+    [
+      0.9507357478141785,
+      " until I was just a big moment in my life where does like I really need to figure out who I am and what I need to do you believe that you were playing within this framework that you expected your dad to keep taking care of you you're going to work in his business he was always going to be there until Tyler where was your mind at that point cuz that's what it sounds like"
+    ],
+    [
+      0.9408278465270996,
+      " you know I wasn't working at his business like I was doing my own thing doing HVAC but I wish he was the one that kept our family together and bring us to breakfast on Sunday because he started his own and all that"
+    ],
+    [
+      0.9679960608482361,
+      " look brother"
+    ],
+    [
+      0.975869357585907,
+      " let me let me say this what is so amazing about the world right now is that the the internet which is grossly underrated has brought us together at 11 that we've never seen not even close we all know so many more people right now currently in our society we're spending a lot of time looking at the negatives that's the current Vibe when Chase and I were doing social it was in the back of the day was Nirvana it was a coon by fukkit it was hippies now it's cliche humans do this with everything right now we're in the part where were over scrutinizing over judging each other everyone's pointing figures, pulling each other apart however this moment right now is your talkin this is this is what I live for like the humanity capabilities that we have by having you say where are you again"
+    ],
+    [
+      0.9652708172798157,
+      " Hezekiah Spokane Washington you know from all over the world you don't Spokane we're sitting here we're talk like like brother you have your whole life in front of you and I feel like a hundred percent grateful for like the positivity that you guys put out there and that's like which always help change my mindset the greatest favor you could ever which is take that and start doing things because because the word you know nothing feels better to me than when somebody stops me and give takes a selfie or writes me a Manifesto but I always leave thinking I hope they're doing it you know like yeah if nobody ever said another nice thing for to me a Accolade a stopping for a very kind of like chill a wink that's an acknowledgement which I value just as much as a selfie if nobody ever did that again yet they all did I would be four"
+    ],
+    [
+      0.8797988891601562,
+      " send X happy hour I just want you to do bro like everybody's got adversities you know that and and I just I believe in your life"
+    ],
+    [
+      0.9248619675636292,
+      " yeah and I believe that that's why I'm just grateful for the years that I had with my dad and all that so so I just got to keep pushing know that the answers are in you man you have all of the information you need it's all right there 100% respect man what's"
+    ],
+    [
+      0.9302525520324707,
+      " do we have a prayer of you making a video on putting it out tomorrow"
+    ],
+    [
+      0.9676716327667236,
+      " well you need to be like for my podcast no no no no no take to work on Facebook and all that yet because I think there's a lot of potential over here so that's what I'm just trying to work towards hey I'm going to ask a favor don't let Gary and I each give you a prescription where this is like doctors moment here okay so gate g want you want to tell him one thing you should do and then I'll give you something ask for use this if you made a video as soon as you hang up you turned your phone and pointed at you and you told the story of what just happened about you got in the car the call-in show"
+    ],
+    [
+      0.9521270394325256,
+      " they're talking about this book and and you you you shared with your community the real shit you're going through and you put that out because it's going to look a lot different than all your other Instagram stuff right cuz you got Amazing a23 Alex do me a favor and make that video but I will turn the phone to yourself make that video and post it and I bet I bet I must think that it's amazing a23"
+    ],
+    [
+      0.8494930267333984,
+      " he's playing. That's my prescription"
+    ],
+    [
+      0.9556396007537842,
+      " thank you everyone here knows you great give it a shot and be real say I we got talking about my dad and hurts and I realize that I'm living in his shoes a little bit I need to break out whatever whatever is true for you say that"
+    ],
+    [
+      0.9585715532302856,
+      " alright thank you I'll take that advice"
+    ],
+    [
+      0.7842773795127869,
+      " I follow you back amazing Gates"
+    ],
+    [
+      0.9559362530708313,
+      " watching and listening please go follow follow amazing a23 right now and answer him he's at 4:04 but I'm sure we can get to work, I just we just had a Manifesto I'm not putting metrics on a pedestal and you're like jumping up and down for 9 more followers fucking Christmas for 9 followers music I I need you to go back tonight before you go to sleep give a lot of thought to why you think you love Michael Jordan and I'm explain why I'm not fucking kidding I think a lot of insight to that stuff I believe there's a lot of insight"
+    ],
+    [
+      0.9626126885414124,
+      " two people following LeBron or being Golden State fans were being a fan of Tom Brady when you live in Houston, Texans fan I believe there's a fascinating fascinating underlining thing going on in the world fact safe you putting you putting out photos with my sneakers on like on your account you can't"
+    ],
+    [
+      0.9210105538368225,
+      " you can't arrive on your own self esteem from other people's success you said you're supposed to do this and that and all the instructions we get in the Michael Jordan me"
+    ],
+    [
+      0.9648047685623169,
+      " I'm telling you right now and think about all that clouds and dirt limitation Dark Skies that you're wearing your photos but I want you to put them on eBay and I want you to sell them 100% I'll do that right now I want you to send me the link okay I will OK High Alabama singer watching right now order three copies of creative calling given to two people you love I really really want Chase to do well here because listen I think everybody understands the economics in book deals or speaker deals or wine deals are not the variable it is the competitive Spirit of him wanting to know when when I call next week and throw you 10 times more than you the first week he's a warrior shred of went out there so I want to hedge that so it's only half as many as I did"
+    ],
+    [
+      0.9615402221679688,
+      " set a 10-3 I really appreciate you thanks a lot man love you and you love your community Mike McDonald what's up Beverly Sankey what's good JB fellow tuber I love you thanks for listening Robert Crowe thank you Nancy Summers you have some great comments by the way dance John Muhammad Al muratsuchi I love you Tim gallon back back I love you thanks for all listening Sia"
+    ],
+    [
+      0.9437108635902405,
+      " thanks so much for listening please please please share the podcast and make sure you've subscribed because a bunch of you aren't subscribed and more poorly a bunch of you listen everyday and haven't told your friends it's the best podcast in the world I'm watching have a great day"
+    ]
+  ]
+}
