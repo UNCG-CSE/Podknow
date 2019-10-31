@@ -1,1 +1,74 @@
-{'Stats': {'PodcastID': '1437935588.mp3', 'DownloadTime': 1, 'AudioLength': 459.911813, 'OriginalFileSize': 7757381, 'FlacFileSize': 42504660, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 199.56216621398926, 'DownloadSuccessful': '2.083629608154297'}, 'Transcripts': [[0.9789859652519226, "Gladiator gave us an inside look into some of the Untold Stories of the NFL but there's always more we can learn and then Sports there's always something to be reported on so it's a good thing wonder and the athletic have team together to bring you a new daily Sports podcast it's called the lead and it's for any sports fan who wants to go beyond the box score every weekday morning the lead will bring you one big story from the Athletics All-Star team of local and National Sports reporters some stories will be a fresh tank on a major news event and other episodes will feature in that looks into what's been happening off of you in the aftermath of the 2018 NFC Championship game too insightful interviews on the intersection of sports and mental health the lead is your daily lens into the biggest stories of the day told by the people who know them best delete has hosted by sportswriter Kavita Davidson and Peabody award-winning journalist Anders kelto they'll take you close to the story through comprehensive reporting fastening clips and exclusive interviews you"], [0.955216646194458, "Okie or anywhere else you're about to hear a preview of the lead about yesterday's much-anticipated rematch between the Rams and the Saints and what really went down after that blown call in the 2018 NFL playoffs while you're listening go subscribe to the lead on Apple podcasts or wherever you're listening right now there's also a link in the episode notes that I'll take you there"], [0.9332979917526245, " in last season's NFL playoffs as every football fan remembers the New Orleans Saints were on the verge of a trip to the Super Bowl"], [0.7940282225608826, ' quick snap Breeze again says incomplete no flag'], [0.9536260962486267, " one of the worst Falls in sports history was going crazy as there's no flat right on the sidewalk it was all anyone could talk about for days of fans screaming last night I'll glaring case of pass interference one of the most obvious case you'll ever see and it wasn't penalized if led to an unprecedented response from Saints fans Billboards boycotts Federal lawsuit against the NFL ended up on the floor of the US Senate of Louisiana is outraged because of what happened in the Superdome last Sunday"], [0.9561334848403931, " yesterday the teams met in a highly-anticipated rematch and once again the saints were on the wrong end of a bad call should have been a touchdown for the New Orleans Saints today we're going to talk with the Athletics Larry holder a football columnist who lives in New Orleans about Saints fans Epic Quest For Justice after last season's blown call will hear from Saints fans at yesterday's game who let's just say we're not feeling great I'm too beat the Davidson and I mondor's calto it's Monday September 16th and this is believe it felt like something raised will happen if there was just something about the emotion and that moment ago."], [0.8946361541748047, " this isn't a story where you going to be the acronym go home it stays with you"], [0.9748207330703735, " Patron pizza what's a Condors well before we get started this is the very first episode of the lead and since you and I are the hosts I thought maybe we should just quickly explain what the show is the lead is the show I always wish existed I'm a sports writer but I was a sports fan first and it's really all about great stories great stories from great Sports reporters who are all over the country I mean he's our journalists who live in the cities and know these teams and know these players where you don't have to be a fan of those teams care about these stories for example in this first episode you talked to Larry holder who has covered the New Orleans Saints for almost 15 years about why that terrible call a season provoked such an unprecedented response really helped me to understand why Saints fans did what they did and why fans at yesterday's game we're so demoralized it's"], [0.9696570634841919, " really something anyone can identify with so should we get to the story let's go for it"], [0.965107262134552, " soleri let's start with a very basic question how important is football is a game of football to the City of New Orleans Hurricane Katrina struck New Orleans August 2005 in of course everyone is recovering from the storm people are literally taking their FEMA checks to buy Saints season tickets that's how important the Saints are to this community and I'd say without the Saints returning to the city at that point I don't think the city would have ever actually rebounded so I would say unlike many if any NFL fan base within the league all right so let's go back to this incredible no call it's last year's NFC Championship game the Saints and the Rams are tied in the 4th quarter and the Saints look like they're about to score and book a trip to the Super Bowl"], [0.96267169713974, " walk us through what happens next Tommy Lee Lewis was really kind of an unknown receiver with in the Saints receiving Corps he's not one of their top targets he's basically running free down the sideline Breeze and then Nickell Robey Coleman in absolute desperation flies basically headfirst into tommylee Lewis as Drew Brees has a perfect pass says incomplete no flag for Tommy Lee Lewis two officials are looking at each other one looks like he's about to take the flag out and throw it a second one basically says no no no and it's not pass interference or a helmet-to-helmet call which is also of course he legal in the NFL and the play just goes on here in the stadium when this happens how does the crowd react under a ghast crazy as there's no flag right on the Saints sideline then where's the replay they put it up in the"], [0.9601060748100281, ' big screens in the Superdome and everyone loses their minds'], [0.9483380317687988, " can you add it all together and it became a complete and utter Demotte the Rams get the ball back the Saints defense is probably a little bit been shell-shocked the Rams drive down the field they kick a field goal percentage over time the Saints get the ball first in overtime Drew Brees is hit throws interception which means when the Rams get the ball back all they've got to do is kick a field goal"], [0.810198187828064, ' the church is'], [0.9438515901565552, " that was a preview of the first episode of the lead to hear the rest of the episode listen And subscribe to the lead on Apple podcasts or wherever you're listening right now"]]}
+{
+  "Stats": {
+    "PodcastID": "1437935588.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 459.911813,
+    "OriginalFileSize": 7757381,
+    "FlacFileSize": 42504660,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 199.56216621398926,
+    "DownloadSuccessful": "2.083629608154297"
+  },
+  "Transcripts": [
+    [
+      0.9789859652519226,
+      "Gladiator gave us an inside look into some of the Untold Stories of the NFL but there's always more we can learn and then Sports there's always something to be reported on so it's a good thing wonder and the athletic have team together to bring you a new daily Sports podcast it's called the lead and it's for any sports fan who wants to go beyond the box score every weekday morning the lead will bring you one big story from the Athletics All-Star team of local and National Sports reporters some stories will be a fresh tank on a major news event and other episodes will feature in that looks into what's been happening off of you in the aftermath of the 2018 NFC Championship game too insightful interviews on the intersection of sports and mental health the lead is your daily lens into the biggest stories of the day told by the people who know them best delete has hosted by sportswriter Kavita Davidson and Peabody award-winning journalist Anders kelto they'll take you close to the story through comprehensive reporting fastening clips and exclusive interviews you"
+    ],
+    [
+      0.955216646194458,
+      "Okie or anywhere else you're about to hear a preview of the lead about yesterday's much-anticipated rematch between the Rams and the Saints and what really went down after that blown call in the 2018 NFL playoffs while you're listening go subscribe to the lead on Apple podcasts or wherever you're listening right now there's also a link in the episode notes that I'll take you there"
+    ],
+    [
+      0.9332979917526245,
+      " in last season's NFL playoffs as every football fan remembers the New Orleans Saints were on the verge of a trip to the Super Bowl"
+    ],
+    [
+      0.7940282225608826,
+      " quick snap Breeze again says incomplete no flag"
+    ],
+    [
+      0.9536260962486267,
+      " one of the worst Falls in sports history was going crazy as there's no flat right on the sidewalk it was all anyone could talk about for days of fans screaming last night I'll glaring case of pass interference one of the most obvious case you'll ever see and it wasn't penalized if led to an unprecedented response from Saints fans Billboards boycotts Federal lawsuit against the NFL ended up on the floor of the US Senate of Louisiana is outraged because of what happened in the Superdome last Sunday"
+    ],
+    [
+      0.9561334848403931,
+      " yesterday the teams met in a highly-anticipated rematch and once again the saints were on the wrong end of a bad call should have been a touchdown for the New Orleans Saints today we're going to talk with the Athletics Larry holder a football columnist who lives in New Orleans about Saints fans Epic Quest For Justice after last season's blown call will hear from Saints fans at yesterday's game who let's just say we're not feeling great I'm too beat the Davidson and I mondor's calto it's Monday September 16th and this is believe it felt like something raised will happen if there was just something about the emotion and that moment ago."
+    ],
+    [
+      0.8946361541748047,
+      " this isn't a story where you going to be the acronym go home it stays with you"
+    ],
+    [
+      0.9748207330703735,
+      " Patron pizza what's a Condors well before we get started this is the very first episode of the lead and since you and I are the hosts I thought maybe we should just quickly explain what the show is the lead is the show I always wish existed I'm a sports writer but I was a sports fan first and it's really all about great stories great stories from great Sports reporters who are all over the country I mean he's our journalists who live in the cities and know these teams and know these players where you don't have to be a fan of those teams care about these stories for example in this first episode you talked to Larry holder who has covered the New Orleans Saints for almost 15 years about why that terrible call a season provoked such an unprecedented response really helped me to understand why Saints fans did what they did and why fans at yesterday's game we're so demoralized it's"
+    ],
+    [
+      0.9696570634841919,
+      " really something anyone can identify with so should we get to the story let's go for it"
+    ],
+    [
+      0.965107262134552,
+      " soleri let's start with a very basic question how important is football is a game of football to the City of New Orleans Hurricane Katrina struck New Orleans August 2005 in of course everyone is recovering from the storm people are literally taking their FEMA checks to buy Saints season tickets that's how important the Saints are to this community and I'd say without the Saints returning to the city at that point I don't think the city would have ever actually rebounded so I would say unlike many if any NFL fan base within the league all right so let's go back to this incredible no call it's last year's NFC Championship game the Saints and the Rams are tied in the 4th quarter and the Saints look like they're about to score and book a trip to the Super Bowl"
+    ],
+    [
+      0.96267169713974,
+      " walk us through what happens next Tommy Lee Lewis was really kind of an unknown receiver with in the Saints receiving Corps he's not one of their top targets he's basically running free down the sideline Breeze and then Nickell Robey Coleman in absolute desperation flies basically headfirst into tommylee Lewis as Drew Brees has a perfect pass says incomplete no flag for Tommy Lee Lewis two officials are looking at each other one looks like he's about to take the flag out and throw it a second one basically says no no no and it's not pass interference or a helmet-to-helmet call which is also of course he legal in the NFL and the play just goes on here in the stadium when this happens how does the crowd react under a ghast crazy as there's no flag right on the Saints sideline then where's the replay they put it up in the"
+    ],
+    [
+      0.9601060748100281,
+      " big screens in the Superdome and everyone loses their minds"
+    ],
+    [
+      0.9483380317687988,
+      " can you add it all together and it became a complete and utter Demotte the Rams get the ball back the Saints defense is probably a little bit been shell-shocked the Rams drive down the field they kick a field goal percentage over time the Saints get the ball first in overtime Drew Brees is hit throws interception which means when the Rams get the ball back all they've got to do is kick a field goal"
+    ],
+    [
+      0.810198187828064,
+      " the church is"
+    ],
+    [
+      0.9438515901565552,
+      " that was a preview of the first episode of the lead to hear the rest of the episode listen And subscribe to the lead on Apple podcasts or wherever you're listening right now"
+    ]
+  ]
+}

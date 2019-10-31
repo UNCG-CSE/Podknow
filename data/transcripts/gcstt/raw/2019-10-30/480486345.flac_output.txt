@@ -1,1 +1,1110 @@
-{'Stats': {'PodcastID': '480486345.mp3', 'DownloadTime': 1, 'AudioLength': 3162.462, 'OriginalFileSize': 50803361, 'FlacFileSize': 243223971, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 1074.8761496543884, 'DownloadSuccessful': '40.52363348007202'}, 'Transcripts': [[0.9521685242652893, "what's going on in October 28th 2019"], [0.8964186906814575, ' did your your college team win on Saturday'], [0.9051560163497925, " if it didn't you in a better mood if it didn't did you take it out"], [0.7681877613067627, " God damn it's a lie I told you not to get that chair"], [0.8604236841201782, ' second picture of perception'], [0.8669230937957764, ' watch much of any football this week'], [0.9647213816642761, " just got to take Nick Saban by what's left of the hair on top of his head"], [0.7847706079483032, ' they got to swing like a middle-aged'], [0.674291729927063, ' but I guess just'], [0.8774842023849487, ' is it two weeks I got next week off they got they got'], [0.8872119784355164, ' do they have too much time is a case of over preparedness professional team'], [0.9149256944656372, ' biggest colleges in professional'], [0.8887061476707458, " God damn big business isn't going to look up a little bit trying to think my way to that thought as I suddenly went to the search"], [0.7435710430145264, ' something up'], [0.9254761934280396, " guess what I had some ship to do today but there's a"], [0.8710362315177917, " this time of year is all the fires this year that's all so crazy so it's"], [0.8800432085990906, " I'm telling you I just feel like the whole fucking things just going to go up like fucking flash paper"], [0.8521619439125061, " it looks worse so it looks worse when you watch on TV always have relatives calling me up being like it's far away some business to do in Spanish"], [0.9054291248321533, " Santa Monica today and I just said fuck that I'm going to stay out of the way"], [0.919971764087677, " since 2 a.m. the thing broke out they've been sitting in stand in the fucking Hills Cop Hills"], [0.8073828816413879, ' you got to hide that you got to go on a hike with all of that and then you got to go up there the fucking Windsor amazing that they get the things out before everybody dies'], [0.8707695007324219, " so anyway it's really weird that it's it's over there again cuz they just had a fire there last year"], [0.9384362101554871, " the upside is that is if you didn't lose your house there was a fire there any kind of burned everything so there was nothing else to get to catch on fire ice cuz last year it it jumps a highway"], [0.9205367565155029, " this truck I tell you I absolutely love Los Angeles for the weather out here so you think you're going to miss is a firestorm you still think he is"], [0.9404907822608948, " put that out soon so I'm actually feeling guilty now cuz now I fucking canceled everything that I had to do this afternoon out there and I found my says people are like evacuating their houses and people are risking their lives is so selfish human beings are I maybe I just am I was literally in the kitchen as I was making myself a couple of soft cooked eggs I just started singing to myself I got the whole house to myself because literally like fucking whatever 15-20 miles away screaming to fucking"], [0.7764842510223389, ' fucking are masks'], [0.7585421800613403, " you know it isn't because I'm selfish because I'm just that positive"], [0.9029665589332581, ' couple of friends who live over there should do this through some major shit like that and you just like'], [0.8901454210281372, ' well I guess anything you need this should be good cuz they can actually come and stay at your place you could actually do something you know'], [0.9289929866790771, " get out there's anything I could do could you let me know I hate those moments because I refuse to write like a sound bite and then you got to sit there for like 40 minutes how do I write something since you realize that this is why this thoughts and prayers go out to the"], [0.8352174162864685, ' survivors of the kids a little closer'], [0.9651458859443665, " I can't believe people say that with a fucking"], [0.9121708869934082, " look up sincerity on their fits the most insincere things you can probably save this point can say considering it's just a total of cliche thoughts and prayers go out to the survivors at the victims of the surviving victims for the children being held"], [0.8835158944129944, ' living Our Truth'], [0.9337234497070312, " big Warriors just covering all your bases so I actually thought for half a second I was like you know what maybe I'll go see the fucking"], [0.9648301601409912, ' Kill the Irishman'], [0.9002229571342468, ' I was thinking maybe that you was crazy watching all these fires and all is fucking bullshit and just sitting there watching they going to shut the fucking'], [0.932245671749115, ' power off so I got a million people out here because their words with the winds condition like 90s or something fucking insane like that which is almost two notches a jetstream so this is almost twice that'], [0.9201891422271729, " what is going to do with these electricity turned on in cause even more fires and sounds like a smart thing but I feel like the rich people don't get their power turned off"], [0.9489642381668091, " you don't I'm telling you I got there's a guy down the fucking Street who has solar panels I got to talk to this guy got to get it man you know"], [0.9034519195556641, ' you got to get off the shit'], [0.9111623764038086, ' the fucking oil companies are not all bills preaching at all look at it because even fucking read'], [0.8957450985908508, ' maybe as an individual'], [0.9832850098609924, " that's what you need to do"], [0.7843073010444641, ' we should see if she got you know'], [0.9527760744094849, " you got to do something. It's just sitting here waiting for politicians to finally stand up to Banks and oil companies I'm realizing it's just never going to happen if the president has a blue tie a clam a combination of both it's just not going to happen okay they sent the message in the sixties if your rock the boat is Lone gunmen from the bottom up so"], [0.9186978340148926, ' fucking assholes like how much more crazy does the goddamn weather have to get it into people keep sending me this fucking information about the people send me all this crazy fucking information with like no solution just to let you know this is happening'], [0.9766956567764282, " so now I think I'm doing the same thing whatever I'm just going to try to be nice to people get some solar panels"], [0.93382728099823, ' not brandish a weapon'], [0.9672036170959473, ' although'], [0.9473138451576233, " I don't think it's the worst thing that stops a bad guy with a bazooka"], [0.8502907752990723, ' stop'], [0.6931784749031067, ' what'], [0.8901269435882568, ' asylums'], [0.8181867003440857, ' I got to put people in their rooms back in there in the world'], [0.9092652797698975, ' take care of old people'], [0.927747905254364, " you know sweet the force is so we stopped having fires have no Solutions let's talk about sports sports cuz it keeps your mind off of what's really important that you have no control over people"], [0.8896759748458862, ' acting like the the Patriots just this no matter before I mean if you have a very impressive record'], [0.6915473341941833, ' Miami go up'], [0.9489350318908691, " let's see who they played so far this year"], [0.9245479702949524, " cuz all I have is the rest of the goddamn fucking year come on man can't you just can't you just tell that I'm too dumb to fucking search for what I want what does 2019 regular season schedule play the Cleveland Browns"], [0.8635717034339905, " not impressive since they played the ramps that's impressive went to the Superbowl last year"], [0.881738007068634, ' they beat the Bengals the Bengals stink'], [0.843431293964386, ' beat the Steelers in a close game'], [0.7078355550765991, ' Meet the Browns.'], [0.7206643223762512, " Where should I meet the Browns way easier than the know it's kind of like going back to only have one or two it's kind of a nice thing"], [0.7458678483963013, " haven't"], [0.9432939291000366, ' contemplate my life'], [0.9092532396316528, " that's a weird game nine to nothing"], [0.951917827129364, ' what Redskins game this year against the hapless barely in the league Miami Dolphins then they kick the shit out of the fucking'], [0.918618381023407, " I got the Cardinals are a good team against Seattle Seahawks with those Sneaky Pete they got into got the Packers they got the Saints schedule this year this year is everybody sucks generally speaking nobody's really that good"], [0.9377425312995911, " so I was going to say as far as being the Patriots of the the NFC West is talking about is a tide like this Alabama Crimson Tide so too fucking schedule when it's a lot of fucking Bowling Green"], [0.9437700510025024, ' you know offense Ohio State of Miami type of games'], [0.9233418107032776, " Jesus Christ it's almost like a Patrick Mahomes gets hard"], [0.9765258431434631, " I'll tell you if Tom Brady wasn't"], [0.8051459193229675, ' so much better and 10 and better-looking update.'], [0.7293155193328857, ' Pokemon Tom Brady'], [0.9294827580451965, ' Aaron Rodgers would be a bad guy I would say that he would be'], [0.9527270793914795, " Tom Brady's the lead I would say Aaron Rodgers is the second lead is bad guy mustache"], [0.864413321018219, " Kansas City Chiefs 5 and 3 I think they're a little better than that record"], [0.9796457886695862, ' despite some steps forward the Chiefs defense has to do more Arrowhead Pride'], [0.9157820343971252, " Arrowhead Pride okay you got to believe that night that sounds like that's some hardcore fucking Chiefs fans I listen to live in the Kansas City Missouri area"], [0.9405666589736938, " have you been to Arrowhead Stadium that's one of the great ones I ever went to that really is the loudest stadium in the leak as loud as Seahawks fans in an old school Stadium actually because of how much you cared you know I could Bose build your fucking Stadium"], [0.8280521631240845, ' going to let it go never never said I watched'], [0.9497484564781189, " F1 race yesterday I got to watch the MotoGP Porsche already saw the Highlight on the love the last lap MotoGP is where the fuck it's at I know it's over I know Marc Marquez has won the title I know that Honda has won the builders Championship or whatever but still it's just the best bucking racing out there"], [0.9718012809753418, ' can I watch the F1 yesterday'], [0.9668905138969421, " it's literally it's becoming a sport to watch Ferrari fuck the whole thing up"], [0.9540929794311523, " I just don't get like I don't understand"], [0.8821450471878052, ' yeah pole position and you have second place'], [0.9200565814971924, ' you maintain that to the first three fucking laps how does neither one of those cars cross the finish line first how do you know that Lewis Hamilton and Mercedes are going to somehow figure out they just did just fucking'], [0.8323789834976196, " it's like Bill Belichick shit with the other team's better that's what Mercedes did"], [0.9425390958786011, ' by looking at exactly what Ferrari could have looked at how well Daniel ricciardo was doing the hard Tire'], [0.8835678100585938, " wasn't getting chewed up what the fuck"], [0.9065773487091064, " two laps lady like oh my God they did it again they did it again today absolutely 100% deserve it and I are actually rooting against Lewis Hamilton just cuz it's fun to do"], [0.7683731317520142, ' do you want to be my GF one route for Mercedes and Lewis Hamilton in the fucking races position rooting against'], [0.6913601756095886, " as you're screaming"], [0.9011498093605042, " about the inevitable that he's going to come back and it's really it's really incredible"], [0.9394305348396301, " Enzo Ferrari needs to come back from the fucking grave and he needs to start treating the fucking team the way you know they used to wear it was out of pocket book and so why is there a hole in the in the floorboard you're up next"], [0.8786932229995728, ' it was like that the he would hear that one of his drivers died'], [0.8755226731300354, " he would not his first question was how's the car"], [0.8462904095649719, ' Progressive World of Sports'], [0.9115856885910034, " anyway last night I did a live podcast that I actually thought was going to be at that was also filmed and that's going to be coming out sometime this week very excited about it it's like you start doing the sound like a fucking chicken your license after at what is she saying where is the solution that I can give her to end this conversation as quick as possible"], [0.9565450549125671, " yeah I'm going to start doing those things I'm thinking maybe I'll do the next one you know if I have like a road gig or something like that I'll try and figure out a way"], [0.9236172437667847, " to do something like I'm thinking my next one this is why my fucking this is why everybody like this"], [0.628533124923706, ' continents'], [0.9878825545310974, ' December 21st Jesus Christ'], [0.8675692677497864, ' Vegas Knights'], [0.9814069271087646, ' schedule'], [0.9058026671409607, " sit right here this one I'm going to convince all you guys right now to become a stand-up comedian cuz this cuz this is what your life"], [0.8612995147705078, ' this'], [0.9213598370552063, ' Bread & circus right here could be your Lysol right there next home game Monday the 23rd so'], [0.8244082927703857, ' God dammit'], [0.8551735877990723, ' Saturday Sunday I could possibly do the Saturday'], [0.9907218217849731, " I don't know"], [0.9228705167770386, ' seems like a lot of time and I blamed the conservative Democrats of the Republican Party'], [0.9009860157966614, " I don't know what it is I actually I like to self you know if you're welcome"], [0.8838184475898743, ' trochanteric Sierra I allegedly had some reads for this week'], [0.78886479139328, " I apologize it so podcast is falling apart cuz I've already called me back"], [0.9293789267539978, " how is a bunch of fucking question the advertising and all of a sudden everybody goes to the fucking runs out of the street is you can tell it's going off the rails it might be a little bit short this week"], [0.8845240473747253, " might be a little bit short this week but know that I'm going to make it up with a video"], [0.9275490641593933, " podcast this week okay plus the Thursday afternoon podcast Bill we don't need excuses we need laughs we're stuck in traffic I have fire jumping over my car from one side of the 405 to another could you please come with a little bit of funny Mercedes wagon"], [0.8439443111419678, ' Mark was talking about check out Lewis Hamilton on Letterman'], [0.9315606951713562, ' Show on Netflix he gets Hamilton to do some laps and then lets loose get the fuck out of here'], [0.978823184967041, " that's amazing"], [0.9205536246299744, " I'm done I'm done Lewis Hamilton I'm done"], [0.9083306789398193, " Ford expects out of his teammate versus what he's willing to do for his teammate Lewis Hamilton"], [0.9704479575157166, ' Mercedes'], [0.853325605392456, ' Lewis Hamilton in the fucking station wagon'], [0.9417439103126526, ' oh my God look at that'], [0.8865051865577698, ' you just Lewis Hamilton just said that station wagon is a great'], [0.9063858389854431, " the greatest race car driver of right now who knows by the weather is going to be alright now I'm less excited if it was a Ferrari station wagon."], [0.9145119786262512, ' we should probably check what kind of tires are going to be running on today was a low blow'], [0.8676977157592773, ' I like your fucking love that car'], [0.8762045502662659, " let me write a teaching exciting car to look at it's it's it's like one of those cars you look at it it's like it's moving when it's just sitting"], [0.8566135764122009, ' get it filled you enjoy the car will fuck you I get excited about things like station wagons'], [0.8189718127250671, ' Ed Shamy let me get back to it where the hell was I'], [0.7061920166015625, " copy Obama's speeches"], [0.6911584138870239, ' are Billy plant-based tits'], [0.9584739804267883, ' do you realize the thought that just went into that insult'], [0.939391553401947, " it's like I can't call him Billy sachets anymore I can't call him Billy booze bag anymore he's going to shame me fucking look you know I have great genes of Aging in the way I'm aging and all of that is I just fucking laid off the booze"], [0.9026691913604736, ' Buspar kills you man you know we makes you look sleepy but it just fucking it takes the fucking light'], [0.9655557870864868, " you don't start looking like some fucking Macy Day fucking"], [0.8586347699165344, ' red-faced something that scares children on Thanksgiving all right'], [0.9476822018623352, " Jubilee plant-based it's Michelle speaking tours are to receive kickbacks from the corporate overlords I never said that"], [0.9822831153869629, " I never said that I'm just saying that they go and take that blood money that's what I'm saying before you sit there and tell me about the other fucking things that he does"], [0.9244178533554077, " and how come you didn't take time to look at the downtown arena in Winnipeg earlier it was a handful of people from all walks of life it was more of an opportunistic nefarious is you're constantly suggesting I'm not suggesting it's happening"], [0.8932121992111206, ' just another perspective for you to consider I fucken give up with you fucking people give up'], [0.9065448641777039, ' do you really think the Iraqi people'], [0.9566996693611145, ' do you really think Iran is picking a fight with us'], [0.8866532444953918, " do you really think that they would be picking a fight with us if they weren't sitting on top of a product that was with billions of politicians on both sides of the aisle how many speeches they have to give to these freaking people and then they need to do the bases"], [0.9115573167800903, ' he should be you know what you just gave a speech to a couple of fucking Banks never really research'], [0.8691717982292175, ' you should come to'], [0.7459654808044434, ' hello hello hello'], [0.8593724966049194, ' Jesus Christ Kelowna Kelowna British Columbia is a beat television show their National'], [0.9059372544288635, " that's why I love Jim Jefferies if I said that enough times in the chest and fucking I had so much fun with him on David Spade show"], [0.9067676067352295, ' I felt like I was the the bike'], [0.9148207306861877, " show usually on the person saying something that's going to get me in trouble and then there's somebody like from a sitcom sit next to me like a stupid why did I say all that shit I should have been like that Jim goes in Kentucky"], [0.8860903382301331, ' you talk about this to show how bad things are in Syria or turns out they used an explosion in Kentucky'], [0.9336844086647034, " just an honest mistake I'm sure"], [0.8093997836112976, ' the fuc'], [0.9099403619766235, " all right now this is in the New York Post New York Post in The Daily News either a couple of that lean really hard for video but it's really from Kentucky"], [0.9546117782592773, ' oh my God'], [0.9063008427619934, ' Jim what is Vince McMahon with do shit like this ABC News issued an apology after mistakenly a shortage of Turkish forces bombing the video that appears to have originated from Kentucky Gun Range'], [0.9310171008110046, " but what gave it away all the white people in the trees George Washington's fucking belt buckle looks like but I know what Siri looks like in 20 fucking 19 Syria"], [0.8254402279853821, ' images talking to be fucking war and ship'], [0.8082379698753357, " let's let's play a little more fair ticket series Syria"], [0.9618814587593079, ' nice beautiful beautiful places'], [0.7979379892349243, ' oh my God that was like the fucking strip on'], [0.8518466353416443, " okay yeah this does not look like Kentucky I got to see this fucking footage that's hilarious I have a very special kind of said"], [0.9197543859481812, " I lost it is it's ABC breaking into my computer trying to cover its tracks"], [0.9753510355949402, ' I literally just fucking lost everything'], [0.8858421444892883, " Jesus Christ normally where I was fucking hit pause but I don't give a shit cuz I got it I got it"], [0.6574987173080444, ' hour long video here come your way'], [0.9380341172218323, ' Kentucky war video okay here we go'], [0.9211497902870178, " let's talk and see it then I want to see it"], [0.8840179443359375, " you know and defensive ABC I don't know what that means"], [0.9649747014045715, ' that took place at a Kentucky Gun Range'], [0.9486222267150879, ' Jesus Christ'], [0.880254328250885, " people are going to act more crazy or are you fucking on your high horse liberals support it's a TV show somebody make"], [0.9265397191047668, ' set a little bit in the future and to fucking phony liberals after fucking the Apocalypse'], [0.7601872682571411, " I'll be right there"], [0.9061597585678101, " in the woman's got to sit there and act like she hates Hillary she talks to the fucking chicken the overalls"], [0.9266700744628906, ' ABC issued an apology talking gun range that out the dramatic clip first aired on Sundays World News Tonight this was a local news this is the made man with the headline in Syria at the fucking dude who shot the video'], [0.8630453944206238, ' turkey military Tom the footage which show is heavy gunfire aimed'], [0.9044734239578247, ' Dark Night Sky also appeared on Good Morning America Eagle at the Knob Creek bourbon involved gun range in Kentucky'], [0.7568110227584839, ' Twitter'], [0.9260904788970947, " okay let's see how they just fucking glossed over this really quickly correction we taken down video that aired on World News Tonight Sunday and good morning America this morning that appeared to be from the Syrian border immediately after questions were raised about its accuracy ABC News regrets the error he didn't bring up it was actually from Kentucky"], [0.9145443439483643, ' apologize you leave Kentucky out of it'], [0.8800328373908997, " isn't Kentucky an important part of the footage"], [0.8539288640022278, ' what whatever'], [0.8667322993278503, ' this seems to be like no'], [0.7320427298545837, ' standard'], [0.9614172577857971, " any more like journalism and I have to think that I'm part of the problem considering something like myself can reach somebody people and not really read anything hey Billy Global tips love you Nexus Blitz special paper tiger thank you so much I recently listen to Kanye West new album Jesus is King my wife my wife just downloaded that she was at the Forum and really enjoy the music just serves just so you know I'm not Christian or black I'm Asian"], [0.904551088809967, ' all right this just took a left turn what is it have to do with anything but people around me are giving me shit for liking his music'], [0.9541242122650146, " he's black he dismisses the oppression of the black community"], [0.8284789323806763, " still thinks he'll thrive"], [0.8827517628669739, " he can't say things that just missed the oppression of of the black community and still fake face he'll Thrive I know what that means"], [0.9112006425857544, " can you separate him from his music his beliefs are what he projects into that and he probably believes people should do the same or shouldn't care is nonchalant"], [0.9764728546142578, " he's nonchalant and you shouldn't support him as an artist"], [0.9517296552658081, " hey buddy you got to get some better friends it's like I'm just listen to some music sky goes on to say or lady I totally disagree I think he's a great artist he is for sure a crazy person renting all kinds of stuff that doesn't make any sense but that's personal when I listen to music and when music affects me emotionally I think it's appreciate his music"], [0.8575855493545532, " because for all the stuff he's been crazy what is it affected"], [0.9761358499526978, ' people got upset on social media and then made it about themselves and legislation was passed because Kanye said some crazy shit'], [0.8451172113418579, " stop it which is why I don't know why celebrities"], [0.9004497528076172, " do shit like that here's what I think about this is I talked about the Middle East every fucking podcast lately I write whatever I'm a meeting girl at church meeting"], [0.7089258432388306, ' hey Billy bitch tits'], [0.8855513334274292, ' what makes people makes me of vegetables and my girlfriend of 4 months recently broke up with me'], [0.9516472816467285, " bee stings a little bit be a 25 if I get out there have a couple of Rolling Rock start talking some shit you'll be back in the game with her eventually anyway it's just out of her comfort zone and didn't put much as much effort in as I did anyway I'm looking to get back out there and meet my new city I can still get laid going to bars and clubs but I kind of want to meet a girl I can build a relationship with"], [0.973907470703125, " I've always believed in"], [0.9762217998504639, ' doing some sort of activity rather than going out to bars'], [0.9086921811103821, " cuz there's always a chance to meet booze bag"], [0.9171094298362732, ' smoker fucking lunatic whatever he joined like literally just stupid shit a softball league stuff like that with his other Addicted by the way you looking to meet up'], [0.9560704827308655, " shit like that this all kinds of fucking like I never do this cuz I was just went out and acted like an idiot but like there's all kinds of young adults healthy shit and they put together groups cuz they also want to meet somebody and get those clusters of people riding bikes"], [0.9333413243293762, " can't help but notice that you got a univega"], [0.931658923625946, " I also have the univega conversation I like most of the ideas Church preaches don't cheat don't kill anybody blah blah blah the seven deadly sins of the biggest atheist of the world cannot do you think it's a good setting yourself to show up there it's"], [0.8923324346542358, " just say listen I'm actually atheist Church"], [0.854275107383728, ' are you in a little surprised early on'], [0.9217789173126221, " get out that's right up there with the third nipple so so I would have to say"], [0.9663069844245911, " I don't know that I would do that saying that you're an atheist"], [0.8851431608200073, ' I want you could actually join the group would just be like that I could settle down with'], [0.9363124966621399, ' then she might want to take you on like you know she can solve'], [0.9626262784004211, ' your spiritual dilemma'], [0.8690485954284668, " the comedian me want you to do it I don't know you heard anybody just like a gunslinger"], [0.9240083694458008, " I don't believe in your cry stuff"], [0.871938169002533, ' do believe it how you live your life'], [0.8121593594551086, ' I would Snicker when you talk about curing live person'], [0.9741225838661194, " you don't give me any advice"], [0.9164208173751831, " take out my pouch of tobacco or do you have any tips to meet a nice girl for a relationship but I have been with my wife forever I I wouldn't even begin to the technology that is changed"], [0.9181047081947327, ' I met my wife before social media'], [0.9057163596153259, ' we actually had the ball yet balls to fucking walk up which I did she reject me like fucking 9 times was hilarious and what did she do to me'], [0.9313003420829773, " fucking ridiculous you know I like cats but if they're all over you most of the girls I've just been hookups or short planks I got a late start to go fuc yourself all right I would go to bars I would play softball and ride a bicycle I go to church I just fucking do it all gives a fuck"], [0.9280965924263, " amateur place if you want to try to meet some of the actually be in a relationship with but you know yourself that's all I know about sports when I was growing up and that's how I get Subway but I stopped and bars I was bad boys cuz I think they knew it was coming"], [0.974829375743866, ' amphibian pets'], [0.9570246338844299, " who doesn't love something that thrives on land and water"], [0.9600237011909485, ' beer stein'], [0.9713560938835144, " sure the upkeep is terrible but who doesn't love a good scene"], [0.9127022624015808, ' I think Patrice loves fish tanks'], [0.9611519575119019, ' would you ever get any lizards'], [0.9471443295478821, ' no'], [0.7668889164924622, ' fish eater'], [0.9482830762863159, " that's like you know"], [0.9374841451644897, " involved water it's just like it's just an expensive fucking hot or it's it's expensive with your time as fucking time once you get that goddamn fish tank and then you got to get you got to clean you got to get the shit out of fish compatible with pH balance"], [0.9390173554420471, " I'll tell you right now anybody was a fucking fish tank out here in LA with earthquakes is out of your goddamn mind fuck all of that"], [0.7561875581741333, " I I don't want to see you."], [0.9171557426452637, ' I would never have a blizzard I grew up around people who was shut down emotionally relationship okay'], [0.9747138023376465, ' I like dogs'], [0.9362205862998962, " that's what I like I like cool ass fucking dogs please don't stick shut off the chocolate brown version of my dog Cleo so I got to see for a week and a half which is fucking awesome"], [0.8981696963310242, ' technically still my dog cuz I still pay for her too long fucking story of Jesus'], [0.755708634853363, ' I like'], [0.92279052734375, " I'll take that over a lizard in God damn day I'm not like that I got I don't get this fucking snakes and all that shit fucking slimy they don't give a fuck if they could dogs are actually you know. Do you know your friend on a person"], [0.899895191192627, ' sit there like a lizard person are there there'], [0.8931758403778076, ' Chills by an animal because at least a show fucking emotion'], [0.9567436575889587, ' they trying to put you out of your fucking misery for the most part'], [0.852656900882721, ' grab you by your throat and shot down and took'], [0.953788161277771, ' as opposed to'], [0.9643020629882812, " I'm still trying to shake off the last time I went on the Rogan podcast shows about animals"], [0.8143082857131958, ' Komodo dragon swallowing that fucking monkey of expression'], [0.8540780544281006, ' he just fucking the Bulls just standing there like an asshole running away from the'], [0.8043060302734375, ' chicks added a few times and it comes up the lights going to get infected'], [0.8297085165977478, " what is the bull gets weaker and can't stand anymore"], [0.939738392829895, " Debbie Comes This critical point where the bull can't defend itself anymore and the dragon feels it's safe enough to go in and begin eating and the fucking thing isn't dead yet so fuck reptiles"], [0.9215579628944397, " I know you guys are all going to fucking send me try to send me videos of that fucking bear attack in that goddamn give a shit I don't like watching things suffer"], [0.814312219619751, " all right it's going to be here for this week it's a little bit"], [0.8990650177001953, ' we can all be out there pull up check out the Vegas Knights against maybe I can do that'], [0.9411065578460693, ' you know I got some gigs coming up I got two more NBA teams on NHL teams to see all four professional sports I saw the Senators at the fucking'], [0.8291048407554626, " rnrf wait a second what is that series I'd last I saw was to 1"], [0.7289299368858337, ' 21 falcon'], [0.9291542172431946, ' Washington Jesus Christ I get it I got some text messages'], [0.9649426341056824, ' Washington'], [0.790709376335144, ' supposed to say Senators National sorry oh my God she was in his tight it up'], [0.8550829887390137, " no they didn't it's 3 to Jesus Christ his whole fucking series is flying by"], [0.9865152835845947, ' wait a second'], [0.9613430500030518, ' so the Nationals won the first two'], [0.9559532403945923, ' Houston must have won game 3 Nationals win game 4 Astros win game 5'], [0.7973167300224304, ' tell you right now Josh Adams go fuck yourself enjoy life']]}
+{
+  "Stats": {
+    "PodcastID": "480486345.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 3162.462,
+    "OriginalFileSize": 50803361,
+    "FlacFileSize": 243223971,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1074.8761496543884,
+    "DownloadSuccessful": "40.52363348007202"
+  },
+  "Transcripts": [
+    [
+      0.9521685242652893,
+      "what's going on in October 28th 2019"
+    ],
+    [
+      0.8964186906814575,
+      " did your your college team win on Saturday"
+    ],
+    [
+      0.9051560163497925,
+      " if it didn't you in a better mood if it didn't did you take it out"
+    ],
+    [
+      0.7681877613067627,
+      " God damn it's a lie I told you not to get that chair"
+    ],
+    [
+      0.8604236841201782,
+      " second picture of perception"
+    ],
+    [
+      0.8669230937957764,
+      " watch much of any football this week"
+    ],
+    [
+      0.9647213816642761,
+      " just got to take Nick Saban by what's left of the hair on top of his head"
+    ],
+    [
+      0.7847706079483032,
+      " they got to swing like a middle-aged"
+    ],
+    [
+      0.674291729927063,
+      " but I guess just"
+    ],
+    [
+      0.8774842023849487,
+      " is it two weeks I got next week off they got they got"
+    ],
+    [
+      0.8872119784355164,
+      " do they have too much time is a case of over preparedness professional team"
+    ],
+    [
+      0.9149256944656372,
+      " biggest colleges in professional"
+    ],
+    [
+      0.8887061476707458,
+      " God damn big business isn't going to look up a little bit trying to think my way to that thought as I suddenly went to the search"
+    ],
+    [
+      0.7435710430145264,
+      " something up"
+    ],
+    [
+      0.9254761934280396,
+      " guess what I had some ship to do today but there's a"
+    ],
+    [
+      0.8710362315177917,
+      " this time of year is all the fires this year that's all so crazy so it's"
+    ],
+    [
+      0.8800432085990906,
+      " I'm telling you I just feel like the whole fucking things just going to go up like fucking flash paper"
+    ],
+    [
+      0.8521619439125061,
+      " it looks worse so it looks worse when you watch on TV always have relatives calling me up being like it's far away some business to do in Spanish"
+    ],
+    [
+      0.9054291248321533,
+      " Santa Monica today and I just said fuck that I'm going to stay out of the way"
+    ],
+    [
+      0.919971764087677,
+      " since 2 a.m. the thing broke out they've been sitting in stand in the fucking Hills Cop Hills"
+    ],
+    [
+      0.8073828816413879,
+      " you got to hide that you got to go on a hike with all of that and then you got to go up there the fucking Windsor amazing that they get the things out before everybody dies"
+    ],
+    [
+      0.8707695007324219,
+      " so anyway it's really weird that it's it's over there again cuz they just had a fire there last year"
+    ],
+    [
+      0.9384362101554871,
+      " the upside is that is if you didn't lose your house there was a fire there any kind of burned everything so there was nothing else to get to catch on fire ice cuz last year it it jumps a highway"
+    ],
+    [
+      0.9205367565155029,
+      " this truck I tell you I absolutely love Los Angeles for the weather out here so you think you're going to miss is a firestorm you still think he is"
+    ],
+    [
+      0.9404907822608948,
+      " put that out soon so I'm actually feeling guilty now cuz now I fucking canceled everything that I had to do this afternoon out there and I found my says people are like evacuating their houses and people are risking their lives is so selfish human beings are I maybe I just am I was literally in the kitchen as I was making myself a couple of soft cooked eggs I just started singing to myself I got the whole house to myself because literally like fucking whatever 15-20 miles away screaming to fucking"
+    ],
+    [
+      0.7764842510223389,
+      " fucking are masks"
+    ],
+    [
+      0.7585421800613403,
+      " you know it isn't because I'm selfish because I'm just that positive"
+    ],
+    [
+      0.9029665589332581,
+      " couple of friends who live over there should do this through some major shit like that and you just like"
+    ],
+    [
+      0.8901454210281372,
+      " well I guess anything you need this should be good cuz they can actually come and stay at your place you could actually do something you know"
+    ],
+    [
+      0.9289929866790771,
+      " get out there's anything I could do could you let me know I hate those moments because I refuse to write like a sound bite and then you got to sit there for like 40 minutes how do I write something since you realize that this is why this thoughts and prayers go out to the"
+    ],
+    [
+      0.8352174162864685,
+      " survivors of the kids a little closer"
+    ],
+    [
+      0.9651458859443665,
+      " I can't believe people say that with a fucking"
+    ],
+    [
+      0.9121708869934082,
+      " look up sincerity on their fits the most insincere things you can probably save this point can say considering it's just a total of cliche thoughts and prayers go out to the survivors at the victims of the surviving victims for the children being held"
+    ],
+    [
+      0.8835158944129944,
+      " living Our Truth"
+    ],
+    [
+      0.9337234497070312,
+      " big Warriors just covering all your bases so I actually thought for half a second I was like you know what maybe I'll go see the fucking"
+    ],
+    [
+      0.9648301601409912,
+      " Kill the Irishman"
+    ],
+    [
+      0.9002229571342468,
+      " I was thinking maybe that you was crazy watching all these fires and all is fucking bullshit and just sitting there watching they going to shut the fucking"
+    ],
+    [
+      0.932245671749115,
+      " power off so I got a million people out here because their words with the winds condition like 90s or something fucking insane like that which is almost two notches a jetstream so this is almost twice that"
+    ],
+    [
+      0.9201891422271729,
+      " what is going to do with these electricity turned on in cause even more fires and sounds like a smart thing but I feel like the rich people don't get their power turned off"
+    ],
+    [
+      0.9489642381668091,
+      " you don't I'm telling you I got there's a guy down the fucking Street who has solar panels I got to talk to this guy got to get it man you know"
+    ],
+    [
+      0.9034519195556641,
+      " you got to get off the shit"
+    ],
+    [
+      0.9111623764038086,
+      " the fucking oil companies are not all bills preaching at all look at it because even fucking read"
+    ],
+    [
+      0.8957450985908508,
+      " maybe as an individual"
+    ],
+    [
+      0.9832850098609924,
+      " that's what you need to do"
+    ],
+    [
+      0.7843073010444641,
+      " we should see if she got you know"
+    ],
+    [
+      0.9527760744094849,
+      " you got to do something. It's just sitting here waiting for politicians to finally stand up to Banks and oil companies I'm realizing it's just never going to happen if the president has a blue tie a clam a combination of both it's just not going to happen okay they sent the message in the sixties if your rock the boat is Lone gunmen from the bottom up so"
+    ],
+    [
+      0.9186978340148926,
+      " fucking assholes like how much more crazy does the goddamn weather have to get it into people keep sending me this fucking information about the people send me all this crazy fucking information with like no solution just to let you know this is happening"
+    ],
+    [
+      0.9766956567764282,
+      " so now I think I'm doing the same thing whatever I'm just going to try to be nice to people get some solar panels"
+    ],
+    [
+      0.93382728099823,
+      " not brandish a weapon"
+    ],
+    [
+      0.9672036170959473,
+      " although"
+    ],
+    [
+      0.9473138451576233,
+      " I don't think it's the worst thing that stops a bad guy with a bazooka"
+    ],
+    [
+      0.8502907752990723,
+      " stop"
+    ],
+    [
+      0.6931784749031067,
+      " what"
+    ],
+    [
+      0.8901269435882568,
+      " asylums"
+    ],
+    [
+      0.8181867003440857,
+      " I got to put people in their rooms back in there in the world"
+    ],
+    [
+      0.9092652797698975,
+      " take care of old people"
+    ],
+    [
+      0.927747905254364,
+      " you know sweet the force is so we stopped having fires have no Solutions let's talk about sports sports cuz it keeps your mind off of what's really important that you have no control over people"
+    ],
+    [
+      0.8896759748458862,
+      " acting like the the Patriots just this no matter before I mean if you have a very impressive record"
+    ],
+    [
+      0.6915473341941833,
+      " Miami go up"
+    ],
+    [
+      0.9489350318908691,
+      " let's see who they played so far this year"
+    ],
+    [
+      0.9245479702949524,
+      " cuz all I have is the rest of the goddamn fucking year come on man can't you just can't you just tell that I'm too dumb to fucking search for what I want what does 2019 regular season schedule play the Cleveland Browns"
+    ],
+    [
+      0.8635717034339905,
+      " not impressive since they played the ramps that's impressive went to the Superbowl last year"
+    ],
+    [
+      0.881738007068634,
+      " they beat the Bengals the Bengals stink"
+    ],
+    [
+      0.843431293964386,
+      " beat the Steelers in a close game"
+    ],
+    [
+      0.7078355550765991,
+      " Meet the Browns."
+    ],
+    [
+      0.7206643223762512,
+      " Where should I meet the Browns way easier than the know it's kind of like going back to only have one or two it's kind of a nice thing"
+    ],
+    [
+      0.7458678483963013,
+      " haven't"
+    ],
+    [
+      0.9432939291000366,
+      " contemplate my life"
+    ],
+    [
+      0.9092532396316528,
+      " that's a weird game nine to nothing"
+    ],
+    [
+      0.951917827129364,
+      " what Redskins game this year against the hapless barely in the league Miami Dolphins then they kick the shit out of the fucking"
+    ],
+    [
+      0.918618381023407,
+      " I got the Cardinals are a good team against Seattle Seahawks with those Sneaky Pete they got into got the Packers they got the Saints schedule this year this year is everybody sucks generally speaking nobody's really that good"
+    ],
+    [
+      0.9377425312995911,
+      " so I was going to say as far as being the Patriots of the the NFC West is talking about is a tide like this Alabama Crimson Tide so too fucking schedule when it's a lot of fucking Bowling Green"
+    ],
+    [
+      0.9437700510025024,
+      " you know offense Ohio State of Miami type of games"
+    ],
+    [
+      0.9233418107032776,
+      " Jesus Christ it's almost like a Patrick Mahomes gets hard"
+    ],
+    [
+      0.9765258431434631,
+      " I'll tell you if Tom Brady wasn't"
+    ],
+    [
+      0.8051459193229675,
+      " so much better and 10 and better-looking update."
+    ],
+    [
+      0.7293155193328857,
+      " Pokemon Tom Brady"
+    ],
+    [
+      0.9294827580451965,
+      " Aaron Rodgers would be a bad guy I would say that he would be"
+    ],
+    [
+      0.9527270793914795,
+      " Tom Brady's the lead I would say Aaron Rodgers is the second lead is bad guy mustache"
+    ],
+    [
+      0.864413321018219,
+      " Kansas City Chiefs 5 and 3 I think they're a little better than that record"
+    ],
+    [
+      0.9796457886695862,
+      " despite some steps forward the Chiefs defense has to do more Arrowhead Pride"
+    ],
+    [
+      0.9157820343971252,
+      " Arrowhead Pride okay you got to believe that night that sounds like that's some hardcore fucking Chiefs fans I listen to live in the Kansas City Missouri area"
+    ],
+    [
+      0.9405666589736938,
+      " have you been to Arrowhead Stadium that's one of the great ones I ever went to that really is the loudest stadium in the leak as loud as Seahawks fans in an old school Stadium actually because of how much you cared you know I could Bose build your fucking Stadium"
+    ],
+    [
+      0.8280521631240845,
+      " going to let it go never never said I watched"
+    ],
+    [
+      0.9497484564781189,
+      " F1 race yesterday I got to watch the MotoGP Porsche already saw the Highlight on the love the last lap MotoGP is where the fuck it's at I know it's over I know Marc Marquez has won the title I know that Honda has won the builders Championship or whatever but still it's just the best bucking racing out there"
+    ],
+    [
+      0.9718012809753418,
+      " can I watch the F1 yesterday"
+    ],
+    [
+      0.9668905138969421,
+      " it's literally it's becoming a sport to watch Ferrari fuck the whole thing up"
+    ],
+    [
+      0.9540929794311523,
+      " I just don't get like I don't understand"
+    ],
+    [
+      0.8821450471878052,
+      " yeah pole position and you have second place"
+    ],
+    [
+      0.9200565814971924,
+      " you maintain that to the first three fucking laps how does neither one of those cars cross the finish line first how do you know that Lewis Hamilton and Mercedes are going to somehow figure out they just did just fucking"
+    ],
+    [
+      0.8323789834976196,
+      " it's like Bill Belichick shit with the other team's better that's what Mercedes did"
+    ],
+    [
+      0.9425390958786011,
+      " by looking at exactly what Ferrari could have looked at how well Daniel ricciardo was doing the hard Tire"
+    ],
+    [
+      0.8835678100585938,
+      " wasn't getting chewed up what the fuck"
+    ],
+    [
+      0.9065773487091064,
+      " two laps lady like oh my God they did it again they did it again today absolutely 100% deserve it and I are actually rooting against Lewis Hamilton just cuz it's fun to do"
+    ],
+    [
+      0.7683731317520142,
+      " do you want to be my GF one route for Mercedes and Lewis Hamilton in the fucking races position rooting against"
+    ],
+    [
+      0.6913601756095886,
+      " as you're screaming"
+    ],
+    [
+      0.9011498093605042,
+      " about the inevitable that he's going to come back and it's really it's really incredible"
+    ],
+    [
+      0.9394305348396301,
+      " Enzo Ferrari needs to come back from the fucking grave and he needs to start treating the fucking team the way you know they used to wear it was out of pocket book and so why is there a hole in the in the floorboard you're up next"
+    ],
+    [
+      0.8786932229995728,
+      " it was like that the he would hear that one of his drivers died"
+    ],
+    [
+      0.8755226731300354,
+      " he would not his first question was how's the car"
+    ],
+    [
+      0.8462904095649719,
+      " Progressive World of Sports"
+    ],
+    [
+      0.9115856885910034,
+      " anyway last night I did a live podcast that I actually thought was going to be at that was also filmed and that's going to be coming out sometime this week very excited about it it's like you start doing the sound like a fucking chicken your license after at what is she saying where is the solution that I can give her to end this conversation as quick as possible"
+    ],
+    [
+      0.9565450549125671,
+      " yeah I'm going to start doing those things I'm thinking maybe I'll do the next one you know if I have like a road gig or something like that I'll try and figure out a way"
+    ],
+    [
+      0.9236172437667847,
+      " to do something like I'm thinking my next one this is why my fucking this is why everybody like this"
+    ],
+    [
+      0.628533124923706,
+      " continents"
+    ],
+    [
+      0.9878825545310974,
+      " December 21st Jesus Christ"
+    ],
+    [
+      0.8675692677497864,
+      " Vegas Knights"
+    ],
+    [
+      0.9814069271087646,
+      " schedule"
+    ],
+    [
+      0.9058026671409607,
+      " sit right here this one I'm going to convince all you guys right now to become a stand-up comedian cuz this cuz this is what your life"
+    ],
+    [
+      0.8612995147705078,
+      " this"
+    ],
+    [
+      0.9213598370552063,
+      " Bread & circus right here could be your Lysol right there next home game Monday the 23rd so"
+    ],
+    [
+      0.8244082927703857,
+      " God dammit"
+    ],
+    [
+      0.8551735877990723,
+      " Saturday Sunday I could possibly do the Saturday"
+    ],
+    [
+      0.9907218217849731,
+      " I don't know"
+    ],
+    [
+      0.9228705167770386,
+      " seems like a lot of time and I blamed the conservative Democrats of the Republican Party"
+    ],
+    [
+      0.9009860157966614,
+      " I don't know what it is I actually I like to self you know if you're welcome"
+    ],
+    [
+      0.8838184475898743,
+      " trochanteric Sierra I allegedly had some reads for this week"
+    ],
+    [
+      0.78886479139328,
+      " I apologize it so podcast is falling apart cuz I've already called me back"
+    ],
+    [
+      0.9293789267539978,
+      " how is a bunch of fucking question the advertising and all of a sudden everybody goes to the fucking runs out of the street is you can tell it's going off the rails it might be a little bit short this week"
+    ],
+    [
+      0.8845240473747253,
+      " might be a little bit short this week but know that I'm going to make it up with a video"
+    ],
+    [
+      0.9275490641593933,
+      " podcast this week okay plus the Thursday afternoon podcast Bill we don't need excuses we need laughs we're stuck in traffic I have fire jumping over my car from one side of the 405 to another could you please come with a little bit of funny Mercedes wagon"
+    ],
+    [
+      0.8439443111419678,
+      " Mark was talking about check out Lewis Hamilton on Letterman"
+    ],
+    [
+      0.9315606951713562,
+      " Show on Netflix he gets Hamilton to do some laps and then lets loose get the fuck out of here"
+    ],
+    [
+      0.978823184967041,
+      " that's amazing"
+    ],
+    [
+      0.9205536246299744,
+      " I'm done I'm done Lewis Hamilton I'm done"
+    ],
+    [
+      0.9083306789398193,
+      " Ford expects out of his teammate versus what he's willing to do for his teammate Lewis Hamilton"
+    ],
+    [
+      0.9704479575157166,
+      " Mercedes"
+    ],
+    [
+      0.853325605392456,
+      " Lewis Hamilton in the fucking station wagon"
+    ],
+    [
+      0.9417439103126526,
+      " oh my God look at that"
+    ],
+    [
+      0.8865051865577698,
+      " you just Lewis Hamilton just said that station wagon is a great"
+    ],
+    [
+      0.9063858389854431,
+      " the greatest race car driver of right now who knows by the weather is going to be alright now I'm less excited if it was a Ferrari station wagon."
+    ],
+    [
+      0.9145119786262512,
+      " we should probably check what kind of tires are going to be running on today was a low blow"
+    ],
+    [
+      0.8676977157592773,
+      " I like your fucking love that car"
+    ],
+    [
+      0.8762045502662659,
+      " let me write a teaching exciting car to look at it's it's it's like one of those cars you look at it it's like it's moving when it's just sitting"
+    ],
+    [
+      0.8566135764122009,
+      " get it filled you enjoy the car will fuck you I get excited about things like station wagons"
+    ],
+    [
+      0.8189718127250671,
+      " Ed Shamy let me get back to it where the hell was I"
+    ],
+    [
+      0.7061920166015625,
+      " copy Obama's speeches"
+    ],
+    [
+      0.6911584138870239,
+      " are Billy plant-based tits"
+    ],
+    [
+      0.9584739804267883,
+      " do you realize the thought that just went into that insult"
+    ],
+    [
+      0.939391553401947,
+      " it's like I can't call him Billy sachets anymore I can't call him Billy booze bag anymore he's going to shame me fucking look you know I have great genes of Aging in the way I'm aging and all of that is I just fucking laid off the booze"
+    ],
+    [
+      0.9026691913604736,
+      " Buspar kills you man you know we makes you look sleepy but it just fucking it takes the fucking light"
+    ],
+    [
+      0.9655557870864868,
+      " you don't start looking like some fucking Macy Day fucking"
+    ],
+    [
+      0.8586347699165344,
+      " red-faced something that scares children on Thanksgiving all right"
+    ],
+    [
+      0.9476822018623352,
+      " Jubilee plant-based it's Michelle speaking tours are to receive kickbacks from the corporate overlords I never said that"
+    ],
+    [
+      0.9822831153869629,
+      " I never said that I'm just saying that they go and take that blood money that's what I'm saying before you sit there and tell me about the other fucking things that he does"
+    ],
+    [
+      0.9244178533554077,
+      " and how come you didn't take time to look at the downtown arena in Winnipeg earlier it was a handful of people from all walks of life it was more of an opportunistic nefarious is you're constantly suggesting I'm not suggesting it's happening"
+    ],
+    [
+      0.8932121992111206,
+      " just another perspective for you to consider I fucken give up with you fucking people give up"
+    ],
+    [
+      0.9065448641777039,
+      " do you really think the Iraqi people"
+    ],
+    [
+      0.9566996693611145,
+      " do you really think Iran is picking a fight with us"
+    ],
+    [
+      0.8866532444953918,
+      " do you really think that they would be picking a fight with us if they weren't sitting on top of a product that was with billions of politicians on both sides of the aisle how many speeches they have to give to these freaking people and then they need to do the bases"
+    ],
+    [
+      0.9115573167800903,
+      " he should be you know what you just gave a speech to a couple of fucking Banks never really research"
+    ],
+    [
+      0.8691717982292175,
+      " you should come to"
+    ],
+    [
+      0.7459654808044434,
+      " hello hello hello"
+    ],
+    [
+      0.8593724966049194,
+      " Jesus Christ Kelowna Kelowna British Columbia is a beat television show their National"
+    ],
+    [
+      0.9059372544288635,
+      " that's why I love Jim Jefferies if I said that enough times in the chest and fucking I had so much fun with him on David Spade show"
+    ],
+    [
+      0.9067676067352295,
+      " I felt like I was the the bike"
+    ],
+    [
+      0.9148207306861877,
+      " show usually on the person saying something that's going to get me in trouble and then there's somebody like from a sitcom sit next to me like a stupid why did I say all that shit I should have been like that Jim goes in Kentucky"
+    ],
+    [
+      0.8860903382301331,
+      " you talk about this to show how bad things are in Syria or turns out they used an explosion in Kentucky"
+    ],
+    [
+      0.9336844086647034,
+      " just an honest mistake I'm sure"
+    ],
+    [
+      0.8093997836112976,
+      " the fuc"
+    ],
+    [
+      0.9099403619766235,
+      " all right now this is in the New York Post New York Post in The Daily News either a couple of that lean really hard for video but it's really from Kentucky"
+    ],
+    [
+      0.9546117782592773,
+      " oh my God"
+    ],
+    [
+      0.9063008427619934,
+      " Jim what is Vince McMahon with do shit like this ABC News issued an apology after mistakenly a shortage of Turkish forces bombing the video that appears to have originated from Kentucky Gun Range"
+    ],
+    [
+      0.9310171008110046,
+      " but what gave it away all the white people in the trees George Washington's fucking belt buckle looks like but I know what Siri looks like in 20 fucking 19 Syria"
+    ],
+    [
+      0.8254402279853821,
+      " images talking to be fucking war and ship"
+    ],
+    [
+      0.8082379698753357,
+      " let's let's play a little more fair ticket series Syria"
+    ],
+    [
+      0.9618814587593079,
+      " nice beautiful beautiful places"
+    ],
+    [
+      0.7979379892349243,
+      " oh my God that was like the fucking strip on"
+    ],
+    [
+      0.8518466353416443,
+      " okay yeah this does not look like Kentucky I got to see this fucking footage that's hilarious I have a very special kind of said"
+    ],
+    [
+      0.9197543859481812,
+      " I lost it is it's ABC breaking into my computer trying to cover its tracks"
+    ],
+    [
+      0.9753510355949402,
+      " I literally just fucking lost everything"
+    ],
+    [
+      0.8858421444892883,
+      " Jesus Christ normally where I was fucking hit pause but I don't give a shit cuz I got it I got it"
+    ],
+    [
+      0.6574987173080444,
+      " hour long video here come your way"
+    ],
+    [
+      0.9380341172218323,
+      " Kentucky war video okay here we go"
+    ],
+    [
+      0.9211497902870178,
+      " let's talk and see it then I want to see it"
+    ],
+    [
+      0.8840179443359375,
+      " you know and defensive ABC I don't know what that means"
+    ],
+    [
+      0.9649747014045715,
+      " that took place at a Kentucky Gun Range"
+    ],
+    [
+      0.9486222267150879,
+      " Jesus Christ"
+    ],
+    [
+      0.880254328250885,
+      " people are going to act more crazy or are you fucking on your high horse liberals support it's a TV show somebody make"
+    ],
+    [
+      0.9265397191047668,
+      " set a little bit in the future and to fucking phony liberals after fucking the Apocalypse"
+    ],
+    [
+      0.7601872682571411,
+      " I'll be right there"
+    ],
+    [
+      0.9061597585678101,
+      " in the woman's got to sit there and act like she hates Hillary she talks to the fucking chicken the overalls"
+    ],
+    [
+      0.9266700744628906,
+      " ABC issued an apology talking gun range that out the dramatic clip first aired on Sundays World News Tonight this was a local news this is the made man with the headline in Syria at the fucking dude who shot the video"
+    ],
+    [
+      0.8630453944206238,
+      " turkey military Tom the footage which show is heavy gunfire aimed"
+    ],
+    [
+      0.9044734239578247,
+      " Dark Night Sky also appeared on Good Morning America Eagle at the Knob Creek bourbon involved gun range in Kentucky"
+    ],
+    [
+      0.7568110227584839,
+      " Twitter"
+    ],
+    [
+      0.9260904788970947,
+      " okay let's see how they just fucking glossed over this really quickly correction we taken down video that aired on World News Tonight Sunday and good morning America this morning that appeared to be from the Syrian border immediately after questions were raised about its accuracy ABC News regrets the error he didn't bring up it was actually from Kentucky"
+    ],
+    [
+      0.9145443439483643,
+      " apologize you leave Kentucky out of it"
+    ],
+    [
+      0.8800328373908997,
+      " isn't Kentucky an important part of the footage"
+    ],
+    [
+      0.8539288640022278,
+      " what whatever"
+    ],
+    [
+      0.8667322993278503,
+      " this seems to be like no"
+    ],
+    [
+      0.7320427298545837,
+      " standard"
+    ],
+    [
+      0.9614172577857971,
+      " any more like journalism and I have to think that I'm part of the problem considering something like myself can reach somebody people and not really read anything hey Billy Global tips love you Nexus Blitz special paper tiger thank you so much I recently listen to Kanye West new album Jesus is King my wife my wife just downloaded that she was at the Forum and really enjoy the music just serves just so you know I'm not Christian or black I'm Asian"
+    ],
+    [
+      0.904551088809967,
+      " all right this just took a left turn what is it have to do with anything but people around me are giving me shit for liking his music"
+    ],
+    [
+      0.9541242122650146,
+      " he's black he dismisses the oppression of the black community"
+    ],
+    [
+      0.8284789323806763,
+      " still thinks he'll thrive"
+    ],
+    [
+      0.8827517628669739,
+      " he can't say things that just missed the oppression of of the black community and still fake face he'll Thrive I know what that means"
+    ],
+    [
+      0.9112006425857544,
+      " can you separate him from his music his beliefs are what he projects into that and he probably believes people should do the same or shouldn't care is nonchalant"
+    ],
+    [
+      0.9764728546142578,
+      " he's nonchalant and you shouldn't support him as an artist"
+    ],
+    [
+      0.9517296552658081,
+      " hey buddy you got to get some better friends it's like I'm just listen to some music sky goes on to say or lady I totally disagree I think he's a great artist he is for sure a crazy person renting all kinds of stuff that doesn't make any sense but that's personal when I listen to music and when music affects me emotionally I think it's appreciate his music"
+    ],
+    [
+      0.8575855493545532,
+      " because for all the stuff he's been crazy what is it affected"
+    ],
+    [
+      0.9761358499526978,
+      " people got upset on social media and then made it about themselves and legislation was passed because Kanye said some crazy shit"
+    ],
+    [
+      0.8451172113418579,
+      " stop it which is why I don't know why celebrities"
+    ],
+    [
+      0.9004497528076172,
+      " do shit like that here's what I think about this is I talked about the Middle East every fucking podcast lately I write whatever I'm a meeting girl at church meeting"
+    ],
+    [
+      0.7089258432388306,
+      " hey Billy bitch tits"
+    ],
+    [
+      0.8855513334274292,
+      " what makes people makes me of vegetables and my girlfriend of 4 months recently broke up with me"
+    ],
+    [
+      0.9516472816467285,
+      " bee stings a little bit be a 25 if I get out there have a couple of Rolling Rock start talking some shit you'll be back in the game with her eventually anyway it's just out of her comfort zone and didn't put much as much effort in as I did anyway I'm looking to get back out there and meet my new city I can still get laid going to bars and clubs but I kind of want to meet a girl I can build a relationship with"
+    ],
+    [
+      0.973907470703125,
+      " I've always believed in"
+    ],
+    [
+      0.9762217998504639,
+      " doing some sort of activity rather than going out to bars"
+    ],
+    [
+      0.9086921811103821,
+      " cuz there's always a chance to meet booze bag"
+    ],
+    [
+      0.9171094298362732,
+      " smoker fucking lunatic whatever he joined like literally just stupid shit a softball league stuff like that with his other Addicted by the way you looking to meet up"
+    ],
+    [
+      0.9560704827308655,
+      " shit like that this all kinds of fucking like I never do this cuz I was just went out and acted like an idiot but like there's all kinds of young adults healthy shit and they put together groups cuz they also want to meet somebody and get those clusters of people riding bikes"
+    ],
+    [
+      0.9333413243293762,
+      " can't help but notice that you got a univega"
+    ],
+    [
+      0.931658923625946,
+      " I also have the univega conversation I like most of the ideas Church preaches don't cheat don't kill anybody blah blah blah the seven deadly sins of the biggest atheist of the world cannot do you think it's a good setting yourself to show up there it's"
+    ],
+    [
+      0.8923324346542358,
+      " just say listen I'm actually atheist Church"
+    ],
+    [
+      0.854275107383728,
+      " are you in a little surprised early on"
+    ],
+    [
+      0.9217789173126221,
+      " get out that's right up there with the third nipple so so I would have to say"
+    ],
+    [
+      0.9663069844245911,
+      " I don't know that I would do that saying that you're an atheist"
+    ],
+    [
+      0.8851431608200073,
+      " I want you could actually join the group would just be like that I could settle down with"
+    ],
+    [
+      0.9363124966621399,
+      " then she might want to take you on like you know she can solve"
+    ],
+    [
+      0.9626262784004211,
+      " your spiritual dilemma"
+    ],
+    [
+      0.8690485954284668,
+      " the comedian me want you to do it I don't know you heard anybody just like a gunslinger"
+    ],
+    [
+      0.9240083694458008,
+      " I don't believe in your cry stuff"
+    ],
+    [
+      0.871938169002533,
+      " do believe it how you live your life"
+    ],
+    [
+      0.8121593594551086,
+      " I would Snicker when you talk about curing live person"
+    ],
+    [
+      0.9741225838661194,
+      " you don't give me any advice"
+    ],
+    [
+      0.9164208173751831,
+      " take out my pouch of tobacco or do you have any tips to meet a nice girl for a relationship but I have been with my wife forever I I wouldn't even begin to the technology that is changed"
+    ],
+    [
+      0.9181047081947327,
+      " I met my wife before social media"
+    ],
+    [
+      0.9057163596153259,
+      " we actually had the ball yet balls to fucking walk up which I did she reject me like fucking 9 times was hilarious and what did she do to me"
+    ],
+    [
+      0.9313003420829773,
+      " fucking ridiculous you know I like cats but if they're all over you most of the girls I've just been hookups or short planks I got a late start to go fuc yourself all right I would go to bars I would play softball and ride a bicycle I go to church I just fucking do it all gives a fuck"
+    ],
+    [
+      0.9280965924263,
+      " amateur place if you want to try to meet some of the actually be in a relationship with but you know yourself that's all I know about sports when I was growing up and that's how I get Subway but I stopped and bars I was bad boys cuz I think they knew it was coming"
+    ],
+    [
+      0.974829375743866,
+      " amphibian pets"
+    ],
+    [
+      0.9570246338844299,
+      " who doesn't love something that thrives on land and water"
+    ],
+    [
+      0.9600237011909485,
+      " beer stein"
+    ],
+    [
+      0.9713560938835144,
+      " sure the upkeep is terrible but who doesn't love a good scene"
+    ],
+    [
+      0.9127022624015808,
+      " I think Patrice loves fish tanks"
+    ],
+    [
+      0.9611519575119019,
+      " would you ever get any lizards"
+    ],
+    [
+      0.9471443295478821,
+      " no"
+    ],
+    [
+      0.7668889164924622,
+      " fish eater"
+    ],
+    [
+      0.9482830762863159,
+      " that's like you know"
+    ],
+    [
+      0.9374841451644897,
+      " involved water it's just like it's just an expensive fucking hot or it's it's expensive with your time as fucking time once you get that goddamn fish tank and then you got to get you got to clean you got to get the shit out of fish compatible with pH balance"
+    ],
+    [
+      0.9390173554420471,
+      " I'll tell you right now anybody was a fucking fish tank out here in LA with earthquakes is out of your goddamn mind fuck all of that"
+    ],
+    [
+      0.7561875581741333,
+      " I I don't want to see you."
+    ],
+    [
+      0.9171557426452637,
+      " I would never have a blizzard I grew up around people who was shut down emotionally relationship okay"
+    ],
+    [
+      0.9747138023376465,
+      " I like dogs"
+    ],
+    [
+      0.9362205862998962,
+      " that's what I like I like cool ass fucking dogs please don't stick shut off the chocolate brown version of my dog Cleo so I got to see for a week and a half which is fucking awesome"
+    ],
+    [
+      0.8981696963310242,
+      " technically still my dog cuz I still pay for her too long fucking story of Jesus"
+    ],
+    [
+      0.755708634853363,
+      " I like"
+    ],
+    [
+      0.92279052734375,
+      " I'll take that over a lizard in God damn day I'm not like that I got I don't get this fucking snakes and all that shit fucking slimy they don't give a fuck if they could dogs are actually you know. Do you know your friend on a person"
+    ],
+    [
+      0.899895191192627,
+      " sit there like a lizard person are there there"
+    ],
+    [
+      0.8931758403778076,
+      " Chills by an animal because at least a show fucking emotion"
+    ],
+    [
+      0.9567436575889587,
+      " they trying to put you out of your fucking misery for the most part"
+    ],
+    [
+      0.852656900882721,
+      " grab you by your throat and shot down and took"
+    ],
+    [
+      0.953788161277771,
+      " as opposed to"
+    ],
+    [
+      0.9643020629882812,
+      " I'm still trying to shake off the last time I went on the Rogan podcast shows about animals"
+    ],
+    [
+      0.8143082857131958,
+      " Komodo dragon swallowing that fucking monkey of expression"
+    ],
+    [
+      0.8540780544281006,
+      " he just fucking the Bulls just standing there like an asshole running away from the"
+    ],
+    [
+      0.8043060302734375,
+      " chicks added a few times and it comes up the lights going to get infected"
+    ],
+    [
+      0.8297085165977478,
+      " what is the bull gets weaker and can't stand anymore"
+    ],
+    [
+      0.939738392829895,
+      " Debbie Comes This critical point where the bull can't defend itself anymore and the dragon feels it's safe enough to go in and begin eating and the fucking thing isn't dead yet so fuck reptiles"
+    ],
+    [
+      0.9215579628944397,
+      " I know you guys are all going to fucking send me try to send me videos of that fucking bear attack in that goddamn give a shit I don't like watching things suffer"
+    ],
+    [
+      0.814312219619751,
+      " all right it's going to be here for this week it's a little bit"
+    ],
+    [
+      0.8990650177001953,
+      " we can all be out there pull up check out the Vegas Knights against maybe I can do that"
+    ],
+    [
+      0.9411065578460693,
+      " you know I got some gigs coming up I got two more NBA teams on NHL teams to see all four professional sports I saw the Senators at the fucking"
+    ],
+    [
+      0.8291048407554626,
+      " rnrf wait a second what is that series I'd last I saw was to 1"
+    ],
+    [
+      0.7289299368858337,
+      " 21 falcon"
+    ],
+    [
+      0.9291542172431946,
+      " Washington Jesus Christ I get it I got some text messages"
+    ],
+    [
+      0.9649426341056824,
+      " Washington"
+    ],
+    [
+      0.790709376335144,
+      " supposed to say Senators National sorry oh my God she was in his tight it up"
+    ],
+    [
+      0.8550829887390137,
+      " no they didn't it's 3 to Jesus Christ his whole fucking series is flying by"
+    ],
+    [
+      0.9865152835845947,
+      " wait a second"
+    ],
+    [
+      0.9613430500030518,
+      " so the Nationals won the first two"
+    ],
+    [
+      0.9559532403945923,
+      " Houston must have won game 3 Nationals win game 4 Astros win game 5"
+    ],
+    [
+      0.7973167300224304,
+      " tell you right now Josh Adams go fuck yourself enjoy life"
+    ]
+  ]
+}

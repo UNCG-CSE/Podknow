@@ -1,1 +1,1374 @@
-{'Stats': {'PodcastID': '1201940175.mp3', 'DownloadTime': 1, 'AudioLength': 3823.2035, 'OriginalFileSize': 30589724, 'FlacFileSize': 302994020, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 1254.9251928329468, 'DownloadSuccessful': '23.88622546195984'}, 'Transcripts': [[0.9725595712661743, "this show is brought to you by cash app as you know cash app is the simplest way to spend and save money and now it's the simplest way to try to grow your money introducing"], [0.9699529409408569, ' stop investing unlike investing tools that only let you buy entire shares of stock invest as little or as much as you want this way when your favorite company stock is just a little too expensive you can still own a piece with as little as $1 and because cash app is directly connected to your bank account there are no 425 day waiting periods or for inbound transport transfers so you can start investing today. Brokerage services are provided by cash app investing a subsidiary of square and member SI PC download cash app from the app store or Google Play Store today.'], [0.959026575088501, " hey guys what's up its episode 144 of congratulation can't believe we've done 144 what we have and we've got some I'm on tour man I'm at this is the bomb on the Follow the Leader tour November 1st I'll be at Foxwoods Connecticut November 2nd I've got a few remaining tickets for AAA in Pennsylvania and Bethlehem religious and then some sold out ones I think in Rochester I think miserly single seats left at Royal Oak Michigan Detroit sold out New Buffalo Michigan where is it Minneapolis is my taping I've been doing my"], [0.93400639295578, " Maya show at the at the Improv I've been performing there a bit running my our it for Minneapolis for to shoot in Minneapolis a my brothers directing it cuz we like to try keeps it in my fam but keeps it in the family I can't aliens we are Italian don't remember who says I think it's AJ the rapper"], [0.9625510573387146, " I can't remember we keep sending the fam like Italians anyway whatever so Minneapolis my brothers directing it so we're all set to do that and that's that's so if you want to go get tickets at chrisleigh a.com we got some coming up in Hollywood Florida El Paso Texas Houston a few shows Peoria Illinois you know how it goes Chicago come celebrate New Years Eve with me and that's and that's what's up so after that shit man after I shoot this special I'm going to start doing new material I've been doing the store for almost 2 years I think just trying to fucking get bags all over the fucking place and do different cities and shit you know I have a shirt on that site and kind of"], [0.966400146484375, " I like the shirt but it's definitely the same color as my body so it makes me look fucking"], [0.9472016096115112, " washed out all good yes lost some hair fucking woke up put my hands through my fucking scalp looked at my hands are a bunch of pieces of hair but I'm not even forty man is fine you don't know what dude I'm so goddamn I'm a loser million the youngest guy from random channel changer around in the fucking next to my computer for some reason now to even close so yeah dude you know what's coming out you know what's coming up this week"], [0.9456906914710999, " you know what's coming up this week man fucking Halloween or if your cock you can be like All Hallows Eve you know what I mean so Halloween is coming up and I know we talked about this because we've had Halloween shows before at the at the congratulations and shit cuz we've been doing this podcast for about three years but let's just set up some reminders man chicks and also douchebags Halloween is one day not nine days so you celebrate on the goddamn day and that's it you don't celebrate 7 weeks early dude I mean I swear to God people started celebrating in August I was out"], [0.9488984942436218, " by the way my friends fucking friend had an outfit on I thought he was I thought he was dressed for Halloween and you wasn't he was just wondering if you were just fashionable mad mad I was like it's a little early for the dresser problem and found out that that's his just actual outfit got mad got mad so good"], [0.9636303782463074, " where the mostly the regular shit if you want to get crazy and put one scarf on or wear sunglasses as the fucking sun goes down fine but don't get crazy at night time sunglasses be blind blind I make fun of nobody who wear sunglasses at night do you know why because it's not fair because they're blind and that's it. No exceptions if you wearing sunglasses at night"], [0.912657618522644, ' you get extra rights your blind okay'], [0.9265764951705933, " yes so you know it's like Kanye's bringing back the baggy jeans getting all pissed it's all good man"], [0.9234189987182617, " baggy jeans know I fucking bagagens band member baggy jeans member used to wear baggy jeans member James Van Der Beek Varsity Blues why shot you're like does he have another does he have the rest of Dawson's Creek in his legs dude James Van Der Beek"], [0.9566301107406616, ' no'], [0.9518671035766602, ' have a little bit more fucking tight pants'], [0.9074789881706238, " I remember I would wear tight shirts amount will be like that shirt doesn't fit and I was like yeah it does anyway that's a fucking regular story"], [0.8901845216751099, " fashion is always going to be like it's it's like Cutting Edge until like you're like it's like annoying until it's cutting-edge in the you like okay cool if I swear to God I don't want to I don't want to have to wear baggy jeans again dude"], [0.9431275725364685, " it'll end up happening dude I'm going to have the baggiest fucking jeans"], [0.8518874645233154, ' so I have a baggage season 1 look like fucking Kevin Smith'], [0.9138942360877991, " so but Halloween's coming up Halloween do chicks can't wait for it to be Halloween I was thinking about this man"], [0.9593315124511719, ' I was like thinking about like you know cuz I see on like Instagram going out'], [0.945506751537323, " to like what I see on Instagram like you know my friend was showing me this fucking chick story and she was like nine other chicks and they were all dressed like fucking straight up hookers dude here's the thing man I know this is like a hack premise but like if you dress up as a slut fucking thing for Halloween you're a slut yeah all good yakin"], [0.9292109608650208, " do anything over your fucking nipples are like a leaves and you're like yeah but I'm poison ivy great how much is it"], [0.8372407555580139, " get up dude you're a sexy mailman you're a sexy male woman oh you're a sexy dog catcher all good"], [0.9740331768989563, ' how much how much is it for a second'], [0.9823042154312134, ' dude'], [0.8986993432044983, " you know just relax relax Halloween is all good put on a fucking UPS outfit button the shit up stop showing fucking cleavage relax yes I'll let you know"], [0.9136297106742859, ' FF not fine but how much'], [0.9366782307624817, " it's all good but you start unbuttoning that UPS outfit how much"], [0.8424516916275024, ' hundred'], [0.798381507396698, ' 4000 yeah class'], [0.9421775937080383, " oh you're a fucking"], [0.8252599835395813, ' Pillsbury Doughboy with a skirt on all good how many stacks'], [0.9720540642738342, " and by the way it's Monday"], [0.9262861609458923, " it's all good but remember it here remember who said it Chris D'Elia set it yeah fukin"], [0.9506096839904785, ' you know'], [0.9485541582107544, " for the guy that's like fucking how annoying is just how annoying is this outfit"], [0.9592082500457764, " the guy who fucking works out a lot and just takes off his shirt and paint his body green and he goes as the Hulk hey man you're making everybody green at the party"], [0.8903598189353943, " you're rubbing up against hookers making them grain good I have stacks for the sledding UPS girl and now she's green guy"], [0.9362812638282776, ' I should get half off if the fucking UPS sexy hooker is now fucking a little bit green cuz of the way you pay for this route'], [0.8916295766830444, ' hey hope you pay for this shit'], [0.9451575875282288, ' you know how fucking workout guy is it to go as like a fucking wrestler you know'], [0.9483342170715332, " I'm Hollywood Hulk Hogan"], [0.9501740336418152, ' I got a blonde mustache in a beefy'], [0.9362702965736389, " dude I just don't get like if you rent if you're a dad and you raised a girl and and like she's like get to the age where"], [0.9810906052589417, " whatever she's fucking"], [0.9113381505012512, " 1819 I don't know what it starts but like and then she's just all of a sudden you she's like Hey Dad check out my Halloween costume from and she's at cutting college and she sends you like fucking"], [0.9820141792297363, ' look'], [0.957362711429596, " look I'm fucking you know"], [0.8002194762229919, " I'm a Teletubby but it did was at its parts are cut out"], [0.9410868287086487, " instead of a little television that they have it's just her fucking tits are out"], [0.9665381908416748, ' why do your tits have to be out'], [0.9818404316902161, ' what what chick wants what I want to know is what chick wants more attention from guys'], [0.9508832693099976, ' I want to know what girl wants more attention from guys all you have to do to get attention from guys is going to Starbucks all you got to do is walk in the home deep'], [0.9230422973632812, " I shortened it Home Depot all you got to do is walk into a fucking IHOP and you're going to be"], [0.9232134222984314, " a fucking hooker UPS check for Halloween for All Hallows Eve hey that's what it is"], [0.9595050811767578, " and then the guy who's the Hulk and his fucking green makeup is smearing all over his fucking shoulder and he's getting it on your girl"], [0.7776061296463013, " and you're like you going to pay you going to buy her drinks not a problem just a hug man"], [0.9616668820381165, " like I just don't get Halloween man you're fucking 23"], [0.9164316654205322, ' children'], [0.8070490956306458, ' a boy'], [0.9091819524765015, " I just don't I don't you know the guy to"], [0.9053745269775391, " hey man I'm risky business, I got a leather jacket on and no pants K hole"], [0.9031369090080261, ' legal illegal'], [0.9350817203521729, " lock him up dude hey I'm dicks out guy lock him up"], [0.9426714181900024, " dude how awful our Halloween costumes for real like it would if like for real those were the costumes that they used in movies and like and shit like that like if the X-Men weren't done by like like costume designers they were done by like people who got drunk on Halloween that movie would rip did I'd watch that like if they made a movie if they made the movie like dark Phoenix and they were and they were like legitimately like it was just like Nikki's outfit she's like I'm dead lyrics"], [0.968112587928772, " and she's the girl"], [0.7768714427947998, ' IMAX men'], [0.9609724879264832, ' and then it was her saving the world'], [0.9402856230735779, " and some guys fucking Colossus and he's just all painted silver and he's got it in his eyes little bit and keeps fucking rubbing his eyes cuz it's fucking up his contact and then at the end of the movie by the end of the movie Dark Phoenix is a little silver to cuz he keeps touching her"], [0.9000483751296997, ' dude how many people are dressing up as Billie eilish to it in this week'], [0.9372652769088745, " I love the outfit that were people think they're going to be clever and then they fucking and then they get to the party and there's like seven other Billie eilish's and they're like I thought it was clever I know the exact same outfit of the picture that they Googled as someone else even though Billie eilish wheres like 75 different outfits they picked the one that's popular on Google and they see someone else and I got you and they pretend friends with her"], [0.9376777410507202, ' or like how about the set how many sexy Jokers are there going to be'], [0.9004758596420288, ' in like a fucking cropped you know'], [0.9826385378837585, ' purple suit'], [0.9463858008384705, " oh you know what the worst outfits are are people who think they're funny with the meme costumes when they're like when they're like that the hold something dude if your if your costume involves you holding something to stand next to it go fuck yourself huh"], [0.9436841607093811, ' like the meme the Y tho meme'], [0.9045884609222412, ' or if you have to do a move so people get the the costume you know like this this meme somebody I saw somebody dressed up as the the lady goes like'], [0.9176169633865356, " that's the lady was like this like fucking with her hands on her knees and like you're like who you're dressed as the guys I got a lot of second and then he gets on his fucking he puts his hands on his knees and he like that fucking idiot meme thing who cares the best thing you can do"], [0.9547218680381775, " the best reaction you can get on Halloween from your costume is this shit bro that's the worst"], [0.9534522891044617, ' best reaction you understand'], [0.9173141121864319, ' oh shit look'], [0.931204617023468, " the guys dressed up as a Freudian slip he's on a slip and it says fraud on his chest"], [0.9925773739814758, " anyway let's get drunk"], [0.8932956457138062, ' the meme based Halloween costumes you know'], [0.940105140209198, ' the guy dressed up as you know I had to do it to him guy head guy you just look like a date rapist'], [0.9515304565429688, " why did I look grayish it today it's all good man do the my pasty white yep does it matter nope does life still rip yes dude fuck yeah man rips you know what I'm being for Halloween pasty that's it I'll put on a shirt maybe I'll put on some special pants button pasty guy"], [0.9132441878318787, " how about the fucking thing that goes like this and Halloween ever if you're somewhere"], [0.9800049662590027, " if you're somewhere in Halloween during Halloween the day and you can't hear this"], [0.9504134058952332, " you're in a basement far underground or you're in the middle of the fucking rainforest because every like 19th house thinks it's like why is that a fucking thing that's nothing that's not even a noise that is made ever anywhere but on Halloween"], [0.9657516479492188, " it's not a ghost"], [0.8655478954315186, ' you hear ghost if you working Google ghost and you hear you you you you put a fucking'], [0.9056819081306458, ' sing on YouTube the boots the go so go or if you fucking Google for real ghost the best still here is this'], [0.9012181162834167, " you're not I mean I love that shit when you're watching"], [0.9282333850860596, " if you better speak speak to us if you ever say something we're friendly we come in peace"], [0.792927086353302, " what's that"], [0.8344233632087708, ' how do I get real cold all the time'], [0.9203612208366394, " feel that cold better Cuts with dog head and he's just like I got to tell you man I never felt so cold in my life it was just like a gust it was a goal of a sudden I was in the Arctic clutch bag"], [0.9938145279884338, ' Rodger'], [0.9270981550216675, " if you're there say something give us something"], [0.8625194430351257, " I think it's called I got called did you feel that"], [0.866227388381958, " and then it'll be like the EKG in the like play it back and I'll be like"], [0.946820080280304, ' oh shit did you hear that'], [0.9266813397407532, " play it back and then he's like a cut so tall guys like you very clearly said fall grass you very clearly said for Agri cuz that's what he ate that was his last meal before fucking that was his last meal before he's on death row for fraud"], [0.9548258185386658, ' make a noise'], [0.9106876850128174, " it's just a pipe you know it's a pipe fucking clanking its house noises"], [0.9659145474433899, ' anyway what the fuck is'], [0.9555832743644714, ' like what asshole decided that was going to be the noise for Halloween'], [0.9243764281272888, " I'm unplugging all that shit when I get there and then there's always that sucking hahaha"], [0.9256976246833801, ' not scary just a creaky door he is WD-40'], [0.9390214085578918, " I'm walking around with WD-40 on Halloween and sucking my unplug in hand"], [0.9380073547363281, " and when I get to a place where I hear creaking doors I just sprayed in the people's faces and then unplug with the other hand I unplug the fucking what is that thing even called"], [0.8195964694023132, " have you ever think that you go to the Halloween stores bro there's so much weirdness about Halloween"], [0.9469758868217468, ' you know like Halloween stores you can just go to a Halloween store and it like opens in fucking'], [0.9582790732383728, ' September and then just closes November 1st'], [0.9616976976394653, ' and there are 45 of them in Burbank California'], [0.9806968569755554, ' you know'], [0.9340215921401978, ' they just open in September and then and then come November 1st literally shut the fuck down until next September like hey'], [0.9450433254241943, ' how do you stay in business all good how you stay in bed is what I want to know is how do you sell enough fucking which masks and machines'], [0.9826511740684509, " from September 20th to October 30th to stay in business when there's Amazon"], [0.944640040397644, ' so fucking weird that Halloween stores are a thing I would walk by 1 all the time when I was in NYU and I would just be like houses fucking thing stay in business and they have the same costumes in the windows in fucking March'], [0.768001914024353, ' is there a werewolf'], [0.8686912655830383, ' so weird here we go add to my baby'], [0.9623855948448181, " my baby's skillshare skillshare is an online learning community with thousands of amazing classes covering dozens of creative and entrepreneurial skills you can take classes and everything dog free and creative writing to design productivity and more other classes illustration graphic design creative writing animation Fine Art music logical things so whether you're returning to a longtime passion project challenging yourself to get outside your comfort zone or simply exploring something new skillshare has classes for you"], [0.9366453289985657, " they sent us a bunch of course it to check out and I peeked at the entrepreneurship section you know because I do business and I'm a businessman and I watched entrepreneurship hustle from business plan to reach success and dude hello love me"], [0.9545810222625732, " look at me now join the millions of students already learning on skillshare today that's millions of people with a special offer just for my listeners get two months of skillshare for free that's right you'll share is offering congratulations listeners two months of unlimited access to thousands of classes for free to start up go to skillshare.com congrats again go to skillshare.com / can start your two months now that's skillshare.com congrats don't be an idiot guys you know you want to learn"], [0.8228850364685059, ' Blue Apron one thing comes to mind when I think my boyfriend dude'], [0.9505723714828491, " come back to the magic of your kitchen with new flavors and unexpected culinary combination not an obvious Chef hello I'm a chef now she's inspired produce step-by-step cooking techniques and Chef tested recipes are just the beginning because when you make dinner with blue apron you're not just cooking"], [0.9186167120933533, " an artist and animator and a chef table plans the 2-person plan for person family plan and the w w freestyle plan to choose from a variety of Chef design recipes and get perfectly proportioned perfectly portioned ingredients delivered right to your door with a Friend helps make cooking at home as sustainable part of my weekly routine upcoming upcoming meals include is that are chicken and roasted squash if you can't pronounce it you know it's good cheesy pesto baked Cavatelli"], [0.9540267586708069, " zesty beef and gnocchi my mom would get it to start making delicious brag-worthy meals at home without the hassle try Blue Apron check out this week's menu and get $60 off when you visit blueapron.com flavor.com Blue Apron a better way to cook"], [0.9397249221801758, ' so yeah'], [0.6727661490440369, ' like a buffer real'], [0.9702794551849365, ' what am I talking about about the'], [0.9270078539848328, ' Halloween store'], [0.7625164985656738, " I'm Andy's cars are fucking crazy"], [0.9397238492965698, ' I got buddies fucking'], [0.9567014575004578, ' being evacuated'], [0.9170945286750793, ' yeah'], [0.8278745412826538, ' but what were they saying about the Halloween stores'], [0.8463308811187744, " yeah I don't get how the holidays that are just"], [0.9490396976470947, ' the holidays that are just for drinking are weird that they turn into it I mean Halloween is kind of one that seems like that and then but like Shay Patrick day was a real holiday and then all of a sudden became the thing where everybody just like drinking and fucking fighting and raping and shit'], [0.8863025903701782, " fucking one fire his phone went off that's why I'm on fire all good this texting thing that I'm doing by the way that people are saying"], [0.958353579044342, ' this is the weirdest thing to me my number 818-239-7087 go ahead and text me'], [0.9459607601165771, ' is this truly baffled this boggles my mind this this whole thing this community app thing I give my number out if you can text me directly and I text him back'], [0.9644632339477539, ' there are very few a very small percentage of people are like'], [0.9086664319038391, " oh yeah it's fucking he's just trying to get your info like he's getting making it's the money thing like I look"], [0.9521677494049072, " it's a it's a it's a it's a I'm making zero money from texting you it's not a thing where I'm making money from it $0 there are people in my Instagram comments like or your mother fuck you trying to use you doing this is all seller no money zero money zero money so I'm able to Now text people if they sign up for this which is great fine if you want to do it awesome if you don't want to do it don't do it but some people are like it's a Scamp what I want to know is what's the scam"], [0.9431883692741394, " what is the scam what it is nobody's ever more specific than it's a scam what's the scam what is it you text me and I text you back and now I own your liver"], [0.8591713309288025, " I want to know these people are like what's his are they talk about it sometimes I like this horse camp what's the actual scale"], [0.955319344997406, " what is it I don't even know what example to make what could it be now we text I text people right now I go on the thing right now"], [0.9458135962486267, " look right here what some guy Colin wrote me what do you do when you see a Spaceman I'm riding back I don't know look and I'm writing what the fuck are you talking about I just texted that to Colin"], [0.9876291155815125, ' now what'], [0.9392536282539368, " I siphoned the money from his bank account into mine what's the scam"], [0.9166510701179504, ' and then people like well they just want your direct information so you can Dude anybody in the world can Tweed anybody in the world and make their phone go ding'], [0.9546096920967102, " what's the difference about having the fucking to being able to text someone people love to make some shit out of nothing dude also who gives a fuck man who gives a shit who gives a shit if you have my personal information who are you fucking"], [0.9658839702606201, ' get the Riddler who gives a shit who are you fucking Bin Laden who cares'], [0.9540586471557617, " show fucking what now I know everybody now I know who's texting me that I know their name and I know what city they're in so what what does that have to do with scamming anyone"], [0.8894553184509277, ' I just dissed fucking dumb shit motherfuckers'], [0.9162068963050842, ' I drink water all you motherfukers'], [0.8989486694335938, " I'll drink water till I cheer up dude there's no Scam Man"], [0.9777282476425171, ' you text me I text you'], [0.9286878705024719, " that's it baby yes it's the same fucking thickest Instagram DM me right now it's the same shit either way"], [0.8763663172721863, " is the dumbest shit when people are like are you at this fucking what is the fucking wall is the sky may I don't got it"], [0.9525181651115417, " sometimes I fire out of shit I was in San Diego I'm like San Diego I text fucking phone numbers I'm like I'm here San Diego come out of the show I sent a little video about me walking backstage that all the people in San Diego by boom that's it no scam needed I'm already fucking I already you don't like I just it's just so fucking weird the people it to me is when people are like the government's trying to get you into some information and use your facial for technology and facial recognition and Sid and they want your info and it gives a shit I live a regular life I didn't do anything shitie I'm just chilling I never robbed the bank who gives a fuck I'm 39 my name is Chris identify as a female"], [0.9500350952148438, ' who fucking cares now that you know that what you going to do with that info so my legs up do you own my kidneys are you siphon in my fucking account be taking the dollar off every time I drink a goddamn iced Americano and putting it in the fucking offshore Swiss care'], [0.9702898263931274, " who fucking cares dude my name is Crystal Leah I'm 39 on the youngest man you've ever fucking Matt and I identify as a Korean filmmaker who gives a shit"], [0.9593391418457031, ' now you know'], [0.9078388214111328, ' you motherfukers'], [0.9778689742088318, ' I drink so much water right there'], [0.961768627166748, " you should be proud of me this shit is fucking a silly goose time life will continue to rip and life will never not rip it will always be on the up whether you fucking have acne all over your face you lose your fucking feeling in your feet or you fucking develop can't life still can rip because it's about the attitude"], [0.8924985527992249, ' lose all your money life still reps'], [0.9185834527015686, " if you want it to rip look at the sky look at the beauty there's a fucking Rabbit running around maybe you're in North Carolina and it's fucking humid shit but you're living baby that's wet means your body is overheating because you're alive"], [0.9316123723983765, " and life reps and yes you know my underwear is wet and I wish I didn't wear jeans today but it's all good ringgit"], [0.928877592086792, " quip what actually makes a better toothbrush I've been thinking about this actually my whole life ever since I remembered my thoughts in the beginning what makes a better toothbrush industrial strength power would be like 6 years old and I be like is it industrial strength power ib7 rain I'd be like as it claims of miraculous trendy ingredients"], [0.8319742679595947, ' and then I and then I got a little older maronas like 8 and 1/2 I was like is it multiple modes'], [0.9618427157402039, " if you ask your dentist will tell you it's not about the brush and more about how you use it that's why quip was created by dentists and product designers to focus on what actually matters for your oral health healthier habits sensitive vibrations with a built-in timer which is very important the guide gentle brushing for the dentist recommended 2 minutes with 30 second pulses ensuring in and even clean I do that I'll shut do it for a little bit and then we'll go and then I'll switch over to the side and my teeth are whiter than Christmas"], [0.9326388239860535, ' good habits matter to live a healthier life so help form fresh oral health habits with quip'], [0.94915372133255, ' what starts at just $25 and go get your first refill free at getquip.com congrats this is a simple way to support our show and start brushing better but you have to go to get quip, congrats to get your first refill free go right now to get to UI p.com congrats'], [0.9538587331771851, ' intersect'], [0.9714472889900208, " Lansing intersect Festival by AWS where music art and Technology converge look I'm a big fan of music I'm a big fan art and a big fan of technology and when those confers converge hello Boston taking place December 6th and 7th at the Las Vegas Festival grounds right on the Vegas Strip hello could you have Festival in a better place no in Narnia what does Narnia exist no so let's do it in Vegas hello intersect"], [0.9689232110977173, " you did that there it's presented by Amazon web services born out of the massive after party for the reinvent conference now open to the public for the first time ever show your welcome it featured the Foo Fighters Anderson paak Kacey Musgraves back flying Lotus Leon Bridges her spoon Jamie XX Thundercat churches bread Carlisle and more Headliners to rival that of Coachella and lined up enough Tech projects to build itself is a mini South by Southwest Southwest Southwest South by Southwest is intersect for a limited time congratulations listeners can save $10 on a two-day general admission tickets to intersect by going to intersect fest.com and entering offer code congrats to unlock the deal that intersect fest.com and promo code congrats to save yourself some cash and be a part of this incredible experience"], [0.932031512260437, " Clovis is brought you by Kesha the official app of the log cabin and say some words wrong is it okay e s going to get mad that fun the show maybe it's okay ultimately it will be okay"], [0.9463424682617188, " Halloween doesn't scare me I used to get so fucken terrified as a little boy like fucking straight up straight up terrified"], [0.9020496606826782, " one time I couldn't spend the night at my friend's house I have a friend that lives next door and I couldn't do it match prevented"], [0.9495653510093689, " he lived next door and I would try to go to sleep next to her that I would just be like fuck it eventually I would just be like going home and then I just run next door and go home and knock on the door in the lemonade she bad what's up with that I couldn't do it Mommy"], [0.7877053022384644, ' as you block her I get it will get you sleeping back tomorrow'], [0.8758199214935303, ' I hated it'], [0.8739487528800964, " I know I'm 39 now and yeah I'm still the youngest guy alive but I was even younger"], [0.9633800387382507, ' could you imagine even younger'], [0.9226056933403015, ' 39 it was the youngest man alive but could you imagine one day'], [0.94197016954422, ' long ago'], [0.844940185546875, ' it was younger'], [0.8691259622573853, ' anyway'], [0.8633314967155457, " so I was my mom was like you know it's okay if you try to"], [0.9633684158325195, " it's okay to be scared cuz I don't feel bad about being scared you can be scared"], [0.9537409543991089, " it's also okay to miss sleep just try to stay over your friend's house even if you're up all night it's okay and that was her to fucking would send you know what you was really sweet for saying that and even as a kid I knew that she was like like on my side also like a little bit fed up and I was like yeah but it makes sense cuz like I should try to do that because I want you to try to stay over so one day I'll tell you the story Freddy Krueger and Chris Segal"], [0.9804239869117737, " whatever I'll do it again"], [0.9477182626724243, " I don't think I have actually to be honest and like I told the story Chris Segal who was one of the cool kids because you lived on the other side of town he was friends with Justin McKinnon and just McKinnon was really cool to they both like Freddy Krueger a lot Justin McKinnon one time at a birthday party I need a sleepover and I wouldn't even go to the sleepover part I told my parents to pick me up at night because they were never going to watch psycho but before that they watch the bucking bulls game and Michael Jordan was playing and anytime Michael Jordan 1 for a shot her I went for a slam dunk afterward Justin McKinney would say"], [0.913664698600769, " he would do it in a high pitch voice and I even as like a youngster I be like what the fuck is he doing that in my old man brain he'd fucking slam dunk and Justin McKinnon would go what would it be"], [0.9027515053749084, " anyway I left because they're going to watch psycho and my dad is like a kid with a new watch psycho the kitchen be watching Psycho another like it never once I go if you think psycho scary"], [0.8233850598335266, ' I left I went by guys New Orleans by and Justin McKinney 121 home'], [0.9589727520942688, " one day just became his friend Chris Segal said hey won't you spend the night this weekend and I said okay because I thought about what my mom said I was like you know what maybe I'll just spend the night and I'll be awake all night but who cares if I knew I couldn't get home because Chris Eagle lived in the Far Away part of New Jersey like it was like you know 20 minutes away on the other side of town I knew saying yes and confirming the sleepover would absolutely make it saw that have to stay over cuz I can call my mom at like fucking one in cuz she was sleeping so I can come pick me up then"], [0.9438661336898804, " shop I got to Chrissy Bo's house and apparently now that I'm older I realize my mom told Christy goes mom I know you called ahead lunches I know Christy Alexa Krueger is real scared of Freddy Krueger Savannah Freddy Krueger memorabilia"], [0.8781428337097168, " ghetto don't don't have it up or something if you can help me out here"], [0.9536091685295105, " I got into Christopher's room and there's no Freddy Krueger stuff and I was like Chris don't like Freddy Krueger and he was like yeah and it's like my mom that the poster down at Freddy Krueger poster and and they took the Freddy Krueger poster down and I looked over at the rolled up poster and the only thing that was shown on the rolled-up part like is that much you know just an inch or Pro covers eyes score. Turn it around"], [0.9348527789115906, " show time for bed now and we're going to sleep for in his bedroom and it would fall asleep and I'm already thinking while I'm going to be really scared I can tell but we're watching movies and I was like yo Chris let's just stay up and watch movies all night and he's like yeah alright cool not knowing that I was saying that because I was scared and I needed him to stay awake and"], [0.8850290179252625, ' shower Freddy came out from the unrolled from from the underworld the poster in it'], [0.8612591028213501, ' I forget all that stuff dust in the heart as little kids so anyway'], [0.877921462059021, " asking all sorts of Action Jackson was on her member Carl Weathers and he was like let's watch this movie and I was like yeah"], [0.8948125839233398, " and Chris Segal end up falling asleep and now I'm"], [0.8686476349830627, " awake and I'm like your Christ and you like I do I use all those I use like two or three times I can't keep doing this Mexican no apologies until you buy New Jersey dude because there's no internet back then"], [0.8811162114143372, ' I would have been pussy shaved'], [0.8345914483070374, ' shower anyway Action Jackson ends and'], [0.8883824348449707, " I am I am like how do I fall asleep just wait till the daylight I'll be good so I won't be scared in the daylight anymore so"], [0.9309518337249756, " I'm sitting there watching TV just fucking is a TV in his room and I'm just sitting there like to imagine me up as fucking 2 a.m. as a ten-year-old just looking around and Chris Segal just sleeping next to me you know"], [0.9568372368812561, " by the way I'm scared stiff because I don't want to go anywhere else in the house I think Freddy's going to get me like this is legitimate I'm not making this up I thought Freddy was somewhere in the house I was a fucking had a crazy imagination and I was very scared"], [0.8327942490577698, ' so'], [0.9044427275657654, " I'm I'm like now now I think I didn't think about this"], [0.9049826860427856, " but I have to go to the bathroom and I can't go anywhere because I'm too scared literally like my body won't it would be very hard to move my body all set"], [0.8498266935348511, ' Adam watching the TV'], [0.9178910255432129, ' and the grumblings in my tummy and I got to go number two is not number one I mean number to one as well because you have to go number 1 if you go number 2 but number two was the focus'], [0.9592347145080566, " so I'm like a man I'm like looking at if I had to watch back then I'll be looking at it thinking like a when's the sun come up and I hold the poop until the sun comes up an iHome the poop in my anus until they seem to the book stay inside of my butthole until the light comes on my car at 6:10 and 2 3 4 hours of Publix pull my pants so that I have a prisoner to kill me to book Cinema ship my pants like that's what I've been doing so so I'm like what I do and"], [0.9462658762931824, " I decide it must have been asked to be like 3:30 a.m. at this point I decided I can't I can't really take it anymore I have to shit but I'm like I'm going to have to make a run for the bathroom and do it"], [0.8706947565078735, " because otherwise I'm a ship my pants and the pussy but Chris my pants in the bed"], [0.9041361212730408, " so my car and I got to do this man you got a man a man UPS Coke dick fucking shit your man because you're a man dude I know your name but your fucking men go to cash it in that bathroom so"], [0.9312885403633118, " I decide to do it and I'm not bullshiting you this really happened all right I'm so fucking tired but I have to ship and I'm thinking about getting up to go to do this the shit"], [0.9147191643714905, " the TV is on the news okay the TV cuts to I don't know if it was a News segment or what but it cuts to the was on very low volume no Vine"], [0.9466794729232788, " the cuts to a bedroom this is a new segment that cuts to a bedroom and the camera is on the pillow of the bed the pillars of the bed and then it it it shows the foot of the bed outward and then there's a door at the end from the farthest part of the camera on the wall"], [0.9278897047042847, " I'm watching a Steven like what the fuck is this cuz I can't hear it over there talking about the door opens and not lying to you I wouldn't believe somebody if they told me this but it happened to me so I know it's true"], [0.9765772819519043, " the door opens and it's Freddy Krueger"], [0.9518591165542603, " and he's got his fucking knife fingers and he's walking towards the bed"], [0.7656213045120239, ' do the camera'], [0.8932763338088989, ' and'], [0.8188924789428711, ' I'], [0.9522942304611206, " can't believe my fucking brain I can't believe what I'm looking at I can't believe what's happening the only thing I'm the most scared of is Freddy Krueger and right when I decided I'm going to go have to take a shit and make a run for it Freddy Krueger's all of a sudden the goddamn room so now I think I'm going to shit in this bedroom not in the bathroom fuck you world you made me shit in the bedroom"], [0.9288569092750549, " fuck it I'll be known as the shit the pants guy in New Jersey I don't give a shit I just cut off at 2 I remember try these red sweats that I cut off into shorts and that was what I was going to shit and I was well prepared to do that"], [0.9432183504104614, " I was I guess I'm just staying here as a nine-year-old about Freddy movie Freddy Krueger movie coming out Googled it and tried to fucking YouTube it ever since that can't find that clip and it wasn't me dreaming dude I know some of you are like maybe you fell asleep and had no dude it really happened"], [0.9458320140838623, " show me like what the fuck am I going to do I got to go to the bathroom so bad and I'm like you know what fuck it I'll just wait until the sun comes up so I'm waiting and waiting till the sun comes up and you know it's working Forest White 2 hours away I'm waiting I'm waiting I'm waiting I'm waiting I'm waiting waiting next thing I know"], [0.9754473567008972, " I'm rubbing my face and waking up I fell asleep I did it"], [0.9242762923240662, " I fucking did it's bright out I noticed it's bright out I made it through the night but what I also noticed"], [0.9876291155815125, ' is that'], [0.9450199007987976, ' I did not ship my pants'], [0.9346923232078552, ' I was currently shiting my pants'], [0.9558589458465576, " look I know a lot of people have woken up after they shut themselves that's probably pretty common now I've never done that in my life ever in my life as a matter fact I've only shittin toilets my whole life I've never missed I've never made a mistake"], [0.9483370184898376, ' this time I woke up and I was currently shiting I woke up shiting'], [0.9571581482887268, " it was a gross but it was half coming out and it was at a standstill it was like it woke me up because the ship came out and then just chilling was like let's just hanging halfway out until he wakes up woke up and it hurts so bad I don't drink water in like fucking 6 weeks"], [0.9005272388458252, ' and I was like oh my God and the sun was coming up and I fucking duck walked all the way over and I bought if I still scared but already was sitting so high I duck walked all over the bathroom'], [0.9445714354515076, " and I left the rest of it come out and it didn't make a mess because there was no mess is there a mess wow what a fucking the story so and then when I was going to the bathroom I let my fear you know how they taste like when your scared you catch it yourself I let my fear just let the rest of it push out because I was like what do you call it a shower curtain and remember I remember thinking like legitimately like a fucking friends going to pop out and fucking kill me while I'm shiting"], [0.90903240442276, ' I was convinced of it dude'], [0.9553375244140625, ' I was the most scared little kid man I guess what I shit I went back into the room no mess'], [0.9254480004310608, ' went back onto the floor next to fucking Chris Eagle fell asleep again cuz it was daytime it was easy and I fucking did it dude'], [0.9457695484161377, " and that's your Victorious Halloween story I did it man I'm at my Mama Proud she said I could do it and I did do it I shipped myself during it which is pretty much the worst thing out of the couch is actually doing it but I got through the night and you can get through the night 2"], [0.8527042865753174, " and gets denied to this that's why this podcast is for also for like 7 year olds"], [0.8498334884643555, ' age appropriate'], [0.9051207304000854, ' mad'], [0.8726428151130676, ' oh my kid gets scared at night so I could be there for him'], [0.9465833306312561, " I just like Pat his head I'm a race to be so scared all the time have the most biggest nightmares and my dad would come and like just be like I'll just sit next to your bed till you fall asleep so cute"], [0.901943027973175, " and you will be like don't worry about is fine sometimes you would be mad you know if you could get to work but sometimes you could just chill"], [0.9660093188285828, ' so cute'], [0.8098019957542419, ' all that all three of the most scariest kid fucking Karma'], [0.9216462969779968, " I want some of that cut his hair didn't tell me about it it can't cut his hair he had long hair it came home once it after work and he had a fucking short haircut and I cried so hard"], [0.8214129209518433, ' I was I saw my look at my window what the fuck you do is cut my hair'], [0.8545615077018738, ' he was like doodle grow back'], [0.9500421285629272, ' got over it'], [0.7830392122268677, ' dude if you can get over that I can get over anything'], [0.9354943037033081, ' 6 year old seeing his dad cut his hair for the first time I got head like fucking Ultimate Warrior hair and then all the sudden head fucking David Duchovny hair'], [0.8937664031982422, ' come on dude can get over that get over anyting people out there soon the fucking come on'], [0.8494831323623657, " drinking on your motherfuckers dude I'm respectful that's why"], [0.9726991653442383, ' so loud so loud'], [0.9559082984924316, ' anyway'], [0.8725605607032776, " why what else was I going to talk about I had something else can't remember all good my memory is gone need ginkgo biloba"], [0.9570478796958923, " what else scared me as a kid about keeping a Halloween Mike Myers I never saw Mike Myers movie when I was a kid but holy fucking shit that mass scared the shit out of me Mike Myers Freddy Krueger Jason obviously checking out really he's just like a doll Kevin Nelson fucking loved"], [0.9304968118667603, ' Jason and Freddy that one time we got into a fucking karate fight'], [0.9161063432693481, " it's always nice or naughty fuck me up before we go actually this is something I talked about in the group text this drives me nuts dude"], [0.9198422431945801, " a lot of times that you know how I said I'm Bon Jovi when I sit and that's that there's no change in it I'm Bon Jovi when I sit okay that's it that's it you might as well because I'm on Bon Jovi when I sit"], [0.8735259175300598, " my fucking I manspread and I don't give a shit if you don't come free about it chill"], [0.9373080134391785, " tease my hair out cuz I'm Bon Jovi my knees can't get further apart I'm like a fucking slut K A lot of times I'll hang my knee over a chair all hang my knee over a fucking"], [0.9527090787887573, " what do you call it table I'm chilling I'm at cafes a lot and I'm doing this"], [0.943760871887207, " this week I was at 1 it'll remain nameless"], [0.9498233795166016, " and the girl comes up to that works there and she was like excuse me can you take your foot off now look I get it if my feet are on furniture not okay feeder Dirty Feet Shoes they've got piss all over them because you walk around and toilets and bathrooms and shit you pissed and the back fucking pissed gets on the fucking shit in the bottom of the things step and shit piss cum all over the ship right"], [0.9192676544189453, ' so I get that I never put my feet on furniture like that okay Mike 1/2 yes my calf right'], [0.9103018045425415, ' can you take your foot off she says and I roll my eyes at her and I say yeah sure okay and I guess okay'], [0.9355840086936951, ' and I hear citing APA style go right to the group text and I said goddamn motherfuking why do I get so much people I get so much shit from establishments for doing the Bon Jovi spread'], [0.9294472336769104, " and I'm just chilling man"], [0.9019595384597778, " that's that is a fucking rule that isn't should not be a rule"], [0.9702792763710022, " if you sit with your feet up it's okay you're not going to you can't tell me what to do with my body dude I'm a feminist"], [0.9232470393180847, " you're not going to tell me where to put my limbs"], [0.9836533069610596, ' is that a health hazard'], [0.9619833827018738, ' to put my fucking calf on a table'], [0.8956484198570251, " I talked about with the group text me like why you get so mad about this so it's really it's you know it's just one of the other more my other buddies is like well I'm like my body is like they're not they're telling you they're telling you how to be polite in their establishment let me tell you something I don't know"], [0.8086118698120117, " I'm chilling dude can I not do this to this"], [0.963001549243927, " can I do this can I do this can I put my leg up can I put my leg up in the air like this would you tell me to put my foot down if I to up in the air like this would you tell me to put it down know you would it okay to put this in this way what about if it's like that on the table but the foots off the table if you would wouldn't you wouldn't you that and that what's the difference dude what's the difference between what's the difference dude and you're going to tell me not to do the filters I should have went like this sure yeah I won't do it shore shore shore house that Australian ship because she was Australian"], [0.8701125979423523, " she's making it soggy things over. I'm using sure yeah I can do me a favor real quick though call yourself a kangaroo"], [0.8961195945739746, " God that made me mad yeah I move my limbs for you because it's your body not mine and his baby"], [0.9542074799537659, " you don't tell me what to do with my body"], [0.7874963283538818, ' okay'], [0.9399842619895935, ' Rogue one always hit the wrong one'], [0.9814965128898621, " I'm a feminist baby"], [0.8640896677970886, " 7 is baby don't tell me where to put my cats"], [0.9061815738677979, " dude I'm serious man I'm going to run for fucking local mayor"], [0.9591081738471985, " this cap situation is out of control situations out of control a lot of times when you're sitting with your feet up at the cafe if your feet aren't even on the table or the back of someone's chair people will say come up to you and say can you please put your foot down while I'm here to make that stop I'm Crystal and I'm running for fucking mayor of Lompoc and I understand that allow you guys and they're not let you do the Bon Jovi sentence with that's not okay on my dime that ends today vote for me I'd paid for by Chris D'Elia"], [0.8732600212097168, " Chris is Chris D'Elia"], [0.812771737575531, " if I hit the Quan before I hit the gym e101 one more time I'm going to fucking"], [0.9167896509170532, " it just it's just don't tell me what to put my fucking limp ma'am ma'am is my dick inside you know then stop complaining"], [0.9256843328475952, " damn this is Cafe right, ma'am"], [0.8760088086128235, " I'm inside you"], [0.8956716060638428, " what if I did that what she said can you move me can you give me can I put your feet on the table and I said I'd you"], [0.689333975315094, " Buc-ee's why"], [0.9446049332618713, " I'm asking you if my penis inside is inside of you in any of the other than any of the holes that you have then don't tell me what to do with my body"], [0.9528535604476929, ' the single greatest music drop of all time thank you Jeremy Renner'], [0.9579552412033081, ' dude I fucking'], [0.953890860080719, " when I was a kid I take all the fucking can soda things I cut them all because I thought they killed dolphins and turtles that it's a sham do it every one fucking see this fucking paper straw thing is such a bull shit dude zero Turtles you're saving I'll tell you what man I'll tell you what I'm a start wearing paper bathing suits that's what I'm going to do a paper fucking bathing suits and when people say why you weren't a paper bathing suit and I know it doesn't I said what what you mean though it doesn't disable the paper gets all fucking you know watery and then it is a photo of your dick head is up"], [0.9133666753768921, " and then I walk away smoking the fattest stogie dude I don't even know I had one until then"], [0.9455952644348145, ' what are you doing'], [0.8873873353004456, " dude I'm wearing paper bathing suits."], [0.8145673871040344, " I don't understand why you wanted the paper bedding should I say for the turtles"], [0.9833552837371826, ' Prima Turtles'], [0.906997799873352, " sure your dick is coming out here wearing loose leaf paper around your balls yeah it's for the turtles"], [0.9828041195869446, ' this whole world is so backwards dude'], [0.943352222442627, ' from fucking people saying the phone number thing is a scam to fucking paper straws hey paper in liquid'], [0.763245165348053, " I farted when I went like that I'll be honest"], [0.7564254999160767, " you didn't hear it"], [0.9777671694755554, ' dude'], [0.9321005344390869, " you can't put paper liquid that's something we know we don't even have to learn it its intrinsic in our knowledge"], [0.9385813474655151, " show ridiculous ridiculous what's that song"], [0.6303737163543701, ' fucking teclas'], [0.9620310068130493, " what's that song dude I'm going to text somebody back right now somebody writes"], [0.9463605880737305, " when's my sweatshirt going to ship Papa"], [0.9594019055366516, " don't call me Papa it did I wrote him"], [0.8153181672096252, " somebody wrote go fuc yourself you're not funny okay not writing them back"], [0.875292956829071, ' look at this look at this people get so mad since you hit me with a mass text no thanks'], [0.8948298096656799, ' you know these fucking people man I literally have 64,000 people here'], [0.8795837163925171, " how am I suppose how I met you being mad that I didn't respond to you that's so funny man"], [0.9438689947128296, ' people are so ridiculous'], [0.7502908706665039, ' all right'], [0.922019898891449, " so appalled is what it is I can't play it cuz I'm going to fucking Flag but he goes fucking ridiculous"], [0.7325109839439392, " Isaac Douglas all right dude I'm out"], [0.9418963193893433, " download the cash app for free on the App Store or Google Play Market text me +81-823-970-8070 and we got the merch man we're selling out the light strips. Forgot to reorder coming in out of the be the medium sold out I think but go to chrisdelia.com or store. Chris D'Elia. Com tell a friend about this podcast right it really will help"], [0.9660592079162598, ' it really will help the podcast grow and I really want the podcast to grow because'], [0.9659791588783264, " eating out honestly if this podcast gets bigger and bigger than I thought about doing like to a week sometimes but I'm not going to do it at this point so if you guys push this podcast and share it and tell your friends about it and get people on board to be in this Log Cabin one day and grow babies and be a part of this cult and Knotts you know what I mean like it will help subscribe to YouTube channel to we only have four hundred thousand subscribers we're at 398 K so help me out dude if your baby has helped me out subscribe rating view the show that helps thank you very much for listening will see you in Foxwoods will see in Bethlehem Pennsylvania machine Rochester was seeing Royal Oak Detroit to Buffalo Minneapolis tape on my special Tampa Florida to Melbourne Florida and Hollywood Florida El Paso to Houston Peoria and Chicago Illinois Minneapolis Michigan special can't wait to see a Florida and Texas on the other shift right guys you guys are great thank you very much"]]}
+{
+  "Stats": {
+    "PodcastID": "1201940175.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 3823.2035,
+    "OriginalFileSize": 30589724,
+    "FlacFileSize": 302994020,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 1254.9251928329468,
+    "DownloadSuccessful": "23.88622546195984"
+  },
+  "Transcripts": [
+    [
+      0.9725595712661743,
+      "this show is brought to you by cash app as you know cash app is the simplest way to spend and save money and now it's the simplest way to try to grow your money introducing"
+    ],
+    [
+      0.9699529409408569,
+      " stop investing unlike investing tools that only let you buy entire shares of stock invest as little or as much as you want this way when your favorite company stock is just a little too expensive you can still own a piece with as little as $1 and because cash app is directly connected to your bank account there are no 425 day waiting periods or for inbound transport transfers so you can start investing today. Brokerage services are provided by cash app investing a subsidiary of square and member SI PC download cash app from the app store or Google Play Store today."
+    ],
+    [
+      0.959026575088501,
+      " hey guys what's up its episode 144 of congratulation can't believe we've done 144 what we have and we've got some I'm on tour man I'm at this is the bomb on the Follow the Leader tour November 1st I'll be at Foxwoods Connecticut November 2nd I've got a few remaining tickets for AAA in Pennsylvania and Bethlehem religious and then some sold out ones I think in Rochester I think miserly single seats left at Royal Oak Michigan Detroit sold out New Buffalo Michigan where is it Minneapolis is my taping I've been doing my"
+    ],
+    [
+      0.93400639295578,
+      " Maya show at the at the Improv I've been performing there a bit running my our it for Minneapolis for to shoot in Minneapolis a my brothers directing it cuz we like to try keeps it in my fam but keeps it in the family I can't aliens we are Italian don't remember who says I think it's AJ the rapper"
+    ],
+    [
+      0.9625510573387146,
+      " I can't remember we keep sending the fam like Italians anyway whatever so Minneapolis my brothers directing it so we're all set to do that and that's that's so if you want to go get tickets at chrisleigh a.com we got some coming up in Hollywood Florida El Paso Texas Houston a few shows Peoria Illinois you know how it goes Chicago come celebrate New Years Eve with me and that's and that's what's up so after that shit man after I shoot this special I'm going to start doing new material I've been doing the store for almost 2 years I think just trying to fucking get bags all over the fucking place and do different cities and shit you know I have a shirt on that site and kind of"
+    ],
+    [
+      0.966400146484375,
+      " I like the shirt but it's definitely the same color as my body so it makes me look fucking"
+    ],
+    [
+      0.9472016096115112,
+      " washed out all good yes lost some hair fucking woke up put my hands through my fucking scalp looked at my hands are a bunch of pieces of hair but I'm not even forty man is fine you don't know what dude I'm so goddamn I'm a loser million the youngest guy from random channel changer around in the fucking next to my computer for some reason now to even close so yeah dude you know what's coming out you know what's coming up this week"
+    ],
+    [
+      0.9456906914710999,
+      " you know what's coming up this week man fucking Halloween or if your cock you can be like All Hallows Eve you know what I mean so Halloween is coming up and I know we talked about this because we've had Halloween shows before at the at the congratulations and shit cuz we've been doing this podcast for about three years but let's just set up some reminders man chicks and also douchebags Halloween is one day not nine days so you celebrate on the goddamn day and that's it you don't celebrate 7 weeks early dude I mean I swear to God people started celebrating in August I was out"
+    ],
+    [
+      0.9488984942436218,
+      " by the way my friends fucking friend had an outfit on I thought he was I thought he was dressed for Halloween and you wasn't he was just wondering if you were just fashionable mad mad I was like it's a little early for the dresser problem and found out that that's his just actual outfit got mad got mad so good"
+    ],
+    [
+      0.9636303782463074,
+      " where the mostly the regular shit if you want to get crazy and put one scarf on or wear sunglasses as the fucking sun goes down fine but don't get crazy at night time sunglasses be blind blind I make fun of nobody who wear sunglasses at night do you know why because it's not fair because they're blind and that's it. No exceptions if you wearing sunglasses at night"
+    ],
+    [
+      0.912657618522644,
+      " you get extra rights your blind okay"
+    ],
+    [
+      0.9265764951705933,
+      " yes so you know it's like Kanye's bringing back the baggy jeans getting all pissed it's all good man"
+    ],
+    [
+      0.9234189987182617,
+      " baggy jeans know I fucking bagagens band member baggy jeans member used to wear baggy jeans member James Van Der Beek Varsity Blues why shot you're like does he have another does he have the rest of Dawson's Creek in his legs dude James Van Der Beek"
+    ],
+    [
+      0.9566301107406616,
+      " no"
+    ],
+    [
+      0.9518671035766602,
+      " have a little bit more fucking tight pants"
+    ],
+    [
+      0.9074789881706238,
+      " I remember I would wear tight shirts amount will be like that shirt doesn't fit and I was like yeah it does anyway that's a fucking regular story"
+    ],
+    [
+      0.8901845216751099,
+      " fashion is always going to be like it's it's like Cutting Edge until like you're like it's like annoying until it's cutting-edge in the you like okay cool if I swear to God I don't want to I don't want to have to wear baggy jeans again dude"
+    ],
+    [
+      0.9431275725364685,
+      " it'll end up happening dude I'm going to have the baggiest fucking jeans"
+    ],
+    [
+      0.8518874645233154,
+      " so I have a baggage season 1 look like fucking Kevin Smith"
+    ],
+    [
+      0.9138942360877991,
+      " so but Halloween's coming up Halloween do chicks can't wait for it to be Halloween I was thinking about this man"
+    ],
+    [
+      0.9593315124511719,
+      " I was like thinking about like you know cuz I see on like Instagram going out"
+    ],
+    [
+      0.945506751537323,
+      " to like what I see on Instagram like you know my friend was showing me this fucking chick story and she was like nine other chicks and they were all dressed like fucking straight up hookers dude here's the thing man I know this is like a hack premise but like if you dress up as a slut fucking thing for Halloween you're a slut yeah all good yakin"
+    ],
+    [
+      0.9292109608650208,
+      " do anything over your fucking nipples are like a leaves and you're like yeah but I'm poison ivy great how much is it"
+    ],
+    [
+      0.8372407555580139,
+      " get up dude you're a sexy mailman you're a sexy male woman oh you're a sexy dog catcher all good"
+    ],
+    [
+      0.9740331768989563,
+      " how much how much is it for a second"
+    ],
+    [
+      0.9823042154312134,
+      " dude"
+    ],
+    [
+      0.8986993432044983,
+      " you know just relax relax Halloween is all good put on a fucking UPS outfit button the shit up stop showing fucking cleavage relax yes I'll let you know"
+    ],
+    [
+      0.9136297106742859,
+      " FF not fine but how much"
+    ],
+    [
+      0.9366782307624817,
+      " it's all good but you start unbuttoning that UPS outfit how much"
+    ],
+    [
+      0.8424516916275024,
+      " hundred"
+    ],
+    [
+      0.798381507396698,
+      " 4000 yeah class"
+    ],
+    [
+      0.9421775937080383,
+      " oh you're a fucking"
+    ],
+    [
+      0.8252599835395813,
+      " Pillsbury Doughboy with a skirt on all good how many stacks"
+    ],
+    [
+      0.9720540642738342,
+      " and by the way it's Monday"
+    ],
+    [
+      0.9262861609458923,
+      " it's all good but remember it here remember who said it Chris D'Elia set it yeah fukin"
+    ],
+    [
+      0.9506096839904785,
+      " you know"
+    ],
+    [
+      0.9485541582107544,
+      " for the guy that's like fucking how annoying is just how annoying is this outfit"
+    ],
+    [
+      0.9592082500457764,
+      " the guy who fucking works out a lot and just takes off his shirt and paint his body green and he goes as the Hulk hey man you're making everybody green at the party"
+    ],
+    [
+      0.8903598189353943,
+      " you're rubbing up against hookers making them grain good I have stacks for the sledding UPS girl and now she's green guy"
+    ],
+    [
+      0.9362812638282776,
+      " I should get half off if the fucking UPS sexy hooker is now fucking a little bit green cuz of the way you pay for this route"
+    ],
+    [
+      0.8916295766830444,
+      " hey hope you pay for this shit"
+    ],
+    [
+      0.9451575875282288,
+      " you know how fucking workout guy is it to go as like a fucking wrestler you know"
+    ],
+    [
+      0.9483342170715332,
+      " I'm Hollywood Hulk Hogan"
+    ],
+    [
+      0.9501740336418152,
+      " I got a blonde mustache in a beefy"
+    ],
+    [
+      0.9362702965736389,
+      " dude I just don't get like if you rent if you're a dad and you raised a girl and and like she's like get to the age where"
+    ],
+    [
+      0.9810906052589417,
+      " whatever she's fucking"
+    ],
+    [
+      0.9113381505012512,
+      " 1819 I don't know what it starts but like and then she's just all of a sudden you she's like Hey Dad check out my Halloween costume from and she's at cutting college and she sends you like fucking"
+    ],
+    [
+      0.9820141792297363,
+      " look"
+    ],
+    [
+      0.957362711429596,
+      " look I'm fucking you know"
+    ],
+    [
+      0.8002194762229919,
+      " I'm a Teletubby but it did was at its parts are cut out"
+    ],
+    [
+      0.9410868287086487,
+      " instead of a little television that they have it's just her fucking tits are out"
+    ],
+    [
+      0.9665381908416748,
+      " why do your tits have to be out"
+    ],
+    [
+      0.9818404316902161,
+      " what what chick wants what I want to know is what chick wants more attention from guys"
+    ],
+    [
+      0.9508832693099976,
+      " I want to know what girl wants more attention from guys all you have to do to get attention from guys is going to Starbucks all you got to do is walk in the home deep"
+    ],
+    [
+      0.9230422973632812,
+      " I shortened it Home Depot all you got to do is walk into a fucking IHOP and you're going to be"
+    ],
+    [
+      0.9232134222984314,
+      " a fucking hooker UPS check for Halloween for All Hallows Eve hey that's what it is"
+    ],
+    [
+      0.9595050811767578,
+      " and then the guy who's the Hulk and his fucking green makeup is smearing all over his fucking shoulder and he's getting it on your girl"
+    ],
+    [
+      0.7776061296463013,
+      " and you're like you going to pay you going to buy her drinks not a problem just a hug man"
+    ],
+    [
+      0.9616668820381165,
+      " like I just don't get Halloween man you're fucking 23"
+    ],
+    [
+      0.9164316654205322,
+      " children"
+    ],
+    [
+      0.8070490956306458,
+      " a boy"
+    ],
+    [
+      0.9091819524765015,
+      " I just don't I don't you know the guy to"
+    ],
+    [
+      0.9053745269775391,
+      " hey man I'm risky business, I got a leather jacket on and no pants K hole"
+    ],
+    [
+      0.9031369090080261,
+      " legal illegal"
+    ],
+    [
+      0.9350817203521729,
+      " lock him up dude hey I'm dicks out guy lock him up"
+    ],
+    [
+      0.9426714181900024,
+      " dude how awful our Halloween costumes for real like it would if like for real those were the costumes that they used in movies and like and shit like that like if the X-Men weren't done by like like costume designers they were done by like people who got drunk on Halloween that movie would rip did I'd watch that like if they made a movie if they made the movie like dark Phoenix and they were and they were like legitimately like it was just like Nikki's outfit she's like I'm dead lyrics"
+    ],
+    [
+      0.968112587928772,
+      " and she's the girl"
+    ],
+    [
+      0.7768714427947998,
+      " IMAX men"
+    ],
+    [
+      0.9609724879264832,
+      " and then it was her saving the world"
+    ],
+    [
+      0.9402856230735779,
+      " and some guys fucking Colossus and he's just all painted silver and he's got it in his eyes little bit and keeps fucking rubbing his eyes cuz it's fucking up his contact and then at the end of the movie by the end of the movie Dark Phoenix is a little silver to cuz he keeps touching her"
+    ],
+    [
+      0.9000483751296997,
+      " dude how many people are dressing up as Billie eilish to it in this week"
+    ],
+    [
+      0.9372652769088745,
+      " I love the outfit that were people think they're going to be clever and then they fucking and then they get to the party and there's like seven other Billie eilish's and they're like I thought it was clever I know the exact same outfit of the picture that they Googled as someone else even though Billie eilish wheres like 75 different outfits they picked the one that's popular on Google and they see someone else and I got you and they pretend friends with her"
+    ],
+    [
+      0.9376777410507202,
+      " or like how about the set how many sexy Jokers are there going to be"
+    ],
+    [
+      0.9004758596420288,
+      " in like a fucking cropped you know"
+    ],
+    [
+      0.9826385378837585,
+      " purple suit"
+    ],
+    [
+      0.9463858008384705,
+      " oh you know what the worst outfits are are people who think they're funny with the meme costumes when they're like when they're like that the hold something dude if your if your costume involves you holding something to stand next to it go fuck yourself huh"
+    ],
+    [
+      0.9436841607093811,
+      " like the meme the Y tho meme"
+    ],
+    [
+      0.9045884609222412,
+      " or if you have to do a move so people get the the costume you know like this this meme somebody I saw somebody dressed up as the the lady goes like"
+    ],
+    [
+      0.9176169633865356,
+      " that's the lady was like this like fucking with her hands on her knees and like you're like who you're dressed as the guys I got a lot of second and then he gets on his fucking he puts his hands on his knees and he like that fucking idiot meme thing who cares the best thing you can do"
+    ],
+    [
+      0.9547218680381775,
+      " the best reaction you can get on Halloween from your costume is this shit bro that's the worst"
+    ],
+    [
+      0.9534522891044617,
+      " best reaction you understand"
+    ],
+    [
+      0.9173141121864319,
+      " oh shit look"
+    ],
+    [
+      0.931204617023468,
+      " the guys dressed up as a Freudian slip he's on a slip and it says fraud on his chest"
+    ],
+    [
+      0.9925773739814758,
+      " anyway let's get drunk"
+    ],
+    [
+      0.8932956457138062,
+      " the meme based Halloween costumes you know"
+    ],
+    [
+      0.940105140209198,
+      " the guy dressed up as you know I had to do it to him guy head guy you just look like a date rapist"
+    ],
+    [
+      0.9515304565429688,
+      " why did I look grayish it today it's all good man do the my pasty white yep does it matter nope does life still rip yes dude fuck yeah man rips you know what I'm being for Halloween pasty that's it I'll put on a shirt maybe I'll put on some special pants button pasty guy"
+    ],
+    [
+      0.9132441878318787,
+      " how about the fucking thing that goes like this and Halloween ever if you're somewhere"
+    ],
+    [
+      0.9800049662590027,
+      " if you're somewhere in Halloween during Halloween the day and you can't hear this"
+    ],
+    [
+      0.9504134058952332,
+      " you're in a basement far underground or you're in the middle of the fucking rainforest because every like 19th house thinks it's like why is that a fucking thing that's nothing that's not even a noise that is made ever anywhere but on Halloween"
+    ],
+    [
+      0.9657516479492188,
+      " it's not a ghost"
+    ],
+    [
+      0.8655478954315186,
+      " you hear ghost if you working Google ghost and you hear you you you you put a fucking"
+    ],
+    [
+      0.9056819081306458,
+      " sing on YouTube the boots the go so go or if you fucking Google for real ghost the best still here is this"
+    ],
+    [
+      0.9012181162834167,
+      " you're not I mean I love that shit when you're watching"
+    ],
+    [
+      0.9282333850860596,
+      " if you better speak speak to us if you ever say something we're friendly we come in peace"
+    ],
+    [
+      0.792927086353302,
+      " what's that"
+    ],
+    [
+      0.8344233632087708,
+      " how do I get real cold all the time"
+    ],
+    [
+      0.9203612208366394,
+      " feel that cold better Cuts with dog head and he's just like I got to tell you man I never felt so cold in my life it was just like a gust it was a goal of a sudden I was in the Arctic clutch bag"
+    ],
+    [
+      0.9938145279884338,
+      " Rodger"
+    ],
+    [
+      0.9270981550216675,
+      " if you're there say something give us something"
+    ],
+    [
+      0.8625194430351257,
+      " I think it's called I got called did you feel that"
+    ],
+    [
+      0.866227388381958,
+      " and then it'll be like the EKG in the like play it back and I'll be like"
+    ],
+    [
+      0.946820080280304,
+      " oh shit did you hear that"
+    ],
+    [
+      0.9266813397407532,
+      " play it back and then he's like a cut so tall guys like you very clearly said fall grass you very clearly said for Agri cuz that's what he ate that was his last meal before fucking that was his last meal before he's on death row for fraud"
+    ],
+    [
+      0.9548258185386658,
+      " make a noise"
+    ],
+    [
+      0.9106876850128174,
+      " it's just a pipe you know it's a pipe fucking clanking its house noises"
+    ],
+    [
+      0.9659145474433899,
+      " anyway what the fuck is"
+    ],
+    [
+      0.9555832743644714,
+      " like what asshole decided that was going to be the noise for Halloween"
+    ],
+    [
+      0.9243764281272888,
+      " I'm unplugging all that shit when I get there and then there's always that sucking hahaha"
+    ],
+    [
+      0.9256976246833801,
+      " not scary just a creaky door he is WD-40"
+    ],
+    [
+      0.9390214085578918,
+      " I'm walking around with WD-40 on Halloween and sucking my unplug in hand"
+    ],
+    [
+      0.9380073547363281,
+      " and when I get to a place where I hear creaking doors I just sprayed in the people's faces and then unplug with the other hand I unplug the fucking what is that thing even called"
+    ],
+    [
+      0.8195964694023132,
+      " have you ever think that you go to the Halloween stores bro there's so much weirdness about Halloween"
+    ],
+    [
+      0.9469758868217468,
+      " you know like Halloween stores you can just go to a Halloween store and it like opens in fucking"
+    ],
+    [
+      0.9582790732383728,
+      " September and then just closes November 1st"
+    ],
+    [
+      0.9616976976394653,
+      " and there are 45 of them in Burbank California"
+    ],
+    [
+      0.9806968569755554,
+      " you know"
+    ],
+    [
+      0.9340215921401978,
+      " they just open in September and then and then come November 1st literally shut the fuck down until next September like hey"
+    ],
+    [
+      0.9450433254241943,
+      " how do you stay in business all good how you stay in bed is what I want to know is how do you sell enough fucking which masks and machines"
+    ],
+    [
+      0.9826511740684509,
+      " from September 20th to October 30th to stay in business when there's Amazon"
+    ],
+    [
+      0.944640040397644,
+      " so fucking weird that Halloween stores are a thing I would walk by 1 all the time when I was in NYU and I would just be like houses fucking thing stay in business and they have the same costumes in the windows in fucking March"
+    ],
+    [
+      0.768001914024353,
+      " is there a werewolf"
+    ],
+    [
+      0.8686912655830383,
+      " so weird here we go add to my baby"
+    ],
+    [
+      0.9623855948448181,
+      " my baby's skillshare skillshare is an online learning community with thousands of amazing classes covering dozens of creative and entrepreneurial skills you can take classes and everything dog free and creative writing to design productivity and more other classes illustration graphic design creative writing animation Fine Art music logical things so whether you're returning to a longtime passion project challenging yourself to get outside your comfort zone or simply exploring something new skillshare has classes for you"
+    ],
+    [
+      0.9366453289985657,
+      " they sent us a bunch of course it to check out and I peeked at the entrepreneurship section you know because I do business and I'm a businessman and I watched entrepreneurship hustle from business plan to reach success and dude hello love me"
+    ],
+    [
+      0.9545810222625732,
+      " look at me now join the millions of students already learning on skillshare today that's millions of people with a special offer just for my listeners get two months of skillshare for free that's right you'll share is offering congratulations listeners two months of unlimited access to thousands of classes for free to start up go to skillshare.com congrats again go to skillshare.com / can start your two months now that's skillshare.com congrats don't be an idiot guys you know you want to learn"
+    ],
+    [
+      0.8228850364685059,
+      " Blue Apron one thing comes to mind when I think my boyfriend dude"
+    ],
+    [
+      0.9505723714828491,
+      " come back to the magic of your kitchen with new flavors and unexpected culinary combination not an obvious Chef hello I'm a chef now she's inspired produce step-by-step cooking techniques and Chef tested recipes are just the beginning because when you make dinner with blue apron you're not just cooking"
+    ],
+    [
+      0.9186167120933533,
+      " an artist and animator and a chef table plans the 2-person plan for person family plan and the w w freestyle plan to choose from a variety of Chef design recipes and get perfectly proportioned perfectly portioned ingredients delivered right to your door with a Friend helps make cooking at home as sustainable part of my weekly routine upcoming upcoming meals include is that are chicken and roasted squash if you can't pronounce it you know it's good cheesy pesto baked Cavatelli"
+    ],
+    [
+      0.9540267586708069,
+      " zesty beef and gnocchi my mom would get it to start making delicious brag-worthy meals at home without the hassle try Blue Apron check out this week's menu and get $60 off when you visit blueapron.com flavor.com Blue Apron a better way to cook"
+    ],
+    [
+      0.9397249221801758,
+      " so yeah"
+    ],
+    [
+      0.6727661490440369,
+      " like a buffer real"
+    ],
+    [
+      0.9702794551849365,
+      " what am I talking about about the"
+    ],
+    [
+      0.9270078539848328,
+      " Halloween store"
+    ],
+    [
+      0.7625164985656738,
+      " I'm Andy's cars are fucking crazy"
+    ],
+    [
+      0.9397238492965698,
+      " I got buddies fucking"
+    ],
+    [
+      0.9567014575004578,
+      " being evacuated"
+    ],
+    [
+      0.9170945286750793,
+      " yeah"
+    ],
+    [
+      0.8278745412826538,
+      " but what were they saying about the Halloween stores"
+    ],
+    [
+      0.8463308811187744,
+      " yeah I don't get how the holidays that are just"
+    ],
+    [
+      0.9490396976470947,
+      " the holidays that are just for drinking are weird that they turn into it I mean Halloween is kind of one that seems like that and then but like Shay Patrick day was a real holiday and then all of a sudden became the thing where everybody just like drinking and fucking fighting and raping and shit"
+    ],
+    [
+      0.8863025903701782,
+      " fucking one fire his phone went off that's why I'm on fire all good this texting thing that I'm doing by the way that people are saying"
+    ],
+    [
+      0.958353579044342,
+      " this is the weirdest thing to me my number 818-239-7087 go ahead and text me"
+    ],
+    [
+      0.9459607601165771,
+      " is this truly baffled this boggles my mind this this whole thing this community app thing I give my number out if you can text me directly and I text him back"
+    ],
+    [
+      0.9644632339477539,
+      " there are very few a very small percentage of people are like"
+    ],
+    [
+      0.9086664319038391,
+      " oh yeah it's fucking he's just trying to get your info like he's getting making it's the money thing like I look"
+    ],
+    [
+      0.9521677494049072,
+      " it's a it's a it's a it's a I'm making zero money from texting you it's not a thing where I'm making money from it $0 there are people in my Instagram comments like or your mother fuck you trying to use you doing this is all seller no money zero money zero money so I'm able to Now text people if they sign up for this which is great fine if you want to do it awesome if you don't want to do it don't do it but some people are like it's a Scamp what I want to know is what's the scam"
+    ],
+    [
+      0.9431883692741394,
+      " what is the scam what it is nobody's ever more specific than it's a scam what's the scam what is it you text me and I text you back and now I own your liver"
+    ],
+    [
+      0.8591713309288025,
+      " I want to know these people are like what's his are they talk about it sometimes I like this horse camp what's the actual scale"
+    ],
+    [
+      0.955319344997406,
+      " what is it I don't even know what example to make what could it be now we text I text people right now I go on the thing right now"
+    ],
+    [
+      0.9458135962486267,
+      " look right here what some guy Colin wrote me what do you do when you see a Spaceman I'm riding back I don't know look and I'm writing what the fuck are you talking about I just texted that to Colin"
+    ],
+    [
+      0.9876291155815125,
+      " now what"
+    ],
+    [
+      0.9392536282539368,
+      " I siphoned the money from his bank account into mine what's the scam"
+    ],
+    [
+      0.9166510701179504,
+      " and then people like well they just want your direct information so you can Dude anybody in the world can Tweed anybody in the world and make their phone go ding"
+    ],
+    [
+      0.9546096920967102,
+      " what's the difference about having the fucking to being able to text someone people love to make some shit out of nothing dude also who gives a fuck man who gives a shit who gives a shit if you have my personal information who are you fucking"
+    ],
+    [
+      0.9658839702606201,
+      " get the Riddler who gives a shit who are you fucking Bin Laden who cares"
+    ],
+    [
+      0.9540586471557617,
+      " show fucking what now I know everybody now I know who's texting me that I know their name and I know what city they're in so what what does that have to do with scamming anyone"
+    ],
+    [
+      0.8894553184509277,
+      " I just dissed fucking dumb shit motherfuckers"
+    ],
+    [
+      0.9162068963050842,
+      " I drink water all you motherfukers"
+    ],
+    [
+      0.8989486694335938,
+      " I'll drink water till I cheer up dude there's no Scam Man"
+    ],
+    [
+      0.9777282476425171,
+      " you text me I text you"
+    ],
+    [
+      0.9286878705024719,
+      " that's it baby yes it's the same fucking thickest Instagram DM me right now it's the same shit either way"
+    ],
+    [
+      0.8763663172721863,
+      " is the dumbest shit when people are like are you at this fucking what is the fucking wall is the sky may I don't got it"
+    ],
+    [
+      0.9525181651115417,
+      " sometimes I fire out of shit I was in San Diego I'm like San Diego I text fucking phone numbers I'm like I'm here San Diego come out of the show I sent a little video about me walking backstage that all the people in San Diego by boom that's it no scam needed I'm already fucking I already you don't like I just it's just so fucking weird the people it to me is when people are like the government's trying to get you into some information and use your facial for technology and facial recognition and Sid and they want your info and it gives a shit I live a regular life I didn't do anything shitie I'm just chilling I never robbed the bank who gives a fuck I'm 39 my name is Chris identify as a female"
+    ],
+    [
+      0.9500350952148438,
+      " who fucking cares now that you know that what you going to do with that info so my legs up do you own my kidneys are you siphon in my fucking account be taking the dollar off every time I drink a goddamn iced Americano and putting it in the fucking offshore Swiss care"
+    ],
+    [
+      0.9702898263931274,
+      " who fucking cares dude my name is Crystal Leah I'm 39 on the youngest man you've ever fucking Matt and I identify as a Korean filmmaker who gives a shit"
+    ],
+    [
+      0.9593391418457031,
+      " now you know"
+    ],
+    [
+      0.9078388214111328,
+      " you motherfukers"
+    ],
+    [
+      0.9778689742088318,
+      " I drink so much water right there"
+    ],
+    [
+      0.961768627166748,
+      " you should be proud of me this shit is fucking a silly goose time life will continue to rip and life will never not rip it will always be on the up whether you fucking have acne all over your face you lose your fucking feeling in your feet or you fucking develop can't life still can rip because it's about the attitude"
+    ],
+    [
+      0.8924985527992249,
+      " lose all your money life still reps"
+    ],
+    [
+      0.9185834527015686,
+      " if you want it to rip look at the sky look at the beauty there's a fucking Rabbit running around maybe you're in North Carolina and it's fucking humid shit but you're living baby that's wet means your body is overheating because you're alive"
+    ],
+    [
+      0.9316123723983765,
+      " and life reps and yes you know my underwear is wet and I wish I didn't wear jeans today but it's all good ringgit"
+    ],
+    [
+      0.928877592086792,
+      " quip what actually makes a better toothbrush I've been thinking about this actually my whole life ever since I remembered my thoughts in the beginning what makes a better toothbrush industrial strength power would be like 6 years old and I be like is it industrial strength power ib7 rain I'd be like as it claims of miraculous trendy ingredients"
+    ],
+    [
+      0.8319742679595947,
+      " and then I and then I got a little older maronas like 8 and 1/2 I was like is it multiple modes"
+    ],
+    [
+      0.9618427157402039,
+      " if you ask your dentist will tell you it's not about the brush and more about how you use it that's why quip was created by dentists and product designers to focus on what actually matters for your oral health healthier habits sensitive vibrations with a built-in timer which is very important the guide gentle brushing for the dentist recommended 2 minutes with 30 second pulses ensuring in and even clean I do that I'll shut do it for a little bit and then we'll go and then I'll switch over to the side and my teeth are whiter than Christmas"
+    ],
+    [
+      0.9326388239860535,
+      " good habits matter to live a healthier life so help form fresh oral health habits with quip"
+    ],
+    [
+      0.94915372133255,
+      " what starts at just $25 and go get your first refill free at getquip.com congrats this is a simple way to support our show and start brushing better but you have to go to get quip, congrats to get your first refill free go right now to get to UI p.com congrats"
+    ],
+    [
+      0.9538587331771851,
+      " intersect"
+    ],
+    [
+      0.9714472889900208,
+      " Lansing intersect Festival by AWS where music art and Technology converge look I'm a big fan of music I'm a big fan art and a big fan of technology and when those confers converge hello Boston taking place December 6th and 7th at the Las Vegas Festival grounds right on the Vegas Strip hello could you have Festival in a better place no in Narnia what does Narnia exist no so let's do it in Vegas hello intersect"
+    ],
+    [
+      0.9689232110977173,
+      " you did that there it's presented by Amazon web services born out of the massive after party for the reinvent conference now open to the public for the first time ever show your welcome it featured the Foo Fighters Anderson paak Kacey Musgraves back flying Lotus Leon Bridges her spoon Jamie XX Thundercat churches bread Carlisle and more Headliners to rival that of Coachella and lined up enough Tech projects to build itself is a mini South by Southwest Southwest Southwest South by Southwest is intersect for a limited time congratulations listeners can save $10 on a two-day general admission tickets to intersect by going to intersect fest.com and entering offer code congrats to unlock the deal that intersect fest.com and promo code congrats to save yourself some cash and be a part of this incredible experience"
+    ],
+    [
+      0.932031512260437,
+      " Clovis is brought you by Kesha the official app of the log cabin and say some words wrong is it okay e s going to get mad that fun the show maybe it's okay ultimately it will be okay"
+    ],
+    [
+      0.9463424682617188,
+      " Halloween doesn't scare me I used to get so fucken terrified as a little boy like fucking straight up straight up terrified"
+    ],
+    [
+      0.9020496606826782,
+      " one time I couldn't spend the night at my friend's house I have a friend that lives next door and I couldn't do it match prevented"
+    ],
+    [
+      0.9495653510093689,
+      " he lived next door and I would try to go to sleep next to her that I would just be like fuck it eventually I would just be like going home and then I just run next door and go home and knock on the door in the lemonade she bad what's up with that I couldn't do it Mommy"
+    ],
+    [
+      0.7877053022384644,
+      " as you block her I get it will get you sleeping back tomorrow"
+    ],
+    [
+      0.8758199214935303,
+      " I hated it"
+    ],
+    [
+      0.8739487528800964,
+      " I know I'm 39 now and yeah I'm still the youngest guy alive but I was even younger"
+    ],
+    [
+      0.9633800387382507,
+      " could you imagine even younger"
+    ],
+    [
+      0.9226056933403015,
+      " 39 it was the youngest man alive but could you imagine one day"
+    ],
+    [
+      0.94197016954422,
+      " long ago"
+    ],
+    [
+      0.844940185546875,
+      " it was younger"
+    ],
+    [
+      0.8691259622573853,
+      " anyway"
+    ],
+    [
+      0.8633314967155457,
+      " so I was my mom was like you know it's okay if you try to"
+    ],
+    [
+      0.9633684158325195,
+      " it's okay to be scared cuz I don't feel bad about being scared you can be scared"
+    ],
+    [
+      0.9537409543991089,
+      " it's also okay to miss sleep just try to stay over your friend's house even if you're up all night it's okay and that was her to fucking would send you know what you was really sweet for saying that and even as a kid I knew that she was like like on my side also like a little bit fed up and I was like yeah but it makes sense cuz like I should try to do that because I want you to try to stay over so one day I'll tell you the story Freddy Krueger and Chris Segal"
+    ],
+    [
+      0.9804239869117737,
+      " whatever I'll do it again"
+    ],
+    [
+      0.9477182626724243,
+      " I don't think I have actually to be honest and like I told the story Chris Segal who was one of the cool kids because you lived on the other side of town he was friends with Justin McKinnon and just McKinnon was really cool to they both like Freddy Krueger a lot Justin McKinnon one time at a birthday party I need a sleepover and I wouldn't even go to the sleepover part I told my parents to pick me up at night because they were never going to watch psycho but before that they watch the bucking bulls game and Michael Jordan was playing and anytime Michael Jordan 1 for a shot her I went for a slam dunk afterward Justin McKinney would say"
+    ],
+    [
+      0.913664698600769,
+      " he would do it in a high pitch voice and I even as like a youngster I be like what the fuck is he doing that in my old man brain he'd fucking slam dunk and Justin McKinnon would go what would it be"
+    ],
+    [
+      0.9027515053749084,
+      " anyway I left because they're going to watch psycho and my dad is like a kid with a new watch psycho the kitchen be watching Psycho another like it never once I go if you think psycho scary"
+    ],
+    [
+      0.8233850598335266,
+      " I left I went by guys New Orleans by and Justin McKinney 121 home"
+    ],
+    [
+      0.9589727520942688,
+      " one day just became his friend Chris Segal said hey won't you spend the night this weekend and I said okay because I thought about what my mom said I was like you know what maybe I'll just spend the night and I'll be awake all night but who cares if I knew I couldn't get home because Chris Eagle lived in the Far Away part of New Jersey like it was like you know 20 minutes away on the other side of town I knew saying yes and confirming the sleepover would absolutely make it saw that have to stay over cuz I can call my mom at like fucking one in cuz she was sleeping so I can come pick me up then"
+    ],
+    [
+      0.9438661336898804,
+      " shop I got to Chrissy Bo's house and apparently now that I'm older I realize my mom told Christy goes mom I know you called ahead lunches I know Christy Alexa Krueger is real scared of Freddy Krueger Savannah Freddy Krueger memorabilia"
+    ],
+    [
+      0.8781428337097168,
+      " ghetto don't don't have it up or something if you can help me out here"
+    ],
+    [
+      0.9536091685295105,
+      " I got into Christopher's room and there's no Freddy Krueger stuff and I was like Chris don't like Freddy Krueger and he was like yeah and it's like my mom that the poster down at Freddy Krueger poster and and they took the Freddy Krueger poster down and I looked over at the rolled up poster and the only thing that was shown on the rolled-up part like is that much you know just an inch or Pro covers eyes score. Turn it around"
+    ],
+    [
+      0.9348527789115906,
+      " show time for bed now and we're going to sleep for in his bedroom and it would fall asleep and I'm already thinking while I'm going to be really scared I can tell but we're watching movies and I was like yo Chris let's just stay up and watch movies all night and he's like yeah alright cool not knowing that I was saying that because I was scared and I needed him to stay awake and"
+    ],
+    [
+      0.8850290179252625,
+      " shower Freddy came out from the unrolled from from the underworld the poster in it"
+    ],
+    [
+      0.8612591028213501,
+      " I forget all that stuff dust in the heart as little kids so anyway"
+    ],
+    [
+      0.877921462059021,
+      " asking all sorts of Action Jackson was on her member Carl Weathers and he was like let's watch this movie and I was like yeah"
+    ],
+    [
+      0.8948125839233398,
+      " and Chris Segal end up falling asleep and now I'm"
+    ],
+    [
+      0.8686476349830627,
+      " awake and I'm like your Christ and you like I do I use all those I use like two or three times I can't keep doing this Mexican no apologies until you buy New Jersey dude because there's no internet back then"
+    ],
+    [
+      0.8811162114143372,
+      " I would have been pussy shaved"
+    ],
+    [
+      0.8345914483070374,
+      " shower anyway Action Jackson ends and"
+    ],
+    [
+      0.8883824348449707,
+      " I am I am like how do I fall asleep just wait till the daylight I'll be good so I won't be scared in the daylight anymore so"
+    ],
+    [
+      0.9309518337249756,
+      " I'm sitting there watching TV just fucking is a TV in his room and I'm just sitting there like to imagine me up as fucking 2 a.m. as a ten-year-old just looking around and Chris Segal just sleeping next to me you know"
+    ],
+    [
+      0.9568372368812561,
+      " by the way I'm scared stiff because I don't want to go anywhere else in the house I think Freddy's going to get me like this is legitimate I'm not making this up I thought Freddy was somewhere in the house I was a fucking had a crazy imagination and I was very scared"
+    ],
+    [
+      0.8327942490577698,
+      " so"
+    ],
+    [
+      0.9044427275657654,
+      " I'm I'm like now now I think I didn't think about this"
+    ],
+    [
+      0.9049826860427856,
+      " but I have to go to the bathroom and I can't go anywhere because I'm too scared literally like my body won't it would be very hard to move my body all set"
+    ],
+    [
+      0.8498266935348511,
+      " Adam watching the TV"
+    ],
+    [
+      0.9178910255432129,
+      " and the grumblings in my tummy and I got to go number two is not number one I mean number to one as well because you have to go number 1 if you go number 2 but number two was the focus"
+    ],
+    [
+      0.9592347145080566,
+      " so I'm like a man I'm like looking at if I had to watch back then I'll be looking at it thinking like a when's the sun come up and I hold the poop until the sun comes up an iHome the poop in my anus until they seem to the book stay inside of my butthole until the light comes on my car at 6:10 and 2 3 4 hours of Publix pull my pants so that I have a prisoner to kill me to book Cinema ship my pants like that's what I've been doing so so I'm like what I do and"
+    ],
+    [
+      0.9462658762931824,
+      " I decide it must have been asked to be like 3:30 a.m. at this point I decided I can't I can't really take it anymore I have to shit but I'm like I'm going to have to make a run for the bathroom and do it"
+    ],
+    [
+      0.8706947565078735,
+      " because otherwise I'm a ship my pants and the pussy but Chris my pants in the bed"
+    ],
+    [
+      0.9041361212730408,
+      " so my car and I got to do this man you got a man a man UPS Coke dick fucking shit your man because you're a man dude I know your name but your fucking men go to cash it in that bathroom so"
+    ],
+    [
+      0.9312885403633118,
+      " I decide to do it and I'm not bullshiting you this really happened all right I'm so fucking tired but I have to ship and I'm thinking about getting up to go to do this the shit"
+    ],
+    [
+      0.9147191643714905,
+      " the TV is on the news okay the TV cuts to I don't know if it was a News segment or what but it cuts to the was on very low volume no Vine"
+    ],
+    [
+      0.9466794729232788,
+      " the cuts to a bedroom this is a new segment that cuts to a bedroom and the camera is on the pillow of the bed the pillars of the bed and then it it it shows the foot of the bed outward and then there's a door at the end from the farthest part of the camera on the wall"
+    ],
+    [
+      0.9278897047042847,
+      " I'm watching a Steven like what the fuck is this cuz I can't hear it over there talking about the door opens and not lying to you I wouldn't believe somebody if they told me this but it happened to me so I know it's true"
+    ],
+    [
+      0.9765772819519043,
+      " the door opens and it's Freddy Krueger"
+    ],
+    [
+      0.9518591165542603,
+      " and he's got his fucking knife fingers and he's walking towards the bed"
+    ],
+    [
+      0.7656213045120239,
+      " do the camera"
+    ],
+    [
+      0.8932763338088989,
+      " and"
+    ],
+    [
+      0.8188924789428711,
+      " I"
+    ],
+    [
+      0.9522942304611206,
+      " can't believe my fucking brain I can't believe what I'm looking at I can't believe what's happening the only thing I'm the most scared of is Freddy Krueger and right when I decided I'm going to go have to take a shit and make a run for it Freddy Krueger's all of a sudden the goddamn room so now I think I'm going to shit in this bedroom not in the bathroom fuck you world you made me shit in the bedroom"
+    ],
+    [
+      0.9288569092750549,
+      " fuck it I'll be known as the shit the pants guy in New Jersey I don't give a shit I just cut off at 2 I remember try these red sweats that I cut off into shorts and that was what I was going to shit and I was well prepared to do that"
+    ],
+    [
+      0.9432183504104614,
+      " I was I guess I'm just staying here as a nine-year-old about Freddy movie Freddy Krueger movie coming out Googled it and tried to fucking YouTube it ever since that can't find that clip and it wasn't me dreaming dude I know some of you are like maybe you fell asleep and had no dude it really happened"
+    ],
+    [
+      0.9458320140838623,
+      " show me like what the fuck am I going to do I got to go to the bathroom so bad and I'm like you know what fuck it I'll just wait until the sun comes up so I'm waiting and waiting till the sun comes up and you know it's working Forest White 2 hours away I'm waiting I'm waiting I'm waiting I'm waiting I'm waiting waiting next thing I know"
+    ],
+    [
+      0.9754473567008972,
+      " I'm rubbing my face and waking up I fell asleep I did it"
+    ],
+    [
+      0.9242762923240662,
+      " I fucking did it's bright out I noticed it's bright out I made it through the night but what I also noticed"
+    ],
+    [
+      0.9876291155815125,
+      " is that"
+    ],
+    [
+      0.9450199007987976,
+      " I did not ship my pants"
+    ],
+    [
+      0.9346923232078552,
+      " I was currently shiting my pants"
+    ],
+    [
+      0.9558589458465576,
+      " look I know a lot of people have woken up after they shut themselves that's probably pretty common now I've never done that in my life ever in my life as a matter fact I've only shittin toilets my whole life I've never missed I've never made a mistake"
+    ],
+    [
+      0.9483370184898376,
+      " this time I woke up and I was currently shiting I woke up shiting"
+    ],
+    [
+      0.9571581482887268,
+      " it was a gross but it was half coming out and it was at a standstill it was like it woke me up because the ship came out and then just chilling was like let's just hanging halfway out until he wakes up woke up and it hurts so bad I don't drink water in like fucking 6 weeks"
+    ],
+    [
+      0.9005272388458252,
+      " and I was like oh my God and the sun was coming up and I fucking duck walked all the way over and I bought if I still scared but already was sitting so high I duck walked all over the bathroom"
+    ],
+    [
+      0.9445714354515076,
+      " and I left the rest of it come out and it didn't make a mess because there was no mess is there a mess wow what a fucking the story so and then when I was going to the bathroom I let my fear you know how they taste like when your scared you catch it yourself I let my fear just let the rest of it push out because I was like what do you call it a shower curtain and remember I remember thinking like legitimately like a fucking friends going to pop out and fucking kill me while I'm shiting"
+    ],
+    [
+      0.90903240442276,
+      " I was convinced of it dude"
+    ],
+    [
+      0.9553375244140625,
+      " I was the most scared little kid man I guess what I shit I went back into the room no mess"
+    ],
+    [
+      0.9254480004310608,
+      " went back onto the floor next to fucking Chris Eagle fell asleep again cuz it was daytime it was easy and I fucking did it dude"
+    ],
+    [
+      0.9457695484161377,
+      " and that's your Victorious Halloween story I did it man I'm at my Mama Proud she said I could do it and I did do it I shipped myself during it which is pretty much the worst thing out of the couch is actually doing it but I got through the night and you can get through the night 2"
+    ],
+    [
+      0.8527042865753174,
+      " and gets denied to this that's why this podcast is for also for like 7 year olds"
+    ],
+    [
+      0.8498334884643555,
+      " age appropriate"
+    ],
+    [
+      0.9051207304000854,
+      " mad"
+    ],
+    [
+      0.8726428151130676,
+      " oh my kid gets scared at night so I could be there for him"
+    ],
+    [
+      0.9465833306312561,
+      " I just like Pat his head I'm a race to be so scared all the time have the most biggest nightmares and my dad would come and like just be like I'll just sit next to your bed till you fall asleep so cute"
+    ],
+    [
+      0.901943027973175,
+      " and you will be like don't worry about is fine sometimes you would be mad you know if you could get to work but sometimes you could just chill"
+    ],
+    [
+      0.9660093188285828,
+      " so cute"
+    ],
+    [
+      0.8098019957542419,
+      " all that all three of the most scariest kid fucking Karma"
+    ],
+    [
+      0.9216462969779968,
+      " I want some of that cut his hair didn't tell me about it it can't cut his hair he had long hair it came home once it after work and he had a fucking short haircut and I cried so hard"
+    ],
+    [
+      0.8214129209518433,
+      " I was I saw my look at my window what the fuck you do is cut my hair"
+    ],
+    [
+      0.8545615077018738,
+      " he was like doodle grow back"
+    ],
+    [
+      0.9500421285629272,
+      " got over it"
+    ],
+    [
+      0.7830392122268677,
+      " dude if you can get over that I can get over anything"
+    ],
+    [
+      0.9354943037033081,
+      " 6 year old seeing his dad cut his hair for the first time I got head like fucking Ultimate Warrior hair and then all the sudden head fucking David Duchovny hair"
+    ],
+    [
+      0.8937664031982422,
+      " come on dude can get over that get over anyting people out there soon the fucking come on"
+    ],
+    [
+      0.8494831323623657,
+      " drinking on your motherfuckers dude I'm respectful that's why"
+    ],
+    [
+      0.9726991653442383,
+      " so loud so loud"
+    ],
+    [
+      0.9559082984924316,
+      " anyway"
+    ],
+    [
+      0.8725605607032776,
+      " why what else was I going to talk about I had something else can't remember all good my memory is gone need ginkgo biloba"
+    ],
+    [
+      0.9570478796958923,
+      " what else scared me as a kid about keeping a Halloween Mike Myers I never saw Mike Myers movie when I was a kid but holy fucking shit that mass scared the shit out of me Mike Myers Freddy Krueger Jason obviously checking out really he's just like a doll Kevin Nelson fucking loved"
+    ],
+    [
+      0.9304968118667603,
+      " Jason and Freddy that one time we got into a fucking karate fight"
+    ],
+    [
+      0.9161063432693481,
+      " it's always nice or naughty fuck me up before we go actually this is something I talked about in the group text this drives me nuts dude"
+    ],
+    [
+      0.9198422431945801,
+      " a lot of times that you know how I said I'm Bon Jovi when I sit and that's that there's no change in it I'm Bon Jovi when I sit okay that's it that's it you might as well because I'm on Bon Jovi when I sit"
+    ],
+    [
+      0.8735259175300598,
+      " my fucking I manspread and I don't give a shit if you don't come free about it chill"
+    ],
+    [
+      0.9373080134391785,
+      " tease my hair out cuz I'm Bon Jovi my knees can't get further apart I'm like a fucking slut K A lot of times I'll hang my knee over a chair all hang my knee over a fucking"
+    ],
+    [
+      0.9527090787887573,
+      " what do you call it table I'm chilling I'm at cafes a lot and I'm doing this"
+    ],
+    [
+      0.943760871887207,
+      " this week I was at 1 it'll remain nameless"
+    ],
+    [
+      0.9498233795166016,
+      " and the girl comes up to that works there and she was like excuse me can you take your foot off now look I get it if my feet are on furniture not okay feeder Dirty Feet Shoes they've got piss all over them because you walk around and toilets and bathrooms and shit you pissed and the back fucking pissed gets on the fucking shit in the bottom of the things step and shit piss cum all over the ship right"
+    ],
+    [
+      0.9192676544189453,
+      " so I get that I never put my feet on furniture like that okay Mike 1/2 yes my calf right"
+    ],
+    [
+      0.9103018045425415,
+      " can you take your foot off she says and I roll my eyes at her and I say yeah sure okay and I guess okay"
+    ],
+    [
+      0.9355840086936951,
+      " and I hear citing APA style go right to the group text and I said goddamn motherfuking why do I get so much people I get so much shit from establishments for doing the Bon Jovi spread"
+    ],
+    [
+      0.9294472336769104,
+      " and I'm just chilling man"
+    ],
+    [
+      0.9019595384597778,
+      " that's that is a fucking rule that isn't should not be a rule"
+    ],
+    [
+      0.9702792763710022,
+      " if you sit with your feet up it's okay you're not going to you can't tell me what to do with my body dude I'm a feminist"
+    ],
+    [
+      0.9232470393180847,
+      " you're not going to tell me where to put my limbs"
+    ],
+    [
+      0.9836533069610596,
+      " is that a health hazard"
+    ],
+    [
+      0.9619833827018738,
+      " to put my fucking calf on a table"
+    ],
+    [
+      0.8956484198570251,
+      " I talked about with the group text me like why you get so mad about this so it's really it's you know it's just one of the other more my other buddies is like well I'm like my body is like they're not they're telling you they're telling you how to be polite in their establishment let me tell you something I don't know"
+    ],
+    [
+      0.8086118698120117,
+      " I'm chilling dude can I not do this to this"
+    ],
+    [
+      0.963001549243927,
+      " can I do this can I do this can I put my leg up can I put my leg up in the air like this would you tell me to put my foot down if I to up in the air like this would you tell me to put it down know you would it okay to put this in this way what about if it's like that on the table but the foots off the table if you would wouldn't you wouldn't you that and that what's the difference dude what's the difference between what's the difference dude and you're going to tell me not to do the filters I should have went like this sure yeah I won't do it shore shore shore house that Australian ship because she was Australian"
+    ],
+    [
+      0.8701125979423523,
+      " she's making it soggy things over. I'm using sure yeah I can do me a favor real quick though call yourself a kangaroo"
+    ],
+    [
+      0.8961195945739746,
+      " God that made me mad yeah I move my limbs for you because it's your body not mine and his baby"
+    ],
+    [
+      0.9542074799537659,
+      " you don't tell me what to do with my body"
+    ],
+    [
+      0.7874963283538818,
+      " okay"
+    ],
+    [
+      0.9399842619895935,
+      " Rogue one always hit the wrong one"
+    ],
+    [
+      0.9814965128898621,
+      " I'm a feminist baby"
+    ],
+    [
+      0.8640896677970886,
+      " 7 is baby don't tell me where to put my cats"
+    ],
+    [
+      0.9061815738677979,
+      " dude I'm serious man I'm going to run for fucking local mayor"
+    ],
+    [
+      0.9591081738471985,
+      " this cap situation is out of control situations out of control a lot of times when you're sitting with your feet up at the cafe if your feet aren't even on the table or the back of someone's chair people will say come up to you and say can you please put your foot down while I'm here to make that stop I'm Crystal and I'm running for fucking mayor of Lompoc and I understand that allow you guys and they're not let you do the Bon Jovi sentence with that's not okay on my dime that ends today vote for me I'd paid for by Chris D'Elia"
+    ],
+    [
+      0.8732600212097168,
+      " Chris is Chris D'Elia"
+    ],
+    [
+      0.812771737575531,
+      " if I hit the Quan before I hit the gym e101 one more time I'm going to fucking"
+    ],
+    [
+      0.9167896509170532,
+      " it just it's just don't tell me what to put my fucking limp ma'am ma'am is my dick inside you know then stop complaining"
+    ],
+    [
+      0.9256843328475952,
+      " damn this is Cafe right, ma'am"
+    ],
+    [
+      0.8760088086128235,
+      " I'm inside you"
+    ],
+    [
+      0.8956716060638428,
+      " what if I did that what she said can you move me can you give me can I put your feet on the table and I said I'd you"
+    ],
+    [
+      0.689333975315094,
+      " Buc-ee's why"
+    ],
+    [
+      0.9446049332618713,
+      " I'm asking you if my penis inside is inside of you in any of the other than any of the holes that you have then don't tell me what to do with my body"
+    ],
+    [
+      0.9528535604476929,
+      " the single greatest music drop of all time thank you Jeremy Renner"
+    ],
+    [
+      0.9579552412033081,
+      " dude I fucking"
+    ],
+    [
+      0.953890860080719,
+      " when I was a kid I take all the fucking can soda things I cut them all because I thought they killed dolphins and turtles that it's a sham do it every one fucking see this fucking paper straw thing is such a bull shit dude zero Turtles you're saving I'll tell you what man I'll tell you what I'm a start wearing paper bathing suits that's what I'm going to do a paper fucking bathing suits and when people say why you weren't a paper bathing suit and I know it doesn't I said what what you mean though it doesn't disable the paper gets all fucking you know watery and then it is a photo of your dick head is up"
+    ],
+    [
+      0.9133666753768921,
+      " and then I walk away smoking the fattest stogie dude I don't even know I had one until then"
+    ],
+    [
+      0.9455952644348145,
+      " what are you doing"
+    ],
+    [
+      0.8873873353004456,
+      " dude I'm wearing paper bathing suits."
+    ],
+    [
+      0.8145673871040344,
+      " I don't understand why you wanted the paper bedding should I say for the turtles"
+    ],
+    [
+      0.9833552837371826,
+      " Prima Turtles"
+    ],
+    [
+      0.906997799873352,
+      " sure your dick is coming out here wearing loose leaf paper around your balls yeah it's for the turtles"
+    ],
+    [
+      0.9828041195869446,
+      " this whole world is so backwards dude"
+    ],
+    [
+      0.943352222442627,
+      " from fucking people saying the phone number thing is a scam to fucking paper straws hey paper in liquid"
+    ],
+    [
+      0.763245165348053,
+      " I farted when I went like that I'll be honest"
+    ],
+    [
+      0.7564254999160767,
+      " you didn't hear it"
+    ],
+    [
+      0.9777671694755554,
+      " dude"
+    ],
+    [
+      0.9321005344390869,
+      " you can't put paper liquid that's something we know we don't even have to learn it its intrinsic in our knowledge"
+    ],
+    [
+      0.9385813474655151,
+      " show ridiculous ridiculous what's that song"
+    ],
+    [
+      0.6303737163543701,
+      " fucking teclas"
+    ],
+    [
+      0.9620310068130493,
+      " what's that song dude I'm going to text somebody back right now somebody writes"
+    ],
+    [
+      0.9463605880737305,
+      " when's my sweatshirt going to ship Papa"
+    ],
+    [
+      0.9594019055366516,
+      " don't call me Papa it did I wrote him"
+    ],
+    [
+      0.8153181672096252,
+      " somebody wrote go fuc yourself you're not funny okay not writing them back"
+    ],
+    [
+      0.875292956829071,
+      " look at this look at this people get so mad since you hit me with a mass text no thanks"
+    ],
+    [
+      0.8948298096656799,
+      " you know these fucking people man I literally have 64,000 people here"
+    ],
+    [
+      0.8795837163925171,
+      " how am I suppose how I met you being mad that I didn't respond to you that's so funny man"
+    ],
+    [
+      0.9438689947128296,
+      " people are so ridiculous"
+    ],
+    [
+      0.7502908706665039,
+      " all right"
+    ],
+    [
+      0.922019898891449,
+      " so appalled is what it is I can't play it cuz I'm going to fucking Flag but he goes fucking ridiculous"
+    ],
+    [
+      0.7325109839439392,
+      " Isaac Douglas all right dude I'm out"
+    ],
+    [
+      0.9418963193893433,
+      " download the cash app for free on the App Store or Google Play Market text me +81-823-970-8070 and we got the merch man we're selling out the light strips. Forgot to reorder coming in out of the be the medium sold out I think but go to chrisdelia.com or store. Chris D'Elia. Com tell a friend about this podcast right it really will help"
+    ],
+    [
+      0.9660592079162598,
+      " it really will help the podcast grow and I really want the podcast to grow because"
+    ],
+    [
+      0.9659791588783264,
+      " eating out honestly if this podcast gets bigger and bigger than I thought about doing like to a week sometimes but I'm not going to do it at this point so if you guys push this podcast and share it and tell your friends about it and get people on board to be in this Log Cabin one day and grow babies and be a part of this cult and Knotts you know what I mean like it will help subscribe to YouTube channel to we only have four hundred thousand subscribers we're at 398 K so help me out dude if your baby has helped me out subscribe rating view the show that helps thank you very much for listening will see you in Foxwoods will see in Bethlehem Pennsylvania machine Rochester was seeing Royal Oak Detroit to Buffalo Minneapolis tape on my special Tampa Florida to Melbourne Florida and Hollywood Florida El Paso to Houston Peoria and Chicago Illinois Minneapolis Michigan special can't wait to see a Florida and Texas on the other shift right guys you guys are great thank you very much"
+    ]
+  ]
+}

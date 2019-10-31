@@ -1,1 +1,230 @@
-{'Stats': {'PodcastID': '953290300.mp3', 'DownloadTime': 1, 'AudioLength': 1221.002063, 'OriginalFileSize': 19536207, 'FlacFileSize': 97872315, 'TranscriptionMethod': 'googlecloud', 'TranscriptionTime': 426.09824872016907, 'DownloadSuccessful': '15.8451247215271'}, 'Transcripts': [[0.9317277073860168, "this is impairs invisibilia I'm Elise Spiegel and today we have a new episode for our fall season this one is from my co-host on a resin here's Hannah"], [0.9584119915962219, " a friend of mine once told me a story about how when she was very little she was sitting in the backseat of a car and an old song came on the radio and she started singing it but she knew all the words which really freaked out her parents because they were pretty sure she's never heard the song before and they definitely couldn't remember her listening to the song enough times to memorize it from start to finish"], [0.948406994342804, " it's a weird thing when something pops into our brains and we have no idea how it got there even weirder when it happens in a kid in the weirdest maybe when it's your kid because it's apparent you have this idea that most things in your little kids had were put there by you"], [0.8613001704216003, ' how can I do is Grammy'], [0.9519646167755127, " which brings us to our story today about a four year old boy named fan according to fans parents who prefer to remain anonymous this spring van started talking Non-Stop about memories that couldn't possibly be his own like the time you told them he used to work at a hardware store and he drove a pickup truck so white Chevy pickup truck or the time they were walking out of pre-K and pasta skateboard yeah he just has a k I used to ride one of those when I was when I was older when I was older"], [0.9637070894241333, " now if it were my kid I probably would have paid 0 attention because whatever kids are super weird but Dance Moms found herself obsessing over these comments and then one day while she was doing some Googling she came across an actual Professor who studies little kids who say these kind of weird things we started over 2,500 cases this is Jim Tucker these are the ones from North America and then upstairs we got the ones from Asia and South America Africa he's a child psychiatrist and a professor at the University of Virginia division of perceptual studies a privately endowed research group that's part of the medical school"], [0.9555690288543701, " Vans mom had read that Professor Tucker was trying to figure out if these kids were some kind of memory catchers like they were picking up other people's thoughts people they've never met who were dad Tucker his colleagues were taking this idea seriously and so she started to wonder is this what's going on with my son"], [0.9700987339019775, " now there's mom believes in metaphysical stuff and so it made sense to her knee or the Paranormal possible to me it sounds like something I would watch on cable in a hotel room but the question I really connected with was the one that came after that it almost had me questioning like dude still make him our kid there and lots of moments in 18 years of parenting where I thought is this person really mine what do you do when someone you love your kid starts to feel like a stranger it's a really bad feeling so I can see how you might do anything to make it go away"], [0.8753420114517212, ' prevents mom that meant reaching out to Professor Tucker'], [0.9321948289871216, ' hello hello can you hear me through that'], [0.9181103706359863, ' after the break we tag along with Professor Tucker as he attempts to coax out the Stranger in Van on NPR invisibilia'], [0.9410501718521118, " this message comes from NPR sponsor SmartWater smart water is for the Curious drinkers the ones who are always looking for ways to make things a little bit better that's why I smart water created to a new ways to hydrate Smart Water alkaline with 9 + pH and SmartWater antioxidant with added selenium and now you can order Smart Water by saying Alexa order Smart Water Smart Water that's pretty smart"], [0.8549448251724243, ' this one is dead first glimpse of an through the screen door as we approach the house'], [0.9435599446296692, " he's 3 ft tall shirtless and unlike either of his parents has bright red hair he's hyper in the way that 4 year olds are sometimes he wants to show up as Spider-Man outfit and this yellow bucket full of worms he's been collecting all day"], [0.9515231251716614, " when van settles down Professor Tucker begins asking him questions you see dr. Tucker doesn't just collect these kids stories he tries to check if the kids are recalling episodes from another person's actual life and for that he needs specific details that can be tallied up and cross-checked Tucker was already somewhat familiar with fans strange memories from emails his mom it's on but he needed more details about okay 9 can you tell me about that"], [0.8835336565971375, " cooking 5:30 far away you remember about it won't answer"], [0.8813986778259277, ' what do you know about okay 9'], [0.9691186547279358, " after a few minutes Vans parents sent him to the neighbor's house to swim it seems like they are the ones who really need to talk"], [0.9379701018333435, " they've been living with this weird situation for a few months and they had a lot to say we are at a birthday party yesterday and I was talking all the Vans little his friends parents and they're like how's your summer going and like I just you know I was thinking about you so much going on like I just was like what can I actually tell them"], [0.9688630700111389, " as I sat back and listened waiting for the conversation to get weird I'm more familiar picture emerged to young parents who had a romantic vision of Parenthood before van was born and then their actual child arrived I think I asked the nurse like is it always going to be like this or something cuz she was like maybe I don't know who could because he was crying one week 6 weeks 4 months the fussing didn't stop everything felt so chaotic as mom quit her job as a social worker stay home full-time but even that wasn't enough when van was about one his dad left his job as a chef at hip farm-to-table restaurant to get a nine-to-five yeah it was a very intense and fan remember all the doctor saying that in there with the red hair or it's just a temperament they thought it's got to be a phase but that's not how it worked out"], [0.9344531893730164, " has Van got older life became an obstacle course designed to avoid triggering their toddler the most random stuff could set him off and took my work is really emotional and I have to have like Waze figure out some back road way to get us where we're going"], [0.9441046714782715, " tell me what you're going to fast do not like Vans parents went on answering Tucker's questions for a while but then the things they said started tipping us into the Twilight Zone difficult toddler van went away and was replaced by a young child with lots of unusual thoughts take bath time for instance bath time you get your van upset about this thing or that thing bedtime looming but now that time you came as mysterious as the Open Seas"], [0.9322442412376404, " Anything Could Happen he was in the bathtub one time and we had the styrofoam letters and he's like I'm just going to spell out my name Brian Trust"], [0.9412303566932678, " Brian truss according to Van that had a whole other family yeah John was my brother and I have a sister named Kiki and we had a cat named Claude from inside their son who by the way couldn't even really right yet this other human life emerged detail by detail"], [0.9689905643463135, " van would be sitting by himself watching TV and suddenly the strange memory would pop out on my dad's dead that's what I was and I was like what I like dad is at work what are you talking about and he's like no no my other dad my other dad is dead and he lives on ok-9 you know any sleep repeat after me Mom oh okay 900 ok-9 what part of his old address or something maybe there's an Oklahoma State Highway 9 maybe I drove by the spot where I don't know where it happened I don't know something like that like I could have happened like that and Bandon seem to be only tapping into Bryant Russ sometimes it felt like he was able to tune into his own parents spy on the thoughts going through their heads"], [0.9615273475646973, " I was dozing off he was next to me and we were in our room and it was like you know when you're having a sort of half awake half asleep. You may be the gym where you like fall off a cliff when you wake up cuz you jump up but this was really just not interesting of just me walking down a hallway and I was walking down the hallway and he was in front of me and then we got to the kitchen I woke up and he was asleep and then the next morning when he woke up he asked me where did you go last night in my dream we were in the kitchen together and then you disappeared"], [0.9439674019813538, ' NPR invisibilia will be back after the break'], [0.9519442915916443, " support for this podcast in the following message come from ExxonMobil the company that believes that carbon capture Technologies are critical for lowering Global CO2 emissions and more and more scientists agree as a leader in capturing emissions and its own operations ExxonMobil is working on ways to make this technology more efficient and affordable for other Industries as well that's the unexpected energy of Exxon Mobil find out more energy Factor dicom"], [0.9429969787597656, " hey there it's Hannah Rosen before we continue to show we just want to shout out our friends over at shortwave and PR is New Delhi signs podcast they just launched their interested in all the cool stuff happening in the world around us and they explored every weekday around 10 minutes at a time so stick around after the show for special sample of shortwave"], [0.9747822284698486, " welcome back to NPR invisibilia when we left off Vans parents were counting the curious things that their four-year-old son says it is a strange story but the reason that we started looking into it in the first place is because you're at invisibilia we've been interested in theories about Consciousness for a very long time and these memory cats are kids like van a kind of a side door into that issue here is Hannah okay so the backup Consciousness is just this awareness we have ourselves every minute and yet no philosopher or scientist has ever managed to explain it and there's a huge unresolved debate about what it is and where it comes from most scientists think it's a product of our brains and our bodies"], [0.9679936170578003, " the Tucker the professor from UVA who's been following these memory catcher cases he is an outlier review he thinks that if the kids are really catching other people's memories then it raises the possibility the Consciousness sticks around after we die that there are these stray Bits Of Consciousness floating out there outside our bodies that's a big if but that's what he thinks I don't think we can map these onto just a materialistic understanding that reality where matter is all there is and in our brains produce our Consciousness in the brain dies Consciousness dies and visit these run counter to that"], [0.9553388953208923, " so that's the reason we followed him down the staff in the first place but pretty quickly we realized there was probably a simpler explanation for what was happening with man because sometimes when we were talking with fans parents they would make even ordinary things sound weird like they experienced every little thing Band-Aids for the filter of his memory caching powers and through his channeling of Brian dress like wrestling with fans little brother release really the kind of moves you'd expect from a four-year-old specific moves everything became a trust did Van make a weird joke must be an okay 9 thing did he get lucky at the fair in the dark must be because of Brian trust he's never even held a dark before I had to show him how to hold it and then he was just like I don't like this and like through it like just pop this little tiny balloon"], [0.9756273627281189, " and let's be honest walking around the county fair with your kid is kind of fun"], [0.9680964946746826, ' but walking around the county fair with your kid who has Supernatural tiny balloon busting Powers transferred across the time-space Continuum that is really fun'], [0.9674811363220215, " and so I wondered could it be possible that Vans parents were leaving so hard into these weird memories just to distract themselves from dealing with a difficult toddler I asked them and they definitely had that thought themselves I remember thinking like oh my God this is all that I'm going to want to talk to Dan about now they're going to think about this every time I talk to him like that's not fair to him to their son like he was a voice from the cosmos gone the way of turning into their actual son the four-year-old cuz I know just wanted to like keep asking him questions I wanted to know more until I was just trying to space it out and get it I will only ask him and I are only asking when we're in the car ride and why do you think it occupied you like that cuz it's the craziest thing to think about like this kid that I know came out of my body that I know you don't we can see if together like we could have been somebody else that lived who-knows-where who knows when"], [0.9455044865608215, ' it almost had me questioning like dude still make him our kid'], [0.8339865207672119, ' and then one day van said something that brought them back so you guys and I told you'], [0.9426863789558411, " of course Van being van eeden just keep it brief and general like that you told him exactly how it happened at some sort of pick your parent pop-up shop want you kids they're all my brothers and sisters and he's like there's a thousand of them and it was black and then I saw you guys and I told you"], [0.9169718027114868, ' ever since and was born his dad at a little seat of alienation from his son first and last fussing and the difficult toddler phase But Wings and told him about the parents Tour all those doubts melted away'], [0.915655791759491, ' is everything the new job the million times list tasks of being a parent all fell into place'], [0.9344739317893982, " it's like how some parents feel that their babies first smile he is mine I am his his dad finally felt that completely"], [0.8703081607818604, " people are desperate for me that's right for them and liked it. I can't imagine it's like any other hair color"], [0.9305246472358704, " she's like a perfect mix of"], [0.9497868418693542, " Spider-Man after a while then came back from swimming and we drifted into the playground which was scattered with toy trucks vans mom took out a box with a map of Oklahoma State Highway 9 actually is a Road in Oklahoma to see if cuz there's a look at the map I wanted to manufacturing Erie moment to catch on tape"], [0.9685984253883362, " but after a few minutes is Mahmoud already forgotten about it and then had moved on he was busy climbing on his dad's back looking at Turtles on YouTube it occurred to me the weather or not Professor Tucker finds evidence of a brine for us who once lived in Oklahoma his visit already served a useful purpose he could take on the obsession and all its literal detail and Mom and Dad could get back to raising van more present with him now to be like oh this is it like this is what we have right now"], [0.9470705986022949, " invisibilia is hosted by me Hannah Rosen and Elise Spiegel our show is edited by an gudenkauf and executive producer is carrot a low this episode was produced by David good Hearts chiamaka Natty's and Abby wendle invisibilia is also produced by yogesh Shah a project manager is Lantus enstrom we also had help from Oliver Wang Alex Stetson fact-checking by Jameson Pfeiffer are technical director is Andy huether and our senior vice president of programming is Anya grundmann"], [0.949805498123169, ' special thanks to Mark memmott Michael Ratner Emily Bogle Carmel Roth Jeff krypell Ed Kelly Duncan Tyler and a marjoram Z music for this episode provided by Jonathan Barlow additional music from Blue. Sessions'], [0.963080108165741, " let me introduce you to carine Chen McLaughlin she's a social worker who smoked for decades she's tried to quit a lot like 20 or 30 times but nothing ever stuck and then she heard about this clinical trial using something a little unusual to treat smoking addiction"], [0.9019668698310852, ' psilocybin the singing magic mushrooms that makes you trip'], [0.9612569212913513, " and that's how a grandma from Baltimore ended up on a couch at Johns Hopkins University"], [0.9583005309104919, ' High out of her mind I took the pill about quarter to 9 I think and then about a half hour to 40 minutes and started floating and I said things are starting to look strange so I close my eyes at that point and I pretty much kept my eyes closed until the very end but the biggest part and I even get nervous when I talk about it now is how scary the whole experience was the overwhelming feeling I had was fear'], [0.9129732847213745, ' I saw monsters I saw aliens I had these big gray puffy clouds I kept thinking in from the ceiling and I thought I was going to suffocate'], [0.9157916307449341, ' and I spent most of my time crying sobbing not talking a whole lot because apparently what everyone goes through is pretty much in your head'], [0.9650450348854065, " did Koreans trip work and what's the science behind a psilocybin trip anyways listen to shortwave to find out just hit that little subscribe button wherever you listen to your podcast"]]}
+{
+  "Stats": {
+    "PodcastID": "953290300.mp3",
+    "DownloadTime": 1,
+    "AudioLength": 1221.002063,
+    "OriginalFileSize": 19536207,
+    "FlacFileSize": 97872315,
+    "TranscriptionMethod": "googlecloud",
+    "TranscriptionTime": 426.09824872016907,
+    "DownloadSuccessful": "15.8451247215271"
+  },
+  "Transcripts": [
+    [
+      0.9317277073860168,
+      "this is impairs invisibilia I'm Elise Spiegel and today we have a new episode for our fall season this one is from my co-host on a resin here's Hannah"
+    ],
+    [
+      0.9584119915962219,
+      " a friend of mine once told me a story about how when she was very little she was sitting in the backseat of a car and an old song came on the radio and she started singing it but she knew all the words which really freaked out her parents because they were pretty sure she's never heard the song before and they definitely couldn't remember her listening to the song enough times to memorize it from start to finish"
+    ],
+    [
+      0.948406994342804,
+      " it's a weird thing when something pops into our brains and we have no idea how it got there even weirder when it happens in a kid in the weirdest maybe when it's your kid because it's apparent you have this idea that most things in your little kids had were put there by you"
+    ],
+    [
+      0.8613001704216003,
+      " how can I do is Grammy"
+    ],
+    [
+      0.9519646167755127,
+      " which brings us to our story today about a four year old boy named fan according to fans parents who prefer to remain anonymous this spring van started talking Non-Stop about memories that couldn't possibly be his own like the time you told them he used to work at a hardware store and he drove a pickup truck so white Chevy pickup truck or the time they were walking out of pre-K and pasta skateboard yeah he just has a k I used to ride one of those when I was when I was older when I was older"
+    ],
+    [
+      0.9637070894241333,
+      " now if it were my kid I probably would have paid 0 attention because whatever kids are super weird but Dance Moms found herself obsessing over these comments and then one day while she was doing some Googling she came across an actual Professor who studies little kids who say these kind of weird things we started over 2,500 cases this is Jim Tucker these are the ones from North America and then upstairs we got the ones from Asia and South America Africa he's a child psychiatrist and a professor at the University of Virginia division of perceptual studies a privately endowed research group that's part of the medical school"
+    ],
+    [
+      0.9555690288543701,
+      " Vans mom had read that Professor Tucker was trying to figure out if these kids were some kind of memory catchers like they were picking up other people's thoughts people they've never met who were dad Tucker his colleagues were taking this idea seriously and so she started to wonder is this what's going on with my son"
+    ],
+    [
+      0.9700987339019775,
+      " now there's mom believes in metaphysical stuff and so it made sense to her knee or the Paranormal possible to me it sounds like something I would watch on cable in a hotel room but the question I really connected with was the one that came after that it almost had me questioning like dude still make him our kid there and lots of moments in 18 years of parenting where I thought is this person really mine what do you do when someone you love your kid starts to feel like a stranger it's a really bad feeling so I can see how you might do anything to make it go away"
+    ],
+    [
+      0.8753420114517212,
+      " prevents mom that meant reaching out to Professor Tucker"
+    ],
+    [
+      0.9321948289871216,
+      " hello hello can you hear me through that"
+    ],
+    [
+      0.9181103706359863,
+      " after the break we tag along with Professor Tucker as he attempts to coax out the Stranger in Van on NPR invisibilia"
+    ],
+    [
+      0.9410501718521118,
+      " this message comes from NPR sponsor SmartWater smart water is for the Curious drinkers the ones who are always looking for ways to make things a little bit better that's why I smart water created to a new ways to hydrate Smart Water alkaline with 9 + pH and SmartWater antioxidant with added selenium and now you can order Smart Water by saying Alexa order Smart Water Smart Water that's pretty smart"
+    ],
+    [
+      0.8549448251724243,
+      " this one is dead first glimpse of an through the screen door as we approach the house"
+    ],
+    [
+      0.9435599446296692,
+      " he's 3 ft tall shirtless and unlike either of his parents has bright red hair he's hyper in the way that 4 year olds are sometimes he wants to show up as Spider-Man outfit and this yellow bucket full of worms he's been collecting all day"
+    ],
+    [
+      0.9515231251716614,
+      " when van settles down Professor Tucker begins asking him questions you see dr. Tucker doesn't just collect these kids stories he tries to check if the kids are recalling episodes from another person's actual life and for that he needs specific details that can be tallied up and cross-checked Tucker was already somewhat familiar with fans strange memories from emails his mom it's on but he needed more details about okay 9 can you tell me about that"
+    ],
+    [
+      0.8835336565971375,
+      " cooking 5:30 far away you remember about it won't answer"
+    ],
+    [
+      0.8813986778259277,
+      " what do you know about okay 9"
+    ],
+    [
+      0.9691186547279358,
+      " after a few minutes Vans parents sent him to the neighbor's house to swim it seems like they are the ones who really need to talk"
+    ],
+    [
+      0.9379701018333435,
+      " they've been living with this weird situation for a few months and they had a lot to say we are at a birthday party yesterday and I was talking all the Vans little his friends parents and they're like how's your summer going and like I just you know I was thinking about you so much going on like I just was like what can I actually tell them"
+    ],
+    [
+      0.9688630700111389,
+      " as I sat back and listened waiting for the conversation to get weird I'm more familiar picture emerged to young parents who had a romantic vision of Parenthood before van was born and then their actual child arrived I think I asked the nurse like is it always going to be like this or something cuz she was like maybe I don't know who could because he was crying one week 6 weeks 4 months the fussing didn't stop everything felt so chaotic as mom quit her job as a social worker stay home full-time but even that wasn't enough when van was about one his dad left his job as a chef at hip farm-to-table restaurant to get a nine-to-five yeah it was a very intense and fan remember all the doctor saying that in there with the red hair or it's just a temperament they thought it's got to be a phase but that's not how it worked out"
+    ],
+    [
+      0.9344531893730164,
+      " has Van got older life became an obstacle course designed to avoid triggering their toddler the most random stuff could set him off and took my work is really emotional and I have to have like Waze figure out some back road way to get us where we're going"
+    ],
+    [
+      0.9441046714782715,
+      " tell me what you're going to fast do not like Vans parents went on answering Tucker's questions for a while but then the things they said started tipping us into the Twilight Zone difficult toddler van went away and was replaced by a young child with lots of unusual thoughts take bath time for instance bath time you get your van upset about this thing or that thing bedtime looming but now that time you came as mysterious as the Open Seas"
+    ],
+    [
+      0.9322442412376404,
+      " Anything Could Happen he was in the bathtub one time and we had the styrofoam letters and he's like I'm just going to spell out my name Brian Trust"
+    ],
+    [
+      0.9412303566932678,
+      " Brian truss according to Van that had a whole other family yeah John was my brother and I have a sister named Kiki and we had a cat named Claude from inside their son who by the way couldn't even really right yet this other human life emerged detail by detail"
+    ],
+    [
+      0.9689905643463135,
+      " van would be sitting by himself watching TV and suddenly the strange memory would pop out on my dad's dead that's what I was and I was like what I like dad is at work what are you talking about and he's like no no my other dad my other dad is dead and he lives on ok-9 you know any sleep repeat after me Mom oh okay 900 ok-9 what part of his old address or something maybe there's an Oklahoma State Highway 9 maybe I drove by the spot where I don't know where it happened I don't know something like that like I could have happened like that and Bandon seem to be only tapping into Bryant Russ sometimes it felt like he was able to tune into his own parents spy on the thoughts going through their heads"
+    ],
+    [
+      0.9615273475646973,
+      " I was dozing off he was next to me and we were in our room and it was like you know when you're having a sort of half awake half asleep. You may be the gym where you like fall off a cliff when you wake up cuz you jump up but this was really just not interesting of just me walking down a hallway and I was walking down the hallway and he was in front of me and then we got to the kitchen I woke up and he was asleep and then the next morning when he woke up he asked me where did you go last night in my dream we were in the kitchen together and then you disappeared"
+    ],
+    [
+      0.9439674019813538,
+      " NPR invisibilia will be back after the break"
+    ],
+    [
+      0.9519442915916443,
+      " support for this podcast in the following message come from ExxonMobil the company that believes that carbon capture Technologies are critical for lowering Global CO2 emissions and more and more scientists agree as a leader in capturing emissions and its own operations ExxonMobil is working on ways to make this technology more efficient and affordable for other Industries as well that's the unexpected energy of Exxon Mobil find out more energy Factor dicom"
+    ],
+    [
+      0.9429969787597656,
+      " hey there it's Hannah Rosen before we continue to show we just want to shout out our friends over at shortwave and PR is New Delhi signs podcast they just launched their interested in all the cool stuff happening in the world around us and they explored every weekday around 10 minutes at a time so stick around after the show for special sample of shortwave"
+    ],
+    [
+      0.9747822284698486,
+      " welcome back to NPR invisibilia when we left off Vans parents were counting the curious things that their four-year-old son says it is a strange story but the reason that we started looking into it in the first place is because you're at invisibilia we've been interested in theories about Consciousness for a very long time and these memory cats are kids like van a kind of a side door into that issue here is Hannah okay so the backup Consciousness is just this awareness we have ourselves every minute and yet no philosopher or scientist has ever managed to explain it and there's a huge unresolved debate about what it is and where it comes from most scientists think it's a product of our brains and our bodies"
+    ],
+    [
+      0.9679936170578003,
+      " the Tucker the professor from UVA who's been following these memory catcher cases he is an outlier review he thinks that if the kids are really catching other people's memories then it raises the possibility the Consciousness sticks around after we die that there are these stray Bits Of Consciousness floating out there outside our bodies that's a big if but that's what he thinks I don't think we can map these onto just a materialistic understanding that reality where matter is all there is and in our brains produce our Consciousness in the brain dies Consciousness dies and visit these run counter to that"
+    ],
+    [
+      0.9553388953208923,
+      " so that's the reason we followed him down the staff in the first place but pretty quickly we realized there was probably a simpler explanation for what was happening with man because sometimes when we were talking with fans parents they would make even ordinary things sound weird like they experienced every little thing Band-Aids for the filter of his memory caching powers and through his channeling of Brian dress like wrestling with fans little brother release really the kind of moves you'd expect from a four-year-old specific moves everything became a trust did Van make a weird joke must be an okay 9 thing did he get lucky at the fair in the dark must be because of Brian trust he's never even held a dark before I had to show him how to hold it and then he was just like I don't like this and like through it like just pop this little tiny balloon"
+    ],
+    [
+      0.9756273627281189,
+      " and let's be honest walking around the county fair with your kid is kind of fun"
+    ],
+    [
+      0.9680964946746826,
+      " but walking around the county fair with your kid who has Supernatural tiny balloon busting Powers transferred across the time-space Continuum that is really fun"
+    ],
+    [
+      0.9674811363220215,
+      " and so I wondered could it be possible that Vans parents were leaving so hard into these weird memories just to distract themselves from dealing with a difficult toddler I asked them and they definitely had that thought themselves I remember thinking like oh my God this is all that I'm going to want to talk to Dan about now they're going to think about this every time I talk to him like that's not fair to him to their son like he was a voice from the cosmos gone the way of turning into their actual son the four-year-old cuz I know just wanted to like keep asking him questions I wanted to know more until I was just trying to space it out and get it I will only ask him and I are only asking when we're in the car ride and why do you think it occupied you like that cuz it's the craziest thing to think about like this kid that I know came out of my body that I know you don't we can see if together like we could have been somebody else that lived who-knows-where who knows when"
+    ],
+    [
+      0.9455044865608215,
+      " it almost had me questioning like dude still make him our kid"
+    ],
+    [
+      0.8339865207672119,
+      " and then one day van said something that brought them back so you guys and I told you"
+    ],
+    [
+      0.9426863789558411,
+      " of course Van being van eeden just keep it brief and general like that you told him exactly how it happened at some sort of pick your parent pop-up shop want you kids they're all my brothers and sisters and he's like there's a thousand of them and it was black and then I saw you guys and I told you"
+    ],
+    [
+      0.9169718027114868,
+      " ever since and was born his dad at a little seat of alienation from his son first and last fussing and the difficult toddler phase But Wings and told him about the parents Tour all those doubts melted away"
+    ],
+    [
+      0.915655791759491,
+      " is everything the new job the million times list tasks of being a parent all fell into place"
+    ],
+    [
+      0.9344739317893982,
+      " it's like how some parents feel that their babies first smile he is mine I am his his dad finally felt that completely"
+    ],
+    [
+      0.8703081607818604,
+      " people are desperate for me that's right for them and liked it. I can't imagine it's like any other hair color"
+    ],
+    [
+      0.9305246472358704,
+      " she's like a perfect mix of"
+    ],
+    [
+      0.9497868418693542,
+      " Spider-Man after a while then came back from swimming and we drifted into the playground which was scattered with toy trucks vans mom took out a box with a map of Oklahoma State Highway 9 actually is a Road in Oklahoma to see if cuz there's a look at the map I wanted to manufacturing Erie moment to catch on tape"
+    ],
+    [
+      0.9685984253883362,
+      " but after a few minutes is Mahmoud already forgotten about it and then had moved on he was busy climbing on his dad's back looking at Turtles on YouTube it occurred to me the weather or not Professor Tucker finds evidence of a brine for us who once lived in Oklahoma his visit already served a useful purpose he could take on the obsession and all its literal detail and Mom and Dad could get back to raising van more present with him now to be like oh this is it like this is what we have right now"
+    ],
+    [
+      0.9470705986022949,
+      " invisibilia is hosted by me Hannah Rosen and Elise Spiegel our show is edited by an gudenkauf and executive producer is carrot a low this episode was produced by David good Hearts chiamaka Natty's and Abby wendle invisibilia is also produced by yogesh Shah a project manager is Lantus enstrom we also had help from Oliver Wang Alex Stetson fact-checking by Jameson Pfeiffer are technical director is Andy huether and our senior vice president of programming is Anya grundmann"
+    ],
+    [
+      0.949805498123169,
+      " special thanks to Mark memmott Michael Ratner Emily Bogle Carmel Roth Jeff krypell Ed Kelly Duncan Tyler and a marjoram Z music for this episode provided by Jonathan Barlow additional music from Blue. Sessions"
+    ],
+    [
+      0.963080108165741,
+      " let me introduce you to carine Chen McLaughlin she's a social worker who smoked for decades she's tried to quit a lot like 20 or 30 times but nothing ever stuck and then she heard about this clinical trial using something a little unusual to treat smoking addiction"
+    ],
+    [
+      0.9019668698310852,
+      " psilocybin the singing magic mushrooms that makes you trip"
+    ],
+    [
+      0.9612569212913513,
+      " and that's how a grandma from Baltimore ended up on a couch at Johns Hopkins University"
+    ],
+    [
+      0.9583005309104919,
+      " High out of her mind I took the pill about quarter to 9 I think and then about a half hour to 40 minutes and started floating and I said things are starting to look strange so I close my eyes at that point and I pretty much kept my eyes closed until the very end but the biggest part and I even get nervous when I talk about it now is how scary the whole experience was the overwhelming feeling I had was fear"
+    ],
+    [
+      0.9129732847213745,
+      " I saw monsters I saw aliens I had these big gray puffy clouds I kept thinking in from the ceiling and I thought I was going to suffocate"
+    ],
+    [
+      0.9157916307449341,
+      " and I spent most of my time crying sobbing not talking a whole lot because apparently what everyone goes through is pretty much in your head"
+    ],
+    [
+      0.9650450348854065,
+      " did Koreans trip work and what's the science behind a psilocybin trip anyways listen to shortwave to find out just hit that little subscribe button wherever you listen to your podcast"
+    ]
+  ]
+}
