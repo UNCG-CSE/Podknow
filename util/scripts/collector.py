@@ -354,7 +354,7 @@ def collectProcess(transcribeMethod):
     if transcribeMethod == "googlecloud":
         for id in idsToDownload:
 
-            today = str(date.today())
+            today = "2019-10-30"
             transcriptionPath = gcTranscriptPath + today + '\\' + str(id)+".flac_output.txt"
             if os.path.exists(transcriptionPath):
                 print("The transcription exists, skipping...")
