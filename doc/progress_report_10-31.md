@@ -3,6 +3,13 @@
 
 **Vincent Yang**
 Tasks: 
+My task includes reading for all the transcripts Json generated from teammate Jamie.
+Correct each one of the top 90 scripts into correct json format.
+My work also include using ipython notebook to calculate the basic stats for the cost of each cost. 
+Mean, variance, std, measures of spread and quantil.
+Find out the best distribution based on using MOM and KDE.
+Link to work :https://github.com/UNCG-CSE/Podknow/blob/master/util/scripts/VincentScripts/apiStatistics.ipynb
+
 
 **Jeremy Hudson**
 Tasks: Topic modeling using bigrams and statistical analysis using bigram data
