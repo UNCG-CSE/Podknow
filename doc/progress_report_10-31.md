@@ -63,6 +63,7 @@ Tasks:-
 2)LSA on the podcast
 The main goal for this part of my project is to link the statistic and patterns observed with the topic model i am applying.
 Task #1
+Hours spent :- more than 10 hours
 Statistics and patterns observed/ word modelling:
 1)frequency distribution of words across all podcasts.
 2)frequency distributions of word across each of the podcasts.
@@ -83,8 +84,11 @@ Observation made is most of the  words whose frequency is high or near the mean,
 Hence this does not help us differentiate the  podcast wiht one other , or give us any particualr topic.
 On the other hand the words after standard deviation seems to give soem context when compared with other podcasts.
 This leads us to TF-IDF which is the core logic of LSA,leading me to my next task LSA.
+
+
+
 Task #2:-
-Number of hours spent:- more than 10 hours
+Number of hours spent:- more than 15 hours
 LSA or Latent Semantic analysis is  one of the most foundation methods of topic modelling.
 Procedure followed in the following:-
 1)LSAappliedOnAllPodcasts :- this file shows the LSA model applied on all the podcasts.
