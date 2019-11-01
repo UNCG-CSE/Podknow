@@ -73,6 +73,7 @@ Trying to perform hypothesis testing with respect to this distribution which is 
 4) fitting the poisson's distribution:-
 Looking at the graph and looking at my values i have decided to use the poisson distribution as  both word freuency and count of words is discrete hence using this distribution.Poisson distribution nearly fits my data.
 https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/statistics%20visualization%20word%20modelling%20-1.ipynb
+
 Results:-
 Observations Made:-
 The mean and frequency is around 3 in most of the cases(may vary at times).
@@ -89,6 +90,10 @@ Procedure followed in the following:-
 1)LSAappliedOnAllPodcasts :- this file shows the LSA model applied on all the podcasts.
 2)coherence score vs number of topics which plays an important part in lsa. 
 3)working on visualization of result
+
+https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/TfIDf_SVD.ipynb
+https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/LSAappliedOnAllPodcasts.ipynb
+
 Results:-
 Observation made:-
 1)LSA is combination of tf-idf + SVD, where a document matrix is formed and we set the number of topics  we want the result to appear.This can be determined by the coherence graph.
