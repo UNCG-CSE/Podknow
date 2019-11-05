@@ -23,8 +23,12 @@ https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/gramTopicModeling.
 The following notebook was my successful result at topic modeling using bigram data from the NLTK and topic modeling using an LDA model.
 https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/NLTKGensimHybrid.ipynb
 
+
+The following notebook was my successful attempt at calculating hellinger distance between topics using LDA models:
+https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/HellingerCalculator.ipynb
+
 I would approximate that I spent around twenty hours designing, modifying and experimenting with notebooks for my first task.
-My first task included topic modeling with the use of bigrams. To achieve this, I attempted to use LDA topic modeling in combination with another topic modeling library called Gensim to generate bigrams, then feed the bigrams into my LDA model to perform topic analysis. However, it would consistently generate a single topic even though my model parameters were set to generate more than that. To combat this, I attempted to generate bigrams using the Natural Language Toolkit, then generate the topics using the LDA model with these new bigrams as input data. This new approach worked successfully. 
+My first task included topic modeling with the use of bigrams. To achieve this, I attempted to use LDA topic modeling in combination with another topic modeling library called Gensim to generate bigrams, then feed the bigrams into my LDA model to perform topic analysis. However, it would consistently generate a single topic even though my model parameters were set to generate more than that. To combat this, I attempted to generate bigrams using the Natural Language Toolkit, then generate the topics using the LDA model with these new bigrams as input data. This new approach worked successfully. Finally, I computed the hellinger distance between topics after building the model.
 
 The following notebook was a modification of my NLTKGensimHyrid notebook that prints the mean of the occurrences of the top 10 collocations for a given podcast. 
 https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/MeanOfBigramQuantity.ipynb
