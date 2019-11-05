@@ -54,8 +54,70 @@ Approx 6 hours
 
 **Christopher Edgecombe**
 Tasks: 
+Title vs Content Notebook
+https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/titledataframe.ipynb
+Time Spent: 7 hours
 
+-We obtained many useful results from this notebook. To begin with, we have the pandas dataframe columns for size of the title as well as the unique words that were mentioned in the podcasts. We also have the basic statistics on the list of values which was obtained via a simple describe function. This notebook also graphs the number of times we found a certain number of words in the content of the podcast and fits a normal distribution to this graph. We also test a hypothesis related to the mean number of words found in both the title and the podcast, and receive a p-value for a one sample z-test. Correlation between title length and words from the title being present in the content is also obtained. 
+
+LDA Topic Modeling (Words)
+Time Spent: 15 Hours (Still in Progress)
+
+-The goal of this notebook is to find the overarching word topics of the scrubbed text and visualize them for the user. This notebook uses pyLDAvis in order to display each topic with the relevant keywords that makeup this topic. The data is cleaned before being placed into an LDA model. Coherence score is also checked to find the most accurate number of topics for the scrubbed text data. I would like to integrate this with the aforementioned notebook so that the titles can be checked against key topics/words instead of scrubbed text as a whole.
+ 
 
 **Harini Booravalli**
-Tasks: 
+Harini Booravalli Suresh
+Tasks:-
+1)Statistics and patterns observed/ word modelling
+2)LSA on the podcast
+The main goal for this part of my project is to link the statistic and patterns observed with the topic model i am applying.
+Task #1
+Hours spent :- more than 10 hours
+Statistics and patterns observed/ word modelling:
+1)frequency distribution of words across all podcasts.
+2)frequency distributions of word across each of the podcasts.
+3)Fitting zipf law( zeta distribution for the frequency of words). 
+This distribtution has generally been used for all the word modelling and word frequnecy analysis. 
+Results showed it fits the zeta distribution.
+Trying to perform hypothesis testing with respect to this distribution which is still in progress.
+4) fitting the poisson's distribution:-
+Looking at the graph and looking at my values i have decided to use the poisson distribution as  both word freuency and count of words is discrete hence using this distribution.Poisson distribution nearly fits my data.
+https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/statistics%20visualization%20word%20modelling%20-1.ipynb
+
+Results:-
+Observations Made:-
+The mean and frequency is around 3 in most of the cases(may vary at times).
+Hence i have considered few podcasts and looked into the words with that have highest word frequency.
+I have also considered the tail end of the poisson distribtuion and looked into few words.
+Observation made is most of the  words whose frequency is high or near the mean, are common across other podcasts.
+Hence this does not help us differentiate the  podcast wiht one other , or give us any particualr topic.
+On the other hand the words after standard deviation seems to give soem context when compared with other podcasts.
+This leads us to TF-IDF which is the core logic of LSA,leading me to my next task LSA.
+
+
+
+Task #2:-
+Number of hours spent:- more than 15 hours
+LSA or Latent Semantic analysis is  one of the most foundation methods of topic modelling.
+Procedure followed in the following:-
+1)LSAappliedOnAllPodcasts :- this file shows the LSA model applied on all the podcasts.
+2)coherence score vs number of topics which plays an important part in lsa. 
+3)working on visualization of result
+
+https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/TfIDf_SVD.ipynb
+https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/LSAappliedOnAllPodcasts.ipynb
+
+Results:-
+Observation made:-
+1)LSA is combination of tf-idf + SVD, where a document matrix is formed and we set the number of topics  we want the result to appear.This can be determined by the coherence graph.
+2) there are 2 ways  of getting the document term matrix and they are count vectorization and tf-idf vectorization. Count vectorizer is just the count of words and  is too basic and doesn't give proper results due to the fact that there can be many words across all podcasts with high frequency. our goal is to find the words which differentiates the topic.
+TF-IDF considers the word with high frequency in the particualr document and low frequency in other documents, thus giving us the words which make the difference.
+3) Visualization is a huge problem and making sense of result is tough, as result contains words with its tf-idf scores.
+4)one  major disdavantage i have noticed in lsa is each topic is made of words with its absolute value, this leads to common words wiht different topics.
+for examples:-
+if we had word called apple and tf-idf score of apple in topic1 is +0.8 and in topic2 -0.7, then apple clearly can be used to differentiate between the topic1 and topic2, but when we form the lsa model , apple might appear in both topic1 and topic2, as the model counts the absolute value of apple.
+5)Overall i find the LSA model , not very efficient , as it doesn't give clarity , and does a very poor job in seperating the  topic by looking at the sample results.
+Though i understand the LSA topic modelling, i would defintely like to look into other efficient models for topic modelling.
+
 
