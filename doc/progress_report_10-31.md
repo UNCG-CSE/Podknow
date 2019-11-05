@@ -54,7 +54,17 @@ Approx 6 hours
 
 **Christopher Edgecombe**
 Tasks: 
+Title vs Content Notebook
+https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/titledataframe.ipynb
+Time Spent: 7 hours
 
+-We obtained many useful results from this notebook. To begin with, we have the pandas dataframe columns for size of the title as well as the unique words that were mentioned in the podcasts. We also have the basic statistics on the list of values which was obtained via a simple describe function. This notebook also graphs the number of times we found a certain number of words in the content of the podcast and fits a normal distribution to this graph. We also test a hypothesis related to the mean number of words found in both the title and the podcast, and receive a p-value for a one sample z-test. Correlation between title length and words from the title being present in the content is also obtained. 
+
+LDA Topic Modeling (Words)
+Time Spent: 15 Hours (Still in Progress)
+
+-The goal of this notebook is to find the overarching word topics of the scrubbed text and visualize them for the user. This notebook uses pyLDAvis in order to display each topic with the relevant keywords that makeup this topic. The data is cleaned before being placed into an LDA model. Coherence score is also checked to find the most accurate number of topics for the scrubbed text data. I would like to integrate this with the aforementioned notebook so that the titles can be checked against key topics/words instead of scrubbed text as a whole.
+ 
 
 **Harini Booravalli**
 Harini Booravalli Suresh
