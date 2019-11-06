@@ -110,7 +110,11 @@ Procedure followed in the following:-
 3)working on visualization of result
 
 https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/TfIDf_SVD.ipynb
-https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/LSAappliedOnAllPodcasts.ipynb
+https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/LSAappliedOnAllPodcasts.ipynb'
+
+4) Hypothesis testing :- testing if the the words common in similar sized files have same kind of distributions.
+   In other  words,frequency distribution of common words is dependent on the size of the podcast
+   https://github.com/UNCG-CSE/Podknow/blob/master/src/notebooks/hypothesistesting1.ipynb
 
 Results:-
 Observation made:-
