@@ -5,7 +5,15 @@
 Tasks: 
 
 **Jeremy Hudson**
-Tasks:
+Tasks: LDA model using bigrams – Compare and contrast results of bigram models with models built using the entire corpus 
+
+Ask the question: “How do bigram models compare with models built from the whole corpus?” to determine nuances and greater details in topics.
+
+To answer this question, I built an LDA model from exclusively bigram input to provide a greater clarity into the topics discussed, as many topics can be more accurately represented using word pairs. 
+
+The outcome provided greater insight into the topics discussed by giving additional nuance that single words did not provide. 
+The implications of these results will allow us to more accurately determine topics discussed by analyzing bigrams. 
+
 
 **Jamie Weathers**
 Tasks: 
