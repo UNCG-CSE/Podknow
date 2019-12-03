@@ -40,11 +40,18 @@ The question "to extract the topics in all the podcasts"? " to find similarity b
 
 Latent Semantic Analysis (LSA) is a framework for analyzing text using matrices.It finds  relationships between documents and terms within documents. scikit learn , a  Python library for doing machine learning, feature selection, etcA simple way to add structure to text is to use a document-term matrix.Once we have the document term matrix, we apply lsa(Combination of Countvectorizer/Tf-IDF +SVD).The result gives us the topics . Once we receive the document term matrix we use LSa and set the topics count to 160 based on coherence scores.
 Hence we have 160 topics . our final output is matrix of 193 podcast * 160 topics. this matrix can be further utilized as input for clustering ,getting similarity between the podcasts.
-In this cae i have applied the result to get the similairty between the podcasts.
-The corresponding code can be found at:-'"https://github.com/UNCG-CSE/Podknow/blob/0b30975c7445d6f38d4f6273f8aa8f9006d09cb6/src/notebooks/lsamodel_final.ipynb"
+In this case i have applied the result to get the similairty between the podcasts.
+Further the same matrix will give us information about  each podcasts and the the topics in the podcasts.
 
-Few points here:- LSA model does a good job, inspite of using bag of words but not a great job due to few reasons, doc term matrix is a large but sparse matrix where as the once th emodel is applied the model becomes dense. SO when the data is huge the space taken is much more and makes the system slower.
-secondly , couldn't find great material  on visualization of lsa. Most people prefer doing  LDA or word embedding. Having said that its defintely a decent model for getting topics in this case. 
+The corresponding code can be found at:-'
+"https://github.com/UNCG-CSE/Podknow/blob/0b30975c7445d6f38d4f6273f8aa8f9006d09cb6/src/notebooks/lsamodel_final.ipynb"
+
+Few points here:- LSA model does not do a great job due to few reasons, doc term matrix is a large but sparse matrix where as the once the model is applied the model becomes dense. SO when the data is huge the space taken is much more and makes the system slower.
+secondly , couldn't find great material  on visualization of lsa. Most people prefer doing  LDA or word embedding.
+Thridly, Bag of words , it doesnt take into consideration  about the position of the word in the sentence hence context goes missing.
+Having said that  inspite of all the disavantages mentioned, its defintely a decent model for getting topics in this case. 
+
+One important observation here , is SVD acts similar to PCA, by reducing the dimentinality of the matrix . 
 
 Result :- 160 topics obtained , a topic similarity matrix was produced.(Working on clustering and improving this model)
 
