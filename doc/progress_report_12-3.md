@@ -16,7 +16,11 @@ The implications of these results will allow us to more accurately determine top
 
 
 **Jamie Weathers**
-Tasks: 
+Tasks: Random Forest Regression Model - Predict outcome of confidence scores of a transcript based on it's word count.
+
+The question: Can we predict the confidence score of a transcription based on the word count?
+
+I trained a random forest regression model using 1600 samples of word count : confidence score data. Testing the word counts with the remaining 400 samples, we can see a clear trend that resembles the original plotted output. It's hard to predict confidence scores lower than 0.80 and we cannot predict that samples with lower word count can also produce very high confidence scores. A different methodology may be required.
 
 **Christopher Edgecombe**
 Tasks: LDA Model for Words - LDA Model for Words Using SciKit - Categorization of Topics (In Progress)
