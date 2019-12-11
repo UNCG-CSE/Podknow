@@ -10,7 +10,29 @@
 
  **Instructor** [Dr. Somya Mohanty](https://github.com/somyamohanty)
 
- ## Requirements
+ ## Goals
+- Determine what topics are popular within the top 200 podcasts on iTunes 
+- Acquire the raw text of the podcast
+- Performing natural language processing on the text
+- Determine best method of topic modeling
+     
+ ## Tasks
+  - ``Jeremy Hudson``
+     - 
+  - ``Jamie Weathers``
+     - 
+  - ``Kun Yang``
+     -
+  - ``Christopher Edgecombe``
+     - 
+  - ``Harini Booravalli``
+     - 
+     
+ ## Results Obtained 
+
+
+     
+ ## Software Requirements
 **Required modules:**
   - ``pip install pandas``
      - Useful for various data scrubbing functionality.
@@ -20,9 +42,9 @@
   - ``pip install nltk``
      - Used to provide text analysis.
      - All NLTK data will also need to be imported.
-     - Data Install guide: https://www.nltk.org/data.html
-
-**Required libraries:**
+     - Data Install guide: https://www.nltk.org/data.html     
+     
+ **Required libraries:**
   - FFmpeg
      - This library is an audio encoder/decoder that's needed for the operation of the pydub module.
      - Windows Setup guide: http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/
