@@ -17,16 +17,41 @@
 - Determine best method of topic modeling
      
  ## Tasks
+ 
+   **Task by Person:**
   - ``Jeremy Hudson``
-     - 
+     - Acquired data from Google Speech to Text API 
+     - Experimented with different speech to text engines (PocketSphinx and Google Speech to Text API)
+     - Topic modeling using Gensim LDA models 
+     - Determined similarity between topics using Hellinger distance
+     - Built LDA models from bigrams and performed statistical analysis on them 
+     
   - ``Jamie Weathers``
-     - 
+     - Developed a program using Google Speech to Text API to transcribe all podcasts at once 
+     - Developed a web scraper to download latest episode audio from PodBay.fm
+     - Performed statistical analysis from Transcription Data
+     - Generated a random forest regression from sample podcast data 
+     
   - ``Kun Yang``
-     -
+     - Acquired data from Google Speech to Text API 
+     - Acquired data from iTunes RSS API to get current top 200 podcasts 
+     - Developed an automated audio converter and an automated file uploader to Google Cloud
+     - Performed statistical analysis on Google Speech to Text pricing 
+     - Used linear regression to find trending words 
+     
+      
   - ``Christopher Edgecombe``
-     - 
+     - Acquired data from Google Speech to Text API 
+     - Used the Natural Language Toolkit to remove stopwords and generate pickled output files for language processing 
+     - Used SciKit and Gensim LDA models to perform topic modeling for the entire corpus
+     - Determined frequency of topic discussion vs content in podcast title 
+     
   - ``Harini Booravalli``
-     - 
+     - Acquired data from Google Speech to Text API 
+     - Data analysis and preprocessing 
+     - Used LSA for Topic Modeling
+     - Analyzed statistics for LSA models with single words 
+     - Formed a Topic Similarity Matrix from LSA results 
      
  ## Results Obtained 
 
