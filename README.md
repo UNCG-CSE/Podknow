@@ -20,7 +20,7 @@
  
    **Task by Person:**
   - ``Jeremy Hudson``
-     - Acquired data from Google Speech to Text API 
+     - Setup Google Speech To Text API
      - Experimented with different speech to text engines (PocketSphinx and Google Speech to Text API)
      - Topic modeling using Gensim LDA models 
      - Determined similarity between topics using Hellinger distance
@@ -54,7 +54,28 @@
      - Formed a Topic Similarity Matrix from LSA results 
      
  ## Results Obtained 
+**Results by Person:**
+  - ``Jeremy Hudson``
+  
+     - Successfully acquired data from Google Speech to Text API 
+     - Successfully implemented Gensim LDA models for topic modeling using data from NLTK tokenization  
+     - Successfully designed a notebook to find similarity between topics in Gensim LDA models using Hellinger distance
+     - Successfully built LDA models from NLTK bigram data and performed statistical analysis on them 
+     
+  - ``Jamie Weathers``
+     - 
 
+     
+  - ``Kun Yang``
+     - 
+
+      
+  - ``Christopher Edgecombe``
+     - 
+
+     
+  - ``Harini Booravalli``
+     -
 
      
  ## Software Requirements
