@@ -71,7 +71,9 @@
 
       
   - ``Christopher Edgecombe``
-     - 
+     - LDA Models for words using SciKit.
+     - Visualization of these models using pyLDAvis as well as other visulization techniques.
+     - Basic statistics on Title vs. Podcast Content.
 
      
   - ``Harini Booravalli``
