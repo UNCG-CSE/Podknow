@@ -75,7 +75,11 @@
 
      
   - ``Harini Booravalli``
-     -
+- As a part of statistical analysis I was able to fit in the poisson’s distribution to the podcast data .
+- Successfully able to apply LSA model on the podcasts data and 160 topics were obtained.
+- Explored Tf and Tf-IDF methods on few of the single podcasts and on all the podcasts.
+- Successfully able to determine the Similarity between the podcasts using the results of LSA model.
+
 
      
  ## Software Requirements
