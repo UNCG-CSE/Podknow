@@ -70,7 +70,11 @@
 
      
   - ``Kun Yang``
-     - 
+     - Generated top 200 podcasts list from iTunes.
+     - Created stereo track splitter to mono tracks.
+     - Analyzed audio length vs. Cost.
+     - Preformed machine learning on trending words based on bag of words
+
 
       
   - ``Christopher Edgecombe``
