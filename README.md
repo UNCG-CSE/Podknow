@@ -63,7 +63,10 @@
      - Successfully built LDA models from NLTK bigram data and performed statistical analysis on them 
      
   - ``Jamie Weathers``
-     - 
+     - Developed Podbay.fm web scraper
+     - Developed data collection tool which downloads, converts and transcribes audio in one cohesive flow.
+     - Performed analytics on Audio Length and Confidence Scores associated with transcript segments.
+     - Trained a random forest regression on confidence scores explained by word count of transcript segments.
 
      
   - ``Kun Yang``
